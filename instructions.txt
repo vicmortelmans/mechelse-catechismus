@@ -1,0 +1,196 @@
+"run inside vim with ':source instructions.txt'
+":g/^[\w]*$/d "delete all lines that contain only whitespace
+:%s/^\s\+$//g "empty lines that only contain whitespace
+:%s/-\n\(\w\)/\1/g "join all lines ending with word-break
+:%s/\(\w\)\n\(\w\)/\1 \2/g "join all lines that continue on the next line
+:%s/ zijner / van zijn /g 
+:%s/wezentlijk/wezenlijk/g
+:%s/zijne /zijn /g
+:%s/bijzonderlijk/in het bijzonder/g
+"sch -> s
+:%s/Joodsche/joodse/g
+:%s/mensch/mens/g
+:%s/Mensch/Mens/g
+:%s/tusschen/tussen/g
+:%s/ vereischt/ vereist/g
+:%s/Roomsch/Rooms/g
+:%s/valsch/vals/g
+:%s/Protestantsche/Protestantse/g
+:%s/Anglikaansche/Anglikaanse/g
+:%s/des vleesches/van het lichaam/g
+:%s/vleeschel/vlesel/g
+:%s/vleesch/vlees/g
+"
+:%s/ den / de /g
+:%s/alleenlijk/uitsluitend/g
+:%s/ :/:/g
+:%s/eeuwiglijk/eeuwig/g
+:%s/bepaaldelijk/specifiek/g
+:%s/ zelven / zelf /g
+:%s/ zoo / zo /g
+:%s/zoowel/zowel/g
+:%s/Zoo /Zo /g
+:%s/ zijns / van zijn /g
+:%s/ leering/ leer/g
+:%s/ leeren/ leren/g
+:%s/ Leering/ Leer/g
+:%s/getrouwelijk/trouw/g
+:%s/ der / van de /g
+:%s/oogen/ogen/g
+:%s/gelooven/geloven/g
+:%s/ eene / een /g
+:%s/ Eene / een /g
+:%s/ de ééne / de ene /g
+:%s/ ééne / één /g
+:%s/ éénen / één /g
+:%s/ ééner / één /g
+:%s/ eener / van een /g
+:%s/ geene / geen /g
+:%s/ eenen / een /g
+:%s/ geenen / geen /g
+:%s/ slach / slag /g
+:%s/tempeesten/boze geesten/g
+:%s/ dooden / doden /g
+:%s/ hare / haar /g
+:%s/teeken/teken/g
+:%s/ - / – /g
+:%s/ t / 't /g
+:%s/Veropenbaring/Openbaring/g
+:%s/Christene mensen/Christenen/g
+:%s/ dien / die /g
+:%s/weinigen tijd/weinige tijd/g
+:%s/ drij / drie /g
+:%s/Drijvuldigheid/Drievuldigheid/g
+:%s/geloovigen/gelovigen/g
+:%s/zooals/zoals/g
+:%s/zooveel/zoveel/g
+:%s/dewijl/daar/g
+:%s/lichaam des mensen/menselijk lichaam/g
+:%s/des Doopsels/van het Doopsel/g
+:%s/des Heiligen Kruises/van het Heilig Kruis/g
+:%s/des H. Kruises/van het H. Kruis/g
+:%s/des herten/van het hart/g
+:%s/des Vaders/van de Vader/g
+:%s/des Zoons/van de Zoon/g
+:%s/des Heiligen Geestes/van de Heilige Geest/g
+:%s/des H. Geestes/van de H. Geest/g
+:%s/des Geloofs/van het Geloof/g
+:%s/des verstands/van het verstand/g
+:%s/vleselijke wellusten/lichamelijke wellusten/g
+:%s/vlees en bloed/lichaam en bloed/g
+:%s/slinke hand/linkerhand/g
+:%s/slinke zijde/linkerzijde/g
+:%s/slinke kant/linkerkant/g
+:%s/ slinke / linkse /g
+:%s/rechte hand/rechterhand/g
+:%s/rechte zijde/rechterzijde/g
+:%s/rechte kant/rechterkant/g
+:%s/geheele/hele/g
+:%s/deelen/delen/g
+:%s/groote/grote/g
+:%s/des duivels/van de duivel/g
+:%s/ te recht/ terecht/g
+:%s/ te zamen/ samen/g
+:%s/weerdig/waardig/g
+:%s/daarmede/daarmee/g
+:%s/rechtveerdig/rechtvaardig/g
+:%s/telkenmale/telkens/g
+:%s/ hert/ hart/g
+:%s/handtrekkingen/gebaren/g
+:%s/b\. v\./b.v./g
+:%s/d\. i\./d.i./g
+:%s/d\. w\. z\./d.w.z./g
+:%s/zóó/zó/g
+:%s/weerde/waarde/g
+:%s/ min / minder /g
+:%s/zekerlijk/met zekerheid/g
+:%s/vastelijk/vast/g
+:%s/aanveerden/aanvaarden/g
+:%s/onfaalbaar/onfeilbaar/g
+:%s/eeniegelijk/iedereen/g
+:%s/hunne/hun/g
+:%s/grotelijks/ernstig/g
+:%s/veropenbaarde/geopenbaarde/g
+:%s/veropenbaard/geopenbaard/g
+:%s/veropenbaren/openbaren/g
+:%s/veropenbaringen/openbaringen/g
+:%s/gekruist/gekruisigd/g
+:%s/Heiligen Geest/Heilige Geest/g
+:%s/looner/loner/g
+:%s/ zijnen / zijn /g
+:%s/des hemels/van de hemel/g
+:%s/des lichaams/van het lichaam/g
+:%s/des Tempels/van de Tempel/g
+:%s/des Symbolums/van het Symbolum/g
+:%s/des persoons/van de persoon/g
+:%s/des kruises/van het kruis/g
+:%s/des jaars/van het jaar/g
+:%s/des firmaments/van het firmament/g
+:%s/des Priesterdoms/van het Priesterschap/g
+:%s/des vagevuurs/van het vagevuur/g
+:%s/des Vagevuurs/van het Vagevuur/g
+:%s/des antwoords/van het antwoord/g
+:%s/des konings/van de koning/g
+:%s/des levens/van het leven/g
+:%s/des Engels/van de Engel/g
+:%s/des rijks/van de staat/g
+:%s/des naasten/van de naaste/g
+:%s/des priesters/van de priester/g
+:%s/des Gebods/van het Gebod/g
+:%s/des gebods/van het gebod/g
+:%s/des Bisdoms/van het Bisdom/g
+:%s/des middels/van het middel/g
+:%s/des mensen/van de mens/g
+:%s/Schriftuur/Schrift/g
+:%s/schriftuur/schrift/g
+:%s/zoude /zou /g
+:%s/steenen/stenen/g
+:%s/zonderlingen/bijzondere/g
+:%s/zonderlinge/bijzondere/g
+:%s/zonderling/bijzonder/g
+:%s/kettersch/ketters/g
+:%s/Vlaamsch/Vlaams/g
+:%s/Fransch/Frans/g
+:%s/Engelsch/Engels/g
+:%s/Duitsch/Duits/g
+:%s/doode/dode/g
+:%s/Grieksch/Grieks/g
+:%s/Hebreeuwsch/Hebreeuws/g
+:%s/uitleggingen/verklaringen/g
+:%s/noodig/nodig/g
+:%s/gansch/gans/g
+:%s/eigene /eigen /g
+:%s/drijvuldig/drievuldig/g
+:%s/drijvoudig/drievoudig/g
+:%s/geheeten/genoemd/g
+:%s/ ribbe/ rib/g
+:%s/hooveerdig/hoogmoedig/g
+:%s/ mede / mee /g
+:%s/verhooren/verhoren/g
+:%s/ wien / wie /g
+:%s/alzoo/even/g
+:%s/zoodat/zodat/g
+:%s/toonen/tonen/g
+:%s/berooving/beroving/g
+:%s/eischte/eiste/g
+:%s/beleedigde/beledigde/g
+:%s/smert /smart /g
+:%s/dezer/van deze/g
+:%s/bespot/vernederd/g
+:%s/begekt/bespot/g
+:%s/beleediging/belediging/g
+:%s/Romeinsche/Romeinse/g
+:%s/alsdan/toen/g
+:%s/gegeeseld/gegeseld/g
+:%s/valslijk/valselijk/g
+:%s/vreeselijk/vreselijk/g
+:%s/booze/boze/g
+:%s/kruising/kruisiging/g
+:%s/Paaschfeest/Paasfeest/g
+:%s/onzer/van onze/g
+:%s/borsten/barstten/g
+:%s/hemelschen/hemelse/g
+:%s/veerdig/vaardig/g
+:%s/noode/node/g
+:%s/verdeeling/verdeling/g
+:%s/kortbondig/bondig/g

@@ -14,7 +14,7 @@ copy_resources:
 	cp -r $(RESOURCEDIR) $(TARGETDIR)
 
 build/%.html: %.md
-	pandoc -s -c $(RESOURCEDIR)/tufte.css --template=template.html -f markdown -t html5 -o $@ $<
+	pandoc -s -c $(RESOURCEDIR)/tufte.css -c $(RESOURCEDIR)/mc.css --template=template.html -f markdown -t html5 -o $@ $<
 
 clean: 
 	rm -rf $(TARGETDIR)

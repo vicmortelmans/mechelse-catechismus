@@ -5,33 +5,63 @@ subtitle: Van de Christelijke Leer en de mens
 ---
 
 <table>
-<tr><td rowspan=4>De Christelijke Leer</td><td>Haar belang</td><td>Welke is de allerzaligste leer onder alle wetendheden van de wereld?</td></tr>
-<tr><td>Haar natuur</td><td>Welke is de allerzaligste leer onder alle wetendheden van de wereld?</td></tr>
-<tr><td>Haar eerste verkondigers</td><td></td></tr>
-<tr><td>Haar verdeling</td><td></td></tr>
-<tr><td rowspan=3>De mens</td><td>Zijn natuur</td><td></td></tr>
-<tr><td>Zijn einde</td><td></td></tr>
-<tr><td>Zijn plichten t.o.v. dat einde</td><td></td></tr>
+<tr>
+  <td rowspan=4>**De Christelijke Leer**</td>
+  <td rowspan=4 class=accolade></td>
+  <td>Haar belang</td>
+  <td>*[Welke is de allerzaligste leer onder alle wetendheden van de wereld?](#welke-is-de-allerzaligste-leer-onder-alle-wetendheden-van-de-wereld)*</td>
+</tr>
+<tr>
+  <td>Haar natuur</td>
+  <td>*[Wat heet gij de Christelijke Leer?](#wat-heet-gij-de-christelijke-leer)*</td>
+</tr>
+<tr>
+  <td>Haar eerste verkondigers</td>
+  <td>*[Wie heeft de Christelijke Leer eerst in de wereld gebracht?](#wie-heeft-de-christelijke-leer-eerst-in-de-wereld-gebracht)*</td>
+</tr>
+<tr>
+  <td>Haar verdeling</td>
+  <td>*[Hoeveel delen zijn er van de Christelijke Leer?](#hoeveel-delen-zijn-er-van-de-christelijke-leer)*</td>
+</tr>
+<tr>
+  <td rowspan=3>**De mens**</td>
+  <td rowspan=3 class=accolade></td>
+  <td>Zijn natuur</td>
+  <td>*[Wat is de mens?](#wat-is-de-mens)*</td>
+</tr>
+<tr>
+  <td>Zijn einde</td>
+  <td>*[Tot wat einde is de mens geschapen?](#tot-wat-einde-is-de-mens-geschapen)*</td>
+</tr>
+<tr>
+  <td>Zijn plichten t.o.v. dat einde</td>
+  <td>*[Wat is de mens van node om tot zijn einde de komen?](#wat-is-de-mens-van-node-om-tot-zijn-einde-de-komen)*</td>
+</tr>
 </table>
-
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Welke is de allerzaligste leer onder alle wetendheden van de wereld?](#welke-is-de-allerzaligste-leer-onder-alle-wetendheden-van-de-wereld)
-  - [De Christelijke Leer of de Catechismus](#de-christelijke-leer-of-de-catechismus)
-- [Hoeveel delen zijn er van de Christelijke Leer?](#hoeveel-delen-zijn-er-van-de-christelijke-leer)
-  - [Vijf principale, te weten: het eerste, sprekende van het Geloof; het tweede, van de Hoop; het derde, van de Liefde; het vierde, van de Zeven Sacramenten; het vijfde, van de Christelijke Rechtvaardigheid](#vijf-principale-te-weten-het-eerste-sprekende-van-het-geloof-het-tweede-van-de-hoop-het-derde-van-de-liefde-het-vierde-van-de-zeven-sacramenten-het-vijfde-van-de-christelijke-rechtvaardigheid)
-- [Wat is de mens van node om tot zijn einde de komen?](#wat-is-de-mens-van-node-om-tot-zijn-einde-de-komen)
-  - [Dat hij God kenne, God beminne en trouw tot het einde van zijn levens diene](#dat-hij-god-kenne-god-beminne-en-trouw-tot-het-einde-van-zijn-levens-diene)
-    - [Aanmerking](#aanmerking)
-    - [VRAGEN](#vragen)
-
+ 
 # Welke is de allerzaligste leer onder alle wetendheden van de wereld?
 
 ## De Christelijke Leer of de Catechismus
 
-V. **Allerzaligste**, dat is, meest dienstig tot het bekomen van het eeuwig geluk; want in godsdienstige zaken verstaan wij door Zaligheid het eeuwig geluk. - **Wetendheden**, d. i. kennissen.
+V. **Allerzaligste**, dat is, meest dienstig tot het bekomen van het eeuwig geluk; want in godsdienstige zaken verstaan wij door Zaligheid het eeuwig geluk. – **Wetendheden**, d.i. kennissen.
 
+A. De allerzaligste onder alle wetendheden van de wereld is **de Christelijke Leer:** de leer voortkomende van Christus, de tweede persoon van de H. Drievuldigheid, voor ons mens geworden, — **of de Catechismus:** dit woord betekent uit zich zelf niets anders dan leer, maar is algemeen aangenomen om de uitmuntendste aller leren, namelijk, de *Christelijke Leer* aan te duiden.
+
+Aangezien de Christelijke Leer onder al de wetendheden van de wereld de belangrijkste en de voordeeligste is om ons tot de zaligheid te brengen, zo moeten wij ook meer ijveren zorg hebben om de Catechismus, dan om alle andere wetenschappen aan te leren.
+
+# Wat heet gij de Christelijke Leer?
+
+## Het kort begrip van hetgene dat Christus geleerd heeft, en alle Christenen moeten weten of doen om zalig te worden
+
+A. **Het kort begrip:** de bondige inhoud, de bondige verzameling **van hetgene dat Christus geleerd heeft:** van geheel de Openbaring (zie 3ᵉ les, 1ᵉ v.), die de tweede persoon van de H. Drievuldigheid, voor ons mens geworden, in Gods naam aan het mensdom is komen doen. Die Openbaring leert ons hetgene **alle Christenen moeten weten of doen om zalig te worden.**
+
+Men merke hier op: 1° dat niet enkel de *Christenen* verplicht zijn de Christelijke Leer te kennen: *alle* mensen moeten, na de prediking van Christus’ Openbaring gehoord te hebben, Christenen worden, en zó zijn *allen* gehouden de Christelijke Leer te kennen; 2° dat de Catechismus zegt; weten *of* doen, en niet, weten *en* doen, omdat er eenige punten zijn die wij enkel moeten *weten,* b.v.‚ *dat er maar één God is en drie goddelijke personen,* en andere, zoals *eert vader en moeder* die wij moeten *weten* en ook *doen.*
+
+# Wie heeft de Christelijke Leer eerst in de wereld gebracht?
+
+## A. Christus zelf heeft deze eerst geleerd, en de Apostelen hebben ze alom verkondigd
+
+<span class=marginnote><img src="resources/004.JPG"></span>
 A. **Christus zelf heeft deze eerst geleerd**: eerst zijn leer gepredikt, en dan in Palestina, het land van de Joden, omdat het joodse volk, van Abraham’s roep af‚ bestemd was, om zijn komst te bereiden. Hij heeft de goddelijkheid van zijn zending bewezen door menigvuldige voorzeggingen en mirakelen, in het bijzonder door de voorzegging en het mirakel van zijn verrijzenis. De mirakelen en de voorzeggingen, aangezien zij slechts door Gods bijzondere hulp kunnen gedaan worden, zijn noodzakelijk onwederlegbare bewijzen, dat de veropenbaring, voor dewelke zij gedaan worden, wezenlijk van God komt. **En de Apostelen hebben ze alom verkondigd**: *Apostel* wil eigenlijk zeggen *zendeling*, en onder de naam van Apostel verstaat men hier de twaalf geloofszendelingen door Christus gekozen, ook de H. Mathias: in de plaats van Judas aangesteld, en de H. Paulus later, op een buitengewone wijze tot het apostelschap geroepen. Deze hebben dus, na Christus, zijn leer gepredikt, en dat niet uitsluitend in het land van de joden, maar alom, d.i., overal, geheel de wereld dóór.
 
 # Hoeveel delen zijn er van de Christelijke Leer? 
@@ -48,7 +78,25 @@ A. Van de **vijf principale** of voorname delen van de Christelijke Leer spreekt
 
 **Het vierde, van de Zeven Sacramenten:** van de zeven uitwendige middelen die door Christus ingesteld zijn, en ons de hoedanigheden en krachten verschaffen om, gelijk God het vraagt, niet enkel als redelijke schepselen, maar als aangenomen kinderen Gods, in Hem te kunnen geloven, op Hem te kunnen hopen, en Hem te kunnen beminnen;
 
-V. De zin is: waartoe is de mens door God, die hem geschapen A heeft, bestemd ;
+**Het vijfde, van de Christelijke Rechtvaardigheid:** van de staat dergenen die geloven, hopen, beminnen en de HH. Sacramenten ontvangen, gelijk Christus’ leer dat voorschrijft: *Christelijke Rechtvaardigheid* betekent immers die staat, waarin de mens, volgens Christus’ leer, juist zó is gelijk God het wil.
+
+Deze vijf delen zijn zeer natuurlijk met elkander verbonden: immers, om God te dienen, moet men vooreerst Hem kennen, en, om Hem te kennen, moet men, ingeval dat hij een Openbaring gedaan heeft, in Hem geloven; ten tweede, hulp en loon van Hem hopen, want, zonder die hoop, zou men Hem niet kunnen dienen; ten derde, Hem beminnen of metterdaad willen dienen: ten vierde, die hoedanigheden en krachten aanwinnen, die tot zijn dienst vereist zijn; ten vijfde, een goed gedacht hebben van geheel die staat, waarin men God trouw dient, te weten, van de Christelijke Rechtvaardigheid.
+
+# Wat is de mens?
+
+## Een redelijk schepsel Gods, hebbende een onsterfelijke ziel en een sterfelijk lichaam
+
+A. De mens is **een schepsel Gods:** een wezen door God van niet gemaakt; een *redelijk* schepsel Gods: een schepsel Gods met rede en verstand begaafd, en hierdoor overtreft de mens al de andere soorten van aardsche schepselen: de levenlooze dingen, die uitsluitend *zijn;* de planten, die *zijn* en *leven;* en de dieren, die *zijn,* *leven* en *gevoelen;* **hebbende een onsterfelijke ziel en een sterfelijk lichaam:** de mens dus bestaat uit twee delen: 1° uit een onsterfelijke ziel en 2° uit een sterfelijk lichaam.
+
+De *ziel* is een geest en is bijgevolg onzichtbaar: ’t is door haar dat wij verstaan en willen. Zij is *onsterfelijk,* d. ì. zij zal nooit sterven, noch als het lichaam de dood ondergaat, noch later.
+
+Het *lichaam* is het stoffelijk en zichtbaar deel van de mens, dat met de vijf zintuigen begaafd is. Het is *sterfelijk* d.i. het zal door de dood ontbonden en van de ziel gescheiden worden.
+
+# Tot wat einde is de mens geschapen?
+
+## Om in dit leven God te dienen, en namaals eeuwig Hem te aanschouwen
+
+V. De zin is: waartoe is de mens door God, die hem geschapen heeft, bestemd?
 
 A. De Catechismus duidt hem een *dubbel* einde aan:
 

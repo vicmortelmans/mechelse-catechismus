@@ -1,0 +1,87 @@
+td {
+  vertical-align: middle;
+  padding: 3px;
+}
+td.accolade {
+  width: 0px; /* padding will fix it */
+  background-image: url(accolade.svg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+p.top-line-1 {
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-weight: bold;
+  line-height: 1.4rem;
+  letter-spacing: 0.15rem;
+}
+p.top-line-2 {
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  line-height: 1.4rem;
+}
+p.top-line-3 {
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 2rem;
+  letter-spacing: 0.3rem;
+}
+p.top-line-4 {
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 5rem;
+  line-height: 1.4rem;
+}
+p.part {
+  text-align: center;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: bold;
+}
+h1.title {
+  text-align: center;
+  font-size: 2rem;
+  font-style: normal;
+  margin-top: 1rem;
+}
+p.subtitle {
+  text-align: center;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+h1 {
+  width: 55%;
+  font-size: 2rem;
+  font-style: italic;
+}
+h2 {
+  width: 55%;
+  font-size: 2rem;
+  font-style: normal;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+img:hover {
+  webkit-transition: all .3s ease-in;
+  moz-transition: all .3s ease-in;
+  ms-transition: all .3s ease-in;
+  o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(2);
+  right: 0; 
+  position: relative;
+  right: 150px;
+}
+@media (max-width: 760px) {
+  section > h1, section > h2 {
+    width: 100%;
+  }
+}

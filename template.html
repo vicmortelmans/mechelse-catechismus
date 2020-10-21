@@ -18,21 +18,27 @@ $for(header-includes)$
 $endfor$
 </head>
 <body>
-<p class="top-line-1">MECHELSE CATECHISMUS</p>
-<p class="top-line-2">voor gebruik in de</p>
-<p class="top-line-3">Middelbare Scholen</p>
-$if(title)$
-<header id="title-block-header">
-$if(part)$
-<p class="part">$part$</p>
-$endif$
-<h1 class="title">$title$</h1>
-$if(subtitle)$
-<p class="subtitle">$subtitle$</p>
-$endif$
-</header>
-$endif$
-$body$
-<p class="bottom-line-1"><a href="index.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+  <article>
+    <section>
+      <p class="top-line-1">BEKNOPTE VERKLARING</p>
+      <p class="top-line-2">van de</p>
+      <p class="top-line-3">MECHELSE CATECHISMUS</p>
+      <p class="top-line-4">ten gebruike van het middelbaar onderwijs</p>
+      $if(part)$
+      <p class="part">$part$</p>
+      <p class="part">–</p>
+      $endif$
+      $if(title)$
+      <h1 class="title">$title$</h1>
+      $endif$
+      $if(subtitle)$
+      <p class="subtitle">$subtitle$</p>
+      $endif$
+      $body$
+    </section>
+  </article>
+  <footer>
+    <p class="bottom-line-1"><a href="index.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+  </footer>
 </body>
 </html>
