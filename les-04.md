@@ -6,9 +6,9 @@ subtitle: Van de H. Schrift en van de Traditiën
 
 <table>
 <tr>
-  <td rowspan=8>De Schatten van de goddelijke Openbaring</td>
+  <td rowspan=8>**De Schatten van de goddelijke Openbaring**</td>
   <td rowspan=8 class=accolade></td>
-  <td rowspan=6>De H. Schrift</td>
+  <td rowspan=6>**De H. Schrift**</td>
   <td rowspan=6 class=accolade></td>
   <td colspan=2>Natuur</td>
   <td>*[Wat heet gij de Heilige Schrift?](#wat-heet-gij-de-heilige-schrift)*</td>
@@ -34,7 +34,7 @@ subtitle: Van de H. Schrift en van de Traditiën
   <td>*[Moeten wij iets geloven, dat in de Bijbel niet geschreven is?](#moeten-wij-iets-geloven-dat-in-de-bijbel-niet-geschreven-is)*</td>
 </tr>
 <tr>
-  <td rowspan=2>De Apostelijke Traditiën</td>
+  <td rowspan=2>**De Apostelijke Traditiën**</td>
   <td rowspan=2 class=accolade></td>
   <td colspan=2>Natuur</td>
   <td>*[Wat zijn Apostelijke Traditiën?](#wat-zijn-apostelijke-traditiën)*</td>
@@ -104,7 +104,7 @@ A. Uit dit antwoord blijkt, dat de Bijbel niet alles behelst wat wij moeten gelo
 
 # Wat zijn Apostelijke Traditiën?
 
-## Leeren, die van van de Apostelen tijden af geleerd, en van hand tot hand overgeleverd zijn
+## Leren, die van van de Apostelen tijden af geleerd, en van hand tot hand overgeleverd zijn
 
 A. De Apostelijke Traditiëen zijn **leren:** geopenbaarde waarheden, **die van van de Apostelen tijden af geleerd,** die van reeds onmiddellijk na de nederdaling van de H. Geest, door de Apostelen aan de gelovigen gepredikt, en, van dan af, zonder onderbreking, **van hand tot hand:** van de eersten Paus en de eerste bisschoppen tot hun opvolgers door de eeuwen heen, **overgeleverd zijn.** Deze overlevering geschiedde door de leer van de Pausen, van de bisschoppen en van de Conciliën, door de schriften van de godgeleerden, de Catechismussen, de kerkgebruiken, de sermoenen en onderrichtingen van de pastoors en priesters.
 
