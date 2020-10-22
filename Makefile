@@ -1,9 +1,9 @@
 RESOURCEDIR = "resources"
-TARGETDIR = "build"
+TARGETDIR = "docs"
 
 
 SOURCES = $(wildcard *.md)
-HTMLs = $(patsubst %.md,build/%.html,$(SOURCES))
+HTMLs = $(patsubst %.md,$(TARGETDIR)/%.html,$(SOURCES))
 
 all: mkdir copy_resources $(HTMLs)
 
@@ -13,7 +13,7 @@ mkdir:
 copy_resources:
 	cp -r $(RESOURCEDIR) $(TARGETDIR)
 
-build/%.html: %.md
+$(TARGETDIR)/%.html: %.md
 	pandoc -s -c $(RESOURCEDIR)/tufte.css -c $(RESOURCEDIR)/mc.css --template=template.html -f markdown -t html5 -o $@ $<
 
 clean: 
