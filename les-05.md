@@ -6,7 +6,7 @@ subtitle: Van God de Vader almachtig en van de H. Drievuldigheid
 
 <table>
 <tr>
-  <td rowspan=4>Ik geloof in God</td>
+  <td rowspan=4>**Ik geloof in God**</td>
   <td rowspan=4 class=accolade></td>
   <td colspan=2>Natuur van God</td>
   <td colspan=3>*[Wat is God?](#wat-is-god)*</td>
@@ -25,7 +25,7 @@ subtitle: Van God de Vader almachtig en van de H. Drievuldigheid
   <td>*[Waar is God?](#waar-is-god)*</td>
 </tr>
 <tr>
-  <td rowspan=2>De Vader</td>
+  <td rowspan=2>**De Vader**</td>
   <td rowspan=2 class=accolade></td>
   <td rowspan=2>De hoeveelste Persoon in de H. Drievuldigheid</td>
   <td rowspan=2 class=accolade></td>
@@ -35,7 +35,7 @@ subtitle: Van God de Vader almachtig en van de H. Drievuldigheid
   <td>*[Is God de Vader ouder of meerder dan de Zoon of de H. Geest?](#is-god-de-vader-ouder-of-meerder-dan-de-zoon-of-de-heilige-geest)*</td>
 </tr>
 <tr>
-  <td>Almachtig</td>
+  <td>**Almachtig**</td>
   <td class=accolade></td>
   <td colspan=2>Reden van deze naam</td>
   <td>*[Waarom wordt God de Vader, meer dan de Zoon, almachtig genoemd?](#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd)*</td>
