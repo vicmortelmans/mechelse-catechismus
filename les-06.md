@@ -6,7 +6,7 @@ subtitle: Van de Schepping van de wereld
 
 <table>
 <tr>
-  <td rowspan=2>Almachtig</td>
+  <td rowspan=2>**Almachtig**</td>
   <td rowspan=2 class=accolade></td>
   <td colspan=4>Reden van deze naam</td>
   <td>*[Waarom wordt God genoemd almachtig?](#waarom-wordt-god-genoemd-almachtig)*</td>
@@ -16,7 +16,7 @@ subtitle: Van de Schepping van de wereld
   <td>*[Waarin heeft God zijn almachtigheid meest getoond?](#waarin-heeft-god-zijn-almachtigheid-meest-getoond)*</td>
 </tr>
 <tr>
-  <td rowspan=6>Schepper van hemel en aarde</td>
+  <td rowspan=6>**Schepper van hemel en aarde**</td>
   <td rowspan=6 class=accolade></td>
   <td rowspan=6>Voornaamste schepselen</td>
   <td rowspan=6 class=accolade></td>
