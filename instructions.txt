@@ -194,3 +194,14 @@
 :%s/noode/node/g
 :%s/verdeeling/verdeling/g
 :%s/kortbondig/bondig/g
+:%s/eenigen/enige/g
+:%s/Paschen/Pasen/g
+:%s/welken/welke/g
+:%s/denwelke/dewelke/g
+:%s/volherd/volhard/g
+:%s/vereenig/verenig/g
+:%s/geloovi/gelovi/g
+:%s/zienlijk/zichtbaar/g
+:%s/eenige/enige/g
+:%s/ harer / van haar /g
+:%s/mededeeling/mededeling/g
