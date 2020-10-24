@@ -47,7 +47,7 @@ subtitle: Van de Menswording van Christus
 
 ## God de Zoon, die, mens geworden zijnde, Jezus Christus genoemd is
 
-A. De tweede Persoon van de H. Drievuldigheid is **God de Zoon,** en Hij is de tweede en niet de eerste of de derde, omdat Hij, in de orde van de voortkomst, na de Vader en vóór de H. Geest staat (zie 6ᵉ v. 5ᵉ les); **die, mens geworden zijnde:** de menselijke natuur aangenomen hebbende en als dusdanig beschouwd, **Jezus Christus genoemd is.**
+A. De tweede Persoon van de H. Drievuldigheid is **God de Zoon,** en Hij is de tweede en niet de eerste of de derde, omdat Hij, in de orde van de voortkomst, na de Vader en vóór de H. Geest staat (zie [6ᵉ v. 5ᵉ les](les-05.html#welke-is-de-eerste-persoon-van-de-heilige-drievuldigheid)); **die, mens geworden zijnde:** de menselijke natuur aangenomen hebbende en als dusdanig beschouwd, **Jezus Christus genoemd is.**
 
 De tweede Persoon van de H. Drievuldigheid heet dus *God de Zoon* en *Jezus Christus: God de Zoon,* als wij Hem alleen als God, en *Jezus Christus* als wij Hem als God en mens beschouwen. Bijgevolg moet men op de vraag: *wie is Jezus Christus?* antwoorden: *Jezus Christus is God de Zoon, de tweede Persoon van de H. Drievuldigheid, voor ons mens geworden.* Hij is dus een goddelijke Persoon, te weten, de tweede Persoon van de H. Drievuldigheid: maar, op geener wijze een menselijke persoon.
 
@@ -67,7 +67,7 @@ In Jezus dus is er maar *één persoon,* te weten, een goddelijke, de tweede van
 
 Jezus heeft de goddelijke natuur van in van de eeuwigheid; maar de menselijke, slechts sedert zijn Menswording, die plaats greep over bijna negentien eeuwen.
 
-Hoe God de Zoon de menselijke natuur heeft kunnen aannemen, is voor ons een waar mysterie. (Zie 5ᵉ les, 3ᵉ v. en 2ᵉ l., 6ᵉ v.)
+Hoe God de Zoon de menselijke natuur heeft kunnen aannemen, is voor ons een waar mysterie. (Zie [5ᵉ les, 3ᵉ v.](les-05.html#hoe-kunnen-drie-personen-één-god-wezen) en [2ᵉ l., 6ᵉ v.](les-02.html#wat-betekenen-wij-door-het-maken-vas-het-heilig-kruis))
 
 # Waarom is de Zoon Gods mens geworden?
 

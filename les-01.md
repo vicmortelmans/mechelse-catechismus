@@ -53,7 +53,7 @@ Aangezien de Christelijke Leer onder al de wetendheden van de wereld de belangri
 
 ## Het kort begrip van hetgene dat Christus geleerd heeft, en alle Christenen moeten weten of doen om zalig te worden
 
-A. **Het kort begrip:** de bondige inhoud, de bondige verzameling **van hetgene dat Christus geleerd heeft:** van geheel de Openbaring (zie 3ᵉ les, 1ᵉ v.), die de tweede persoon van de H. Drievuldigheid, voor ons mens geworden, in Gods naam aan het mensdom is komen doen. Die Openbaring leert ons hetgene **alle Christenen moeten weten of doen om zalig te worden.**
+A. **Het kort begrip:** de bondige inhoud, de bondige verzameling **van hetgene dat Christus geleerd heeft:** van geheel de Openbaring (zie [3ᵉ les, 1ᵉ v.](les-03.html#wat-is-het-geloof)), die de tweede persoon van de H. Drievuldigheid, voor ons mens geworden, in Gods naam aan het mensdom is komen doen. Die Openbaring leert ons hetgene **alle Christenen moeten weten of doen om zalig te worden.**
 
 Men merke hier op: 1° dat niet enkel de *Christenen* verplicht zijn de Christelijke Leer te kennen: *alle* mensen moeten, na de prediking van Christus’ Openbaring gehoord te hebben, Christenen worden, en zó zijn *allen* gehouden de Christelijke Leer te kennen; 2° dat de Catechismus zegt; weten *of* doen, en niet, weten *en* doen, omdat er eenige punten zijn die wij enkel moeten *weten,* b.v.‚ *dat er maar één God is en drie goddelijke personen,* en andere, zoals *eert vader en moeder* die wij moeten *weten* en ook *doen.*
 

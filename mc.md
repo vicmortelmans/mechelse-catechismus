@@ -30,358 +30,264 @@ Men neme hier in acht, dat de Heiligen, sedert hun dood, niets meer kunnen verdi
 
 ## Door de aflaten
 
-A. De aflaten zijn de uitwendige middels, waardoor de H. Kerk ons de voldoeningen van de Heiligen van de hemel toepast; maar, als God het hun toelaat, kunnen de Heiligen dat ook rechtstreeks doen.
+A. De aflaten zijn de uitwendige middelen, waardoor de H. Kerk ons de voldoeningen van de Heiligen van de hemel toepast; maar, als God het hun toelaat, kunnen de Heiligen dat ook rechtstreeks doen.
 
-4. V. Wat zijn aflaten ?
-A. Kwijtscheldingen van de tijdelijke pijnen, die wij schuldig waren te lijden voor onze zonden.
+# Wat zijn aflaten?
 
-A. De aflaten zijn niet, gelijk de Sacramenten, middelen om de gratie te bekomen, maar kwijtscheldingen of aftossingen, niet van de zonden zelf noch van de eeuwige pijnen van de hel,
-maar van de tijdelijke pijnen, die wij schuldig waren te lijden voor onze reeds vergevene zonden.
+## Kwijtscheldingen van de tijdelijke pijnen, die wij schuldig waren te lijden voor onze zonden
+
+A. De aflaten zijn niet, gelijk de Sacramenten, middelen om de gratie te bekomen, maar **kwijtscheldingen** of aftossingen, niet van de zonden zelf noch van de eeuwige pijnen van de hel, maar **van de tijdelijke pijnen, die wij schuldig waren te lijden voor onze** reeds vergevene **zonden.**
 
 De bron van deze kwijtscheldingen zijn de overschietende voldoeningen van al de Heiligen en in het bijzonder nog de oneindige verdiensten van Christus.
 
-De aflaat is tweeërlei: de volle en de gedeeltelijke aflaat. De volle aflaat is gelegen in de volle kwijtschelding van alle tijdelijke straffen die wij voor onze zonden schuldig zijn; de gedeeltelijke aflaat, is de kwijtschelding van een zeker deel van tijdelijke straffen: zo van zijn aflaten van 40 dagen, van
-één jaar, enz. welke uitdrukkingen betekenen, dat wij door die aflaten kwijtschelding bekomen, niet van 40 dagen of van
-één jaar vagevuur, maar van zóveel schuld van tijdelijke pijnen, als men zou bekomen hebben met, gedurende den-
-EE:
+De aflaat is tweeërlei: de *volle* en de *gedeeltelijke* aflaat. De *volle* aflaat is gelegen in de volle kwijtschelding van alle tijdelijke straffen die wij voor onze zonden schuldig zijn; de *gedeeltelijke* aflaat, is de kwijtschelding van een zeker deel van tijdelijke straffen: zo van zijn aflaten van 40 dagen, van één jaar, enz. welke uitdrukkingen betekenen, dat wij door die aflaten kwijtschelding bekomen, niet van 40 dagen of van één jaar vagevuur, maar van zóveel schuld van tijdelijke pijnen, als men zou bekomen hebben met, gedurende denzelfde tijd, volgens de regelen die vroeger in de H. Kerk in gebruik waren, penitentie te doen.
 
-zelfden tijd, volgens de regelen die vroegerin de H. Kerk in gebruik waren, penitentie te doen.
+# Wie geeft de aflaten?
 
-5. V. Wie geeft de aflaten?
+## De Paus van Rome, de bisschoppen en sommige andere oversten van de H. Kerk, door de goddelijke macht, die zij van Christus over de schatten van de H. Kerk ontvangen hebben
 
-A. De Paus van Rome, de bisschoppen en sommige andere oversten van de H. Kerk, door de goddelijke macht, die zij van Christus over de schatten van de H. Kerk ontvangen hebben.
-
-A. De oversten van de H. Kerk die macht hebben om aflaten te geven, zijn: le de Paus van Rome, 2° de bisschoppen en 3° sommige andere oversten van de H. Kerk, b.v. de kardinalen die geen bisschoppen zijn.
+A. De oversten van de H. Kerk die macht hebben om aflaten te geven, zijn: 1° **de Paus van Rome,** 2° **de bisschoppen** en 3° **sommige andere oversten van de H. Kerk,** b.v. de kardinalen die geen bisschoppen zijn.
 
 De Paus heeft, als opperhoofd van de H. Kerk, de macht voor de ganse christene wereld, zowel volle als gedeeltelijke aflaten te vergunnen.
 
-De bisschoppen die als prinsen van de H. Kerk onderdegehoorzaamheid van de Paus hun bisdom bestieren, hebben, naar de bepaling door de Pausen gedaan, de macht aan hun gelovigen 40 dagen, en, als zij een kerk of een autaar wijden, één jaar aflaat te verleenen. De aartsbisschoppen kunnen 40 dagen vergunnen, niet enkel in hun bisdom, maar in al de andere bisdommen die tot hun geestelijke provincie behooren,
+De bisschoppen die als prinsen van de H. Kerk onderdegehoorzaamheid van de Paus hun bisdom bestieren, hebben, naar de bepaling door de Pausen gedaan, de macht aan hun gelovigen 40 dagen, en, als zij een kerk of een autaar wijden, één jaar aflaat te verleenen. De aartsbisschoppen kunnen 40 dagen vergunnen, niet enkel in hun bisdom, maar in al de andere bisdommen die tot hun geestelijke provincie behooren.
 
 De kardinalen kunnen, in hun titelkerken, en ook in hun bisdom of aartsbisdom, als zij een hebben, 100 dagen aflaat geven.
 
-Al de genoemde overheden verleenen aflaten, niet door een macht die van de mensen voortkomt, maar door de goddelijke macht, die zij van Christus ontvangen hebben: door de macht van God, die Christus, de insteller van de H. Kerk, hun — over de schatten van de H. Kerk: over zijn verdiensten en de overschietende voldoeningen van de Heiligen heeft medegedeeld.
+Al de genoemde overheden verleenen aflaten, niet door een macht die van de mensen voortkomt, maar **door de goddelijke macht, die zij van Christus ontvangen hebben:** door de macht van God, die Christus, de insteller van de H. Kerk, hun — **over de schatten van de H. Kerk:** over zijn verdiensten en de overschietende voldoeningen van de Heiligen heeft medegedeeld.
 
-6. V. Wat moeten wij doen om de aflaten te verdienen ?
+# Wat moeten wij doen om de aflaten te verdienen?
 
-A. Al wat de Paus of de bisschoppen daartoe vereischen.
-— 99 —
+## Al wat de Paus of de bisschoppen daartoe vereisen
 
-A. De reden van dit antwoord vloeit uit de natuur van de zaak zelve: wie een gunst verleent, mag er een voorwaarde bijstellen, en wie de gunst wil bekomen, moet voorzeker de gestelde voorwaarde vervullen, De gewone conditiën voor een vollen aflaat zijn: 19° een goede biecht spreken, 20 waardig de H. Communie ontvangen, 83° enige tijd bidden volgens het inzicht van de H. Kerk, namelijk, voor de verheffing van de H. Kerk, de uitroeiing van de ketterijen en de eendracht van de christene prinsen.
+A. De reden van dit antwoord vloeit uit de natuur van de zaak zelve: wie een gunst verleent, mag er een voorwaarde bijstellen, en wie de gunst wil bekomen, moet voorzeker de gestelde voorwaarde vervullen, De gewone conditiën voor een volle aflaat zijn: 1° een goede biecht spreken, 2° waardig de H. Communie ontvangen, 3° enige tijd bidden volgens het inzicht van de H. Kerk, namelijk, voor de verheffing van de H. Kerk, de uitroeiing van de ketterijen en de eendracht van de christene prinsen.
 
-Het spreekt van zelf dat men, om een aflaat te verdienen,
-in staat van gratie moet zijn.
+Het spreekt van zelf dat men, om een aflaat te verdienen, in staat van gratie moet zijn.
 
-7. V. Wie zijn buiten de gemeenschap van de Heiligen?
+# Wie zijn buiten de gemeenschap van de Heiligen?
 
-A. Heidenen, Turken, Joden, Ketters, Schismatieken, en degenen die in de geestelijken ban zijn.
+## Heidenen, Turken, Joden, Ketters, Schismatieken, en degenen die in de geestelijke ban zijn
 
-A. Al degenen die hier genoemd worden, zijn huiten de gemeenschap van de Heiligen, omdat zij geen leden van de H. Kerk zijn: zij vervullen immers de hiertoe vereiste conditiën niet. (12e les 1e v.)
+A. Al degenen die hier genoemd worden, zijn huiten de gemeenschap van de Heiligen, omdat zij geen leden van de H. Kerk zijn: zij vervullen immers de hiertoe vereiste conditiën niet. (12ᵉ les 1ᵉ v.)
 
-Heidenen heet men al degenen die niet gedoopt zijn en de waren God, of ten minste Christus niet erkennen; Turken, die wel de waren God aanbidden, maar, Christus en zijn leer verwerpende, Mahomed als hunn goddelijken profeet aannemen; Joden, die de waren God erkennen,
-maar, de goddelijke zending van Christus loochenende, nog altijd de Oude Wet van Mozes volgen. De Heidenen, Turken en Joden vervullen piet één van de conditiën om van de H. Kerk deel te maken. Van de Ketters, Schismatieken en degenen die in de geestelijken ban zijn, wordt in de volgende vragen gesproken.
+**Heidenen** heet men al degenen die niet gedoopt zijn en de waren God, of ten minste Christus niet erkennen; **Turken,** die wel de waren God aanbidden, maar, Christus en zijn leer verwerpende, Mahomed als hun goddelijken profeet aannemen; **Joden,** die de waren God erkennen, maar, de goddelijke zending van Christus loochenende, nog altijd de Oude Wet van Mozes volgen. De Heidenen, Turken en Joden vervullen niet één van de conditiën om van de H. Kerk deel te maken. Van de **Ketters, Schismatieken en degenen die in de geestelijken ban zijn,** wordt in de volgende vragen gesproken.
 
-8. V. Wat zijn Ketters?
+# Wat zijn Ketters?
 
-A. Die, onder de naam van Christenen, met hardnekkigheid volgen de vervalste leer van Christus.
-— 100 —
+## Die, onder de naam van Christenen, met hardnekkigheid volgen de vervalste leer van Christus
 
-A. Die, onder de naam van Christenen: die, omdat zij gedoopt zijn en eenigszins Christus’ leer aanvaarden,
-den naam van Christenen dragen zonder die nochtans te verdienen, daar zij niet al de daartoe vereiste conditiën vervullen, — met hardnekkigheid: wetens en willens, volgen de vervalste leer van Christus, of Christus’
-leering ten deele aannemen en ten deele verachten. Een Ketter dus is een gedoopte die met hardnekkigheid of wetens en willens enige stukken van Christus’ leer voor goed houdt en de andere veracht (3° les. 4° v.). Om lid te zijn van de H. Kerk ontbreekt hem de derde voorwaarde te weten:
-de waarachtige leer van Christus belijden.
+A. **Die, onder de naam van Christenen:** die, omdat zij gedoopt zijn en enigszins Christus’ leer aanvaarden, de naam van Christenen dragen zonder die nochtans te verdienen, daar zij niet al de daartoe vereiste conditiën vervullen, — **met hardnekkigheid:** wetens en willens, **volgen de vervalste leer van Christus,** of Christus’ leer ten dele aannemen en ten dele verachten. Een *Ketter* dus is een gedoopte die met hardnekkigheid of wetens en willens enige stukken van Christus’ leer voor goed houdt en de andere veracht (3° les, 4° v.). Om lid te zijn van de H. Kerk ontbreekt hem de derde voorwaarde te weten: *de waarachtige leer van Christus belijden.*
 
-9. V. Wat zijn Schismatieken ?
+# Wat zijn Schismatieken?
 
-A. Die het Doopselen Geloofontvangen hebbende, niet willen staan onder de gehoorzaamheid van het zichtbaar hoofd van de H. Kerk, de Paus van Rome.
+## Die het Doopsel en Geloof ontvangen hebbende, niet willen staan onder de gehoorzaamheid van het zichtbaar hoofd van de H. Kerk, de Paus van Rome
 
-A. Die, het Doopsel en Geloof ontvangen hebbende:
-die, gedoopt zijnde en de ware leer van Cliristus volgende,
-niet willen staan onder de gehoorzaamheid van het zichtbaar hoofd van de H. Kerk, de Paus van Rome: hetzij de Paus van Rome, die wezenlijk de opvolger is van de H. Petrus, hetzij hunn wettigen bisschop of pastoor, hetzij zelfs enkele leden van de H. Kerk als zulke niet willen erkennen.
+A. **Die, het Doopsel en Geloof ontvangen hebbende:** die, gedoopt zijnde en de ware leer van Cliristus volgende, **niet willen staan onder de gehoorzaamheid van het zichtbaar hoofd van de H. Kerk, de Paus van Rome:** hetzij de Paus van Rome, die wezenlijk de opvolger is van de H. Petrus, hetzij hunn wettigen bisschop of pastoor, hetzij zelfs enkele leden van de H. Kerk als zulke niet willen erkennen.
 
-Een Schismatiek dus is een gedoopte die het waar Geloof belijdt; maar de wettige overheid of de ware leden van de H. Kerk voor zulke niet wil houden. Om lid te zijn van de H. Kerk, ontbreekt hem de tweede conditie, te weten: onder de gehoorzaamheid staan van de Paus van Rome.
+Een *Schismatiek* dus is een gedoopte die het waar Geloof belijdt; maar de wettige overheid of de ware leden van de H. Kerk voor zulke niet wil houden. Om lid te zijn van de H. Kerk, ontbreekt hem de tweede conditie, te weten: *onder de gehoorzaamheid staan van de Paus van Rome.*
 
-Men bemerke dat een Schismatiek tevens Ketter kan zijn,
-en het dikwijls is.
+Men bemerke dat een Schismatiek tevens Ketter kan zijn, en het dikwijls is.
 
-10. V. Watisde kerkelijke ban of evcommunicatie?
+# Wat is de kerkelijke ban of excommunicatie?
 
-A. Een vonnis van de H. Kerk, door hetwelk iemand om zijn misdaden en hardnekkigheid beroofd wordt van de gemeenschap van de H. Kerk.
-— 101 —
+## Een vonnis van de H. Kerk, door hetwelk iemand om zijn misdaden en hardnekkigheid beroofd wordt van de gemeenschap van de H. Kerk
 
-A. Een vonnis: een uitspraak, een oordeel — van de H. Kerk: van de hoogste kerkelijke overheden, te weten, van de Paus of van de bisschoppen, — door hetwelk iemand beroofd wordt van de gemeenschap van de H. Kerk: door hetwelk iemand ophoudt deel te maken van de H. Kerk en bijgevolg niet meer tot de HH. Sacramenten aanveerd wordt, en geen deel meer heeft in de goederen van de gemeenschap van de Heiligen, om zijn misdaden en hardnekkigheid: om zekere grote zonden die hij met volle kennis van het kwaad en van de straffen bedreven heeft.
+A. **Een vonnis:** een uitspraak, een oordeel — **van de H. Kerk:** van de hoogste kerkelijke overheden, te weten, van de Paus of van de bisschoppen, — **door hetwelk iemand beroofd wordt van de gemeenschap van de H. Kerk:** door hetwelk iemand ophoudt deel te maken van de H. Kerk en bijgevolg niet meer tot de HH. Sacramenten aanvaard wordt, en geen deel meer heeft in de goederen van de gemeenschap van de Heiligen, **om zijn misdaden en hardnekkigheid:** om zekere grote zonden die hij met volle kennis van het kwaad en van de straffen bedreven heeft.
 
 Die in de geestelijken ban zijn, maken geen deel meer van de H. Kerk, omdat zij door de kerkelijke overheid uit de vergadering van de gelovigen gesloten zijn, en zo niet meer onder de gehoorzaamheid dier overheid staan,
 
-VRAGEN.
+### VRAGEN
 
 Van welk artikel van het Symbolum spreekt deze les? — Hoe wordt zij verdeeld? — Wat onderzoekt de Catechismus in ieder van de hoofddelen?
 
-1. Wat verstaat men hier door gemeenschap; en wat door Heiligen? — Zeg, met de woorden van de Catechismus, waarin er gemeenschap onder de Heiligen bestaat; en leg die woorden uit.
+1. Wat verstaat men hier door *gemeenschap;* en wat door *Heiligen?* — Zeg, met de woorden van de Catechismus, waarin er gemeenschap onder de Heiligen bestaat; en leg die woorden uit.
 
 2. Op hoeveel manieren worden wij door de Heiligen van de hemel geholpen? — Noem ze met de woorden van de Catechismus, en leg ze uit. — Kunnen de Heiligen nog iets verdienen?
 
 3. Welk middel is de aflaat, om ons de voldoeningen van de Heiligen toe te voegen? — Op welke andere wijze kunnen die voldoeningen ons nog toegepast worden?
 
-4, Welk verschil is er tussen het uitwerksel van een aflaat en dat van de HH. Sacramenten? — Zeg, met de woorden van de Catechismus, waarvan de aflaat een kwijtschelding is, en verklaar die woorden. — Hoe worden de aflaten verdeeld? — Wat is een aflaat van één jaar, van zeven jaren, enz.?
+4. Welk verschil is er tussen het uitwerksel van een aflaat en dat van de HH. Sacramenten? — Zeg, met de woorden van de Catechismus, waarvan de aflaat een kwijtschelding is, en verklaar die woorden. — Hoe worden de aflaten verdeeld? — Wat is een aflaat van één jaar, van zeven jaren, enz.?
 
-5. Noem de oversten van de H. Kerk, die de macht hebben om aflaten te geven. — Van waar hebben zij die macht? — Hoever strekt zich de rnacht van de Paus en die van een kardinaal,
-eenen aartsbisschop en een bisschop in het geven van de aflaten uit? — Wat verstaat men hier door de schatten van de H. Kerk,
-waaruit de aflaten gegeven worden?
+5. Noem de oversten van de H. Kerk, die de macht hebben om aflaten te geven. — Van waar hebben zij die macht? — Hoever strekt zich de rnacht van de Paus en die van een kardinaal, een aartsbisschop en een bisschop in het geven van de aflaten uit? — Wat verstaat men hier door de *schatten van de H. Kerk,* waaruit de aflaten gegeven worden?
 
-6. Zeg in 't algemeen water te doen is, om een aflaat te verdienen. — Welk is de reden daarvan? — Wat wordt er gewoonlijk
-— 102 —
+6. Zeg in 't algemeen water te doen is, om een aflaat te verdienen. — Welk is de reden daarvan? — Wat wordt er gewoonlijk vereist tot een volle aflaat? — Wat is er noodzakelijk in ons vereist, opdat een aflaat ons zou toegepast worden?
 
-vereischt tot een vollen aflaat? — Wat is er noodzakelijk in ons vereist, opdat een aflaat ons zou toegepast worden?
+7. Noem al degenen die buiten de gemeenschap van de Heiligen zijn: en zeg waarom zij er buiten zijn. — Wat zijn *Heidenen, Turken* en *Joden;* en wat ontbreekt er hun om lid te zijn van de H. Kerk?
 
-7. Noem al degenen die buiten de gemeenschap van de Heiligen zijn:
-en zeg waarom zij er buiten zijn. — Wat zijn Heidenen, Turken en Joden; en wat ontbreekt er hun om lid te zijn van de H. Kerk?
+8. Verklaar de woorden: *onder de naam van Christenen,* — *met hardnekkigheid,* — *de vervalste leer van Christus volgen.* — Wat is er dan nodig om Ketter te zijn? — Wat ontbreekt eraan een Ketter om lid te zijn van de H. Kerk?
 
-8. Verklaar de woorden: onder de naam van Christenen, —
-met hardnekkigheid, — de vervalste leer van Christus volgen.
-— Wat is er dan nodig om Ketter te zijn? — Wat ontbreekt eraan een Ketter om lid te zijn van de H. Kerk?
+9. Wat betekenen de woorden: *die het Doopsel en Geloof ontvangen hebbende?* — Wat drukt de Catechismus uit als hij zegt: *onder de gehoorzaamheid niet willen staan van het zichtbaar hoofd van de H. Kerk, de Paus van Rome?* — Wat is er dan nodig om Schismatiek te zijn, zonder tevens in ketterij te vallen? — Wat ontbreekt er aan de Schismatieken, om leden te zijn van de H. Kerk?
 
-9. Wat betekenen de woorden: die het Doopsel en Geloof ontvangen hebbende? — Wat drukt de Catechismus uit als hij zegt +
-onder de gehoorzaamheid niet willen staan van het zichtbaar hoofd van de H. Kerk, de Paus van Rome? — Wat is er dan nodig om Schismatiek te zijn, zonder tevens in ketterij te vallen? — Wat ontbreekt er aan de Schismatieken, om leden te zijn van de H. Kerk?
+10. Wat betekenen de woorden: *een vonnis van de H. Kerk?* — Wie spreekt de kerkelijken ban uit? — Om welke reden wordt hij uitgesproken? — Welk is zijn uitwerksel? — Wat ontbreekt er aan degenen, die in de kerkelijken ban zijn, om lid te wezen van de H. Kerk?
 
-10. Wat betekenen de woorden: een vonnis van de H. Kerk? —
-Wie spreekt de kerkelijken ban uit? — Om welke reden wordt hij uitgesproken? — Welk is zijn uitwerksel? — Wat ontbreekt er aan degenen, die in de kerkelijken ban zijn, om lid te wezen van de H. Kerk?
-— 103 —
 VEERTIENDE LES.
 
-Van de Vergiffenis van de zonden en de Verrijzenis van het lichaam.
+Van de Vergiffenis van de zonden en de Verrijzenis van het lichaam
 
-‚ ‚Í°9 Zonden die vergeven |Y 1. Van welke zonden is er in de
+# Van welke zonden is er in de Heilige Kerk vergiffenis te bekomen?
 
-3 worden, H. Kerk vergiffenis te bekomen?
+## Van alle zonden, hoe groot of hoe zwaar die ook zouden mogen wezen
 
-S ‚V. 2. Door wat middel wordt ons de
-% erfzonde vergeven?
+V. **In de H. Kerk:** voor de leden van de H. Kerk; wie immers geenszins tot de H. Kerk behoort, kan onmogelijk de vriend van God zijn of zalig worden.
 
-7 | 3. Hoe worden de dagelijksche 5 2o Middelen tot verge-. zonden vergeven ?
+A. **Van alle zonden,** zonder één uitzondering, **hoe groot of hoe zwaar die ook zouden mogen wezen:** 't is gelijk van welke soort en hoe menigvuldig zij zijn, en hoe dikwijls men er zou in hervallen wezen.
 
-gf _ ving van de zonden. 'V. 4. Door wat middel worden de ED doodzonden vergeven ?
+# Door wat middel wordt ons de erfzonde vergeven?
 
-5 |, 5. Wat noemt gij een volkomen
-> \_ berouw ?
+## Door het Doopsel
 
-ge Zin van dit artikel. (7 8 ja 5 te zeggen Verrijzenis des 8 a}in’tal-jV, 7, In wat gesteltenis zullen de
-$ gemeen. ( lichamen verrijzen ?
+A. De **erfzonde** (37ᵉ les, 4ᵉ v., 6ᵉ les, 3ᵉ v. en 7ᵉ les, 3ᵉ v.) wordt vergeven **door het Doopsel:** door het Sacrament van het Doopsel, dat soms kan vervangen worden door het doopsel van begeerte of door het doopsel van bloed (30ᵉ les, 2ᵉ v.).
 
-p . V. 8. Hoedanig zullen 8 2 Gestellenis . de lichamen van de god7 wann de de Hei- vruchtige of heilige 5 lichamen, b) in °t bij- ligen. mensen in de ver8 zullen VEL | zonder. rijzenis voorkomen?
-2 rijzen. î V. 9. Hoedanig zullen 5 \ î e on | de lichamen van de verp | OOMCON. {_ goemden verrijzen ?
+# Hoe worden de dagelijkse zonden vergeven?
 
-V. Van welke zonden is er in de H. Kerk vergiffenis te bekomen?
-Á. Van alle zonden, hoe groot of hoe zwaar die ook zouden mogen wezen.
+## Door leedwezen, gebeden en allerlei goede werken
 
-el
+A. De **dagelijkse zonden** (37ᵉ les, 6ᵉ v.) worden vergeven door *drie* middelen:
 
-V. In de H. Kerk: voor de leden van de H. Kerk; wie immers geenszins tot de H. Kerk behoort, kan onmogelijk de vriend van God zijn of zalig worden.
-— 104 —
+1° **Door leedwezen:** het leedwezen of het berouw bestaat in een spijt of een droefheid van God door onze zonden vergramd te hebben. Men bemerke dat het spijt *de zonden* als zonden moet betreffen en wel *onze* zonden, niet die van anderen.
 
-A. Van alle zonden, zonder één uitzondering, hoe groot of hoe zwaar die ook zouden mogen wezen: 't is gelijk van welke soort en hoe menigvuldig zij zijn, en hoe dikwijls men er zou in hervallen wezen.
+Om tot de vergiffenis van de zonden te dienen, moet *alle* berouw A) *op een reden rusten die God aangaat.* Nu, de redenen van die aard zijn tweeërlei: a) die van de onvolmaakte liefde tot God, te weten: de schandelijkheid van de zonde door dewelke wij die God beleedigen aan wie wij, wegens zijn onmeetbare weldaden, de grootste dankbaarheid verschuldigd zijn, de hoop van de goddelijken loon en de vrees van de goddelijke straffen; b) die van de volmaakte liefde tot God, namelijk, de oneindige volmaaktheden Gods. Steunt het berouw op geen van deze redenen, komt het b.v. enkel uit het verlies of de hinder die men, tengevolge van de zonde, in zijn eer of zijn fortuin geleden heeft, dan gaat het God niet aan, dan heeft men geen spijt meer van God vergramd te hebben.
 
-2. V. Door wat middel wordt ons de erfzonde vergeven ?
-A. Door het Doopsel.
+B) *Bovennatuurlijk zijn:* door de gratie verwekt en door het Geloof verlicht zijn: bij de gelovigen wie ’t berouwt God door de zonde vergramd te hebben, is het leedwezen doorgaans door het Geloof verlicht, daar geheel hun kennis van God en van hun einde uit de Catechismus geput is; en, wanneer de mens volgens zijn Geloof handelt, dan vergunt God hem altijd de nodige dadelijke gratiën.
 
-A. De erfzonde (37e les, 4e v. „6e les, 3e v. en 7e les 3 v.) wordt vergeven door het Doopsel: door het Sacrament van het Doopsel, dat soms kan vervangen worden door het doopsel van begeerte of door het doopsel van bloed (30e les, 2e v.).
+Het berouw nu dat de twee vermelde conditiën vervult, is *onvolmaakt* of *onvolkomen,* als het op een reden van de onvolmaakte liefde, en *volmaakt* of *volkomen,* als het op de reden van de volmaakte liefde gegrond is (20ᵉ les. v. 8.).
 
-3. V. Hoe worden de dagelijksche zonden vergeven?
+Het onvolmaakt berouw is op zich zelf voldoende voor de vergiffenis van de dagelijkse zonden; het moet zich echter uitstrekken tot al de dagelijkse zonden die geheel van dezelfde soort zijn.
 
-A. Door leedwezen, gebeden en allerlei goede werken.
+2ᵉ **Door gebeden:** met de vergiffenis van onze zonden door gebeden van Gods barmhartigheid af te smeken.
 
-A. De dagelijksche zonden (37° les, 6e v.) worden vergeven door drie middelen:
+3ᵉ **Door allerlei goede werken:** goede werken zijn: a) al de werken die wij doen om de geboden van God en van de H. Kerk te onderhouden: b) al de van God aangeprezene werken, die wij uit vrijen wil volbrengen, als bidden, vasten, almoezen doen; c) al onze dagelijkse werken, mits zij gedaan zijn om de wil of de raden Gods te volgen.
 
-1e Door leedwezen: het leedwezen of het berouw bestaat in een spijt of een droefheid van God door onze zonden vergramd te hebben. Men bemerke dat het spijt de zonden als zonden moet betreffen en wel onze zonden, niet die van anderen.
+De gebeden en goede werken verwerven ons vergiffenis van de dagelijkse zonden, 1° *onrechtstreeks,* met ons de gratie van een genoegzaam berouw te bekomen, en 2° *rechtstreeks,* ten minste waarschijnlijk, met ons, uit hoofde van de aangewonnen heiligmakende gratie, (39ᵉ les, 7ᵉ v.) te zuiveren van de dagelijkse zonden waarover wij wel eenig, doch uit zich zelf slechts onvoldoend leedwezen hebben; het is immers natuurlijk dat God, als Hij ons in inniger vriendschap aanneemt, ons die kleine zonden vergeeft, waarover wij eenig berouw gevoelen.
 
-Om tot de vergiffenis van de zonden te dienen, moet alle berouw A} op een reden rusten die God aangaat. Nu, de redenen van die aard zijn tweeërlei: a) die van de onvolmaakte liefde tot God, te weten: de schandelijkheid van de zonde door dewelke wij die God beleedigen aan wie wij, wegens zijn onmeetbare weldaden, de grootste dankbaarheid verschuldigd zijn, de hoop van de goddelijken loon en de vrees van de goddelijke straffen; 5) die van de volmaakte liefde tot God, namelijk, de oneindige volmaaktheden Gods. Steunt het berouw op geen van deze redenen, komt het b.v.
-enkel uit het verlies of de hinder die men, tengevolge van de zonde,
-in zijn eer of zijn fortuin geleden heeft, dan gaat het God niet aan, dan heeft men geen spijt meer van God vergramd te hebben.
-B) Bovennatuurlijk zijn: door de gratie verwekt en door het Geloof verlicht zijn: bij de gelovigen wie ’t berouwt God door de zonde vergramd te hebben, is het leedwezen doorgaans door het Geloof verlicht, daar geheel hun kennis van God en van hun
-einde uit de Catechismus geput is; en, wanneer de mens volgens zijn Geloof handelt, dan vergunt God hem altijd de nodige dadelijke gratiën.
+Het is klaarblijkend, dat de dagelijkse zonden nooit vergeven worden zonder de doodzonden waar men plichtig aan is, en dat de middelen, hieronder voor deze laatste zonden aangeduid, ook voor de eerste gelden.
 
-Het berouw nu dat de twee vermelde conditiën vervult, is onvolmaakt of onvolkomen, als het op een reden van de onvolmaakte liefde, en volmaakt of volkomen, als het op de reden van de volmaakte liefde gegrond is (20e les. v. 8.).
+# Door wat middel worden de doodzonden vergeven?
 
-Het onvolmaakt berouw is op zich zelf voldoende voor de vergiffenis van de dagelijksche zonden; het moet zich echter uitstrekken tot al de dagelijksche zonden die geheel van dezelfde soort zijn.
+## Na het Doopsel, door de priesterlijke macht in de Biecht, en ook door een oprecht en volkomen berouw
 
-2e Door gebeden: met de vergiffenis van onze zonden door gebeden van Gods bermhertigheid af te smeeken.
+A. Er zijn dus **na het Doopsel:** voor de vergiffenis van de doodzonden die na het Doopsel bedreven zijn, *twee* middelen:
 
-3e Door allerlei goede werken: goede Werken zijn: a) al de werken die wij doen om de geboden van God en van de H. Kerk te onderhouden: b) al de van God aangeprezene werken, die wij uit vrijen wil volbrengen, als bidden,
-vasten, almoezen doen; c) al onze dagelijksche werken, mits zij gedaan zijn om de wil of de raden Gods te volgen.
+1° **De priesterlijke macht in de Biecht:** de absolutie van de priester in het Sacrament van de Biecht;
 
-De gebeden en goede werken verwerven ons vergiffenis van de dagelijksche zonden, 19 onrechtstreeks, met ons de gratie van een genoegzaam berouw te bekomen, en 2° rechtstreeks, ten minste waarschijnlijk, met ons, uit hoofde van de aangewonnen heiligmakende gratie, (39e les, 7e v.) te zuiveren van de dagelijksche zonden waarover wij wel eenig, doch uit zich zelf slechts onvoldoend leedwezen hebben; het is immers natuurlijk dat God, als Hij ons in inniger vriendschap aanneemt, ons die kleine zonden vergeeft, waarover wij eenig berouw gevoelen.
+2° **Een oprecht en volkomen berouw,** zonder de absolutie van de priester in de Biecht.
 
-Het is klaarblijkend, dat de dagelijksche zonden nooit vergeven worden zonder de doodzonden waar men plichtig aan is, en dat de middelen, hieronder voor deze laatste zonden aangeduid, ook voor de eerste gelden.
+Voor de doodzonden die vóór het Doopsel gedaan zijn, gelden de middelen dienstig tot de vergiffenis van de erfzonde, want die doodzonden moeten samen met de erfzonde vergeven worden.
 
-4. V. Door wat middel worden de doodzonden vergeven ?
+# Wat noemt gij een volkomen berouw?
 
-A. Na het Doopsel, door de priesterlijke macht in de Biecht, en ook door een oprecht en volkomen berouw.
-— 106 —
+## Een leedwezen van de zonden, komende niet alleen uit vrees van de eeuwige of tijdelijke pijnen die zij verdienen; maar uit liefde tot God, tegen wiens opperste en oneindige goedheid zij gedaan zijn; met een vast voornemen van die te biechten en zich te beteren
 
-A. Er zijn dus na het Doopsel: voor de vergiffenis van de doodzonden die na het Doupsel bedreven zijn, twee middelen:
-
-le De priesterlijke macht in de Biecht: de absolutie van de priester in het Sacrament van de Biecht;
-
-2 Een oprecht en volkomen berouw, zonder de absolutie van de priester in de Biecht.
-
-Voor de doodzonden die vóór het Doopsel gedaan zijn,
-gelden de middelen dienstig tot de vergiffenis van de erfzonde,
-waut die doodzonden moeten samen met de erfzonde vergeven worden.
-
-5. V. Wat noemt gij een volkomen berouw?
-
-A. Een leedwezen van de zonden, komende niet alleen uit vrees van de eeuwige of tijdelijke pijnen die zij verdienen; maar uit liefde tot God,
-tegen wiens opperste en oneindige goedheid zij gedaan zijn; met een vast voornemen van die te biechten en zich te beteren.
-
-A. Een leedwezen van de zonden: een spijt of droefheid van God door de zonde vergramd te hebben, a) komende niet alleen, gelijk het onvolmaakt berouw, uit vrees van de eeuwige of tijdelijke pijnen die zij verdienen,
-óf uit de hoop van de goddelijken loon, óf uit de schandelijkheid van de zonde; maar uit liefde tot God, tegen wiens opperste en oneindige goedheid zij gedaan zijn: maar uit liefde tot God, die, om zijn opperste en oneindige volmaaktheid, geheel onze liefde waardig is, en tegen wie wij nochtans gezondigd hebben, b) gepaard gaande met een vast voornemen: met de vasten wil van die (doodzonden) te biechten, — en zich te beteren: en voortaan alle doodzonden te vluchten, alsook de dagelijksche zonden, waarover wij leedwezen hebben.
+A. **Een leedwezen van de zonden:** een spijt of droefheid van God door de zonde vergramd te hebben, a) **komende niet alleen,** gelijk het onvolmaakt berouw, **uit vrees van de eeuwige of tijdelijke pijnen die zij verdienen,** óf uit de hoop van de goddelijken loon, óf uit de schandelijkheid van de zonde; **maar uit liefde tot God, tegen wiens opperste en oneindige goedheid zij gedaan zijn:** maar uit liefde tot God, die, om zijn opperste en oneindige volmaaktheid, geheel onze liefde waardig is, en tegen wie wij nochtans gezondigd hebben, b) gepaard gaande **met een vast voornemen:** met de vasten wil **van die** (doodzonden) **te biechten, — en zich te beteren:** en voortaan alle doodzonden te vluchten, alsook de dagelijkse zonden, waarover wij leedwezen hebben.
 
 Van de redenen van de onvolmaakte liefde vermeldt de Catechismus enkel de vrees van de goddelijke straffen, omdat deze reden op de mensen meest indruk maakt.
 
-De noodzakelijkheid van, nopens het biechten van de dood-
-— 107 —
+De noodzakelijkheid van, nopens het biechten van de doodzonden, een vast voornemen te maken, vloeit uit het gebod van Christus, krachtens hetwelk alle doodzonden in de biecht moeten beleden worden. Wat echter het vast voornemen betreft van zich te beteren, dat ligt in de natuur zelve van het leedwezen besloten: wie de zonde rechtzinnig verfoeit, die verfoeit ze niet alleen voor het verledene, maar ook voor het toekomende.
 
-zonden, een vast voornemen te maken, vloeit uit het gebod van Christus, krachtens hetwelk alle doodzonden in de biecht moeten beleden worden. Wat echter het vast voornemen betreft van zich te beteren, dat ligt in de natuur zelve van het leedwezen besloten: wie de zonde rechtzinnig verfoeit, die verfoeit ze niet alleen voor het verledene, maar ook voor het toekomende.
+Men neme in acht, dat het volmaakt berouw, om tot de vergiffenis van de doodzonden dienstig te zijn, zich moet uit strekken tot al de doodzonden waar men plichtig aan is, daar iedere doodzonde ons ten volle vijanden van God maakt.
 
-Men neme in acht, dat het volmaakt berouw, om tot de vergiffenis van de doodzonden dienstig te zijn, zich moet uit strekken tot al de doodzonden waar men plichtig aan is,
-daar iedere doodzonde ons ten volle vijanden van God maakt.
+# Wat is te zeggen: *Verrijzenis van het lichaam?*
 
-6. V. Wat is te zeggen: Verrijzenis van het lichaam?
+## Dat de dode lichamen van de mensen door de macht Gods wederom uit de aarde zullen opstaan en levend worden
 
-A. Dat de dode lichamen van de mensen door de macht Gods wederom uit de aarde zullen opstaan en levend worden.
-
-A. De woorden: de dode lichamen van de mensen zijn de verklaring van het woord vlees, en het Symbolum zegt:
-verrijzenis van het lichaam, en niet: verrijzenis van de mensen, om uit te drukken, dat de mens alleen volgens zijn lichaam sterft. Het volgend deel van het antwoord: zullen wederom uit de aarde opstaan en levend worden, dient tot uitlegging van het woord verrijzenis. Dus hestaat de verrijzenis van de dode lichamen van de mensen hierin, dat diezelfde lichamen die gestorven en in aarde veranderd zijn, door vereniging met dezelfde ziel van welke de dood hen gescheiden heeft, zullen hervormd en wederom levend worden. Verrijzenis dan is niet levendwording van een nieuw wezen, maar herleving van een wezen dat reeds het leven genoten, maar het door de dood verloren heeft. De dode lichamen zullen verrijzen, niet door de krachten van de natuur, maar door de macht Gods: door een bijzondere werking van God.
+A. De woorden: **de dode lichamen van de mensen** zijn de verklaring van het woord *lichaam,* en het Symbolum zegt: *verrijzenis van het lichaam,* en niet: *verrijzenis van de mensen,* om uit te drukken, dat de mens alleen volgens zijn lichaam sterft. Het volgend deel van het antwoord: **zullen wederom uit de aarde opstaan en levend worden,** dient tot uitlegging van het woord *verrijzenis.* Dus hestaat de verrijzenis van de dode lichamen van de mensen hierin, dat diezelfde lichamen die gestorven en in aarde veranderd zijn, door vereniging met dezelfde ziel van welke de dood hen gescheiden heeft, zullen hervormd en wederom levend worden. Verrijzenis dan is niet *levendwording* van een nieuw wezen, maar *herleving* van een wezen dat reeds het leven genoten, maar het door de dood verloren heeft. De dode lichamen zullen verrijzen, niet door de krachten van de natuur, maar **door de macht Gods:** door een bijzondere werking van God.
 
 De verrijzenis zal plaats grijpen onmiddellijk vóór het laatste oordeel.
 
-7. V. In wat gesteltenis zullen de lichamen verrijzen?
-— 108 —
+# In wat gesteltenis zullen de lichamen verrijzen?
 
-A. Elk in zijn natuurlijk en volmaakt wezen, maar nochtans zeer verscheiden in hoedanigheid.
+## Elk in zijn natuurlijk en volmaakt wezen, maar nochtans zeer verscheiden in hoedanigheid
 
-À. Over de algemeenen staat van de verrezene lichamen leren wij hier drie dingen: elk zal verrijzen:
+A. Over de algemenen staat van de verrezene lichamen leren wij hier *drie* dingen: elk zal verrijzen:
 
-1e In zijn natuurlijk wezen: ieder lichaam zal van denzelfden aard, van dezelfde gedaante en vorm zijn als vroeger op aarde;
+1° **In zijn natuurlijk wezen:** ieder lichaam zal van dezelfde aard, van dezelfde gedaante en vorm zijn als vroeger op aarde;
 
-2e In zijn volmaakt wezen: ieders lichaam zal noch jong noch oud voorkomen, maar die vorm en die grootte hebben, welke het, volgens zijn aard, in het tijdstip van volwassenheid moest hebben; daarenboven zal dat van de gelukzaligen van alle gebreken vrij wezen. Of er in de lichamen van de verdoemden natuurlijke gebreken zullen zijn, dat weten wij niet met volle zekerheid.
+2° **In zijn volmaakt wezen:** ieders lichaam zal noch jong noch oud voorkomen, maar die vorm en die grootte hebben, welke het, volgens zijn aard, in het tijdstip van volwassenheid moest hebben; daarenboven zal dat van de gelukzaligen van alle gebreken vrij wezen. Of er in de lichamen van de verdoemden natuurlijke gebreken zullen zijn, dat weten wij niet met volle zekerheid.
 
-3° Zeer verscheiden in hoedanigheid: buiten die twee gemeene gesteltenissen, zullen vele bijzondere en gewichtige hoedanigheden de een wel, de anderen niet toebehooren.
+3° **Zeer verscheiden in hoedanigheid:** buiten die twee gemeene gesteltenissen, zullen vele bijzondere en gewichtige hoedanigheden de een wel, de anderen niet toebehooren.
 
-8. V. Hoedanig zullen de lichamen van de godvruchtige of heilige mensen in de verrijzenis voorkomen?
+# Hoedanig zullen de lichamen van de godvruchtige of heilige mensen in de verrijzenis voorkomen?
 
-A. Heel klaar en schoonblinkend, licht, subtiel en onlijdelijk.
+## Heel klaar en schoonblinkend, licht, subtiel en onlijdelijk
 
-À. De lichamen van de godvruchtige of heilige mensen zullen voorkomen.
+A. De lichamen van de godvruchtige of heilige mensen zullen voorkomen.
 
-le Heel klaar en schoonblinkend: met de grootsten glans versierd, met luister en schoonheid bekleed, in- en uitwendig met licht omgeven en gans doorschijnend ;
+1° **Heel klaar en schoonblinkend:** met de grootsten glans versierd, met luister en schoonheid bekleed, in- en uitwendig met licht omgeven en gans doorschijnend ;
 
-2o Licht: zonder moeite of arbeid en sneller dan de bliksem zullen zij zich tot de afgelegenste plaatsen, van de een kast van de hemel tot de anderen, van de hemel tot op de vernieuwde aarde, en van de een kant van deze aarde tot de anderen begeven;
+2° **Licht:** zonder moeite of arbeid en sneller dan de bliksem zullen zij zich tot de afgelegenste plaatsen, van de een kast van de hemel tot de anderen, van de hemel tot op de vernieuwde aarde, en van de een kant van deze aarde tot de anderen begeven;
 
-30 Subtiel: zij zullen leven als geesten, zonder eten, drinken of slapen, en zo volmaakte werktuigen van de ziel zijn; zij
-— 109 —
+3° **Subtiel:** zij zullen leven als geesten, zonder eten, drinken of slapen, en zo volmaakte werktuigen van de ziel zijn; zij zullen ook, als het nodig of betamelijk zal wezen, de andere stoffelijke schepselen kunnen doordringen zonder daardoor iets te hinderen of enigszins gehinderd te worden.
 
-zullen ook, als het nodig of betamelijk zal wezen, de andere stoffelijke schepselen kunnen doordringen zonder daardoor iets te hinderen of eenigszins gehinderd te worden.
+4° **Onlijdelijk:** zij zullen vrij zijn van alle gebreken, van alle pijn en van de dood; zelfs niet meer kunnen gehinderd worden, niet meer kunnen lijden of sterven.
 
-4o Onlijdelijk: zij zullen vrij zijn van alle gebreken, van alle pijn en van de dood; zelfs niet meer kunnen gehinderd worden, niet meer kunnen lijden of sterven.
+# Hoedanig zullen de lichamen van de verdoemden verrijzen?
 
-9. V. Hoedanig zullen de lichamen van de verdoemden verrijzen?
+## Duister en vuil, zwaar, grof en heel gesteld om te lijden
 
-Á. Duister en vuil, zwaar, grof en heel gesteld om te lijden.
+A. De lichamen van de verdoemden zullen verrijzen:
 
-À. De lichamen van de verdoemden zullen verrijzen:
+1° **Duister en vuil:** in plaats van, gelijk die van de gelukzaligen, klaar en schoonblinkend te zijn, zullen zij van alle schoonheid beroofd wezen en afschuwelijker voorkomen dan het afschuwelijkste dood lichaam;
 
-je Duister en vuil: in plaats van, gelijk die van de gelukzaligen, klaar en schoonblinkend te zijn, zullen zij van alle schoonheid beroofd wezen en afschuwelijker voorkomen dan het afschuwelijkste dood lichaam;
+2° **Zwaar:** in plaats van licht te zijn, zullen zij zich maar met de grootste moeite en het hevigste lijden kunnen bewegen;
 
-2o Zwaar: in plaats van licht te zijn, zullen zij zich maar met de grootste moeite en het hevigste lijden kunnen bewegen;
+3° **Grof:** in plaats van subtiel te zijn, zullen zij, hoewel onsterfelijk, in de hoogsten graad door honger, dorst en slaapzucht gepijnigd worden;
 
-3° Grof: in plaats van subtiel te zijn, zullen zij, hoewel onsterfelijk, in de hoogsten graad door honger, dorst en slaapzucht gepijnigd worden;
+4° **Heel gesteld om te lijden:** in plaats van onlijdelijk te zijn, zullen zij door Gods almacht geschikt en gesteld wezen om eeuwig de grootste pijnen te kunnen lijden en aan het lijden ten uiterste gevoelig te blijven.
 
-to Heel gesteld om te lijden: in plaats van onlijdelijk te zijn, zullen zij door Gods almacht geschikt en gesteld wezen om eeuwig de grootste pijnen te kunnen lijden en aan het lijden ten uiterste gevoelig te blijven.
-
-VRAGEN.
+### VRAGEN
 
 Welke artikelen van het Symbolum worden hier uitgelegd? — Hoe wordt de les verdeeld? — Wat onderzoekt de Catechismus in ieder deel?
 
-1. Waarom voegt de Catechismus bij zijn vraag: Van welke zonden is er vergiffenis te bekomen, de woorden: in de H. Kerk?
-— Zijn er zonden van welke er geen vergiffenis te bekomen is? —
-Bewijs dit door de woorden van de Catechismus.
+1. Waarom voegt de Catechismus bij zijn vraag: *Van welke zonden is er vergiffenis te bekomen,* de woorden: *in de H. Kerk?* — Zijn er zonden van welke er geen vergiffenis te bekomen is? — Bewijs dit door de woorden van de Catechismus.
 
-2. Is het Sacrament van het Doopsel de enige middel tot de vergiffenis van de erfzonde? — Waardoor kan het Sacrament van het Doopsel a) bij degenen, die tot de jaren van verstand niet gekomen zijn, en b)bij de anderen, vervangen worden? — Waarin bestaan die middels welke het Doopsel kunnen vervangen?
-— 110 —
+2. Is het Sacrament van het Doopsel de enige middel tot de vergiffenis van de erfzonde? — Waardoor kan het Sacrament van het Doopsel a) bij degenen, die tot de jaren van verstand niet gekomen zijn, en b) bij de anderen, vervangen worden? — Waarin bestaan die middelen welke het Doopsel kunnen vervangen?
 
-3, Hoeveel en welke middelen om de vergiffenis te bekomen van de dagelijksche zonden, stelt de Catechismus voor? — Wat verstaat men door leedwezen dver de zonden? — Welke hoedanigheden moet het leedwezen hebben, om de vergiffenis van de dagelijksche zonden te bekomen? — Hoedanig moeten de gebeden zijn, om die vergiffenis te bekomen? — Wat verstaat men door goede werken,
-en hoedanig moeten zij wezen tot datzelfde uitwerksel? — Op welke wijzen bekomen wij door de gebeden en de goede werken vergiffenis van de dagelijksche zonden? — Zijn er buiten deze middelen nog andere, om vergiffenis van de dagelijksche zonden te krijgen?
+3. Hoeveel en welke middelen om de vergiffenis te bekomen van de dagelijkse zonden, stelt de Catechismus voor? — Wat verstaat men door *leedwezen over de zonden?* — Welke hoedanigheden moet het leedwezen hebben, om de vergiffenis van de dagelijkse zonden te bekomen? — Hoedanig moeten de gebeden zijn, om die vergiffenis te bekomen? — Wat verstaat men door goede werken, en hoedanig moeten zij wezen tot datzelfde uitwerksel? — Op welke wijzen bekomen wij door de gebeden en de goede werken vergiffenis van de dagelijkse zonden? — Zijn er buiten deze middelen nog andere, om vergiffenis van de dagelijkse zonden te krijgen?
 
-4. Zeg, met de woorden van de Catechismus, welke middelen er bestaan om vergiffenis te bekomen. van de doodzonden, die na het Doopsel gedaan zijn. — Leg die middelen een weinig uit. —
-Welke middelen bestaan er voor de vergiffenis van de doodzonden,
-die bedreven zijn vóór het Doopsel?
+4. Zeg, met de woorden van de Catechismus, welke middelen er bestaan om vergiffenis te bekomen. van de doodzonden, die na het Doopsel gedaan zijn. — Leg die middelen een weinig uit. — Welke middelen bestaan er voor de vergiffenis van de doodzonden, die bedreven zijn vóór het Doopsel?
 
 5. Zeg, met de woorden van de Catechismus, welke beweegreden niet voldoende is en welke er vereist wordt om een volmaakt berouw te hebben. — Leg het antwoord in't kort uit. — Zeg ook met de woorden van de Catechismus, waarmede het volmâakt berouw moet gepaard gaan om goed te zijn. — Geef er de verklaring van. — Waarom moet het berouw gepaard gaan met het vast voornemen qd) van de doodzonden te biechten, en 5) van zich te beteren? — Tot welke zonden moet het volmaakt leedwezen, om de vergiffenis van de doodzonden te bekomen, zich uitstrekken en waarom? — Welke voorwaarden moet alle berouw vervullen om dienstig te zijn tot de vergiffenis van de zonden? — Welk verschil is er tussen het onvolmaakt en het volmaakt berouw, ten opzichte a) van de beweegreden, en b) van de uitwerksels?
 
-6. Wat betekenen in het artikel van het Symbolum: Verrijzenis van het lichaam, het woord vlees, en het woord verrijzenis? —
-Waarin bestaat eigenlijk de verrijzenis van een wezen? — Zeg,
-met de woorden van de Catechismus, door welke macht de verrijzenis van het lichaam zal geschieden, — Leg de woorden uit,
+6. Wat betekenen in het artikel van het Symbolum: *Verrijzenis van het lichaam,* het woord *lichaam,* en het woord *verrijzenis?* — Waarin bestaat eigenlijk de verrijzenis van een wezen? — Zeg, met de woorden van de Catechismus, door welke macht de verrijzenis van het lichaam zal geschieden? — Leg de woorden uit.
 
-7. Wat leert ons de Catechismus nopens de algemeene gesteltenis van de verrezene lichamen? — Leg ieder punt uit.
+7. Wat leert ons de Catechismus nopens de algemene gesteltenis van de verrezen lichamen? — Leg ieder punt uit.
 
 8. Hoeveel en welke hoedanigheden zullen de lichamen van de gelukzaligen hebben? — Verklaar ieder van deze hoedanigheden,
 
 9. Hoeveel en welke hoedanigheden zullen de lichamen van de verdoemden hebben? — Hoe zijn deze hoedanigheden aan die van de lichamen van de gelukzaligen tegenovergesteld? — Leg ieder van die hoedanigheden uit.
-— II —
+
 VIJFTIENDE LES.
 
 Van het eeuwig Leven.
 
-Vv. 2. Welke zielen gaan tot de hemelsche glorie?
-1e De Hemel. 8 3. Hoe lang zal de glorie des Hemels duren?
-V. 4. Wat heet gij het Vagevuur?
-Vv. 5. Welke zielen worden gezonden tot het Vagevuur ?
-V. 6. Hoe lang blijven de zielen in 2e Het Vagevuur. { _p,, Vagevuur? goon de ziel V. 7, Door wat middel mogen de
-| zielen uit het Vagevwur verlost, of
-\_ haar pijnen verkort worden?
+# Waar gaan de zielen van de overledene Christenen, als zij van deze wereld scheiden?
 
-3e De hel. }V. 8. Voor wie is de Hel?
+## Tot een van deze drie plaatsen, te weten: tot de Hemel, tot de Hel, of tot het Vagevuur
 
-Plaatsen van de overledene Christenen.
+V. De Catechismus zegt: **van de overleden Christenen,** en niet, *van de overledene mensen,* omdat voor al degenen die op gener wijze tot de ware Kerk behooren, de zaligheid onmogelijk is.
 
-Het eeuwig leven.
+A. De **Hemel** ís een plaats waar de Heiligen vrij zijn van alle leed en het opperste geluk bezitten in God te aanschouwen en in Hem alle goed te genieten,
 
+De **Hel** waarvan hier gesproken wordt, is een plaats onder de aarde, waarin men beroofd is van het goddelijk aanschijn en eeuwige straffen te lijden heeft. Zij bevat twee afdeelingen: de *hel van de verdoemden,* waarin de pijn van schade of de beroving van het goddelijk aanschijn, en de pijn van gevoel tezamen geleden worden, en het *voorgeborgte van de kinderen,* waar men alleen de pijn van schade aantreft.
 
+Het **Vagevuur** zullen wij leren kennen in de 4ᵉ vraag.
 
-1. V. Waar gaan de zielen van de overledene Christenen, als zij van deze wereld scheiden?
+# Welke zielen gaan tot de hemelse glorie?
 
-A. Tot een van deze drie plaatsen, te weten: tot de Hemel, tot de Hel, of tot het Vagevuur.
+## De zielen dergenen, die in de liefde Gods zó sterven, dat zij niets meer te betalen of te zuiveren hebben
 
-V. De Catechismus zegt: van de overledene Christenen, en niet, van de overledene mensen, omdat voor al degenen die op geener wijze tot de ware Kerk behooren, de zaligheid onmogelijk is.
+A. Dus, om na de dood rechtstreeks de Hemel binnen te treden, moet men *twee* voorwaarden vervullen:
 
-A. De Hemel ís een plaats waar de Heiligen vrij zijn van alle leed en het opperste geluk bezitten in God te aanschouwen en in Hem alle goed te genieten,
+1° **In de liefde Gods sterven:** in de staat van heiligmakende gratie sterven; bijgevolg zuiver zijn van de erfzonde en van alle dadelijke doodzonde;
 
-De Hel waarvan hier gesproken wordt, is een plaats onder de aarde, waarin men beroofd is van het goddelijk aanschijn en eeuwige straffen te lijden heeft. Zij bevat twee afdeelingen:
-de hel van de verdoemden, waarin de pijn van schade of de beroving van het goddelijk aanschijn, en de pijn van gevoel te
+2° In de liefde Gods **zó** sterven, **dat men niets meer te betalen of te zuiveren hebbe:** dat men, op de ogenblik van de dood, noch bevlekt weze met dagelijkse zonden, noch tijdelijke pijnen voor reeds vergevene zonden meer uit te boeten hebbe.
 
-8
-— 12 —
+Zonder de eerste conditie zou men naar de hel gaan, en, zonder de tweede, naar het Vagevuur.
 
-zamen geleden worden, en het voorgeborgte van de kinderen,
-waar men alleen de pijn van schade aantreft.
-Het Vagevuur zullen wij leren kennen in de 4 vraag.
+# Hoe lang zal de glorie des Hemels duren?
 
-2. V. Welke zielen gaan tot de hemelsche glorie?
+## Zij zal wezen zonder einde en in van de eeuwigheid duren
 
-A. De zielen dergenen, die in de liefde Gods zó
-sterven, dat zij niets meer te betalen of te zuiveren hebben.
-
-A. Dus, om na de dood rechtstreeks de Hemel binnen te treden, moet men twee voorwaarden vervullen:
-
-le In de liefde Gods sterven: in de staat van heiligmakende gratie sterven; bijgevolg zuiver zijn van de erfzonde en van alle dadelijke doodzonde;
-
-2o In de liefde Gods zó sterven, dat men niets meer te betalen of te zuiveren hebbe: dat men, op de ogenblik van de dood, noch bevlekt weze met dagelijksche zonden, noch tijdelijke pijnen voor reeds vergevene zonden meer uit te boeten hebbe.
-
-Zonder de eerste conditie zou men naar de hel gaan, en,
-zonder de tweede, naar het Vagevuur.
-
-3. V. Hoe lang zal de glorie des Hemels duren?
-A. Zij zal wezen zonder einde en in van de eeuwigheid duren.
 A. In van de eeuwigheid, dat is, zonder einde.
 Zonder de eeuwigheid ware het geluk des Hemels onvol-
 
@@ -394,7 +300,7 @@ A. een plaats onder de aarde, in dewelke de zielen van de gelovigen door het vuu
 — 13 —
 
 A. Het vagevuur is, volgens het algemeen gevoelen, z00wel als de hel, een plaats onder de aarde; de zielen van de gelovigen worden er gezuiverd van alle hun zonden en schulden: van al hun schuiden van tijdelijke pijnen, die zij voor hun reeds vergevene zonden nog moeten lijden. De Catechismus zegt: gezuiverd worden, en niet:
-zich zuiveren, omdat de zielen van het vagevuur door hun lijden niets meer kunnen verdienen; zij kunnen enkel voldoen door genoeg te lijden. Hij noemt de schulden van tijdelijke pijnen ook zonden, omdat zij van de zonden voortkomen. De dagelijksche zonden, waar een stervende in zijn uitersten ogenblik mee besmet blijft, worden hem vergeven ofwel in die ogenblik zelven, door een akte van berouw waartoe God hem dan beweegt, ofwel in het Oordeel onmiddellijk na de dood, als de ziel de pijnen, haar door God opgelegd, met een waar leedwezen aanneemt; de dagelijksche zonde kan immers in de zielen dergenen die in Gods gratie sterven,
+zich zuiveren, omdat de zielen van het vagevuur door hun lijden niets meer kunnen verdienen; zij kunnen enkel voldoen door genoeg te lijden. Hij noemt de schulden van tijdelijke pijnen ook zonden, omdat zij van de zonden voortkomen. De dagelijkse zonden, waar een stervende in zijn uitersten ogenblik mee besmet blijft, worden hem vergeven ofwel in die ogenblik zelven, door een akte van berouw waartoe God hem dan beweegt, ofwel in het Oordeel onmiddellijk na de dood, als de ziel de pijnen, haar door God opgelegd, met een waar leedwezen aanneemt; de dagelijkse zonde kan immers in de zielen dergenen die in Gods gratie sterven,
 onmogelijk blijven bestaan.
 
 De zuivering van de zielen in het Vagevuur geschiedt door het vuur en andere pijnen van gevoel, zoals de knaging van de conscientie, de duisternis in het verstand, het droeve gezelschap van lijdenden en, waarschijnlijk, ook pijnen overeenstemmende met de zonden die gestraft worden; maar, boven dit alles, lijden zij nog de pijn van schade, veruit de grootste van het Vagevuur, omdat de gelovige zielen verstaan, van welk oneindig geluk zij voor enige tijd beroofd zijn, hoe gemakkelijk zij het konden verdienen en hoe zij het voor een beuzeling opgeofferd hebben.
@@ -404,21 +310,21 @@ Het schijnt zeker te zijn, dat de minste pijn van het Vagevuur de grootste pijn 
 5. V. Welke zielen worden gezonden tot het Vagevuur ?
 
 A. De zielen dergenen, die in de gratie Gods sterven,
-maar nochtans niet ontslagen zijn van alle dagelijksche zonden of last van penitentie.
+maar nochtans niet ontslagen zijn van alle dagelijkse zonden of last van penitentie.
 
 A. Tot het Vagevuur worden gezonden de zielen die in de twee volgende conditiën zijn:
 — 14 —
 
-le Die in de gratie Gods van deze wereld scheiden.
+1° Die in de gratie Gods van deze wereld scheiden.
 
-2e Maar nochtans niet ontslagen zijn van alle dagelijksche zonden — of last van penitentie: of van alle schuld van tijdelijke pijnen, die na de vergitfenis van de zonden overblijft.
+2e Maar nochtans niet ontslagen zijn van alle dagelijkse zonden — of last van penitentie: of van alle schuld van tijdelijke pijnen, die na de vergitfenis van de zonden overblijft.
 
 Zonder de eerste conditie zouden de zielen naar de Hel gaan, en,‚ zonder de tweede, naar de Hemel,
 
 6. V. Hoelang blijven de zielen in het Vagevuur?
 A. Totdat zij door haar lijden de goddelijke rechtvaardigheid voldaan hebben.
 
-A. Totdat zij, de Catechismus zegt niet: door haar verdiensten, want zij kunnen niets meer verdienen, maar door haar lijden de goddelijke rechtvaardigheid voldaan hebben: zoveel geleden hebben, als Gods rechtvaardigheid vereist. Voor de doden is er geen bermhertigheid meer maar alleen rechtvaardigheid.
+A. Totdat zij, de Catechismus zegt niet: door haar verdiensten, want zij kunnen niets meer verdienen, maar door haar lijden de goddelijke rechtvaardigheid voldaan hebben: zoveel geleden hebben, als Gods rechtvaardigheid vereist. Voor de doden is er geen barmhartigheid meer maar alleen rechtvaardigheid.
 
 7. V. Door wat middel mogen de zielen uit het Vagevuur verlost, of haar pijnen verkort worden ?
 
@@ -429,10 +335,10 @@ het toevoegen van de aflaten.
 
 A. De zielen uit het Vagevuur kunnen geholpen worden door — de levenden: de leden van de strijdende Kerk, en dát op de vier volgende manieren:
 
-1e Door hun gebeden, waardoor zij van God de verlossing van de gelovige zielen afsmeeken ;
+1e Door hun gebeden, waardoor zij van God de verlossing van de gelovige zielen afsmeken ;
 
 2e Door hun goede werken: met voor die zielen de voldoening hunr goede werken aan God aan te bieden;
-met door die werken de verlossing van de zielen af te smeeken en, zoveel mogelijk, te verdienen.
+met door die werken de verlossing van de zielen af te smeken en, zoveel mogelijk, te verdienen.
 
 39 Door het H. Sacrificie van de Mis: met voor die zielen de Mis te celebreeren, óf te doen eelebreeren, óf ze bij te wonen;
 
@@ -476,7 +382,7 @@ Van welk artikel van het Symbolum spreekt deze les? — Hoe wordt zij verdeeld? 
 3, Is de eeuwigheid des Hemels noodzakelijk, en waarom?
 
 4. Waar is het Vagevuur? — Welke pijnen van het Vagevuur noemt de Catechismus; en welke zijn specifiek al de pijnen van deze plaats? — Wat geschiedt er daar voor de zielen van de gelovigen? —
-Wat betekenen de woorden van de Catechismus: zonden en schulden? — Hoe en wanneer worden de dagelijksche zonden vergeven, waarin een rechtvaardige sterft? — Waarom zegt de Catechismus gezuiverd worden, en niet zich zuiveren?
+Wat betekenen de woorden van de Catechismus: zonden en schulden? — Hoe en wanneer worden de dagelijkse zonden vergeven, waarin een rechtvaardige sterft? — Waarom zegt de Catechismus gezuiverd worden, en niet zich zuiveren?
 
 5. Zeg, met de woorden van de Catechismus, in welke conditiën men moet sterven, om tot het Vagevuur gezonden te worden. —
 Leg die conditiën uit,
@@ -535,9 +441,9 @@ A. een deugd en gave Gods, door dewelke wij met een vast betrouwen van God verzo
 V. Het geldt hier de deugd en niet enkel de akte van Hoop;
 de redenen zijn gegeven bij de 1° vraag van de 3e les.
 
-A. De bepaling van de Hoop leert er ons in het bijzonder van kennen: le de soort van zaken waartoe zij behoort; 2° de oorsprong; 3° de akte, en 4° het voorwerp.
+A. De bepaling van de Hoop leert er ons in het bijzonder van kennen: 1° de soort van zaken waartoe zij behoort; 2° de oorsprong; 3° de akte, en 4° het voorwerp.
 
-le De soort van zaken waartoe zij behoort: de Hoop is een deugd: een genegenheid van de ziel tot een zeker goed werk.
+1° De soort van zaken waartoe zij behoort: de Hoop is een deugd: een genegenheid van de ziel tot een zeker goed werk.
 In de 39e les zullen wij zien, dat de Hoop, evenals het Geloof en de Liefde, een goddelijke deugd is, of een deugd die God zelf tot voorwerp en de goddelijke volmaaktheden tot beweegreden heeft.
 
 2e De oorsprong: de Hoop is een gave Gods, want zij behoort geenszins tot de natuurlijke orde, maar wordt ons van God uit loutere goedheid ingestort. (3e les, 1e v‚)
@@ -699,7 +605,7 @@ Vv. 4. Welk is het allerbeste en allerwaardigste gebed?
 
 We 3. Hoe is God onze Vader?
 
-le Weerde.
+1° Weerde.
 
 Onze Vader, die in
 
@@ -772,10 +678,10 @@ die voor geheel hun nakocmelingschap bestemd waren.
 
 heeft; wij zijn immers Gods aangenomene kinderen door de heiligmakende gratie. (6° les, 3e vr.)
 
-4o Omdat Hij voor ons de hemelsche erfenis heeft gereed gemaakt: omdat Hij ons, die zijn aangenomene kinderen zijn, voor erfenis of goddelijk goed dat wij van Hem, onzen vader bij aanneming, moeten ontvangen, het eeuwig geluk van de hemel bereid heeft, dat zijn eigen geluk uitmaakt,
+4o Omdat Hij voor ons de hemelse erfenis heeft gereed gemaakt: omdat Hij ons, die zijn aangenomene kinderen zijn, voor erfenis of goddelijk goed dat wij van Hem, onzen vader bij aanneming, moeten ontvangen, het eeuwig geluk van de hemel bereid heeft, dat zijn eigen geluk uitmaakt,
 
 Ziehier in welke zin God, om deze redenen onze Vader is:
-le uit hoofde van de schepping is Hij dat in een overdrachtelijken zin, als voor ons gedaan hebbende, en dit op een oneindig volmaaktere wijze, alles wat een natuurlijke vader voor zijn kind doet; 2e uit hoofde van onze verheffing tot de staat van gratie in de schepping; — van onze verlossing, waardoor wij recht gekregen hebben om de verlorene heiligmakende gratie opnieuw te ontvangen; — onzes Doopsels, waarin wij die gratie wederom gekregen hebben; — van de bereiding van het hemelsch geluk, dat de voltrekking is van de heiligmakende gratie, is Hij ook wezenlijk onze vader bij aanneming, daar Hij ons door die vier werken tot zijn kinderen heeft aangenomen.
+1° uit hoofde van de schepping is Hij dat in een overdrachtelijken zin, als voor ons gedaan hebbende, en dit op een oneindig volmaaktere wijze, alles wat een natuurlijke vader voor zijn kind doet; 2e uit hoofde van onze verheffing tot de staat van gratie in de schepping; — van onze verlossing, waardoor wij recht gekregen hebben om de verlorene heiligmakende gratie opnieuw te ontvangen; — onzes Doopsels, waarin wij die gratie wederom gekregen hebben; — van de bereiding van het hemelsch geluk, dat de voltrekking is van de heiligmakende gratie, is Hij ook wezenlijk onze vader bij aanneming, daar Hij ons door die vier werken tot zijn kinderen heeft aangenomen.
 
 Wij zeggen onse Vaderen niet mijn Vader, omdat wij allen broeders zijn in één en hetzelfde huisgezin, waar God het hoofd van is.
 
@@ -815,7 +721,7 @@ A. Het rijk van de Hemelen, dat God zijn dienaren beloofd heeft na dit leven.
 
 A. Het rijk van de hemelen: de hemel wordt een rijk genoemd, omdat God er, op de volmaaktste wijze, over alde Engelen en Heiligen heerscht; dat God zijn dienaren:
 degenen die Hem hier op aarde kennen, beminnen en trouw tot het einde van het leven dienen, als loon beloofd.
-heeft na dit leven. Nochtans moet hier onder het woord rijk ook nog verstaan worden het rijk Gods hier op aarde, te weten, de H. Kerk; want, om in het rijk van de hemelen te kunnen komen, moeten wij eerst aan het rijk Gods op aarde toebehooren. In de tweede vraag van de Onze Vader smeeken wij dan God, dat Hij al de mensen de hemel zou geven, en, dat te die einde, de H. Kerk zich meer en meer zou uitstrekken eu versterken; dat degenen die er buiten zijn, in haren schoot zouden treden en allen zich volkomener aan haar zouden onderwerpen.
+heeft na dit leven. Nochtans moet hier onder het woord rijk ook nog verstaan worden het rijk Gods hier op aarde, te weten, de H. Kerk; want, om in het rijk van de hemelen te kunnen komen, moeten wij eerst aan het rijk Gods op aarde toebehooren. In de tweede vraag van de Onze Vader smeken wij dan God, dat Hij al de mensen de hemel zou geven, en, dat te die einde, de H. Kerk zich meer en meer zou uitstrekken eu versterken; dat degenen die er buiten zijn, in haren schoot zouden treden en allen zich volkomener aan haar zouden onderwerpen.
 
 Deze vraag volgt zeer natuurlijk op de eerste; want het tweede dat vereist is om een meester te dienen, is zich aan zijn heerschappij te onderwerpen, en‚ om ons aan Gods heerschappij te onderwerpen, moeten wij onderdanig wezen aan de H. Kerk, die van God is ingesteld om ons in zijn plaats te bestieren.
 
@@ -844,15 +750,15 @@ A. Alhetgeen wij van node hebben tot kost: om ons lichaam te spijzen, kleederen:
 gezondheid: om deze te bewaren, als wij in goeden staat,
 en ze te herstellen, als wij ziek of zwak zijn, en al andere dingen die het lichaam, b.v. de fortuin en de voorspoed op deze wereld, of de ziel aangaan, zoals de heiligmakende en de dadelijke gratie, de HH. Sacramenten, de vergiffenis van de zonden, het woord Gods, enz; het tijdelijk goed nochtans alleen voor zoveel het dient tot profijt van onze zielen. Dit alles komt onder het woord dagelijksch brood, aangezien dat wij daardoor gewoonlijk betekenen al hetgene wij meest nodig hebben.
 
-Deze vraag volgt natuurlijk op de voorgaande: na van God verzocht te hebben hetgene rechtstreeks zijn dienst uitmaakt, smeeken wij van Hem de middelen af die wij nodig hebben om Hem dadelijk te kunnen dienen.
+Deze vraag volgt natuurlijk op de voorgaande: na van God verzocht te hebben hetgene rechtstreeks zijn dienst uitmaakt, smeken wij van Hem de middelen af die wij nodig hebben om Hem dadelijk te kunnen dienen.
 
 10. V. Welke zijn de schulden, die wij hebben?
 A. De zonden, om dewelke wij pijn of straf schuldig zijn.
 
 À. De schulden die wij hebben, zijn niet al de zonden die wij ooit hebben bedreven, maar enkel de zonden, om dewelke wij pijn of straf (de pijn is de straf van de zonde)
-schuldig zijn: de zonden die óf nog op geener wijze vergeven zijn, óf waarvoor er ten minste nog enige tijdelijke pijn te lijden blijft.
+schuldig zijn: de zonden die óf nog op gener wijze vergeven zijn, óf waarvoor er ten minste nog enige tijdelijke pijn te lijden blijft.
 
-Deze vraag ook komt op haar plaats: nadat wij van God de nodige middelen gevraagd hebben om Hem te kunnen dienen, beginnen wij van Hem de verwijdering te verzoeken van de beletselen in zijn dienst; het eerste beletsel nu zijn de zonden en de pijnen van de zonden: de doodzonde maakt ons vijanden van God; de dagelijksche zonde doet ons in de dienst van God verfiauwen, en de tijdelijke pijnen beletten ons, na de dood rechtstreeks de hemel binnen te gaan.
+Deze vraag ook komt op haar plaats: nadat wij van God de nodige middelen gevraagd hebben om Hem te kunnen dienen, beginnen wij van Hem de verwijdering te verzoeken van de beletselen in zijn dienst; het eerste beletsel nu zijn de zonden en de pijnen van de zonden: de doodzonde maakt ons vijanden van God; de dagelijkse zonde doet ons in de dienst van God verfiauwen, en de tijdelijke pijnen beletten ons, na de dood rechtstreeks de hemel binnen te gaan.
 
 11.V. Hoe moeten wij onze schuldenaren vergeven?
 A. Wij moeten de een de andere uit van de harte
@@ -877,7 +783,7 @@ V, een bekoring is een uitwendige of inwendige zaak die ons tot zonde beweegt of
 
 Á. In twee gevallen zegt men dat God ons in bekoring leidt:
 
-le Als Hij die van ons niet keert: als Hij, tot straf van onze ongetrouwheid, die bekoringen van ons niet verwijdert,
+1° Als Hij die van ons niet keert: als Hij, tot straf van onze ongetrouwheid, die bekoringen van ons niet verwijdert,
 waar Hij gewoonlijk de deugdzame mensen van bevrijdt:
 God keert gemeenlijk niet alle bekoringen van ons af;
 — 135 —
@@ -893,13 +799,13 @@ dat Hij ons de bedrevene zonden zou vergeven, verzoeken wij, dat Hij ons ook zou
 
 A. Van alle kwaad, dat ons naar ziel of lichaam mag hinderen, en de tijdelijke of de eeuwige welvaart beletten.
 
-A. Van alle kwaad, zonder uitzondering, — dat ons naar ziel of lichaam mag hinderen (9° v.), en zo de tijdelijke of de eeuwige welvaart beletten: wij vragen dus in ‘t algemeen, verlost te zijn van al hetgeen eenigszins onze zaligheid zou kunnen schaden; van hetgeen ze rechtstreeks zou schaden met de ziel te hinderen, of onrechtstreeks met het lichaam te hinderen in die zaken welke de ziel aangaan. Strikt genomen, betekent van de kwade, in de laatste vraag van de Onze Vader, enkel van de dutvel;
+A. Van alle kwaad, zonder uitzondering, — dat ons naar ziel of lichaam mag hinderen (9° v.), en zo de tijdelijke of de eeuwige welvaart beletten: wij vragen dus in ‘t algemeen, verlost te zijn van al hetgeen enigszins onze zaligheid zou kunnen schaden; van hetgeen ze rechtstreeks zou schaden met de ziel te hinderen, of onrechtstreeks met het lichaam te hinderen in die zaken welke de ziel aangaan. Strikt genomen, betekent van de kwade, in de laatste vraag van de Onze Vader, enkel van de dutvel;
 edoch, aangezien dat de duivel de eerste oorsprong is van alle kwaad, zo is de bovenstaande uitlegging voor volkomen goed te houden. De hele vraag:maar verlos ons van de kwade, komt dus hier op uit: in plaats dat Gij, o Vader, ons in bekoring zoudt leiden, verlos ous liever van alle kwaad.
 
 Thans blijkt het klaar, hoe wij in de Onze Vader wezenlijk
 — 136 —
 
-alles vragen wat wij zouden mogen begeeren: al hetgeen wij hier te begeeren hebben, is God wel te dienen om Hem z00 hiernamaals eeuwig te mogen aanschouwen, en hiertoe zijn drie dingen vereist: le hetgeen de dienst Gods in zich zelf uitmaakt, 2e de nodige krachten om God gemakkelijk te dienen, 3e de verwijdering van alle beletsels in zijn dienst. Welnu, in de drie eerste vragen bidden wij om de dingen die de dienst Gods uitmaken, te weten, om Hem te mogen erkennen, ons aan zijn heerschappij te onderwerpen en zijn geboden te volbrengen; in de 4e vraag verzoeken wij van God al de hiertoe vereiste middelen, en, in de drie laatste, smeeken wij Hem, dat Hij al de beletsels in zijn dienst van ons zou verwijderen, namelijk, de zonden en schulden, de te grote bekoringen waaraan Hij ons, tot straf van onze zonden, zou laten bloot staan, en alle aanvallen van de duivel.
+alles vragen wat wij zouden mogen begeeren: al hetgeen wij hier te begeeren hebben, is God wel te dienen om Hem z00 hiernamaals eeuwig te mogen aanschouwen, en hiertoe zijn drie dingen vereist: 1° hetgeen de dienst Gods in zich zelf uitmaakt, 2e de nodige krachten om God gemakkelijk te dienen, 3e de verwijdering van alle beletsels in zijn dienst. Welnu, in de drie eerste vragen bidden wij om de dingen die de dienst Gods uitmaken, te weten, om Hem te mogen erkennen, ons aan zijn heerschappij te onderwerpen en zijn geboden te volbrengen; in de 4e vraag verzoeken wij van God al de hiertoe vereiste middelen, en, in de drie laatste, smeken wij Hem, dat Hij al de beletsels in zijn dienst van ons zou verwijderen, namelijk, de zonden en schulden, de te grote bekoringen waaraan Hij ons, tot straf van onze zonden, zou laten bloot staan, en alle aanvallen van de duivel.
 
 VRAGEN.
 
@@ -1041,7 +947,7 @@ niet omdat zij de goddelijke gratie in de hoogsten graad genoten heeft, maar, va
 
 De gratie waarvan hier gesproken wordt, is a) de heiligmakende gratie met al de bovennatuurlijke deugden en de gaven van de H. Geest, waardoor wij kinderen en vrienden Gods zijn; b) de dadelijke gratien, die de heiligmakende werkend maken.
 
-De H. Maagd heeft meer gratie ontvangen dan eenig ander schepsel le onder opzicht van tijd, daar zij, van de erfzonde vrij zijnde, de gratie van in het begin haars bestaans genoten heeft; 2° onder opzicht van hoeveelheid of van de graad van de gratie haar van God geschonken. — Zij heeft die gratie nooit door enige zonden verloren, want zij heeft nooit noch dodelijke, noch dagelijksche zonde bedreven; nu de heiligmakende gratie kan alleen door de doodzonde verloren, en de dadelijke, slechts tot straf van enige zonde, ‘tzij dodelijke of dagelijksche, in mindere maat gegeven worden. — Zij heeft de gratie, van God bekomen, altijd vermeerderd door de verdienstelijke werken die zij gedurig volbracht, en door de HH. Sacramenten die zij, na hun instelling, ontvangen heeft.
+De H. Maagd heeft meer gratie ontvangen dan eenig ander schepsel 1° onder opzicht van tijd, daar zij, van de erfzonde vrij zijnde, de gratie van in het begin haars bestaans genoten heeft; 2° onder opzicht van hoeveelheid of van de graad van de gratie haar van God geschonken. — Zij heeft die gratie nooit door enige zonden verloren, want zij heeft nooit noch dodelijke, noch dagelijkse zonde bedreven; nu de heiligmakende gratie kan alleen door de doodzonde verloren, en de dadelijke, slechts tot straf van enige zonde, ‘tzij dodelijke of dagelijkse, in mindere maat gegeven worden. — Zij heeft de gratie, van God bekomen, altijd vermeerderd door de verdienstelijke werken die zij gedurig volbracht, en door de HH. Sacramenten die zij, na hun instelling, ontvangen heeft.
 
 5. V. Is God meer met Maria dan met andere mensen?
 
@@ -1187,7 +1093,7 @@ Ongetwijfeld wordt de H. Maagd veel zekerder verhoord dan al de andere Heiligen,
 A. Haar dikwijls en godtruchtiglijk te aanroepen,
 zeggende de Wees Gegroet en andere gebeden.
 
-A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben, is haar te aanroepen: haar te erkennen als verheven zijnde boven alle schepselen, diensvolgens als koningin van hemel en aarde, en haar te smeeken om voor óns te willen bidden, Om door dit aanroepen van Maria veel vrucht te bekomen, is het niet genoeg het van tijd tot tijd eens te doen; wij moeten het — dikwijls: dagelijks en zelfs meermaals daags, en godvruchtiglijk: met bereidwilligheid en derhalve met eerbiedigheid en aandachtigheid doen, zeggende de Wees Gegroet: dit gebed is, onder opzicht van oorsprong zowel als van inhoud, het volmaaktste om Maria te aanroepea: zijn edelen oorsprong hebben wij reeds in de 3° vraag van de voorgaande les leren kennen, en,
+A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben, is haar te aanroepen: haar te erkennen als verheven zijnde boven alle schepselen, diensvolgens als koningin van hemel en aarde, en haar te smeken om voor óns te willen bidden, Om door dit aanroepen van Maria veel vrucht te bekomen, is het niet genoeg het van tijd tot tijd eens te doen; wij moeten het — dikwijls: dagelijks en zelfs meermaals daags, en godvruchtiglijk: met bereidwilligheid en derhalve met eerbiedigheid en aandachtigheid doen, zeggende de Wees Gegroet: dit gebed is, onder opzicht van oorsprong zowel als van inhoud, het volmaaktste om Maria te aanroepea: zijn edelen oorsprong hebben wij reeds in de 3° vraag van de voorgaande les leren kennen, en,
 wat de inhoud aangaat, het drukt de grootste eeretitels van Maria uit, en vraagt dat zij ons nu en in de ure van de dood zou
 — 49 —
 
@@ -1198,7 +1104,7 @@ bijstaan; — en andere gebeden, Maria bijzonder aangenaam, zoals bare litanie e
 A. Voegende bij het gebed enige goede werken tot van haar eer, als vasten, bedevaarten en andere diergelijke.
 
 A. Voegende bij het gebed enige goede werken — tot van haar eer, dat is, tot voldoening van haar begeerte, de enige die zij heeft, van de geboden en raden Gods te zien volgen;
-dit inzicht tmmers strekt tot van haar eer, daar men daardoor haar heiligheid en verhevenheid erkent en zich aan haar onderwerpt. Goede werken die men ter eere van de H. Maagd kan doen, zijn b.v. vasten, waaronder men niet uitsluitend het eigenlijk vasten, gelijk de H. Kerk het voorschrijft, maar ook alle versterving te verstaan heeft die men zich vrijwillig oplegt, of ten minste goedwillig aanveerdt; — bedevaarten:
+dit inzicht tmmers strekt tot van haar eer, daar men daardoor haar heiligheid en verhevenheid erkent en zich aan haar onderwerpt. Goede werken die men ter eere van de H. Maagd kan doen, zijn b.v. vasten, waaronder men niet uitsluitend het eigenlijk vasten, gelijk de H. Kerk het voorschrijft, maar ook alle versterving te verstaan heeft die men zich vrijwillig oplegt, of ten minste goedwillig aanvaardt; — bedevaarten:
 heilige reizen tot afgelegene plaatsen, waar God, de H. Maagd of de Heiligen op een bijzondere wijze geëerd worden; —
 en andere diergelijke, zoals te biechten gaan, ter eere van de H. Maagd licht ontsteken, en zelfs al onze goede en betamelijke werken, als wij ze doen met het inzicht van de wil Gods te volbrengen.
 
@@ -1208,7 +1114,7 @@ A. Geenszins; want Christus heeft ons geleerd te volharden in het roepen en klop
 
 V. Het Rozenhoedje of Rozenkrans, een gebed door
 
-den H. Dominicus ingevoerd, door de H. Kerk goedgekeurd en de gelovigen levendig aanbevolen, bestaat le uit
+den H. Dominicus ingevoerd, door de H. Kerk goedgekeurd en de gelovigen levendig aanbevolen, bestaat 1° uit
 — 150 —
 
 vijftien tientjes of vijftienmaal één Onze Vader met tien Wees Gegroeten en één Glorie zij de Vader, de Zoon en de H. Geest; 2o uit een korte overweging, bij ieder tientje,
@@ -1336,10 +1242,10 @@ A. De Liefde is de meeste en de waardigste onder alle deugden — omdat, zonder 
 
 V. Hier wederom geldt het niet enkel de akte, maar ook de deugd. (3° les, 1e v)
 
-ÀÂ. De bepaling vermeldt onder andere le de oorsprong,
+ÀÂ. De bepaling vermeldt onder andere 1° de oorsprong,
 2o de akte en 3° het voorwerp van de deugd van Liefde.
 
-le De oorsprong: de Liefde is een gave Gods. (3° en 16e les, le v.)
+1° De oorsprong: de Liefde is een gave Gods. (3° en 16e les, 1° v.)
 
 2o De akte of het werk tot hetwelk de deugd van Liefde ons genegen maakt, is — beminnen: iemand goed willen en bijgevolg zijn redelijke begeerte willen volbrengen, want hetgeen iemand met reden begeert of behoort te begeeren, dat is zijn goed.
 
@@ -1357,9 +1263,9 @@ De reden van onze liefde tot God is het voorwerp van de volgende vraag.
 
 3. V. Waarom moeten wij God beminnen ?
 
-À. Om Hem zelven, dat is om zijn goedheid, bermhertigheid, liefde tot ons, en andere volmaaktheden, met dewelke Hij alle goed te boven gaat.
+À. Om Hem zelven, dat is om zijn goedheid, barmhartigheid, liefde tot ons, en andere volmaaktheden, met dewelke Hij alle goed te boven gaat.
 
-A. Wij moeten God beminnen — om Hem zelven, om de uitmuntendheid van zijn natuur, — dat is, om zijn goedheid: om zijn wijsheid in het verstand en zijn heiligheid in de wil, — bermhertigheid: om zijn groot medelijden met onze ellende, dat uit zijn goedheid voortkomt, — Hefde tot ons: om zijn werkende liefde tot ons, waardoor Hij ons allerhande goederen en weldaden geschonken heeft en voortdurend schenkt, — en andere volmaaktheden, zoals zijn almogendheid, zijn voorzienigheid, zijn getrouwheid, enz.,
+A. Wij moeten God beminnen — om Hem zelven, om de uitmuntendheid van zijn natuur, — dat is, om zijn goedheid: om zijn wijsheid in het verstand en zijn heiligheid in de wil, — barmhartigheid: om zijn groot medelijden met onze ellende, dat uit zijn goedheid voortkomt, — Hefde tot ons: om zijn werkende liefde tot ons, waardoor Hij ons allerhande goederen en weldaden geschonken heeft en voortdurend schenkt, — en andere volmaaktheden, zoals zijn almogendheid, zijn voorzienigheid, zijn getrouwheid, enz.,
 — met dewelke Hij alle goed te boven gaat; door welke hoedanigheden Hij, die oneindig volmaakt is, de volmaakt-
 — 156 —
 
@@ -1377,7 +1283,7 @@ die Hij voor de zondaars bereid heeft; deze liefde echter is onvolmaakt, daar zi
 V. Bovenal: boven alle dingen (2e v.)
 
 A. God boven alle dingen beminnen, is Hem — zó beminnen: op die wijze goed willen en zó willen dienen, dat men liever zou verlaten — alle dingen: alle goederen buiten God, zoals rijkdommen, eer en faam. bloedverwanten en kennissen, — ook het leven, dat zou uit te zonderen zijn,
-ware er een uitzondering te maken: het leven immers is het voornaamste en edelste onder al de aardsche goederen; — dan God met één zonde te vergrammen: dan één doodzonde te hedrijven: de dagelijksche zonden heletten of breken de Liefde niet, omdat zij geen volkomene of volmaakte overtredingen van Gods wet zijn (37e les. 6e v.). Om bovenal te zijn, moet dus onze Liefde tot God alle andere liefde tot eenig wezen in hoogachting overtreffen, zoodanig dat wij gesteld zijn om alles te verliezen, liever dan God door één zonde te vergrammen; zij moet echter niet vuriger, levendiger zijn, noch meer indruk op ons maken dan alle andere liefde, wie dus meer droefheid gevoelt, omdat hij, b.v. zijn vader of zijn moeder verloren heeft, dan omdat hij God door een zonde heeft vergramd, die moet daarom geenszins
+ware er een uitzondering te maken: het leven immers is het voornaamste en edelste onder al de aardsche goederen; — dan God met één zonde te vergrammen: dan één doodzonde te hedrijven: de dagelijkse zonden heletten of breken de Liefde niet, omdat zij geen volkomene of volmaakte overtredingen van Gods wet zijn (37e les. 6e v.). Om bovenal te zijn, moet dus onze Liefde tot God alle andere liefde tot eenig wezen in hoogachting overtreffen, zoodanig dat wij gesteld zijn om alles te verliezen, liever dan God door één zonde te vergrammen; zij moet echter niet vuriger, levendiger zijn, noch meer indruk op ons maken dan alle andere liefde, wie dus meer droefheid gevoelt, omdat hij, b.v. zijn vader of zijn moeder verloren heeft, dan omdat hij God door een zonde heeft vergramd, die moet daarom geenszins
 — 157 —
 
 denken, dat hij geen voldoend berouw over zijn zonden heeft.
@@ -1408,7 +1314,7 @@ A. Alle redelijke schepselen die met ons deel kunnen hebben in de goddelijke glo
 
 A. Opdat iemand onze naaste zij, moet hij deze drie voorwaarden vervullen:
 
-le Een schepsel zijn (l® les, v. 5); dus is God onze naaste niet, aangezien Hij uit zich zelf bestaat;
+1° Een schepsel zijn (l® les, v. 5); dus is God onze naaste niet, aangezien Hij uit zich zelf bestaat;
 
 2o Ren redelijk schepsel zijn, zoals de mensen (le Ì. v. 5)
 en de Engelen (6e les, v. 4); dus zijn de levenlooze wezens, de planten en de dieren onze naaste niet;
@@ -1540,7 +1446,7 @@ Waarom voegt de Catechismus de woorden ook het leven bij de voorgaande alle ding
 
 7. Hoeveel en welke voorwaarden zijn vereist, opdat iemand onze naaste zou wezen? — Leg ze uit. — Zeg waarom God, de levenlooze wezens, de planten, de dieren, de duivelen en de verdoemden onze naaste niet zijn. — Noem degenen die onze naaste zijn, en zeg waarom zij het zijn. — Geef rekenschap van de naam: onze naaste.
 
-8. Geef de zin van de vraag: Welk is het kort begrip tan alles wat wij, om de Liefde te onderhouden, moeten doen. — In welke betrekking staan het Symbolum van het Geloof en de Tien Geboden Gods? — Moeten wij niets doen buiten de Tien Geboden? — Hoe zijn de andere wetten eenigszins in de Tien Geboden begrepen?
+8. Geef de zin van de vraag: Welk is het kort begrip tan alles wat wij, om de Liefde te onderhouden, moeten doen. — In welke betrekking staan het Symbolum van het Geloof en de Tien Geboden Gods? — Moeten wij niets doen buiten de Tien Geboden? — Hoe zijn de andere wetten enigszins in de Tien Geboden begrepen?
 
 9. Wie heeft de Tien Geboden gegeven? — Op hoeveel manieren zijn zij gegeven geworden? — Stel deze manieren, met de woorden van de Catechismus, voor. — Leg ze uit. — Hoe verschillen dus die bekendmakingen van de Tien Geboden onder opzicht van de manier, op dewelke zij geschied zijn? — Hoe verschillen zij onder opzicht van de geboden zelven?
 
@@ -1598,7 +1504,7 @@ De woorden: « bovenal bemint één God, » uit onze gewone manier van de Tien G
 Dit Gebod is met recht het eerste, daar er voor een onderdaan geen gewichtiger plicht bestaat, dan zich aan zijn meester te onderwerpen met hem te erkennen, op hem betrouwen te hebben, en hem te willen dienen,
 
 Uit de leer van deze eerste vraag vloeit, dat wij het Eerste Gebod volbrengen met de Akten van Geloof, Hoop en Liefde uit van de harte te verwekken. Om ons tot het verwekken van deze Akten aan te wakkeren, verleent ons de H. Kerk een aflaat van 7 jaar en 7 quadragenen (zevenmaal veertig dagen)
-telkens dat wij die Akten lezen, en, daarenboven, een vollen aflaat in de ure van de dood, en ook eens in iedere maand, aan allen die ze dagelijks verwekken, mits nochtans te biechten en te communiceeren.
+telkens dat wij die Akten lezen, en, daarenboven, een volle aflaat in de ure van de dood, en ook eens in iedere maand, aan allen die ze dagelijks verwekken, mits nochtans te biechten en te communiceeren.
 
 2. Vv. Welke zonden geschieden tegen het Eerste Gebod?
 — 166 —
@@ -1746,7 +1652,7 @@ V. Hoe moeten wij ons tot de Ketters gedragen, om ons aan hun zonde niet plichti
 
 A. De Catechismus leert ons hierover twee dingen:
 
-le Wij moeten hun verkeering altijd neerstiglijk schuwen, d. i, wij moeten in alle omstandigheden met grote zorg, voor zoveel wij kunnen, vermijden met hen te handelen, in hun gezelschap te zijn, hun boeken of schriften te lezen.
+1° Wij moeten hun verkeering altijd neerstiglijk schuwen, d. i, wij moeten in alle omstandigheden met grote zorg, voor zoveel wij kunnen, vermijden met hen te handelen, in hun gezelschap te zijn, hun boeken of schriften te lezen.
 
 2e Wij moeten hun verkeering schuwen allermeest in kerkelijke en geestelijke zaken, d.i. wij moeten in het bijzonder vermijden met hen gemeenschap te hebben in godsdienstige zaken, zoals door tegenwoordig te zijn in hun kerkelijke diensten, door hun boeken van godsdienstleer te lezen, en door met hen te redetwisten. De H. Kerk verbiedt aan haar gelovigen de godsdienstige plechtigheden van de Ketters bij te wonen, hun boeken die de godsdienst aangaan,
 telezen, en, zonder oorlof, openbare en plechtige redetwisten met de Ketters aan te gaan.
@@ -1754,7 +1660,7 @@ telezen, en, zonder oorlof, openbare en plechtige redetwisten met de Ketters aan
 Er blijven nog drie zonden tegen het Eerste Gebod, waar-
 — 173 —
 
-van de Catechismus geen uitlegging geeft: le aile andere ongelovigheid, 20 wanhoop en 3° haat van God.
+van de Catechismus geen uitlegging geeft: 1° aile andere ongelovigheid, 20 wanhoop en 3° haat van God.
 
 Behalve de ketterij, behoort nog tot de zonden van ongelovigheid: a) de volkomene ongelovigheid, die bestaat in het vrijwillig verwerpen van geheel de Openbaring; b) de gesprekken tegen het Geloof en het loochenen van het Geloof door handelwijze of tekenen, vanwege dezen die inwendig aan God geloven; en c) de verwaarloozing van de middelen die te gebruiken zijn om een voldoende kennis te bekomen van het Geloof dat men.helijdt.
 
@@ -1842,7 +1748,7 @@ gen God.
 V, Het Eerste Gebod belast ons één God alleen te erkennen,
 te aanroepen en te dienen; nu, is hettegen de eer Gods,
 of strijdt het met dit Kerste Gebod: dat wij de Heiligen,
-de Engelen en de Gelukzaligen, — eeren, over hun verhevenheid loven, — of aanroepen: hunn bijstand of hun hulp afsmeeken ?
+de Engelen en de Gelukzaligen, — eeren, over hun verhevenheid loven, — of aanroepen: hunn bijstand of hun hulp afsmeken ?
 
 A. Neen, dat strijdt. tegen dit Gebod niet; — want wij eeren die niet als goden: wij erkennen, aanroepen en dienen die niet als de scheppers en oppermeesters van hemel en aarde; maar als vrienden en dienaars van de waarachtigen God: maar als personen die met de enige waren God, bij middel van de bovennatuurlijke gaven, door vriendschap verbonden, en Hem onderworpen zijn. — Moesten wij hen erkennen, aanroepen en dienen als goden, dan zouden wij ons aan een zonde tegen het Eerste Gebod plichtig maken,
 namelijk, aan de zonde van afgoderij.
@@ -2074,7 +1980,7 @@ blasphemeeren is kwaad van iemand zeggen.
 
 A. De blasphemie geschiedt op deze drie manieren:
 
-le Als men God of zijn Heiligen — iets toeschrijft dat tegen hun eer is: een hoedanigheid of een werk toekent dat strijdt met hun volmaaktheden, of iets wenscht dat met hun volmaaktheden niet overeenstemt.
+1° Als men God of zijn Heiligen — iets toeschrijft dat tegen hun eer is: een hoedanigheid of een werk toekent dat strijdt met hun volmaaktheden, of iets wenscht dat met hun volmaaktheden niet overeenstemt.
 Op deze wijze blasphemeert men met b.v. te zeggen, dat God te veel straft, dat de H. Maagd kan zondigen, of met te wenschen, dat God niet zou bestaan, dat de Heiligen de hemel zouden verliezen, — Men bemerke dat er hier spraak is van de oneer aan de Heiligen aangedaan, alhoewel het Tweede Gebod slechts handelt over onze plichten jegens God. De reden daarvan is, dat men, met de Heiligen oneer aan te doen, God zelf onteert, vermits zij zijn vrienden en hovelingen zijn.
 
 2e Of iets loochent dat hun toekomt: als men aan God of aan zijn Heiligen een hoedanigheid of een daad ontkent, die hun waarlijk toebehoort. Op deze wijze blasphemeert men met b. v‚ te zeggen dat God niet almachtig is, of dat Hij de wereld niet geschapen heeft, dat de Heiligen op ons niet denken.
@@ -2092,7 +1998,7 @@ mie, waardoor wij God of de Heiligen kwaad wenschen, wordt gewoonlijk vloek geno
 De heiligschenderij is allernauwst met de blasphemie verwantschapt. Gelijk de blasphemie bestaat in God te onteeren roet van Hem kwaad te spreken, zo bestaat de heiligschenderij in God oneer aan te doen met heilige zaken, personen of plaatsen onwaardig te behandelen of te onteeren.
 
 De H. Geschiedenis leert ons met welke schrikkelijke straffen God in bet Oud Testament de godslasteraars geslagen heeft. Sennacherib, Koning van Assyrië, die door zijn veldoverste Rabsaces de Allerhoogste gelasterd had, verloor, door de hand van een Engel van de hemel, 185,000 man,
-en werd door zijn eigen zonen vermoord; Holofernes, veldoverste van Nabuchodonosor, die zijn koning als God wilde doen erkennen, werd het hoofd afgehouwen door een joodse vrouw Judith genoemd. — De straffen van de heiligschenders zijn niet minder geweest: Balthazar, Koning van Babylonië, die met zijn dischgenooten wijn dronk uit de heilige vaten van de tempel van Jeruzalem, verloor in denzelfden nacht zijn leven en zijn kroon; en de boze kinderen, die Elisëus beschimpten, werden, ten getalle van twee en veertig,
+en werd door zijn eigen zonen vermoord; Holofernes, veldoverste van Nabuchodonosor, die zijn koning als God wilde doen erkennen, werd het hoofd afgehouwen door een joodse vrouw Judith genoemd. — De straffen van de heiligschenders zijn niet minder geweest: Balthazar, Koning van Babylonië, die met zijn dischgenooten wijn dronk uit de heilige vaten van de tempel van Jeruzalem, verloor in dezelfde nacht zijn leven en zijn kroon; en de boze kinderen, die Elisëus beschimpten, werden, ten getalle van twee en veertig,
 door twee beren verscheurd.
 
 8. V. Watts eed doen of zweren?
@@ -2120,7 +2026,7 @@ want het is deugdelijk: het is een goed werk, als de eed geschiedt met deze drie
 5. V. Wie zweert met goed oordeel?
 A. Die niet zweert dan uit nood en goede reden.
 
-A. Men zweert uit nood, als men het doet, 19 om de wetten van de H. Kerk of van de staat, die de eed vereischen, te volbrengen, of 2e om een grote schade te vermijden, een gewichtig geschil te eindigen, een belangrijke waarheid te doen aanvaarden, en daartoe geen anderen middel heeft dan de eed.
+A. Men zweert uit nood, als men het doet, 19 om de wetten van de H. Kerk of van de staat, die de eed vereisen, te volbrengen, of 2e om een grote schade te vermijden, een gewichtig geschil te eindigen, een belangrijke waarheid te doen aanvaarden, en daartoe geen anderen middel heeft dan de eed.
 
 Men zweert uit goede reden, als de eed, die men doet,
 zoo niet volstrekt noodzakelijk om een grote schade te ontgaan, dan toch zeer dienstig is om een gewichtig voordeel te verschaffen, of een nadeel van enige aangelegenheid te verwijderen.
@@ -2143,7 +2049,7 @@ Het is klaarblijkend dat een eed tegen de rechtvaardigheid zonde is, daar wij Go
 Deze leer legt ons voor ogen, hoe Herodes die gezworen had aan Salome, de dochter van Herodias, alles
 — 190 —
 
-te geven wat zij hem zou vragen, dezen eed op geener wijze mocht houden, als de jonge prinses op ’t verzoek van haar moeder het hoofd van Joannes de Dooper kwam eischen.
+te geven wat zij hem zou vragen, dezen eed op gener wijze mocht houden, als de jonge prinses op ’t verzoek van haar moeder het hoofd van Joannes de Dooper kwam eischen.
 
 1. V. Watis zweren tegen de waarheid?
 
@@ -2181,7 +2087,7 @@ Als deze beide voorwaarden vervuld zijn, is de belofte een godsdienstig werk, aa
 
 De verplichting van een belofte houdt op, wanneer de beloofde zaak onmogelijk, onverschillig of door het gebod eens oversten of uit een andere oorzaak ongeoorloofd wordt; ook nog,
 als men van een gemachtigden biechtvader of kerkoverste,
-om een goede reden, dispensatie ontvangen heeft. — Soms wordt in de belofte slechts ten deele gedispenseerd, en soms ook wordt zij enkel in een ander werk veranderd.
+om een goede reden, dispensatie ontvangen heeft. — Soms wordt in de belofte slechts ten dele gedispenseerd, en soms ook wordt zij enkel in een ander werk veranderd.
 
 Degenen die geheel van een overheid afhangen, zoals kloosterlingen van hun oversten of jonge kinderen van hun ouders, kunnen geen geldige beloften doen, tenzij met de voorwaarde: als mijne oversten toestemmen; en daarom bestaan hun beloften niet, als hun deze toestemming geweigerd wordt,
 
@@ -2291,19 +2197,19 @@ A. Om de Feestdagen te vieren, zijn twee dingen vereist:
 niet om deledigheid voor te staan, maar om ons de gelegenheid te geven van met godsdienstige zaken bezig te zijn.
 
 2o Ons begeven tot godsdienstigheid; ons toeleggen op werken, waardoor wij God eeren en dienen, zoals de H. Mis hooren en in andere kerkelijke diensten tegenwoordig zijn,
-de sermoenen en de Catechismus bijwonen, tot de HH. Saecramenten naderen, te huis geestelijke lezingen doen, werken van bermhertigheid verrichten, enz.
+de sermoenen en de Catechismus bijwonen, tot de HH. Saecramenten naderen, te huis geestelijke lezingen doen, werken van barmhartigheid verrichten, enz.
 
 3. V. Welke werken worden meest verboden?
 
 A. Slafelijke ambachten en werken, tenware de nood het anders vereiste; daarenboven koopmanschappen, gedingen of processen.
 
 V. Worden meest verboden, d.i. worden uitdrukkelijk,
-in het bijzonder en ernstig verboden. — Andere werken, die de godsdienstigheid beletten, zijn ook, ten minste eenigszins,
+in het bijzonder en ernstig verboden. — Andere werken, die de godsdienstigheid beletten, zijn ook, ten minste enigszins,
 op die dagen verboden.
 
 A. Drij soorten van werken worden meest verboden:
 
-le Slafelijke ambachten en werken: dat zijn alle werken waarin het lichaam meer deel heeft dan de geest en die gewoonlijk door dagloners, dienaars en ambachtslieden verricht worden, zoals ploegen, zaaien, maaien, naaien, enz.
+1° Slafelijke ambachten en werken: dat zijn alle werken waarin het lichaam meer deel heeft dan de geest en die gewoonlijk door dagloners, dienaars en ambachtslieden verricht worden, zoals ploegen, zaaien, maaien, naaien, enz.
 Vrije werken integendeel zijn al dezulke, waarin de geest meer deel heeft dan het lichaam, zoals lezen, schrijven,
 studeeren, onderwijs geven in wetenschappen en schoone kunsten, spelen en vele andere. De eerste worden slafelijke werken genoemd, omdat zij eertijds door slaven; de laatste,
 vrije werken, omdat zij eertijds door vrije mensen verricht werden.
@@ -2324,13 +2230,13 @@ andere kerkelijke diensten tegenwoordig te zijn.
 
 A. De Catechismus leert ons hierover twee dingen:
 
-le Wij moeten ten minste Mis hooren: wij zijn volstrekt gehouden Miste hooren, zoodanig dat wij tegen het Derde Gebod ernstig zondigen, met op Zon- en Feestdagen de Mis vrijwillig te verzuimen.
+1° Wij moeten ten minste Mis hooren: wij zijn volstrekt gehouden Miste hooren, zoodanig dat wij tegen het Derde Gebod ernstig zondigen, met op Zon- en Feestdagen de Mis vrijwillig te verzuimen.
 — 197 —
 
-2e Wij behooren ook in sermoenen, christelijke leren en andere kerkelijke diensten tegenwoordig te zijn: d.i. alhoewel wij uitsluitend volstrekt verplicht zijn Mis te hooren, betaamt het nochtans ten zeerste en is het zelfs eenigszins bevolen, ook in de sermoenen en christelijke leren en in de andere kerkelijke diensten, zoals Vespers en Lof, tegenwoordig te zijn. Bijgevolg, wie op Zon- en Feestdagen, uit nalatigheid, luiheid of ongodsdienstigheid,
-niets anders doet dan een Mis bijwonen, maakt zich gemakkelijk aan dagelijksche zonde plichtig. — Iemand, die geen genoegzame kennis heeft van het geloof, zal zich, door het verzuimen van sermoenen en christelijke leren, niet zelden aan doodzonde plichtig maken.
+2e Wij behooren ook in sermoenen, christelijke leren en andere kerkelijke diensten tegenwoordig te zijn: d.i. alhoewel wij uitsluitend volstrekt verplicht zijn Mis te hooren, betaamt het nochtans ten zeerste en is het zelfs enigszins bevolen, ook in de sermoenen en christelijke leren en in de andere kerkelijke diensten, zoals Vespers en Lof, tegenwoordig te zijn. Bijgevolg, wie op Zon- en Feestdagen, uit nalatigheid, luiheid of ongodsdienstigheid,
+niets anders doet dan een Mis bijwonen, maakt zich gemakkelijk aan dagelijkse zonde plichtig. — Iemand, die geen genoegzame kennis heeft van het geloof, zal zich, door het verzuimen van sermoenen en christelijke leren, niet zelden aan doodzonde plichtig maken.
 
-De H. Geschiedenis leert ons hoe streng het geboden is de Zon- en de gebodene Feestdagen te vieren: een Israëliet, die in de woestijn op een Sabbatdag hout geraapt had, werd door God zelf veroordeeld om door de menigte gesteenigd te worden; — en om de Israëlieten in de woestijn het gebod van de Sabbat te vieren gedurig voor ogen te houden, liet God op die dag alleen geen manna vallen, maar verdubbelde die hemelsche spijs de dag te voren, en, hoewel het manna op andere dagen nooit tot 's anderdaags kon bewaard worden, bleef het toch voor de dag des Heeren versch en goed,
+De H. Geschiedenis leert ons hoe streng het geboden is de Zon- en de gebodene Feestdagen te vieren: een Israëliet, die in de woestijn op een Sabbatdag hout geraapt had, werd door God zelf veroordeeld om door de menigte gesteenigd te worden; — en om de Israëlieten in de woestijn het gebod van de Sabbat te vieren gedurig voor ogen te houden, liet God op die dag alleen geen manna vallen, maar verdubbelde die hemelse spijs de dag te voren, en, hoewel het manna op andere dagen nooit tot 's anderdaags kon bewaard worden, bleef het toch voor de dag des Heeren versch en goed,
 
 5. V. Wie verstaat gij door Vader en Moeder in het Vierde Gebod?
 
@@ -2338,7 +2244,7 @@ A. Onze ouders, van wie wij geboren zijn, en alle oversten, zo geestelijke als w
 
 A. Twee soorten van personen komen onder de naam van Vader en Moeder:
 
-le Onze ouders van wie wij geboren zijn, te weten:
+1° Onze ouders van wie wij geboren zijn, te weten:
 vader en moeder, onze grootvaders en grootmoeders, en al degenen die rechtstreeks hun plaats vervangen.
 
 2o Alle oversten: al degenen die macht hebben om ons te ‘bestieren, te beschermen, te helpen, te onderwijzen, —
@@ -2355,7 +2261,7 @@ A. Inwendige en uitwendige eer, gehoorzaamheid en behulpzaamheid.
 
 A. Wij zijn onze ouders schuldig:
 
-le Inwendige eer, d.w.z. dat wij onze ouders of oversten, als zulken, namelijk als plaatsvervangers van God moeten erkennen of achten, en volgens die waardigheid op hen betrouwen hebben en hen beminnen. — Tegen deze plicht zondigen al degenen, die hun ouders of oversten verachten,
+1° Inwendige eer, d.w.z. dat wij onze ouders of oversten, als zulken, namelijk als plaatsvervangers van God moeten erkennen of achten, en volgens die waardigheid op hen betrouwen hebben en hen beminnen. — Tegen deze plicht zondigen al degenen, die hun ouders of oversten verachten,
 hun kwaad wenschen, zich in hun ongeluk verheugen, van alle overheid zouden willen ontslagen zijn.
 
 2o Uitwendige eer: wij moeten die inwendige achting,
@@ -2433,7 +2339,7 @@ Noem de bijzonderste werken van godsdienstigheid,
 6. Zeg hoeveel en welke dingen wij onze ouders schuldig zijn. —
 Leg ze alle uit.
 
-7. Zeg, met de woorden van de Catechismus, welke uitzonderingen er te maken zijn aan de algemeenen regel die ons de gehoorzaamheid aan onze ouders oplegt. — Leg die woorden uit.
+7. Zeg, met de woorden van de Catechismus, welke uitzonderingen er te maken zijn aan de algemenen regel die ons de gehoorzaamheid aan onze ouders oplegt. — Leg die woorden uit.
 
 8. Hoeveel en welke dingen belooft God, volgens de Catechis-
 — 202 —
@@ -2494,7 +2400,7 @@ Gebod ? \ te biechten,
 A. Zich zelf of enige andere mensen, zonder wettige macht en reden, dood te slaan, te kwetsen, merkelijk te hinderen of daartoe raad of hulp te geven.
 — 204 —
 
-A. Het Vijfde Gehod verbiedt dus le zich zelf dood te slaan, te kwetsen, of merkelijk te hinderen; 2° enige andere mensen dood te slaan, te kwetsen of merkelijk te hinderen; 39 daartoe raad of hulp te geven; — als dit geschiedt zonder wettige macht en reden.
+A. Het Vijfde Gehod verbiedt dus 1° zich zelf dood te slaan, te kwetsen, of merkelijk te hinderen; 2° enige andere mensen dood te slaan, te kwetsen of merkelijk te hinderen; 39 daartoe raad of hulp te geven; — als dit geschiedt zonder wettige macht en reden.
 
 De woorden: zich zelf of enige andere mensen duiden het goed aan, dat het Vijfde Gebod ons doet eerbiedigen,
 te weten, het leven, de gezondheid van de mens. De dieren mogen wij doden, daar zij volgens Gods beschikking, tot ons gebruik bestemd zijn; de mens echter is het hoofdwerk van de aardsche schepping en daarom heeft God alleen de macht over het menselijk leven.
@@ -2511,7 +2417,7 @@ alsook met dat niet te beletten, als men het beletten kan, en daartoe uit rechtv
 Het Vijfde Gebod raakt niet enkel het lichamelijk, maar
 — 205 —
 
-ook het bovennatuurlijk leven, dat in de heiligmakende gratie bestaat. Dit bovennatuurlijk leven wordt verloren door de doodzonde en gekrenkt door de dagelijksche zonde, en zo strijden alle zonden op een algemeene wijze tegen het Vijfde Gebod; iedere doodzonde is een zelfmoord; iedere dagelijksche zonde, een zelfverhindering in het bovennatuurlijk leven. Hier echter valt op te merken dat, door de zonde,
+ook het bovennatuurlijk leven, dat in de heiligmakende gratie bestaat. Dit bovennatuurlijk leven wordt verloren door de doodzonde en gekrenkt door de dagelijkse zonde, en zo strijden alle zonden op een algemene wijze tegen het Vijfde Gebod; iedere doodzonde is een zelfmoord; iedere dagelijkse zonde, een zelfverhindering in het bovennatuurlijk leven. Hier echter valt op te merken dat, door de zonde,
 elkeen enkel zich zelf en niet enige andere mensen kan treffen, tenzij met daartoe raad of hulp of ten minste gelegenheid te verschaffen, of i. a. w. met verergernis of schandaal te geven.
 
 De verergernis bestaat eigenlijk in een woord, werk of verzuimenis, die minder goed is, en een ander tot val brengt, —
@@ -2535,9 +2441,9 @@ maar metterdaad zich zelf of andere mensen zonder wettige macht en reden doodsla
 
 A. Ja, dezen allen misdoen tegen dit Gebod; doch niet zij alleen ;.daartegen misdoen ook nog degenen die iemand vermaledijden, kwaad wenschen, gramschap of haat en nijd in het hart dragen.
 
-Vermaledijden, d.i. iemand kwaad wenschen voor zo0veel het voor hem kwaad is, God of de duivel smeekende dat die wensch zou volbracht worden.
+Vermaledijden, d.i. iemand kwaad wenschen voor zo0veel het voor hem kwaad is, God of de duivel smekende dat die wensch zou volbracht worden.
 
-Kwaad wenschen, d. í. enkel begeeren dat aan iemand kwaad overkome, voor zoveel het voor hem kwaad is, zonder daarbij God of de duivel te smeeken dat die wensch vervuld worde.
+Kwaad wenschen, d. í. enkel begeeren dat aan iemand kwaad overkome, voor zoveel het voor hem kwaad is, zonder daarbij God of de duivel te smeken dat die wensch vervuld worde.
 
 Gramschap, d. í. een begeerte van wraak te nemen die ongeregeld is, tzij omdat men geen macht heeft om een misdaad te straffen, of wil straffen zonder reden, of te veel wil stráffen, of wil straffen niet met een goed, maar met een slecht inzicht; ‘tzij, omdat men door die begeerte op een onbehoorlijke wijze ontsteld is. (Zie 38ste les, v. 7.)
 
@@ -2559,7 +2465,7 @@ V. De Catechismus stelt hier deze vraag, omdat wij tegen het Vijfde Gebod meest 
 
 A. Christus heeft ons geleerd voor onze vijanden drie dingen te doen:
 
-le Alle ongelijk te vergeven: alle kwaad dat zij doen,
+1° Alle ongelijk te vergeven: alle kwaad dat zij doen,
 zó kwijt te schelden, dat wij hun daarom geen kwaad tot hun ongeluk willen. Doch wij mogen wel schadeherstelling eischen, en vragen dat de misdadiger tot rust van de samenleving en tot zijn eigen. goed door de bevoegde overheid gestraft worde. — Wij moeten vooral inwendig vergeven, maar dit ook witwendig tonen, namelijk met hoegenaamd geen afkeer, haat of wraakzucht te laten blijken.
 
 2e Voor onze vijanden te bidden: hen uit die gebeden,
@@ -2605,14 +2511,14 @@ A. Die de wil hebben om onkuischheid te doen, of wetens en willens behagen nemen
 
 A. Tegen het Negende Gebod zondigen:
 
-le Die de wil hebben van onkuischheid te doen,
+1° Die de wil hebben van onkuischheid te doen,
 d.i. die de begeerte hebben of zich voorstellen onzuivere werken of aanrakingen, of lezingen, ‘of samenspraken of aanschouwingen te doer, als zij de gelegenheid zullen hebben, of als zij het zullen kunnen doen zonder gezien te zijn, enz. — Die immers een zonde wil doen, maakt zich reeds daardoor aan die zonde plichtig, hoewel hij ze niet ten uitvoer brengt; want de zonde bestaat eigenlijk én de wil,
 in de wet Gouds te willen overtreden.
 
 2e Of die wetens en willens behagen nemen in onkuische gedachten: die onzuivere werken goedkeuren,
 als goed en aangenaam aannemen en ze als zonde niet willen verfoeien; ook die zonder noodzakelijkheid of genoegzame reden onzuivere werken of schandige zaken levendig in hun inbeelding voorgesteld houden.
 
-Beide soorten van onkuische gedachten zijn zonde: de eerste op denzelfden grond als de onzuivere begeerten, de
+Beide soorten van onkuische gedachten zijn zonde: de eerste op dezelfde grond als de onzuivere begeerten, de
 — 210 —
 
 laatste om dezelfde reden als de onzuivere oogslagen, indien men er, wetens en willens mee bezig is, of indien men,
@@ -2631,7 +2537,7 @@ Ten tweede, schuwen het gezelschap van ongelijke personen, d. i, het gezelschap 
 
 Ten derde, gedenken de goddelijke tegenwoordigheid, d.i. dikwijls, zoals ’s morgens en 's avonds, vóór de bijzonderste werken van de dag en in de bekoring, ons indachtig maken dat God, onze Schepper, Heer en Regeerder, die ons alles gegeven heeft en ons zo strengelijk moet oordelen, wesenlijk gedurig bij ons is en op de volmaaktste wijze alles ziet, wat wij doen of willen, — Dit is een allerbeste middel: reeds de tegenwoordigheid van onze vuders belet ons voorzeker een onkuisch werk te bedrijven; veel meer zal ons daarvan afhouden het aandenken aän de tegenwoordigheid van de groten en machtigen God, die ons moet oordelen.
 
-Ten vierde, dikwijls te biechten gaan en de raad van de biechtvader volgen. De Biecht is daartoe zeer nuttig, le omdat zij ons verplicht een goed onderzoek van
+Ten vierde, dikwijls te biechten gaan en de raad van de biechtvader volgen. De Biecht is daartoe zeer nuttig, 1° omdat zij ons verplicht een goed onderzoek van
 — 21 —
 
 conscientie te doen, alsmede een goed berouw te verwekken,
@@ -2774,7 +2680,7 @@ zen, mededelen, enz. (37° les, vr. 9.)
 è2stolen goed koopen of bewaren: eenig goed koopen of in bewaring houden, dát men met zekerheid weet of met reden denkt gestolen te zijn; want daardoor eigent men zich toe of wederhoudt men, tet minste met de wil, een zaak die aan de bestolen persoon toebehoort.
 
 Den loon van de arbeiders onthouden: aan de dienstboden, de werk- en ambachtslieden de huurprijs of dagloon,
-waarop zij recht hebben, niet of slechts ten deele betalen:
+waarop zij recht hebben, niet of slechts ten dele betalen:
 deze daad maakt een wraakroependezonde uit. (38eles, vr. 11.)
 
 In processen eenig bedrog of valsheid gebruiken:
@@ -2815,7 +2721,7 @@ A. Jä, als men daarvoor geld eischt, voor zoveel als die geestelijk zijn; en de
 V. Door geestelijke zaken moet hier verstaan worden:
 a) al hetgeen door zich zelf of door de instelling van God of van de H. Kerk tot zaligmaking van onze zielen en tot de dienst Gods bestemd is; b) ook nog al hetgeen innig met zulke voorwerpen verbonden is. — Tot de eerste soort van geestelijke zaken behooren, 19 Gods gratie, het merkteken van de HH. Saeramenten, ens; 29 de HH. Sacramenten en de wijdingen van de H. Kerk, de aflaten, de geestelijke ambten en de gebeden;
 39 de bediening van de HH. Sacramenten en van de geestelijke ambten. — In de tweede soort vinden wij: 1e stoffelijke voorwerpen, zoals kerken, kelken, kerkgewaden, medailles,
-rozenkrânsen; 2° de arbeid die de heilige bedieningen vereischen, en 3° de tijdelijke goederen welke aan een geestelijk ambt vastgehecht zijn.
+rozenkrânsen; 2° de arbeid die de heilige bedieningen vereisen, en 3° de tijdelijke goederen welke aan een geestelijk ambt vastgehecht zijn.
 
 Verkoopen betekent hier geld of eenig ander goed eischen, 'tzij als prijs, ‘tzij als vergelding, ‘tij als voorwaarde om iets te geven.
 
@@ -2828,7 +2734,7 @@ zodat men hun geestelijke waarde tegen geld verwisselt;
 
 Geld eischen voor geestelijke zaken is dus geen zonde,
 wanneer dit geschiedt om de stoffelijke of kunstelijke waarde van de voorwerpen te doen betalen, ofwel om de dienaren des altaars de nodigen onderstand te verschaffen; maar het is zonde, als het geschiedt uit hoofde hunr geestelijke waarde;
-want, in dit geval, stelt men de geestelijke goederen, cie alle aardsche zaken bovenmate overtreffen, op denzelfden voet als een som gelds, en dit strijdt voorzeker ernstig tegen Gods wet.
+want, in dit geval, stelt men de geestelijke goederen, cie alle aardsche zaken bovenmate overtreffen, op dezelfde voet als een som gelds, en dit strijdt voorzeker ernstig tegen Gods wet.
 
 Deze zonde strijdt tegen het Zevende Gebod, omdat men geld eischt zonder reden; zij strijdt tevens tegen het Tweede,
 omdat zij een onteering bevat van zaken, die God zijn toegewijd.
@@ -2840,7 +2746,7 @@ zij verbiedt 't een en 't ander op straf van verlies dier aflaten.
 A. Alle ongelijk, met hetwelk onze naaste gehinderd wordt binnen of buiten het recht.
 
 À. Alle ongelijk: alle onrecht, alle daad die op eniger wijze met het recht strijdt, — met hetwelk onze naaste:
-niet met hetwelk God, gehinderd wordt in zijn eer of faam, — binnen of buiten het recht, 'tzij dit geschiede vóór de wettige rechtbanken, of buiten deze, in de gemeenen en dagelijkschen handel met de mensen.
+niet met hetwelk God, gehinderd wordt in zijn eer of faam, — binnen of buiten het recht, 'tzij dit geschiede vóór de wettige rechtbanken, of buiten deze, in de gemeenen en dagelijksen handel met de mensen.
 
 Het Vijfde Gebod spreekt van het leven van de naaste; het Zesde, van het huisgezin en de zuiverheid; het Zevende, van
 ’s naasten tijdelijke goederen; het Achtste nu spreekt van zijn eer en faam: het verbiedt de eer en de faam van de naaste onrechtvaardig te schenden, 't is gelijk waar dit geschiede,
@@ -2854,7 +2760,7 @@ A. Verzwijgende de waarheid, of de valsheid voorstaande of bevestigende.
 
 A. Men misdoet, in het recht, vóór de rechtbanken, op twee manieren tegen het achtste Gebod:
 
-le Verzwijgende de waarheid, d. i, geheel de waarheid of een deel er van niet willende getuigen, wanneer de rechter ons wettig ondervraagt, alsook wanneer wij daartoe gehouden zijn uit hoofde van ons ambt of van een contract of van onze plicht jegens het gemeenebest, dat, zonder onze getuigenis. met een groot ongeluk bedreigd is, — Wanneer onze getuigenis de enige middel is om de naaste van een grote schade te bevrijden, en dat wij gemakkelijk kunnen gaan getuigen, dan ook zijn wij verplicht dit te doen, doch uitsluitend wit liefde.
+1° Verzwijgende de waarheid, d. i, geheel de waarheid of een deel er van niet willende getuigen, wanneer de rechter ons wettig ondervraagt, alsook wanneer wij daartoe gehouden zijn uit hoofde van ons ambt of van een contract of van onze plicht jegens het gemeenebest, dat, zonder onze getuigenis. met een groot ongeluk bedreigd is, — Wanneer onze getuigenis de enige middel is om de naaste van een grote schade te bevrijden, en dat wij gemakkelijk kunnen gaan getuigen, dan ook zijn wij verplicht dit te doen, doch uitsluitend wit liefde.
 
 2o Of de valsehheid voorstaande, d. í. met, zonder een vals getuigenis te geven, zó te spreken, dat men de rechter een vals gedacht doet opvatten van de zaak, — of de valsheid bevestigende: uitdrukkelijk verzekerende,
 dat iets, wat men weet of meent vals te zijn, of waar men aan twijfelt, waar is.
@@ -2874,7 +2780,7 @@ kwaad te oordelen.
 A. Men misdoet meest (ten grofste) buiten het recht:
 buiten de wettige rechtbanken, op vier manieren tegen het Achtste Gebod:
 
-le Met eenig groot kwaad dat vals is van iemand te zeggen: met de naaste een zonde, ‘tzij dodelijke, ’tzij dagelijksche toe te schrijven, of een ondeugd of een lichamelijk gebrek, die, gekend zijnde, hem in de achting van de meuschen merkelijk doen dalen, en die, óf in ’t geheel niet,
+1° Met eenig groot kwaad dat vals is van iemand te zeggen: met de naaste een zonde, ‘tzij dodelijke, ’tzij dagelijkse toe te schrijven, of een ondeugd of een lichamelijk gebrek, die, gekend zijnde, hem in de achting van de meuschen merkelijk doen dalen, en die, óf in ’t geheel niet,
 óf toch minder dan men zegt, in hem te vinden zijn.
 
 2o Met eenig groot kwaad dat onbekend is van iemand te zeggen: met iemand, zonder voldoende reden,
@@ -2907,7 +2813,7 @@ of van over niets vals getuigenis te ontvangen; — zij is ook doodzonde, zo dik
 Bijgevolg, brengt de leugen de naast® slechts een geringe schade in die goederen toe, of hindert zij hem alleen ín het recht van in de samenspraak niet bedrogen te worden, dan is
 — 223 —
 
-zij maar een dagelijksche zonde. Als zij de naaste in genoemde goederen geen onrecht aandoet, maar uitsluitend hem hindert in zijn recht van over niets vals getuigenis te ontvangen, dan wordt zij genoemd een leugen om te lachen of om beterswil, volgens dat zij geschiedt om eenig vermaak te verschaffen, ofwel om ons zelf of anderen te bevoordelen. een leugen om te lachen zal zelfs geen zonde zijn,
+zij maar een dagelijkse zonde. Als zij de naaste in genoemde goederen geen onrecht aandoet, maar uitsluitend hem hindert in zijn recht van over niets vals getuigenis te ontvangen, dan wordt zij genoemd een leugen om te lachen of om beterswil, volgens dat zij geschiedt om eenig vermaak te verschaffen, ofwel om ons zelf of anderen te bevoordelen. een leugen om te lachen zal zelfs geen zonde zijn,
 als de aanhoorders genoeg kunnen verstaan dat de zaak niet gemeend is; want, in dit geval, is zij geen ware leugen.
 Schrikkelijke bewijzen van de haat Gods tegen de leugentaal treffen wij aan in Giezi die, om zijn bedrieglijke handelwijze jegens de profeet Eliseüs, met melaatschheid; in Ananias en Saphira die, om dergelijk gedrag ten opzichte van de H. Petrus, met een plotselinge dood gestraft werden.
 
@@ -2916,7 +2822,7 @@ Schrikkelijke bewijzen van de haat Gods tegen de leugentaal treffen wij aan in G
 A. Hij moet, zo hij best kan, aan hem of aan zijn erfgenamen restitutie doen.
 
 V. Wat moet hij doen, die iemand — in zijn goed: in zijn zaligheid, in zijn lichaam, in zijn fortuin, of in zijn eer
-— beschadigd heeft: onrechtvaardig schade toegebracht heeft: moet hij iets meer doen dan daarover leedwezen hebben en de gewone middels gebruiken om vergiffenis te bekomen?
+— beschadigd heeft: onrechtvaardig schade toegebracht heeft: moet hij iets meer doen dan daarover leedwezen hebben en de gewone middelen gebruiken om vergiffenis te bekomen?
 
 A. Hij moet op zonde, — aan hem: aan de beschadigde zelven, — of aan zijn erfgenamen, als de beschadigde reeds overleden is, — restitutie doen: het gestolene wedergeven of de toegebrachte schade herstellen, — zo hij best kan: hij moet aanstonds het voornemen maken van het te doen, en dat voornemen uitvoeren, zoohaast en zo volmaakt hij kan; maar hij is tot het onmogelijke niet verplicht. — De restitutie mag als voor de ogenblik onmogelijk aanzien worden, als men waarlijk niets heeft om weder te geven, of ook, wanneer men daardoor geheel zijn eer of die van zijn huisgezin zou moeten verliezen: doch uitstel geeft geen kwijtschelding.
 
@@ -3011,7 +2917,7 @@ V. Wie, in de H. Kerk, heeft de Geboden van de H. Kerk ingesteld: zijn het al de
 Dat de hooge overheid van de H. Kerk de macht moet hebben van geboden op te leggen, blijkt uit de natuur van de zaak zelve:
 de H. Kerk is door Christus ingesteld als een grote vergadering, als een groot rijk; maar geen rijk kan bestaan zonder regeering, en geen regeering zonder wetgevende macht; bijgevolg kan deze macht aan de H. Kerk niet ontkend worden, zonder dat men tevens het bestaan van de H. Kerk als vergadering, als rijk loochent.
 
-De H. Kerk wordt in de algemeene wetten, die zij aan geheel de katholieke wereld oplegt, zó door de H. Geest bestierd, dat zij nooit iets kan voorschrijven, dat met het Geloof of de zeden strijdt. Dit vloeit immers uit haar onfeilbaarheid in de zaken die het Geloof of de zeden aangaan.
+De H. Kerk wordt in de algemene wetten, die zij aan geheel de katholieke wereld oplegt, zó door de H. Geest bestierd, dat zij nooit iets kan voorschrijven, dat met het Geloof of de zeden strijdt. Dit vloeit immers uit haar onfeilbaarheid in de zaken die het Geloof of de zeden aangaan.
 
 4. V. Zin wij schuldig de Geboden van de H. Kerk te onderhouden?
 
@@ -3022,7 +2928,7 @@ V. Zijn wij, die door het Doopsel aan de H. Kerk toebehooren, en tot de jaren va
 Onder het woordje wij, in deze vraag, moeten dus ook verstaan worden de Ketters, de Schismatieken en Aegenen die in de geestelijken ban zijn; deze immers, al belijden zij het waarachtig Geloof niet onder de gehoorzaamheid van de Paus van Rome, behooren toch door hun Doopsel aan de
 — JI —
 
-H. Kerk toe, en staan, opzichtens de kerkelijke wetten, op denzelfden voet als wij; niet meer zijn zij van die wetten ontslagen dan de onderdanen, die tegen hunn wettigen koning opstaan, van dezes wetten vrij zijn. Dikwijls nochtans strekt de H. Kerk haar Geboden tot de Ketters en de Schismatieken niet uit.
+H. Kerk toe, en staan, opzichtens de kerkelijke wetten, op dezelfde voet als wij; niet meer zijn zij van die wetten ontslagen dan de onderdanen, die tegen hunn wettigen koning opstaan, van dezes wetten vrij zijn. Dikwijls nochtans strekt de H. Kerk haar Geboden tot de Ketters en de Schismatieken niet uit.
 
 De ongedoopten, ofschoon gehouden het Doopsel te ontvangen, zijn geenszins aan de wetten van de H. Kerk onderworpen,
 zoolang zij door het Doopsel in de H. Kerk niet zijn getreden;
@@ -3056,7 +2962,7 @@ A. Er zijn twee soorten van Feestdagen: de een hebben als voorwerp bijzondere we
 
 De eerste zijn ingesteld: 1° om op die dagen enige bijzondere weldaden, die toen geschied zijn, te overleggen: om ons enige bijzondere weldaden van God, die op die dagen van het jaar plaats grepen, te herinneren en te doen overwegen, en 2° over dezelve God te danken: om God over het geven van die weldaden te prijzen en Hem daarover onzen innigen dank te betuigen.
 
-De andere dienen: le om de werken van de Heiligen te beter na te volgen; om de voorbeelden van de Heiligen meer en meer voor ogen te hebben, en zo beter en beter de weg van de zaligheid te leren kennen en tevens opgewekt te worden om die weg te volgen, en 2° om hun gebeden te verzoeken: om ben te vragen, dat zij voor ons bij God zouden ten beste spreken.
+De andere dienen: 1° om de werken van de Heiligen te beter na te volgen; om de voorbeelden van de Heiligen meer en meer voor ogen te hebben, en zo beter en beter de weg van de zaligheid te leren kennen en tevens opgewekt te worden om die weg te volgen, en 2° om hun gebeden te verzoeken: om ben te vragen, dat zij voor ons bij God zouden ten beste spreken.
 
 Tot welke soort van Feestdagen al de Heiligdagen behooren,
 die wij te vieren hebben, is gemakkelijk om te bepalen: de Zondagen, die tot herinnering van de verrijzenis van Christus en
@@ -3068,11 +2974,11 @@ eeen
 
 Om nu het volgend Gebod van de H. Kerk: dan ook Mis hooren met goede manieren, volledig te verklaren, zal men zeggen wat te verstaan is: 1° door Mis, namelijk, of er spraak is van een hele of slechts een gedeeltelijke; 2e door Mis hooren en 39 door goede manieren.
 
-le Door Mis: de uitlegging hiervan wordt gegeven in het antwoord op de 7® vraag.
+1° Door Mis: de uitlegging hiervan wordt gegeven in het antwoord op de 7® vraag.
 
 2o Door Mis hooren: tot het Mis-hooren in zich zelf zijn deze drie dingen vereist: a) in de Mis tegenwoordig zijn, d.i. tot diegenen behooren die de Mis wezenlijk bijwonen; b) gedurende de Mis geen werk verrichten, zoals schilderen,
-schrijven, timmeren of ander diergelijk werk, dat met het opvolgen van de Mis niet kan samen gaan; c) in de Mis aanwezig zijn, met het uitdrukkelijk of ten minste ingesloten inzicht van God daardoor te vereeren, en bijgevolg daar toch eenigszins met God bezig zijn of op de Mis aandacht geven.
-Ziehier nu de reden daarvan: het Gehod van Mis te hooren is gegeven aan mensen; deze bestaan uit lichaam en ziel en moeten dus a) in de Mis lichamelijk tegenwoordig zijn. en b) in staat zijn om met de geest de Mis te volgen; — het legt die mensen een vereering Gods op; dus moeten zij de Mis bijwonen om God te eeren, en ten minste eenigszins de Mis volgen of daaronder op God denken. Wanneer één van de drie vermelde vereisten ontbreekt, dan hoort men geen Mis en voldoet dus niet aan de wet van de H. Kerk. — Het bijwonen van de H. Mis wordt Mis hooren genoemd, omdat zij grotendeels gezongen of gelezen wordt, en men ze zo hooren kan.
+schrijven, timmeren of ander diergelijk werk, dat met het opvolgen van de Mis niet kan samen gaan; c) in de Mis aanwezig zijn, met het uitdrukkelijk of ten minste ingesloten inzicht van God daardoor te vereeren, en bijgevolg daar toch enigszins met God bezig zijn of op de Mis aandacht geven.
+Ziehier nu de reden daarvan: het Gehod van Mis te hooren is gegeven aan mensen; deze bestaan uit lichaam en ziel en moeten dus a) in de Mis lichamelijk tegenwoordig zijn. en b) in staat zijn om met de geest de Mis te volgen; — het legt die mensen een vereering Gods op; dus moeten zij de Mis bijwonen om God te eeren, en ten minste enigszins de Mis volgen of daaronder op God denken. Wanneer één van de drie vermelde vereisten ontbreekt, dan hoort men geen Mis en voldoet dus niet aan de wet van de H. Kerk. — Het bijwonen van de H. Mis wordt Mis hooren genoemd, omdat zij grotendeels gezongen of gelezen wordt, en men ze zo hooren kan.
 
 3o Door goede manieren: de Catechismus legt deze woorden uit in het antwoord op de volgende vraag.
 — 232 —
@@ -3082,13 +2988,13 @@ A. Met grote eerbiedigheid en aandachtigheid.
 
 V. Hoe moeten wij Mis hooren, of wat is er te verstaan door de woorden: goede manieren in het Gebod van de H. Kerk dat zegt: dan ook Mis hooren met goede manieren?
 
-A. le Met grote eerbiedigheid: inwendig het H. Sacrificie van de Mis zeer hoogachtende, en uitwendig de inwendige hoogachting tonende, b.v. met de ogen neer te slaan of ze naar het altaar te wenden, met de knieën te buigen, de handen samen te voegen en te bidden.
+A. 1° Met grote eerbiedigheid: inwendig het H. Sacrificie van de Mis zeer hoogachtende, en uitwendig de inwendige hoogachting tonende, b.v. met de ogen neer te slaan of ze naar het altaar te wenden, met de knieën te buigen, de handen samen te voegen en te bidden.
 
 2e Met grote aandachtigheid, d.w.z. dat men, boven het inzicht van God door het Mis-hooren te vereeren, en boven die zekere aandacht welke reeds tot het Mis-hooren in zich zelf volstrekt is vereist, nog zorg moet hebben om alle verstrooidheden te vermijden, en zich gedurig dient bezig te houden met de Mis op te volgen, of met op God of op geestelijke dingen te peinzen, of met te bidden.
 
 Groote eerbiedigheid en aandachtigheid worden hier vereist, omdat de H. Mis, waarin Christus zich zelf aan zijn hemelse Vader slachtoffert, het verhevenste werk is van onzen Godsdienst, en omdat het Gebod van Mis te hooren gegeven is tot heiliging van de dag des Heeren en van de Feestdagen.
 
-Wie op een Zon- of geboden Feestdag aan deze goede manieren zó te kort blijft, dat hij de vereisten om Mis te hooren niet meer vervult, voldoet aan het Gebod van de H. Kerk niet, en zondigt bijgevolg dodelijk, indien hij geen andere Mis op die dag hoort. Dit Gebod verplicht ons immers op doodzonde, aangezien het door zijn natuur en door het einde van zijn instelling zwaar is. — Als de vereiste voorwaarden om Mis te hooren vervuld zijn, dan maakt het gebrek aan eerbiedigheid en aandachtigheid slechts een dagelijksche zonde uit, groter of kleiner volgens dat de oneerbiedigheid en de verstrooidheid meer of minder plichtig,
+Wie op een Zon- of geboden Feestdag aan deze goede manieren zó te kort blijft, dat hij de vereisten om Mis te hooren niet meer vervult, voldoet aan het Gebod van de H. Kerk niet, en zondigt bijgevolg dodelijk, indien hij geen andere Mis op die dag hoort. Dit Gebod verplicht ons immers op doodzonde, aangezien het door zijn natuur en door het einde van zijn instelling zwaar is. — Als de vereiste voorwaarden om Mis te hooren vervuld zijn, dan maakt het gebrek aan eerbiedigheid en aandachtigheid slechts een dagelijkse zonde uit, groter of kleiner volgens dat de oneerbiedigheid en de verstrooidheid meer of minder plichtig,
 groter of kleiner zijn.
 
 Water te bemerken is om met veel vrucht Mis te hooren,
@@ -3112,7 +3018,7 @@ Wanneer de H. Kerk ons op de Zon- en Feestdagen gebiedt Mis te hooren, spreekt z
 Daarom, wie vrijwillig een deel van de Mis verzuimt, dat, om zijn belang of om zijn grootte, als gewichtig moet aanzien worden, zoals ongetwijfeld is de Consecratie en de Nutting samen genomen, of zelfs de Cousecratie alleen, of van het begin van de Mis tot na de Offerande, of andere dergelijke delen, — die blijft ernstig te kort aan zijn plicht van een heele Mis te hooren. en zondigt dus dodelijk. Als men slechts een klein of minder gewichtig deel verzuimt, zoals vol-
 — 234 —
 
-gens het gemeen gevoelen is, van het begin van de Mis tot na de Gloria of tot aan het evangelie, dan bedrijft men slechts een dagelijksche zonde, die meerder of minder zal zijn, volgens dat het verzuimde deel groter of kleiner is. Insgelijks, wie terzelfder tijd twee helften van twee verscheidene Missen bijwoont, of in één Mis van in het begin tot na de Consecratie, en daarna, in een andere, van ua de Consecratie tot het einde zou tegenwoordig zijn, die zou ook geenszins aan het Gebod van de H. Kerk voldoen, daar die twee helften op geener wijze een volledige Mis uitmaken.
+gens het gemeen gevoelen is, van het begin van de Mis tot na de Gloria of tot aan het evangelie, dan bedrijft men slechts een dagelijkse zonde, die meerder of minder zal zijn, volgens dat het verzuimde deel groter of kleiner is. Insgelijks, wie terzelfder tijd twee helften van twee verscheidene Missen bijwoont, of in één Mis van in het begin tot na de Consecratie, en daarna, in een andere, van ua de Consecratie tot het einde zou tegenwoordig zijn, die zou ook geenszins aan het Gebod van de H. Kerk voldoen, daar die twee helften op gener wijze een volledige Mis uitmaken.
 
 VRAGEN.
 
@@ -3124,7 +3030,7 @@ Waarom spreekt de Catechismus hier van de Vijf Geboden van de H. Kerk? — Welk 
 
 3. Verklaar de vraag: wie heeft de Geboden van de H. Kerk ingesteld. — Wie verstaat men hier door: de oversten van de H. Kerkt
 — Zeg, met de woorden van de Catechismus, door welke daad die oversten van in het begin hun wetgevende macht uitgeoefend hebben. — Leg die daad uit en zeg wat er door bewezen wordt. —
-Bewijs dat, uit de natuur van de zaak zelve, de H. Kerk de macht heeft van geboden te geven. — Waarom kan de H. Kerk in haar algemeene wetten niets voorschrijven, dat met het Geloof of de zeden strijdt?
+Bewijs dat, uit de natuur van de zaak zelve, de H. Kerk de macht heeft van geboden te geven. — Waarom kan de H. Kerk in haar algemene wetten niets voorschrijven, dat met het Geloof of de zeden strijdt?
 
 4. Wat betekenen in de vraag: zijn wij schuldig de Geboden van de H. Kerk te onderhouden, a) het woordje wij en b) het woord schuldig? — Waarom zijn de Ketters, de Schismatieken en degenen die in de geestelijken ban zijn, niet gans vrij van de wetten van de H. Kerk? — Welk is de reden daarvan? — Zijn ook de ongedoopten verplicht de wetten van de H. Kerk te onderhouden? — Geef er de reden van. — Zijn zij ook vrij van het onderhouden van de Tien Geboden? — Geef reden van dit antwoord. — Waarom zijn de kinderen,
 die de jaren van verstand nog niet bereikt hebben, niet verplicht de wetten van de H. Kerk te onderhouden? — Is het zonde die kin-
@@ -3215,14 +3121,14 @@ A. Vasten bestaat dus in deze twee dingen:
 
 a) vlees en al hetgeen van vlees voorkomt, zoals vleessop en vet; b) eieren, en c) suivel, d. 1, melk en al hetgeen van melk voortkomt, zoals boter en kaas.
 
-Volgens de algemeene wetten van de H. Kerk moet men geheel de Veertigdaagschen Vasten, zelfs des Zondags, hoewel men dan meermaals zijn nooddruft mag nemen, vlees, eieren en zuivel derven; maar de bisschoppen kunnen, door de macht hun van de Paus vergund, daarin dispenseeren. In teder bisdom worden jaarlijks de dispensatiën, die Zijne Hoogwaardigheid de Bisschop geeft, in de Vastenbul bepaald.
+Volgens de algemene wetten van de H. Kerk moet men geheel de Veertigdaagschen Vasten, zelfs des Zondags, hoewel men dan meermaals zijn nooddruft mag nemen, vlees, eieren en zuivel derven; maar de bisschoppen kunnen, door de macht hun van de Paus vergund, daarin dispenseeren. In teder bisdom worden jaarlijks de dispensatiën, die Zijne Hoogwaardigheid de Bisschop geeft, in de Vastenbul bepaald.
 
 Op de vastendagen buiten de Veertigdaagschen Vasten,
-moet men zich, volgens de algemeene wetten van de H Kerk,
+moet men zich, volgens de algemene wetten van de H Kerk,
 onthouden noch van zuivel noch van eieren, maar uitsluitend van vlees,
 
 2° En maar ééns daags zijn nooddruft nemen: maar
-ééns daags eten; doch boven deze één maaltijd, die voorzeker een volledige mag zijn, mogen wij nog, naar de algemeene bestaande gewoonte, 's morgens een stukje brood en 's avonds een geringe versterking (collatie genoemd) nemen. — Deze collatie mag geen tweede maaltijd uitmaken, maar wij mogen er die hoeveelheid spijs bij gebruiken, welke, ingezien de duur van de vasten, onze meerdere of mindere krachten en onze werkzaamheden, vereist is om ons het vasten mogelijk te maken, en te beletten dat wij er in onze gezondheid door gehinderd worden, In de collatie mag men in 't bisdom van Gent geen eieren gebruiken.
+ééns daags eten; doch boven deze één maaltijd, die voorzeker een volledige mag zijn, mogen wij nog, naar de algemene bestaande gewoonte, 's morgens een stukje brood en 's avonds een geringe versterking (collatie genoemd) nemen. — Deze collatie mag geen tweede maaltijd uitmaken, maar wij mogen er die hoeveelheid spijs bij gebruiken, welke, ingezien de duur van de vasten, onze meerdere of mindere krachten en onze werkzaamheden, vereist is om ons het vasten mogelijk te maken, en te beletten dat wij er in onze gezondheid door gehinderd worden, In de collatie mag men in 't bisdom van Gent geen eieren gebruiken.
 
 Die onthouding van enige spijzen en maaltijden is door de H. Kerk bevolen, opdat wij daardoor boetvaardigheid zouden doen, onze driften beteugelen, en de heiligheid bekomen.
 
@@ -3236,7 +3142,7 @@ ie Tot de jaren gekomen zijn: wat het derven van ver-
 bodene spijzen betreft, daartoe is men gehouden, zoohaast men tot de jaren van verstand komt, hetwelk gewoonlijk
 — 238 —
 
-geschiedt omtrent de ouderdom van zeven jaren. — Wat echter het onthouden aangaat van meer dan ééns daags zijn nooddruft te nemen, daartoe is men verplicht, na de vollen ouderdom van 21 jaren bereikt te hebben.
+geschiedt omtrent de ouderdom van zeven jaren. — Wat echter het onthouden aangaat van meer dan ééns daags zijn nooddruft te nemen, daartoe is men verplicht, na de volle ouderdom van 21 jaren bereikt te hebben.
 
 De reden van dit verschil is, dat de laatste verplichting,
 vroeger opgelegd, de ontwikkeling van het lichaam zou kunnen beletten.
@@ -3254,7 +3160,7 @@ Als men, om niet te vasten, een reden heeft die wel gegrond, doch onvoldoende is
 A. Op al de dagen die de H. Kerk ons voorhoudt, als zijn de veertig dagen vóór Pasen, de quatertemperdagen, en zekere vigiliedagen door het jaar.
 — 239 —
 
-A. De algemeene regel is, dat men moet vasten op al de dagen die de H. Kerk ons voorhoudt, aangezien het Gebod wegens het vasten van de H. Kerk voortkomt. De bijzonderste van die dagen zijn: 1° de veertig dagen vóór Pasen, 2° de quatertemperdagen, en 3° zekere vigiliedagen door het jaar.
+A. De algemene regel is, dat men moet vasten op al de dagen die de H. Kerk ons voorhoudt, aangezien het Gebod wegens het vasten van de H. Kerk voortkomt. De bijzonderste van die dagen zijn: 1° de veertig dagen vóór Pasen, 2° de quatertemperdagen, en 3° zekere vigiliedagen door het jaar.
 
 De veertig dagen vóór Pasen; al de dagen (de Zondagen opzichtelijk het ééns daags zijn nooddruft te nemen uitgezonderd) van Aschwoensdag tot aan Pasen. Deze Vasten schijnt van de Apostelen ingebracht te zijn, en is gesteld vóór Pasen, omdat deze Feestdag de grootste is van geheel het jaar (Ode les, 4de vr).
 
@@ -3280,9 +3186,9 @@ A. Wij bedwingen onze kwade lusten, verzoenen de goddelijke gramschap, en voldoe
 
 A. Wij trekken uit het vasten een drijdubbel profijt:
 
-le Wij bedwingen onze kwade lusten: wij beteugelen onze kwade neigingen, eerst en vooral, onze ongeregelde lichamelijke neigingen tot het eten en drinken en tot de onkuischheid; ook nog al de andere die in de geest hunn zetel hebben, zoals de hoogmoedigheid, de ongehoorzaamheid, enz.; want door het vasten werken wij rechtstreeks onze slechte driften tegen,
+1° Wij bedwingen onze kwade lusten: wij beteugelen onze kwade neigingen, eerst en vooral, onze ongeregelde lichamelijke neigingen tot het eten en drinken en tot de onkuischheid; ook nog al de andere die in de geest hunn zetel hebben, zoals de hoogmoedigheid, de ongehoorzaamheid, enz.; want door het vasten werken wij rechtstreeks onze slechte driften tegen,
 
-2e Wij verzoenen de goddelijke gramschap: wij keeren de wrekenden arm Gods van ons af, en bewegen zijn bermhertigheid, om ons vergiffenis te schenken, aangezien wij, door het vasten, ons zelf voor onze zonden straffen.
+2e Wij verzoenen de goddelijke gramschap: wij keeren de wrekenden arm Gods van ons af, en bewegen zijn barmhartigheid, om ons vergiffenis te schenken, aangezien wij, door het vasten, ons zelf voor onze zonden straffen.
 
 3e Wij voldoen voor onze zonden: wij boeten, door het vasten, die tijdelijke pijnen uit, welke wij, na de vergiffenis van onze zonden bekomen te hebben, nog schuldig blijven of hier op aarde of in het vagevuur te lijden; want het vasten is.
 eene ware straf en uitboeting.
@@ -3338,7 +3244,7 @@ De overtreding van het Goddelijk of het Kerkelijk Gebod nopens het biechten maak
 Men bemerke, dat de H. Kerk in haar Gehod niet zegt:
 ééns ’s jaars, maar ten minste ééns ’s jaars, om ons te doen verstaan, hoezeer zij begeert, dat wij meermaals ’s jaars dit heilzaam Sacrament ontvangen.
 
-Voor de Jaarlijksche Biecht is er geen bepaalde tijd vastgesteld; doch het is de wensch van de H. Kerk, en het is zeer natuurlijk, dat de gelovigen vóór hun Paaschcommunie biechten, want degenen, die in doodzonde zijn, moeten zich door de Biecht zuiveren, om aan de plicht van de Paaschcommunie te kunnen voldoen.
+Voor de Jaarlijkse Biecht is er geen bepaalde tijd vastgesteld; doch het is de wensch van de H. Kerk, en het is zeer natuurlijk, dat de gelovigen vóór hun Paaschcommunie biechten, want degenen, die in doodzonde zijn, moeten zich door de Biecht zuiveren, om aan de plicht van de Paaschcommunie te kunnen voldoen.
 
 Dit Gebod verplicht al degenen die tot de jaren van verstand gekomen zijn.
 
@@ -3351,7 +3257,7 @@ A. De Catechismus zegt in zijn antwoord: 19 hoe dikwijls,
 2e waar, en 3° op welke tijd wij, volgens het Gebod van de H. Kerk, het lichaam des Heeren moeten ontvangen,
 — 244 —
 
-le Hoe dikwijls? — Ten minste ééns 's jaars. Hij zegt:
+1° Hoe dikwijls? — Ten minste ééns 's jaars. Hij zegt:
 ten minste, om uitte drukken hoe vurig de H. Kerk verlangt,
 dat wij meermaals in het jaar de H. Communie zouden ontvangen.
 
@@ -3361,18 +3267,18 @@ dat wij meermaals in het jaar de H. Communie zouden ontvangen.
 omdat de octaaf van Pasen er mee gesloten wordt. Nochtans kan de kerkelijke overheid die tijd verlengen, en de pastoor alsook de biechtvader kunnen, om een goede reden,
 aan iederen gelovige in ‘t bijzonder oorlof geven, om de Paaschcommunie langer uit te stellen.
 
-Wie belet is de Jaarlijksche Communie in zijn parochiekerk te doen, is daarom niet vrij van de Paaschplicht: het Gebod van ééns 'sjaars de H. Communie te ontvangen blijft bestaan, alhoewel men het, onder opzicht van plaats, niet kan volbrengen. — Wie de H. Communie heeft ontvangen, maar verzuimd heeft dit in zijn parochiekerk te doen, blijft,
+Wie belet is de Jaarlijkse Communie in zijn parochiekerk te doen, is daarom niet vrij van de Paaschplicht: het Gebod van ééns 'sjaars de H. Communie te ontvangen blijft bestaan, alhoewel men het, onder opzicht van plaats, niet kan volbrengen. — Wie de H. Communie heeft ontvangen, maar verzuimd heeft dit in zijn parochiekerk te doen, blijft,
 volgens het gemeen gevoelen, tot het einde van het jaar toe verplicht in zijn parochiekerk te communiceeren. —
-lusgelijks, wie belet is geweest of wie verzuimd heeft de Jaarlijksche Communie binnen de veertien dagen omtrent Pasen te doen, die is, volgens het gemeen gevoelen, verplicht, zoohaast mogelijk de H. Communie in zijn parochiekerk te ontvangen.
+lusgelijks, wie belet is geweest of wie verzuimd heeft de Jaarlijkse Communie binnen de veertien dagen omtrent Pasen te doen, die is, volgens het gemeen gevoelen, verplicht, zoohaast mogelijk de H. Communie in zijn parochiekerk te ontvangen.
 
 Om aan het Gebod van de H. Kerk te voldoen, is voorzeker een goede Communie vereist; bijgevolg, wie in de Paaschtijd op een heiligschendende wijze het lichaam des Heeren genut heeft, moet, zoohaast mogelijk. zijn biecht spreken en een goede Communie doen; doch, heeft hij reeds de Communie ontvangen in zijn parochiekerk, dan voldoet hij met ze te ontvangen, onverschillig in welke kerk.
 — 45 —
 
-De H Kerk wil dat de Jaarlijksche Communie in de parochiekerk geschiede, om de eenheid van de parochie te bevestigen en de pastoors de gelegenheid te geven van te zien of al hun gelovigen de Paaschplicht. volbrengen. Zij heeft die Communie gesteld in de Paaschtijd, omdat Pasen de grootste feestdag is van het jaar.
+De H Kerk wil dat de Jaarlijkse Communie in de parochiekerk geschiede, om de eenheid van de parochie te bevestigen en de pastoors de gelegenheid te geven van te zien of al hun gelovigen de Paaschplicht. volbrengen. Zij heeft die Communie gesteld in de Paaschtijd, omdat Pasen de grootste feestdag is van het jaar.
 
 Al de delen van dit Gebod van de H. Kerk verplichten ons op doodzonde, daar zij alle gewichtig zijn óf uit hun natuur, óf uit het einde waartoe zij dienen.
 
-Men merke nog aan: le dat het Vijfde Gebod van de H. Kerk wederom niets anders is dan een nauwkeurige bepaling van het gebod van Cnristus, dat ons oplegt meermaals in het leven de H. Communie te nutten; — 2° dat wij, buiten de Jaarlijksche Communie, nog verplicht zijn het lichaam des Heeren te nutten, als er gevaar is van sterven,
+Men merke nog aan: 1° dat het Vijfde Gebod van de H. Kerk wederom niets anders is dan een nauwkeurige bepaling van het gebod van Cnristus, dat ons oplegt meermaals in het leven de H. Communie te nutten; — 2° dat wij, buiten de Jaarlijkse Communie, nog verplicht zijn het lichaam des Heeren te nutten, als er gevaar is van sterven,
 
 8. V. Wat is er van node om wel te communiceeren?
 
@@ -3394,7 +3300,7 @@ niets geëten of gedronken hebben. — Wij zeggen geëten of gedronken hebben, e
 dat in de mond nog was, of eenig water dat zich in 't spoelen van de mond met het speeksel vermengd heeft, of wat bloed dat uit de mond of uit het hoofd komt, of een weinig sneeuw die in de mond is gevlogen, daarom is men niet ontnuchterd. Maar men is dat, als men b.v. een weinig water heett gedronken, ’t zij dit vrijwillig of onvrijwillig geschied zij. —
 Het nuchter zijn is tot de H. Communie vereist door een Gebod van de H. Kerk, die daarin de eer, welke wij aan het H. Sacrament verschuldigd zijn, voor ogen heeft. Dit Gebod geldt niet voor degenen die de laatste HH. Sacramenten ontvangen, of die, na de berechting, gevaarlijk ziek blijvende,
 nog begeeren de H. Communie te nutten. — En zuiver zijn van zonden: zuiver zijn ten minste van alle doodzonde;
-want het H. Sacrament des Altaars is een Sacrament van de levenden en moet daarom in staat van gratie ontvangen worden. Dan, hoe meer men ook van alle dagelijksche zonde en van alle aangekleefdheid daaraan zuiver is, hoe volkomener ook de vruchten van de Communie zullen wezen; want hoe beter onze gesteldheid is, hoe meer vrucht wij uit de Sacra menten trekken.
+want het H. Sacrament des Altaars is een Sacrament van de levenden en moet daarom in staat van gratie ontvangen worden. Dan, hoe meer men ook van alle dagelijkse zonde en van alle aangekleefdheid daaraan zuiver is, hoe volkomener ook de vruchten van de Communie zullen wezen; want hoe beter onze gesteldheid is, hoe meer vrucht wij uit de Sacra menten trekken.
 
 Degenen, die in staat van doodzonde zijn, voldoen niet aan de vereisten om de H. Communie te mogen ontvangen, met zich van deze zonde te zuiveren door een volmaakt berouw:
 volgens het Gebod van de H. Kerk, en misschien ook volgens het Gebod van Christus, moeten zij dat doen bij middel van het Sacrament van de Biecht.
@@ -3413,15 +3319,15 @@ VRAGEN.
 
 Welk is het voorwerp van deze les? — Hoe is zij verdeeld? — Wat onderzoekt de Catechismus nopens ieder deel?
 
-1. In hoeveel verschillende dingen bestaat het vasten? — Noem ze met de woorden van de Catechismus. — Welke zijn de spijzen die, in ’t algemeen, op de vastendagen verboden worden? — Zeg welke spijzen, volgens de algemeene wetten van de H. Kerk, verboden zijn gedurende de Veertigdaagschen Vasten. — Welke spijzen zijn verboden op de vastendagen buiten de Veertigdaagschen Vastent
-— Wat betekenen de woorden: maar ééns daags zijn nooddruft nemen? — Welke verzachting is er, door een algemeene gewoonte,
+1. In hoeveel verschillende dingen bestaat het vasten? — Noem ze met de woorden van de Catechismus. — Welke zijn de spijzen die, in ’t algemeen, op de vastendagen verboden worden? — Zeg welke spijzen, volgens de algemene wetten van de H. Kerk, verboden zijn gedurende de Veertigdaagschen Vasten. — Welke spijzen zijn verboden op de vastendagen buiten de Veertigdaagschen Vastent
+— Wat betekenen de woorden: maar ééns daags zijn nooddruft nemen? — Welke verzachting is er, door een algemene gewoonte,
 aan dezen regel gebracht? — Hoe groot mag de collatie zijn? —
 Wat spijs is er voor de collatie in het Bisdom van Gent verboden?
 — Waarom heeft de H. Kerk geboden ons van enige spijzen en maaltijden te onthouden?
 
 2, Hoeveel en welke vereisten moeten vervuld wezen, opdat men zou verplicht zijn te vasten? — Welke ouderdom is er vereist om tot geheel het vasten, of ten minste tot het derven van de verbodene spijzen verplicht te zijn? — Waarom verplicht de H. Kerk ons zoveel later tot geheel het vasten, dan tot het derven van de verbodene spijzen? — Wie is van het vasten verontschuldigd a) door ziekte, b) door weekheid, c) door zwaren arbeid? — Verontschuldigen deze redenen altijd van beide de delen die het vasten uitmaken? — Als men van het vasten begeert ontslagen te zijn, om een reden, die gegrond is, doch door zich zelve niet verontschuldigt, wat behoeft men te doen? — Als iemand door dispensatie meermaals daags mag eten, mag hij daarom ook verbodene spijzen gebruiken?
 
-3. Op welke dagen moet men, volgens de algemeenen regel,
+3. Op welke dagen moet men, volgens de algemenen regel,
 vasten, en waarom? — Welke zijn de bijzonderste vastendagen,
 — 248 —
 
@@ -3435,12 +3341,12 @@ nopens het derven van het vlees op de Zaterdagen?
 5. Noem, met de woorden van de Catechismus, de verschillende priesters, aan wie wij mogen biechten. — lieg de woorden van de Catechismus uit. — Waarom mogen wij niet aan alle priesters zonder onderscheid onze biecht spreken? — Wat verstaat men door jurisdictie en hoevelerlei is zij? — Toon uit dit onderscheid van de jurisdictie, dat het antwoord van de Catechismus juist en volledig is. — Hebben de biechtvaders macht om de vreemdelingen de absolutie te geven, en hoe hebben zij deze macht? — Welke priesters hebben jurisdictie in stervensgevaar?
 
 6. Verklaar de vraag: hoe dikwijls moet men biechten? — Uit hoofde van hoeveel en van welke Geboden moeten wij biechten? —
-Zeg, met de woorden van de Catechismus, wanneer wij voorzeker moeten biechten volgens het Goddelijk Gebod, en leg die woorden uit. — Bewijs uw antwoord. — Wanneer moet men, volgens het Gebod van de H. Kerk, biechten? — Komt dit laatste Gebod onder alle opzichten van de H. Kerk alleen voort? — Geef een geval, waarin iemand verplicht is meermaals in één jaar te biechten. — Hoe groot is de zonde dergenen, die het Goddelijk of het Kerkelijk Gebod nopens het biechten overtreden? — Wat geven in het Gebod van de H. Kerk de woorden: ten minste ééns 's jaars, te kennen? — Wanneer moet men de jaarlijksche Biecht doen? — Wie zijn door het Gebod van te biechten verplicht?
+Zeg, met de woorden van de Catechismus, wanneer wij voorzeker moeten biechten volgens het Goddelijk Gebod, en leg die woorden uit. — Bewijs uw antwoord. — Wanneer moet men, volgens het Gebod van de H. Kerk, biechten? — Komt dit laatste Gebod onder alle opzichten van de H. Kerk alleen voort? — Geef een geval, waarin iemand verplicht is meermaals in één jaar te biechten. — Hoe groot is de zonde dergenen, die het Goddelijk of het Kerkelijk Gebod nopens het biechten overtreden? — Wat geven in het Gebod van de H. Kerk de woorden: ten minste ééns 's jaars, te kennen? — Wanneer moet men de jaarlijkse Biecht doen? — Wie zijn door het Gebod van te biechten verplicht?
 
 1. Zeg, met de woorden van de Catechismus, hoe dikwijls wij het lichaam des Heeren moeten ontvangen, en leg die woorden uit. — Is dit Gebod enkel een Kerkelijk Gebod? — Wanneer moeten wij, buiten het gezegde geval, het lichaam des Heeren nog nutten? — Waar moeten wij het, volgens de Catechismus, ééns 's jaars ontvangen? — Leg het antwoord uit. — Wanneer moeten wij het,
 — 49 —
 
-volgens de Catechismus, ontvangen? — Leg wederom het antwoord uit. — Wie belet is de Paaschplicht in zijn parochiekerk te vervullen, moet hij dit jaar communiceeren? — Wat blijfter van de Paaschplicht bestaan voor degenen, die met Pasen te communie zijn gegaan, maar verzuimd hebben dit te doen in de parochiekerk? — Wat voor dezulken die of gedurende de veertien dagen omtrent Pasen belet geweest zijn of verzuimd hebben de H. Communie te ontvangen? — Voldoet men aan het Gebod van de H. Kerk door een heiligschendende Communie? — Waartoe is men gehouden, als men de Paaschcommunie op een heiligschendende wijze ontvangen heeft? — Waarom gebiedt de H. Kerk, dat de Jaarlijksche Communie gedaan worde in de parochiekerk, en omtrent Pasen? — Op welke zonde verplicht ieder deel van het Gebod van de Paaschcommunie, en waarom?
+volgens de Catechismus, ontvangen? — Leg wederom het antwoord uit. — Wie belet is de Paaschplicht in zijn parochiekerk te vervullen, moet hij dit jaar communiceeren? — Wat blijfter van de Paaschplicht bestaan voor degenen, die met Pasen te communie zijn gegaan, maar verzuimd hebben dit te doen in de parochiekerk? — Wat voor dezulken die of gedurende de veertien dagen omtrent Pasen belet geweest zijn of verzuimd hebben de H. Communie te ontvangen? — Voldoet men aan het Gebod van de H. Kerk door een heiligschendende Communie? — Waartoe is men gehouden, als men de Paaschcommunie op een heiligschendende wijze ontvangen heeft? — Waarom gebiedt de H. Kerk, dat de Jaarlijkse Communie gedaan worde in de parochiekerk, en omtrent Pasen? — Op welke zonde verplicht ieder deel van het Gebod van de Paaschcommunie, en waarom?
 
 8. Leg het woord communiceeren uit. — Hoeveel en welke dingen vereist de Catechismus om wel te communiceeren? — Wat betekenen de woorden: dat wij waarachtiglijk geloven dat Christus daar tegenwoordig ts, en waarom is dit volkomenlijk vereist tot een goede Communie? — Wat verstaat men hier door nuchter zijn? — Ontnuchtert ons al hetgeen wij doorzwelgen? —
 Verklaar het antwoord door enige voorbeelden, — Wie gebiedt ons nuchter te zijn om de H. Communie te ontvangen? — Waarom is dit Gebod gegeven? — Voor wie bestaat het Gebod niet van nuchter te zijn om de H. Communie te ontvangen? — Wat is er hier te verstaan door zuiver zijn van zonden? — Waarom moeten wij op de gezegde wijze zuiver zijn van zonden om de H. Communie te ontvangen? — Hoe moet men zich van de doodzonde zuiveren, om de H. Communie te ontvangen, en uit hoofde van welk Gebod is men daartoe verplicht?
@@ -3510,7 +3416,7 @@ A. Zeven.
 
 Â. Er bestaan dus zeven verschillende uitwendige tekenen van Christus ingesteld om een bijzondere gratie te betekenen en door zich zelf te geven.
 
-Christus kon ons ook zonder de Sacramenten zijn gratie mededelen; doch in zijn opperste wijsheid heeft Hij ze daartoe willen instellen: le om aldus de zo nodigen uitwendigen godsdienst te bevorderen; 2° om ous meerdere zekerheid te geven nopens het ontvangen van de gratie; 39 om ons daardoor vele deugden te doen oefenen zoals het geloof,
+Christus kon ons ook zonder de Sacramenten zijn gratie mededelen; doch in zijn opperste wijsheid heeft Hij ze daartoe willen instellen: 1° om aldus de zo nodigen uitwendigen godsdienst te bevorderen; 2° om ous meerdere zekerheid te geven nopens het ontvangen van de gratie; 39 om ons daardoor vele deugden te doen oefenen zoals het geloof,
 de godsdienstigheid, de ootmoedigheid, de sterkte, vooral die tegen het menselijk opzicht; 4e om ons beter te leren wat de Sacramenten in ons uitwerken, en 5° om door hun gebruik de gelovigen in een geestelijke gemeente, in een kerk te verenige.
 
 3. V. Zeg de Zeven Sacramenten.
@@ -3561,7 +3467,7 @@ V. Als de Sacramenten door wettige bedienaars, met het teken, van Christus inges
 
 A. Ja, door drie beletselen: lo door de zonden, 2 de geveinsdheid en 3° de onbekwaamheid — van degenen die ze ontvangen. Van de kant des bedienaars kunnen geen beletselen bestaan, indien hij de Sacramenten geldig bedient, d.i. indien hij de daartoe nodige macht bezit, het van Christus ingestelde teken gebruikt en de vereiste meening heeft. De staat van doodzonde waar hij zich in bevinden kan, vermag niet de kracht van de Sacramenten te beletten, daar hun uitwerksels niet afhangen van zijn verdiensten, maar van die van Christus, wiens plaats hij bekleedt.
 
-Ie De zonde houdt niet alle uitwerksels van de Sacramenten tegen: a) zij belet nooit het merkteken, want dit kan er mee samenstaan; b) alleen de dodelijke zonde kan geheel en gans de gratie (de heiligmakende en het recht tot de dadelijke) beletten; de dagelijksche kan slechts de gratiegraad verminderen; de eerste immers maakt ons vijanden van God,
+Ie De zonde houdt niet alle uitwerksels van de Sacramenten tegen: a) zij belet nooit het merkteken, want dit kan er mee samenstaan; b) alleen de dodelijke zonde kan geheel en gans de gratie (de heiligmakende en het recht tot de dadelijke) beletten; de dagelijkse kan slechts de gratiegraad verminderen; de eerste immers maakt ons vijanden van God,
 terwijl de laatste ons slechts in de liefde Gods doet verflauwen; c) de doodzonde belet niet in alle Sacramenten de heiligmakende en het recht tot de dadelijke gratie, maar slechts in deze die dienen om het reeds bestaande geestelijk leven van de heiligmakende gratie in de ziel te ontwikkelen, te voltrekken, en daarom Sacramenten-der levenden genoemd worden, namelijk, in het Vormsel, het H. Sacrament des Altaars, het H. Oliesel, het Priesterschap en het Huwelijk.
 In de twee andere Sacramenten, te weten, het Doopsel en de Biecht, die rechtstreeks bestemd zijn, niet om het geestelijk
 — 257 —
@@ -3570,7 +3476,7 @@ leven in de zie} te ontwikkelen, maar om het er in te storten als het er niet in
 kan niet ontwikkeld worden. Daarentegen kunnen de andere Sacramenten, die ingesteld zijn om ons van de dood van de zonde te verlossen, onmogelijk door de zonde belet worden dit uitwerksel teweeg te brengen. (1) Het is zelfs waarschijnlijk dat de kracht van de Sacramenten van de levenden er niet door wordt tegengehouden, en dat men er vergiffenis van bekomt,
 als men die Sacramenten met een onvolmaakt leedwezen te goeder trouw ontvangt.
 
-1) Daar men door leven de kracht verstaat van zich zelf te bewegen of van door zich zelf iets te doen, zo wordt onze ziel ten opzichte van het eeuwig geluk levend gezegd, als zij met de heiligmakende gratie versierd is, en zo de kracht bezit om de hemel te verdienen, en dood als zij van die gratie beroofd is. Van daar de verdeling van de Sacramenten in Sacramenten van de levenden en in Sacramenten van de doden. De eerste zijn bestemd voor degenen die het leven van de gratie hebben, en moeten bijgevolg in staat van gratie ontvangen worden: de andere zijn rechtstreeks ingesteld voor degenen die van dat leven beroofd zijn, en mogen daarom in staat van doodzonde ontvangen worden: zij mogen nochtans ook in staat van gratie ontvangen worden, omdat men er vergiffenis door bekomt van de dagelijksche zonden, alsook vimmdat één en dezelfde zonde meermaals kan vergeven worden.
+1) Daar men door leven de kracht verstaat van zich zelf te bewegen of van door zich zelf iets te doen, zo wordt onze ziel ten opzichte van het eeuwig geluk levend gezegd, als zij met de heiligmakende gratie versierd is, en zo de kracht bezit om de hemel te verdienen, en dood als zij van die gratie beroofd is. Van daar de verdeling van de Sacramenten in Sacramenten van de levenden en in Sacramenten van de doden. De eerste zijn bestemd voor degenen die het leven van de gratie hebben, en moeten bijgevolg in staat van gratie ontvangen worden: de andere zijn rechtstreeks ingesteld voor degenen die van dat leven beroofd zijn, en mogen daarom in staat van doodzonde ontvangen worden: zij mogen nochtans ook in staat van gratie ontvangen worden, omdat men er vergiffenis door bekomt van de dagelijkse zonden, alsook vimmdat één en dezelfde zonde meermaals kan vergeven worden.
 
 Het Vormsel, het H. Sacrament des Altaars, het H. Oliesel, hiet Priesterschap en het Huwelijk zijn, uit hun natuur Sacramenten van de levenden. Het Vormsel brengt ons immers tot de volwassenteid van het geestelijk leven; het H. Sacrament des Altaars is er de spijs van; het H. Oliesel de bijzondere steun in de laatsten strijd: het Priesterdom en het Huwelijk geven macht en gratie tot een bijzonder ambt en werk van dat leven. Welnu, niet een dode,
 maar een levende komt tot de volwassenheid, wordt gespijsd, wordt tegen zijn vijanden geholpen, wordt aangenomen tot een bijzonder ambt of werk. Integendeel, het Doopsel, dat de geboorte is in het geestelijk leven, en de Biecht, die ons uit het graf van de zonde doet opstaan, zijn, uit hun natuur Sacramenten van de doden,
@@ -3609,11 +3515,11 @@ A. Neen, want de Sacramenten bestaan ook zonder de ceremoniën, maar deze dienen
 
 V. Zijn de ceremoniën: zekere uitwendige gebeden en godsdienstige tekenen die de H. Kerk bij het hedienen van de HH. Sacramenten voorschrijft, nodig tot de Sacramenten, zoodanig dat deze zönder die ceremoniën niet kunnen bestaan of hun kracht uitwerken?
 
-A. Neen, daartoe zijn zij niet nodig, want de Sacramenten — bestaan ook zonder de ceremoniën: hebben alles wat tot hun wezen vereist is, en werken hun kracht uit dan ook als zij zonder ceremoniën bediend worden; im mers hun bestaan en hun kracht hangen alleen van Christus’ instelling af; — maar deze dienen le om die met meerder eer aan te dienen: om meer en meer uit te drukken welke kostelijke zaken het zijn, en 2e om de kracht van dezelve ons voor ogen te stellen: om er beter de uitwerks-ls van te doen uitschijnen. Werden de Sacramenten gegeven gelijk Christus ze ingesteld heeft, werd b.v. het Doopsel, de H. Communie, net Priesterdom even toegediend, deze toediening zou klaarblijkend met veel minder eer geschieden, en de ge loovigen minder wel begrijpen, wat zij daar ontvangen.
+A. Neen, daartoe zijn zij niet nodig, want de Sacramenten — bestaan ook zonder de ceremoniën: hebben alles wat tot hun wezen vereist is, en werken hun kracht uit dan ook als zij zonder ceremoniën bediend worden; im mers hun bestaan en hun kracht hangen alleen van Christus’ instelling af; — maar deze dienen 1° om die met meerder eer aan te dienen: om meer en meer uit te drukken welke kostelijke zaken het zijn, en 2e om de kracht van dezelve ons voor ogen te stellen: om er beter de uitwerks-ls van te doen uitschijnen. Werden de Sacramenten gegeven gelijk Christus ze ingesteld heeft, werd b.v. het Doopsel, de H. Communie, net Priesterdom even toegediend, deze toediening zou klaarblijkend met veel minder eer geschieden, en de ge loovigen minder wel begrijpen, wat zij daar ontvangen.
 — 261 —
 Aanmerking.
 
-Geheel de leer nopens de HH. Sacramenten vloeit uit hun natuur voort. Om ze geldig te bedienen, moet de bedienaar 1e het teken gebruiken door Christus ingesteld, daar zij uit Christus’ instelling al hun kracht trekken; 2° willen doen wat Christus ingesteld heeft of de H. Kerk doet, aangezien dat Christus het zo gewild heeft, en dat de bedienaar als zijn afgezant moet handelen. — Een geldig bediend Sacrament kan, vanwege degenen die het ontvangen, belet worden zijn kracht uit te werken le door de zonden, als en omdat zijn uitwerksel bestaat, niet in de zonde te vergeven,
+Geheel de leer nopens de HH. Sacramenten vloeit uit hun natuur voort. Om ze geldig te bedienen, moet de bedienaar 1e het teken gebruiken door Christus ingesteld, daar zij uit Christus’ instelling al hun kracht trekken; 2° willen doen wat Christus ingesteld heeft of de H. Kerk doet, aangezien dat Christus het zo gewild heeft, en dat de bedienaar als zijn afgezant moet handelen. — Een geldig bediend Sacrament kan, vanwege degenen die het ontvangen, belet worden zijn kracht uit te werken 1° door de zonden, als en omdat zijn uitwerksel bestaat, niet in de zonde te vergeven,
 maar in de staat van gratie te vermeerderen; 2° door de geveinsdheid, want, waar men deze aantreft, worden de voorwaarden die Christus gesteld heeft, niet meer vervuld; 30 door de onbekwaamheid, daar de kracht van de Sacramenten door hun bestemming bepaald wordt. — De HH. Sacramenten mogen óf slechts ééns, óf meermaals ontvangen worden, volgens dat hun voornaamste uitwerksel onveranderlijk blijft bestaan, ofwel verloren of vermeerderd kan worden. — Zij kunnen zonder ceremoniën bestaan, vermits hun kracht geheel van Christus’ instelling afhangt.
 
 VRAGEN.
@@ -3711,7 +3617,7 @@ zodat wij niet een ander mogen, noch zelfs, volgens het algemeen gevoelen van de
 Christus heeft het zo gewild, omdat zijn Kerk niet enkel een inwendige, maar nog een uitwendige vergadering is,
 waarom dan ook de leden er van, voor wie al de andere Sacramenten bestemd zijn, door een uitwendig teken in die Kerk moeten ingelijfd en van de ongelovigen onderscheiden worden. Daarenboven, ’t is door het merkteken van het Doopsel dat wij recht verkrijgen om van de andere Sacramenten gebruik te maken, en dat merkteken wordt alleen door het Sacrament van het Doopsel in de ziel geprent, daar slechts daar het ingestelde uitwendig teken te vinden is van hetwelk het inwendig merkteken afhangt. — b) Het nodigste Sacrament: het Sacrament dat, ten opzichte van onze zaligheid, nodiger is dan al de andere Sacramenten: zonder deze kan men wel, zonder het Doopsel kan men nooit tot de zaligheid geraken. (2e v.)
 
-2o Het witwendig teken: de uitwendige wassching en de aanroeping van de H. Drievuldigheid samengenomen. Deze wassching is uit haar natuur dienstig om een zuivering te betekenen, en de woorden die de bedienaar er bij uitspreekt, duiden aan dat zij een zuivering van de ziel betekent (4° en 5e v.). — Van de uitwendige wasschisg waar het ten deele uit bestaat, heeft het Doopsel zijn naam ontvangen: doopen wileigenlijk zeggen én het water dompelen;
+2o Het witwendig teken: de uitwendige wassching en de aanroeping van de H. Drievuldigheid samengenomen. Deze wassching is uit haar natuur dienstig om een zuivering te betekenen, en de woorden die de bedienaar er bij uitspreekt, duiden aan dat zij een zuivering van de ziel betekent (4° en 5e v.). — Van de uitwendige wasschisg waar het ten dele uit bestaat, heeft het Doopsel zijn naam ontvangen: doopen wileigenlijk zeggen én het water dompelen;
 ook geschiedde, in het begin van de H. Kerk, de uitwendige was sching met de doopeling in het water te dompelen.
 
 3e De bijzondere gratie door de uitwendige wassching en de aanroeping van de H. Drievuldigheid betekend en gegeven, is de zuivering van de ziel van de onreinheid van de zonden:
@@ -3743,7 +3649,7 @@ A. Met waarachtig en natuurlijk water, als met putwater, regenwater, fonteinwate
 
 V., Waarmede moet de afwassching in het Doopsel geschieden?
 
-A. Zij moet geschieden met water, en dat water moet zijn le waarachtig d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° natuurlijk: overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is putwater, regenwater, fonteinwater, zeewater.
+A. Zij moet geschieden met water, en dat water moet zijn 1° waarachtig d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° natuurlijk: overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is putwater, regenwater, fonteinwater, zeewater.
 
 De afwassching met water is tot de geldigheid van het Saecrament vereist; alleen in de nood mag men een twij elachtige stof gebruiken, en dan moet men nadien, als het mogelijk is, op conditie herdoopen.
 
@@ -3755,11 +3661,11 @@ maar, volgens het gebod van de H. Kerk, is het verplichtend bij de plechtige bed
 
 5. V. Welke woorden moet men spreken in het Doopsel?
 
-A. Deze (zonder dewelke het Doopsel van geener waarde zou zijn): Ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest.
+A. Deze (zonder dewelke het Doopsel van gener waarde zou zijn): Ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest.
 
-A. Die woorden zijn deze (zonder dewelke het Doopsel van geener waarde zou zijn): zonder dewelke het Doopsel geenszins zou bestaan of geen Sacrament van het Doopsel zou wezen, en bijgevolg zonder conditie zou moeten herhaald worden): ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest. Deze formuul bevat le de werking van doopen: ík doop u, en 2o het verrichten van die werking onder het zanroepen van de H. Drievuldigheid: in de naam van de Vader, en van de Zoon, en van de H. Geest (2e les, v. 7).
+A. Die woorden zijn deze (zonder dewelke het Doopsel van gener waarde zou zijn): zonder dewelke het Doopsel geenszins zou bestaan of geen Sacrament van het Doopsel zou wezen, en bijgevolg zonder conditie zou moeten herhaald worden): ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest. Deze formuul bevat 1° de werking van doopen: ík doop u, en 2o het verrichten van die werking onder het zanroepen van de H. Drievuldigheid: in de naam van de Vader, en van de Zoon, en van de H. Geest (2e les, v. 7).
 Zij bepaalt en voltrekt de betekenis van de afwassching, en maakt er zo het uitwendig teken van het Doopsel mee uit.
-Uit hoofde van dit verband moet de aanroeping van de H. Drievuldigheid en de afwassching op één en denzelfden tijd en door één en denzelfden bedienaar geschieden.
+Uit hoofde van dit verband moet de aanroeping van de H. Drievuldigheid en de afwassching op één en dezelfde tijd en door één en dezelfde bedienaar geschieden.
 
 6. V. Mag men tweemaal gedoopt worden ?
 A. Dit is ongeoorloofd, tenware op conditie, als men met reden twijfelt of men gedoopt zij.
@@ -3770,7 +3676,7 @@ want dan zou men geen tweemaal het Doopsel ontvangen; is
 — 269 —
 
 men immers al gedoopt, dan heeft de bedienaar de wil niet nog eens te doopen. Nu, men mag op conditie herdoopt worden, als men met reden twijfelt of men gedoopt zij:
-als men, niet uit een ongegronde vrees, maar om goede redens denkt, dat men misschien op geener wijze, of toch niet geldig gedoopt is.
+als men, niet uit een ongegronde vrees, maar om goede redens denkt, dat men misschien op gener wijze, of toch niet geldig gedoopt is.
 
 7. V. Wat krijgen wij door het Doopsel?
 
@@ -3782,7 +3688,7 @@ welke de bijzondere gratie van het Doopsel is.
 
 A. Door het Doopsel krijgen wij:
 
-le Vergiffenis van de erfzonde: (lfe les, v. 2 en 37e, v. 5).
+1° Vergiffenis van de erfzonde: (lfe les, v. 2 en 37e, v. 5).
 
 2e En van alle andere voorgaande zonden: van al de dadelijke zonden die wij, reeds tot de jaren van verstand gekomen, vóór ons Doopsel zouden bedreven hebben; het Doopsel is immers het eerste Sacrament, en mag maar ééns ontvangen worden, waaruit volgt dat het uitsluitend de dadelijke zonden kan vergeven, waar de doopeling zich vóór zijn Doopsel plichtig aan gemaakt heeft.
 
@@ -3814,7 +3720,7 @@ wezen zijn in het Geloof, en leedwezen hebben van hun zonden.
 V. Watiser van node opdat de doopelingen het Doopsel niet alleen geldig, maar met al zijn vruchten zouden ontvangen? — Om dit Sacrament geldig of met zijn merkteken te ontvangen, is er van de doopelingen slechts vereist, en nog maar van deze die tot hun verstand gekomen zijn, dat zij de wil hebben van gedoopt te worden,
 
 A. De Catechismus onderscheidt hier twee klassen van doopelingen: de een die nog niet, en de andere die reeds het gebruik huns verstands hebben, Van de eerste is niets geëischt,
-weshalve de kleine kinderen, al zijn zij onbekwaam zich eenigszins te bereiden, toch al de vruchten van het Sacrament verkrijgen. Maar die tot hun verstand gekomen zijn moeten niet alleen hun Vier Punten kennen, maar nog wel:
+weshalve de kleine kinderen, al zijn zij onbekwaam zich enigszins te bereiden, toch al de vruchten van het Sacrament verkrijgen. Maar die tot hun verstand gekomen zijn moeten niet alleen hun Vier Punten kennen, maar nog wel:
 
 ie Onderwezen zijn in het Geloof of de Christelijke
 
@@ -3823,8 +3729,8 @@ ie Onderwezen zijn in het Geloof of de Christelijke
 
 Leering; door het Doopsel immers worden zij leden van de H. Kerk en moeten bijgevolg, vooraleer dit Sacrament te ontvangen met de plichten van die staat bekend zijn. In de nood nochtans is het genveg hun de Vier Punten voor te stellen.
 
-2e Ten minste een onvolmaakt leedwezen hebben van hun dodelijke en dagelijksche zonden, vermits geen dadelijke zonden zonder leedwezen kunnen vergeven worden.
-Van de erfsonde moeten zij geen waar berouw hebben, daar zij deze niet met hun eigenen wil hebben bedreven. Nochtans moet hun die zonde mishagen, omdat zij hen vijanden van God maakt en Dien heeft oneer aangedaan. Mishaagde hun de erfzonde niet, of hadden zij geen leedwezen over hun doodzonden, dan zouden zij geen vergiffenis, noch bijgevolg de heiligmakende gratie bekomen. Hadden zij enkel geen genoegzaam leedwezen over hun dagelijksche zonden, zij zouden de heiligmakende gratie ontvangen, maar die dagelijksche zonden waar zij aan vastgekleefd blijven, zouden hun niet vergeven worden, Om dus door het Doopsel gezuiverd te worden van alle zonden en schulden, en, in geval van sterven, de hemel rechtstreeks binnen te treden, moeten de doopelingen die tot de jaren van verstand gekomen zijn, leedwezen hebben over al hun zonden, zonder uitzondering.
+2e Ten minste een onvolmaakt leedwezen hebben van hun dodelijke en dagelijkse zonden, vermits geen dadelijke zonden zonder leedwezen kunnen vergeven worden.
+Van de erfsonde moeten zij geen waar berouw hebben, daar zij deze niet met hun eigenen wil hebben bedreven. Nochtans moet hun die zonde mishagen, omdat zij hen vijanden van God maakt en Dien heeft oneer aangedaan. Mishaagde hun de erfzonde niet, of hadden zij geen leedwezen over hun doodzonden, dan zouden zij geen vergiffenis, noch bijgevolg de heiligmakende gratie bekomen. Hadden zij enkel geen genoegzaam leedwezen over hun dagelijkse zonden, zij zouden de heiligmakende gratie ontvangen, maar die dagelijkse zonden waar zij aan vastgekleefd blijven, zouden hun niet vergeven worden, Om dus door het Doopsel gezuiverd te worden van alle zonden en schulden, en, in geval van sterven, de hemel rechtstreeks binnen te treden, moeten de doopelingen die tot de jaren van verstand gekomen zijn, leedwezen hebben over al hun zonden, zonder uitzondering.
 
 10. V. Waartoe dienen al de ceremoniën, die in het Doopsel gebruikt worden?
 
@@ -3902,7 +3808,7 @@ V., Wat is het Vormsel?
 . Een Sacrament, dat van de bisschop wordt gegeven aan degenen die gedoopt zijn, in hetwelk, door de zalving en de heilige woorden,
 gratie en sterkte wordt gegeven om het Geloof vast te belijden.
 
-A. Het antwoord leert ons kennen le de bedienaar van dit
+A. Het antwoord leert ons kennen 1° de bedienaar van dit
 
 Sacrament, 2° de personen voor wie het bestemd is, 30 zijn
 
@@ -3930,7 +3836,7 @@ en daartoe bekwaamheid heeft.
 
 A. Men moet het Vormsel ontvangen als deze twee conditien vervuld zijn:
 
-le Als men tot de jaren van verstand gekomen is;
+1° Als men tot de jaren van verstand gekomen is;
 bijgevolg moet het niet, gelijk het Doopsel, aan de kleine kinderen gegeven worden;
 
 2 En daartoe — hekwaamheid heeft: genoegzame kennis van het Geloof om dit Sacrament met veel vrucht te ontvangen.
@@ -4080,7 +3986,7 @@ nme
 
 A. Een Sacrament, van Christus onzen Zaligmaker ingesteld, in hetwelk, onder de gedaante van brood en wijn, Hij zelf tegenwoordig is.
 
-A. Het antwoord spreekt ons: le van de instelling, 2° van het uitwendig teken, en 3° van de bijzondere gratie van het H. Sacrament des Altaars.
+A. Het antwoord spreekt ons: 1° van de instelling, 2° van het uitwendig teken, en 3° van de bijzondere gratie van het H. Sacrament des Altaars.
 
 ie De instelling: het is een Sacrament van Christus,
 onzen Zaligmaker, ingesteld. Deze instelling greep plaats
@@ -4134,7 +4040,7 @@ en zo stellen zij ons Christus, die er onder tegenwoordig is, voor, niet als lev
 
 Ten tweede, tot een waarachtige spijs van onze ziel:
 opdat het zou dienen om onze ziel in het leven van de gratie te voeden: dit is immers zijn bijzondere gratie. Het geestelijk voedsel, dat het ons geeft, bestaat uit de volgende gratiën:
-le vermeerdering van de heiligmakende gratie, 2e recht tot de dadelijke, 3° vergiffenis van die dagelijksche zonden waarover men eenig leedwezen heeft; — dit uitwerksel komt voorzeker voort uit de goede werken, het leedwezen en de gebeden waartoe de vurigheid van de liefde, door dit Sacrament ingestort, ons opwekt, en misschien ook uit de vermeerdering van onze vriendschap met God, (zie 14e les, vr. 8.) aangezien het natuurlijk is dat God ons zulke fouten vergeeft, als Hij ons in inniger vriendschap ontvangt; 40 dikwijls een bijzondere inwendige vreugde.
+1° vermeerdering van de heiligmakende gratie, 2e recht tot de dadelijke, 3° vergiffenis van die dagelijkse zonden waarover men eenig leedwezen heeft; — dit uitwerksel komt voorzeker voort uit de goede werken, het leedwezen en de gebeden waartoe de vurigheid van de liefde, door dit Sacrament ingestort, ons opwekt, en misschien ook uit de vermeerdering van onze vriendschap met God, (zie 14e les, vr. 8.) aangezien het natuurlijk is dat God ons zulke fouten vergeeft, als Hij ons in inniger vriendschap ontvangt; 40 dikwijls een bijzondere inwendige vreugde.
 
 Ten derde, tot een gedurig sacrificie van de Nieuwe Wet: opdat het zou dienen tot een sacricie in de H. Kerk gedurig op te dragen. (33e les.)
 
@@ -4158,7 +4064,7 @@ Uit het antwoord volgt nog, dat Christus, als Hij zich in het H. Sacrament tegen
 tegenwoordig. In de hemel is Hij in zijn natuurlijke gedaante; hier op aarde in het H. Sacrament is Hij onder de gedaanten van brood en wijn.
 
 In deze tegenwoordigheid van Christus in het H. Sacrament,
-zijner twee punten, die wij niet kunnen verstaan, maar die wij nochtans, gelijk al de andere punten van de christelijke leer vast geloven, om reden van de onfeilbaarheid van God, die ze ons geopenbaard heeft. Deze zijn: le hoe Christus’ lichaam onder vreemde gedaanten, namelijk onder de gedaanten van brood en wijn kan tegenwoordig wezen; en 2e hoe een en hetzelfde lichaam van Christus in de hemel verblijven kan en tegelijk hier op aarde is overal, waar het H. Sacrament berust.
+zijner twee punten, die wij niet kunnen verstaan, maar die wij nochtans, gelijk al de andere punten van de christelijke leer vast geloven, om reden van de onfeilbaarheid van God, die ze ons geopenbaard heeft. Deze zijn: 1° hoe Christus’ lichaam onder vreemde gedaanten, namelijk onder de gedaanten van brood en wijn kan tegenwoordig wezen; en 2e hoe een en hetzelfde lichaam van Christus in de hemel verblijven kan en tegelijk hier op aarde is overal, waar het H. Sacrament berust.
 
 4. V. Hoe wordt ons Christus tegenwoordig gesteld in het Heilig Sacrament?
 
@@ -4175,7 +4081,7 @@ Men bemerke wel dat niet het hrood enkel in het lichaam,
 en de wijn enkel in het bloed, maar het een en het ander in geheel het levend lichaam van Christus veranderd worden, en dat deze verandering geschiedt, niet doordat de bestanddelen van brood en wijn de stoffe worden van Christus’ lichaam,
 maar wel doordat die bestanddelen, al blijven hun gedaanten, ophouden te bestaan om te gelijkertijd door het levend lichaam van Christus onder die gedaanten bestaande vervangen te worden.
 
-Drij dingen dus zijn tothettegenwoordigstellen van Christus onder de gedaanten van brooden wijn vereist: le waar brood en ware wijn; 2e de woorden van de Consecratie over dat brood en die wijn uitgesproken; 39 een priester die deze woorden uitspreekt, met de meening van te doen hetgeen Christus ingesteld heeft of de H. Kerk doet,
+Drij dingen dus zijn tothettegenwoordigstellen van Christus onder de gedaanten van brooden wijn vereist: 1° waar brood en ware wijn; 2e de woorden van de Consecratie over dat brood en die wijn uitgesproken; 39 een priester die deze woorden uitspreekt, met de meening van te doen hetgeen Christus ingesteld heeft of de H. Kerk doet,
 
 5. V. Onder welk deel van de Heilige Hostie is Christus, als die gebroken wordt?
 
@@ -4298,7 +4204,7 @@ eene offerande, een sacrificie.
 
 A. Het antwoord leert ons hoofdzakelijk drie dingen: de Mis is:
 
-le Een sacrificie (slachtofferande): de opdracht van het menselijk leven of van iets dat in de plaats ervan gesteld is,
+1° Een sacrificie (slachtofferande): de opdracht van het menselijk leven of van iets dat in de plaats ervan gesteld is,
 bij middel van vernietiging door een wettigen bedienaar aan God gedaan, om Hem te erkennen als onzen oppersten meester en tevens te belijden, dat wij voor onze zonden de dood schuldig zijn.
 
 Tusschen een sacrificie en een enkele offerande bestaat vierderlei verschil: a) in de offerande worden allerhande zaken opgedragen; in het sacrificie uitsluitend het menselijk leven — als God het vraagt, gelijk bij het sacrificie van Isaäc en bij dat van het Kruis, — of iets dat het menselijk leven vervangt, zoals eetwaren en dieren die de mens tot voedsel dienen; b) in de offerande wordt de zaak opgedragen door gift, door toewijding; in het sacrificie integendeel, door vernietiging ; — c) de offerande is slechts een teken van eer en dankbaarheid; het sacrificie integendeel, dat de slachtoffering van het menselijk leven bevat, drukt de opperste eer en aanbidding uit, en is tevens een belijdenis, dat wij, om reden van de zonde, de dood schuldig zijn; — d) uit hoofde van de gezegde betekenis mag men iedereen door een offerande vereeren, terwijl men het sacrificie uitsluitend aan God mag opdragen.
@@ -4345,7 +4251,7 @@ V. Welke zijn de delen van het Sacrificie van de Mis, zonder dewelke het niet zo
 
 A. Die delen zijn:
 
-le De Consecratie of verandering (door de woorden van de priester) van brood en wijn (onder de offerande van de Mis bereid)in het lichaam en bloed van Christus, die door de priester zich zelf opoffert: die door de woorden van de priester zich onder de gedaanten van brood en wijn tegenwoordig stelt, en zich, door het aannemen van dezen staat, aan God slachtoffert. ’t Is dus eigenlijk in de Consecratie dat Christus geslachtofferd wordt, en daarom kan de Mis onmogelijk zonder de Consecratie bestaan.
+1° De Consecratie of verandering (door de woorden van de priester) van brood en wijn (onder de offerande van de Mis bereid)in het lichaam en bloed van Christus, die door de priester zich zelf opoffert: die door de woorden van de priester zich onder de gedaanten van brood en wijn tegenwoordig stelt, en zich, door het aannemen van dezen staat, aan God slachtoffert. ’t Is dus eigenlijk in de Consecratie dat Christus geslachtofferd wordt, en daarom kan de Mis onmogelijk zonder de Consecratie bestaan.
 
 2o De Nutting: de Communie van de priester. Dit deel is niet op dezelfde wijze nodig als de Consecratie: zonder de Nutting zou de Mis wel een sacrificie zijn, maar slechts een onvoltrokken, een onvolmaakt. Inderdaad, de Mis ìs eerst en vooral een vredesacrificie, d. ì. een sacrificie dat in het bijzonder wordt opgedragen om God te bedanken en nieuwe gunsten van Hem te bekomen; want zij dient rechtstreeks tot toepassing van het Sacrificie des Kruis. Welnu, de vredesacrificiën worden voltrokken door de nutting van het
 — 299 —
@@ -4381,13 +4287,13 @@ De Apostelen en de andere oversten van de H. Kerk hebben zeer wijs gehandeld met
 
 A. Christus zelf is de voornaamste; maar de priester is zijn dienaar in het offeren.
 
-Vv. Wie is de offeraar van het Sacrificie van de Mis? — Het opdragen van een sacrificie bestaat in twee dingen: l° in de offerande te slachtofferen; 2° in deze slachtoffering ter eere Gods te doen: zonder het eerste zou er op geener wijze een sacrificie zijn ; zonder het laatste zou het sacrificie geen godsdienstig werk wezen.
+Vv. Wie is de offeraar van het Sacrificie van de Mis? — Het opdragen van een sacrificie bestaat in twee dingen: l° in de offerande te slachtofferen; 2° in deze slachtoffering ter eere Gods te doen: zonder het eerste zou er op gener wijze een sacrificie zijn ; zonder het laatste zou het sacrificie geen godsdienstig werk wezen.
 
 A. Christus zelf, als mens, ís de voornaamste offeraar; want het is krachtens zijn instelling dat Hij, door de woorden van de Consecratie, onder de gedaanten van brood en wijn tegenwoordig gesteld wordt, en Hij zelf stemt iedermaal ter eere Gods in die tegenwoordigstelling toe; maar de priester is zijn dienaar in het offeren: maar Christus verricht de Consecratie niet door zich zelf alleen: Hij gebruikt daartoe de priester, die dus ook het Sacrificie offert, al is het enkel als dienaar, als medehelper van Christus, de voornaamsten offeraar; de tegenwoordigstelling van Christus onder de gedaanten van brood en wijn hangt immers af van de woorden van de Consecratie, die de priester spreekt.
 
 Behalve Christus en de priester zijn er nog offeraars,
 maar slechts in de oneigenlijken zin des woords, namelijk,
-al degenen die eenigszins in de opdracht van het Sacrificie medehelpen, of daarin toestemmen.
+al degenen die enigszins in de opdracht van het Sacrificie medehelpen, of daarin toestemmen.
 — 301 —
 
 8. V. Wat kunnen wij verkrijgen door het Saerificie van de Mis?
@@ -4399,11 +4305,11 @@ V. De Catechismus spreekt van de vruchten van de Mis ten opzichte van de mensen.
 
 A. Door het Sacrificie van de Mis verkrijgen wij:
 
-le Vergiffenis van onze zonden, niet rechtstreeks, gelijk door de Biecht en het berouw, maar onrechtstreeks, of gratie waarmede wij voldoend leedwezen over de zonden kunnen bekomen. Wij verwerven ook rechtstreeksche vergiffenis van de overgeblevene tijdelijke pijnen.
+1° Vergiffenis van onze zonden, niet rechtstreeks, gelijk door de Biecht en het berouw, maar onrechtstreeks, of gratie waarmede wij voldoend leedwezen over de zonden kunnen bekomen. Wij verwerven ook rechtstreeksche vergiffenis van de overgeblevene tijdelijke pijnen.
 
-20 En al wat wij van God begeeren: al wat wij door het gebed van God kunnen afsmeeken, namelijk: dadelijke gratie om ons te bekeeren, of om te volharden en in de deugd vooruit te gaan; vergiffenis van tijdelijke straffen; allerhande tijdelijke goederen die tot de zaligheid dienstig zijn; vermindering van bekoringen, bescherming tegen de vijanden van ons eeuwig geluk. Al deze vruchten kunnen wij bekomen a) voor ons zelven, b) voor anderen: voor alle andere mensen van de wereld, gelovige of ongelovige, en c) ook voor de zielen die in het vagevuur zijn.
+20 En al wat wij van God begeeren: al wat wij door het gebed van God kunnen afsmeken, namelijk: dadelijke gratie om ons te bekeeren, of om te volharden en in de deugd vooruit te gaan; vergiffenis van tijdelijke straffen; allerhande tijdelijke goederen die tot de zaligheid dienstig zijn; vermindering van bekoringen, bescherming tegen de vijanden van ons eeuwig geluk. Al deze vruchten kunnen wij bekomen a) voor ons zelven, b) voor anderen: voor alle andere mensen van de wereld, gelovige of ongelovige, en c) ook voor de zielen die in het vagevuur zijn.
 
-De eerste vrucht brengt het Sacrificie voort door zijn verzoenende kracht, die Gods bermhertigheid treft; de tweede, door zijn smeekende kracht, die Gods goedheid raakt. Deelachtig aan beide zijn, le in 't algemeen, al de gelovigen; 29 op een bijzondere wijze, de priester die de Mis doet; 3e voor een gans bijzondere hoeveelheid, degeneu voor wie de priester in Christus’ naam het Sacrificie opdraagt.
+De eerste vrucht brengt het Sacrificie voort door zijn verzoenende kracht, die Gods barmhartigheid treft; de tweede, door zijn smekende kracht, die Gods goedheid raakt. Deelachtig aan beide zijn, 1° in 't algemeen, al de gelovigen; 29 op een bijzondere wijze, de priester die de Mis doet; 3e voor een gans bijzondere hoeveelheid, degeneu voor wie de priester in Christus’ naam het Sacrificie opdraagt.
 
 Wij spraken tot nu toe van de vruchten van de Mis, voor zoveel deze het werk is van Christus en van de priester in Christus’ naam handelende; aanzien nu als het werk van de priester in zijn eigenen naam en in die van de H. Kerk han-
 =— 302 —
@@ -4487,7 +4393,7 @@ vr. 5) heeft. Deze vrijspreking of absolutie geschiedt door de
 
 woorden, « Ik ontsla u van uwe zonden in de naam van de Vader, en van de Zoon, en van de H. Geest, Amen. » Zij maakt met de akten van de biechteling, namelijk, het berouw (door de biecht en andere tekenen uitwendig kenbaar gemaakt), de belijdenis en de voldoening, een volmaakt oordeel tot ontslaging uit, en betekent allerduidelijkst de vergiffenis van de zonden.
 
-3o De bijzondere gratie: de zonden, die na het Doopsel gedaan zijn, worden vergeven. Hierdoor verschilt de Biecht a) van het Doopsel, waardoor wij van de erfzonde en de voorgaande zonden vergiffenis bekomen; b) van al de Saeramenten van de levenden, die rechtstreeks dienen, niet om de zonde te vergeven, maar om de heiligmakende gratie te vermeerderen. Uit dit uitwerksel blijkt, dat slechts degenen die na het Doopsel eenigszins gezondigd hebben, geldig de absolatie kunnen ontvangen.
+3o De bijzondere gratie: de zonden, die na het Doopsel gedaan zijn, worden vergeven. Hierdoor verschilt de Biecht a) van het Doopsel, waardoor wij van de erfzonde en de voorgaande zonden vergiffenis bekomen; b) van al de Saeramenten van de levenden, die rechtstreeks dienen, niet om de zonde te vergeven, maar om de heiligmakende gratie te vermeerderen. Uit dit uitwerksel blijkt, dat slechts degenen die na het Doopsel enigszins gezondigd hebben, geldig de absolatie kunnen ontvangen.
 
 De Biecht schenkt ons, met de vergiffenis van de zonden die na het Doopsel gedaan zijn, ook de heiligmakende gratie en recht tot de dadelijke. (30° les, vr. 7.)
 
@@ -4509,17 +4415,17 @@ hebben, met een vast voornemen van dezelve te biechten en ons te beteren.
 
 A. Het berouw bevat twee delen:
 
-le Een leedwezen; een spijt of droefheid over de zonden, over de woorden, werken, begeerten of verzuimenissen tegen de wet en de wil Gods, door dewelke wij de goddelijke majesteit en goedheid vergramd hebben, door dewelke wij God, de opperste majesteit en goedheid, beleedigd hebben. Dus het leedwezen tot de Biecht vereist,
+1° Een leedwezen; een spijt of droefheid over de zonden, over de woorden, werken, begeerten of verzuimenissen tegen de wet en de wil Gods, door dewelke wij de goddelijke majesteit en goedheid vergramd hebben, door dewelke wij God, de opperste majesteit en goedheid, beleedigd hebben. Dus het leedwezen tot de Biecht vereist,
 moet zijn: a) over de zoden, b) over onze zonden en niet over die van anderen, en c) om reden dat wij God door die zonden vergramd hebben, en niet enkel omdat wij er b.v.
 onze fortuin, onze eer, onze faam door verloren hebben, —
 Er is niet vereist, dat het leedwezen op de oneindige goedheid of volmaaktheid Gods steune, en zo volmaakt weze; het is genoeg, dat het gegrond zijop de hoop van de hemel, of de vrees van de hel, of de leelijk zeid van de zonde, en derwijze slechts een onvolmaakt berouw vitmake (zie 14de les, vr, 3); maar,
 in alle geval, moet de reden, waarop het steunt, van het Geloof afgeleid zijn.
 
 Het leedwezen over de doodzonden moet zich uitstrekken tot al de doodzonden, die men moet biechten, zonder uitzondering,
-daar iedere doodzonde ons vijand van God maakt; en dat over de dagelijksche zonden most zich noodzakelijk uitstrekken tot al die dagelijksche zonden, welke geheel van denzelfden aard zijn. (Zie 14e les.)
+daar iedere doodzonde ons vijand van God maakt; en dat over de dagelijkse zonden most zich noodzakelijk uitstrekken tot al die dagelijkse zonden, welke geheel van dezelfde aard zijn. (Zie 14e les.)
 
 2 Een vast voornemen, de vaste, de bepaalde wil, van dezelve (zonden) te biechten, d.i. ten minste alle onze doodzonden aan de priester in de Biecht te verklaren, en ons te beteren, d. í. alle doodzonden zonder uitzondering.
-die dagelijksche zonden waarover wij leedwezen hebhen, en ook de naaste gelegenheid dier zonden te vermijden; want,
+die dagelijkse zonden waarover wij leedwezen hebhen, en ook de naaste gelegenheid dier zonden te vermijden; want,
 wie de naaste gelegenheid niet wil vermijden, die wil de zonde zelve niet vluchten.
 
 Het berouw is door de natuur zelve van de zaak tot het Sacrament van de Biecht vereist; inderdaad, God vergeeft nooit een zonde, zonder dat men ze verfoeie en wil vluchten voor het toekomende, en, volgens Christus’ instelling, is de Biecht
@@ -4533,7 +4439,7 @@ A. Alle doodzonden die wij na een neerstig onderzoek gevonden hebben en indachti
 
 A. De Catechismus leert ons in zijn antwoord:
 
-1e Welke soort van zonden wij moeten belijden: de doodzonden namelijk. De dagelijksche zonden moeten wij niet biechten, omdat er andere middelen zijn om er vergiffenis van te bekomen. (14e en 28e les.)
+1e Welke soort van zonden wij moeten belijden: de doodzonden namelijk. De dagelijkse zonden moeten wij niet biechten, omdat er andere middelen zijn om er vergiffenis van te bekomen. (14e en 28e les.)
 
 2e Welke doodzonden wij moeten belijden: alle doodzonden die na het Doopsel gedaan, en door de Biecht nog niet rechtstreeks vergeven zijn; dus ook dezulke waar men reeds door een volmaakt berouw, of door een Biecht waarbij zij onvrijwillig vergeten werden, vergiffenis van bekomen heeft; want, volgens Christus’ gebod, moeten alle doodzonden eens aan het oordeel van de priester onderworpen worden. Het spreekt van zelfs dat wij ze maar moeten biechten, indien wij ze in ons geweten gevonden hebben en bij de belijdenis indachtig zijn: voorzeker vraagt God ons het onmogelijke niet.
 
@@ -4545,7 +4451,7 @@ het moet — neerstig zijn: met zoveel vlijt gedaan worden dat men, ingezien de 
 
 belijden: a) het getal: hoe dikwijls men de zonde bedreven heeft. Weet men niet juist het getal te zeggen, dan bepaalt men het zo nauwkeurig mogelijk, daarbij voegende: minder of meer. Kan dit zelfs niet gedaan worden, dan verklaart men hoe dikwijls men per maand, week of dag, of in welke omstandigheden men gewoonlijk in de zonde gevallen is. 5) Alles wat de zonde mag veranderen: al de omstandigheden die op hun eigen een nieuwe doodzonde van anderen aard uitmaken: wie b.v. zijn vader de dood heeft gewenscht,
 voldoet niet met te biechten dat hij iemand de dood gewenscht heeft; hij moet er bijvoegen dat hij dat gedaan heeft ten opzichte van zijn vader: deze omstandigheid maakt dat er,
-boven de zonde tegen het Vijfde Gebod, nog een doodzonde is tegen het Vierde. c) Alles wat de zonde zeer mag bezwaren: ten minste al die omstandigheden welke van een dagelijksche zonde een dodelijke maken: heeft iemand,
+boven de zonde tegen het Vijfde Gebod, nog een doodzonde is tegen het Vierde. c) Alles wat de zonde zeer mag bezwaren: ten minste al die omstandigheden welke van een dagelijkse zonde een dodelijke maken: heeft iemand,
 b.v. een zware diefte te biechten, dan voldoet hij niet met te verklaren, dat hij gestolen heeft; hij moet daarbij voegen,
 dat de diefte zwaar was,
 
@@ -4580,7 +4486,7 @@ niet eok de pijn vergeven die God voor de zonde gesteld heeft?
 
 A. De eeuwige pijn van schade en van gevoel die men,
 om reden van doodzonden, in de hel stond te lijden, alsmede een deel van de tijdelijke pijnen die men, wegens dagelijksehe zonden, hier of in het vagevuur had uit te te boeten,
-wordt, samen met de zonden, door de absolutie vergeven; want als God iemand uit de staat van doodzonde tot zijn kind en zijn erfgenaam aanneemt, dan kan Hij hem niet eeuwig meer straffen; evenmin kan Hij, na de vergiffenis van een dagelijksche zonde, er geheel de verdiende straf van laten bestaan; — maar evenwel blijft er dikwijls, voor de dodelijke zonde en ook voor de dagelijksche, nog schuld van tijdelijke pijn, hier op deze aarde door ongelukken en tegenspoed, of door werken van boetvaardigheid, of hiernamaals in het vagevuur te betalen of uit te boeten.
+wordt, samen met de zonden, door de absolutie vergeven; want als God iemand uit de staat van doodzonde tot zijn kind en zijn erfgenaam aanneemt, dan kan Hij hem niet eeuwig meer straffen; evenmin kan Hij, na de vergiffenis van een dagelijkse zonde, er geheel de verdiende straf van laten bestaan; — maar evenwel blijft er dikwijls, voor de dodelijke zonde en ook voor de dagelijkse, nog schuld van tijdelijke pijn, hier op deze aarde door ongelukken en tegenspoed, of door werken van boetvaardigheid, of hiernamaals in het vagevuur te betalen of uit te boeten.
 
 Aan de doopelingen, mits voldoend berouw in geval dat zij tot de jaren van verstand gekomen zijn, geeft God zonder penitentie vergiffenis van alle pijnen, omdat zij door het Doopsel in het geestelijk leven geboren worden; maar de gedoopten die gezondigd hebben, geeft Hij dikwijls, zonder dat zij penitentie doen, geen volkomene vergiffenis van de pijnen, om 200 hun ondankbaarheid te straffen.
 
@@ -4600,7 +4506,7 @@ Waarvan handelt deze les? — Hoe wordt zij verdeeld? — Wat bevat ieder deel?
 1, Wanneer en hoe is het Sacrament van de Biecht ingesteld? — Zeg,
 met de Catechismus, welk het uitwendig teken van dit Sacrament is. — Leg het uit. — Waardoor wordt dit teken geheel volledigd? — Zeg, met de Catechismus, welke de bijzondere gratie van dit Sacrament is. — Geeft dit Sacrament dus de heiligmakende gratie en het recht tot de dadelijke gratiën niet? — Hoe verschilt dit Sacrament, onder opzicht van genoemd uitwerksel, van het Doopsel en van de Sacramenten van de levenden? — Wie kan dit Sacrament ontvangen? — Bewijs dat uit de Catechismus. — Hoe wordt dit Sacrament genoemd, en waarom?
 
-2. Geef de zin van de vraag: Hoeveel delen zijn er nodig tot het Sacrament van de Penitentie. — Zeg, hoeveel dingen er vereist zijn van de kant des biechtelings; noem ze met de woorden van de Catechismus, en verklaar eenigszins deze woorden.
+2. Geef de zin van de vraag: Hoeveel delen zijn er nodig tot het Sacrament van de Penitentie. — Zeg, hoeveel dingen er vereist zijn van de kant des biechtelings; noem ze met de woorden van de Catechismus, en verklaar enigszins deze woorden.
 
 3. Hoeveel dingen zijn er nodig tot het berouw? — Noem ze met de woorden van de Catechismus. — Verklaar de woorden die het eerste deel uitdrukken. — Hoedanig dus moet het leedwezen zijn volgens de Catechismus? — Op welke reden moet dit leedwezen steunen en hoe moet die reden aanschouwd worden? — Tot welke zonden moet dit leedwezen zich uitstrekken? — Verklaar de woorden van het tweede deel. — Waarom is dit berouw tot het Sacrament van de Biecht vereist?
 — 313 —
@@ -4649,7 +4555,7 @@ ving de zieken in hun ziekten en hunn uitersten nood verlicht en geholpen worden
 
 A. Het antwoord spreekt 1e van het uitwendig teken en 2o van de bijzondere gratie des H. Oliesels.
 
-ie Het witwendig teken: de heilige zalving: de zalving die de priester op enige delen van het lichaam, voornamelijk op de vijf zintuigen en op de voeten doet met olie van de bisschop daartoe gewijd, — en het volgende gebed, dat hij bij iedere zalving herhaalt: « Door deze heilige zalving en zijn allermildste bermhertigheid vergeve u God wat gij misdaan hebt door het gezicht,…. door het gehoor,…. enz. »
+ie Het witwendig teken: de heilige zalving: de zalving die de priester op enige delen van het lichaam, voornamelijk op de vijf zintuigen en op de voeten doet met olie van de bisschop daartoe gewijd, — en het volgende gebed, dat hij bij iedere zalving herhaalt: « Door deze heilige zalving en zijn allermildste barmhartigheid vergeve u God wat gij misdaan hebt door het gezicht,…. door het gehoor,…. enz. »
 — 315 —
 
 go De bijzondere gratie: de zieken worden in hun ziekten en in hunn uitersten nood verlicht en geholpen: de zieken die in stervensgevaar zijn, ontvangen bijzondere verlichting en hulp tot hun eeuwige zaligheid. (v. 4.)
@@ -4685,24 +4591,24 @@ A. Eéns in één ziekte, maar in verscheidene ziekten zo dikwijls als men zou h
 V. Mag men, in gevaar van sterven, het H. Oliesel ontvangen zo dikwijls als men wil?
 
 A. Men mag het maar ééns ontvangen in één en dezelfde dodelijke ziekte, of in één en hetzelfde gevaar van sterven;
-maar in verscheidene dodelijke ziekten van denzelfden of van verschillenden aard, zo dikwijls als men in een nieuw gevaar van sterven zou hervallen wezen. Dus zo dikwijls men, van een dodelijke ziekte bijkans hersteld zijnde, wederom hervalt en in een nieuw gevaar van sterven komt, of zo dikwijls men, de H. Olie eens ontvangen hebbende, in een nieuwe ziekte valt en wederom in gevaar van sterven verkeert, mag men opnieuw de H. Olie ontvangen. In
+maar in verscheidene dodelijke ziekten van dezelfde of van verschillenden aard, zo dikwijls als men in een nieuw gevaar van sterven zou hervallen wezen. Dus zo dikwijls men, van een dodelijke ziekte bijkans hersteld zijnde, wederom hervalt en in een nieuw gevaar van sterven komt, of zo dikwijls men, de H. Olie eens ontvangen hebbende, in een nieuwe ziekte valt en wederom in gevaar van sterven verkeert, mag men opnieuw de H. Olie ontvangen. In
 één woord, men mag het ééns ontvangen in ieder gevaar van sterven uit ziekte voorkomende. De reden is, dat het uitwerkgel er van, te weten: de verlichting eu de versterking van de zieke, zo lang duurt als het gevaar van sterven, maar ook niet langer dan dit gevaar.
 — 317 —
 
 4. V. Wat profijt geeft ons het Heilig Oliesel?
 
 Á. Ten eerste, het verlicht de zieken; ten tweede,
-het vermindert de bekoring; ten derde, het vergeeft de dagelijksche zonden; ten vierde, het neemt weg de vergetene doodzonden; ten vijfde,
+het vermindert de bekoring; ten derde, het vergeeft de dagelijkse zonden; ten vierde, het neemt weg de vergetene doodzonden; ten vijfde,
 het helpt ook de zieken tot gezondheid, als het zalig is.
 
 V. De zin van de vraag is: hoe verlicht en helpt het H. Oliesel de zieken in hun ziekten en in hunn uitersten nood?
 
 A. Ten eerste, het verlicht de zieken, door de geruststelling van het gemoed en door de verzachting van de pijnen van het lichaam, alsook door de opwekking van de vurigheid door de zonde verfiauwd.
 
-Ten tweede, het vermindert de bekoring, die gewoonlijk in het gevaar van sterven heviger is dan ooit, zowel om reden van de verzwakking van het lichaam, als van de verdubbelde poging van de duivel. God houdt, uit hoofde van het ontvangen Sacrament, die bekoringen ten deele tegen, en Hij geeft meer gratie om ze te overwinnen.
+Ten tweede, het vermindert de bekoring, die gewoonlijk in het gevaar van sterven heviger is dan ooit, zowel om reden van de verzwakking van het lichaam, als van de verdubbelde poging van de duivel. God houdt, uit hoofde van het ontvangen Sacrament, die bekoringen ten dele tegen, en Hij geeft meer gratie om ze te overwinnen.
 
-Ten derde, het vergeeft de dagelijksche zonden,
-le rechtstreeks, (ten minste waarschijnlijk) uit hoofde van de vermeerderde vriendschap met God door de vermeerdering van de heiligmakende gratie teweeggebracht (14de les v. 3), en 2o ook middellijker wijze, door leedwezen, gebeden en allerlei goede werken, tot dewelke de zieken, door de dadelijke gratiën van dit Sacrament bewogen worden.
+Ten derde, het vergeeft de dagelijkse zonden,
+1° rechtstreeks, (ten minste waarschijnlijk) uit hoofde van de vermeerderde vriendschap met God door de vermeerdering van de heiligmakende gratie teweeggebracht (14de les v. 3), en 2o ook middellijker wijze, door leedwezen, gebeden en allerlei goede werken, tot dewelke de zieken, door de dadelijke gratiën van dit Sacrament bewogen worden.
 
 Ten vierde, het neemt weg de vergetene doodzonden: het geldt hier die zonden niet waar de zieke in een voorgaande goede Biecht of in een goede akte van volmaakt berouw niet op gedacht heeft, want deze zijn reeds vergeven:
 er is sprake van dezulke waar hij, nog op de ogenblik dat hij het H. Oliesel ontvangt, onvrijwillig mee besmet blijft,
@@ -4713,7 +4619,7 @@ krankzinnigheid buiten staat gesteld werd een akte van berouw te verwekken of te
 
 Ten vijfde, het helpt de zieken tot gezondheid als het zalig is: het helpt om de zieken van hun kwalen te genezen en tot de gezondheid weder te brengen, indien dit voor hun zaligheid noch schadelijk, noch minder profijtig is.
 
-Door zijn vijf uitwerksels komt het H. Oliesel de zieke in zijn uitersten nood onder alle betrekken ter zaligheid helpen en verlichten: het verlost hem van de overblijvende zonden, die de zaligheid rechtstreeks beletten met hem de dagelijksche zonden en de vergetene dodelijke te vergeven;
+Door zijn vijf uitwerksels komt het H. Oliesel de zieke in zijn uitersten nood onder alle betrekken ter zaligheid helpen en verlichten: het verlost hem van de overblijvende zonden, die de zaligheid rechtstreeks beletten met hem de dagelijkse zonden en de vergetene dodelijke te vergeven;
 het wapent hem tegen het wedervallen, met hem te verlichten en met de bekoringen te verminderen; het geeft hem eindelijk de gelegenheid van nog veel te verdienen, met hem te verHehten en met hem te helpen tot gezondheid, als het zalig is.
 — Omdat het H. Oliesel dient tot vergiffenis van de vergetene zonden, is het, in menige gevallen, de enige reddingsmiddel voor de stervenden zondaar.
 
@@ -4727,7 +4633,7 @@ het merkteken van de ziel waardoor zij hun ambt vermogen uit te oefenen — en g
 
 en recht tot de dadelijke gratie — om hun ambt bekwamelijk te bedienen: om hun plichten op een gevoeglijke en heilige wijze te kunnen vervullen.
 
-De Catechismus spreekt van het uitwendig teken van het Priesterschap niet, omdat men niet zeker weet, welk van al de delen die in de H. Kerk de Heilige wijding uitmaken, het uitwendig teken is van Christus ingesteld. — Deze onzekerheid echter brengt geen zwarigheid bij, daar de H. Kerk alles wat eenigszins tot de geldigheid van het Sacrament zou kunnen vereist zijn, met de grootste nauwkeurigheid onderhoudt.
+De Catechismus spreekt van het uitwendig teken van het Priesterschap niet, omdat men niet zeker weet, welk van al de delen die in de H. Kerk de Heilige wijding uitmaken, het uitwendig teken is van Christus ingesteld. — Deze onzekerheid echter brengt geen zwarigheid bij, daar de H. Kerk alles wat enigszins tot de geldigheid van het Sacrament zou kunnen vereist zijn, met de grootste nauwkeurigheid onderhoudt.
 
 Men merke op dat het Sacrament van het Priesterschap niet enkel uit de priesterwijding bestaat, maar ook al de andere wijdingen begrijpt waardoor de dienaars van de H. Kerk, uit Christus’ instelling, macht en gratie ontvangen om hun ambt bekwamelijk te bedienen.
 
@@ -4768,7 +4674,7 @@ en zo als middelaar te dienen tussen God en de mensen.
 
 A. De priesters hebben meer dan de andere dienaren van de H. Kerk deze dubbele macht:
 
-le De macht om, door de absolutie in de Biecht, de zonden te vergeven, niet uit hun eigen zelven, maar — in Christus’ naam: als afgezanten en plaatsvervangers van Christus;
+1° De macht om, door de absolutie in de Biecht, de zonden te vergeven, niet uit hun eigen zelven, maar — in Christus’ naam: als afgezanten en plaatsvervangers van Christus;
 
 2o De macht om — door hun woord: door de woorden die zij in de Consecratie uitspreken, het brood en de wijn te veranderen in het lichaam en het bloed des Heeren,
 — ARI —
@@ -4854,7 +4760,7 @@ A. Een Sacrament, door hetwelk man en vrouw wettelijk verbonden worden, en grati
 
 A. Het antwoord leert wat dit Sacrament bijzonder hetekent en uitwerkt, namelijk:
 
-le Dat man en vrouw: één man met één vrouw —
+1° Dat man en vrouw: één man met één vrouw —
 wettelijk: in de ogen van God en van de H. Kerk — verbonden worden, en
 
 2° Gratie ontvangen: vermeerdering van de heiligmakende
@@ -4863,7 +4769,7 @@ wettelijk: in de ogen van God en van de H. Kerk — verbonden worden, en
 en recht tot dadelijke — om kinderen op te brengen tot Gods glorie: tot ware dienaars van God en ware leden van de H. Kerk.
 
 Alhoewel de Sacramenten slechts dienen om Gods gratie mee te delen, brengt het Huwelijk, boven de gratie, nog de verbintenis teweeg, omdat het niet uitsluitend een Sacrament,
-maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i. a. w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere gratie betekent, welke het hun door zich zelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op geener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
+maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i. a. w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere gratie betekent, welke het hun door zich zelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op gener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
 
 Het uitwendig teken van het Sacrament is het contract,
 waardoor man en vrouw zich wettelijk verbinden; want ’t is dit contract zelf dat Christus heeft ingesteld als sacramenteel teken van de bijzondere gratie van het Huwelijk; hijgevolg,
@@ -4881,7 +4787,7 @@ dan toch in ’t bijzonder of in ’t geheim voorgaat: is ook deze een Sacrament
 
 À. Deze ondertrouw is geen Sacrament des Huwelijks,
 maar slechts een enkele wederzijdsche belofte van malkander te trouwen — op bekwamen tijd: op de tijd die met de belofte of met de omstandigheden overeenstemt.
-Deze belofte brengt een ware verplichting mee en is zij ernstig gedaan en wederzijds aanveerd geweest. zelfs een verplichting op doodzonde, tenware bruidegom en bruid vrijwillig terugtraden, of één van beiden, om bijzondere redenen,
+Deze belofte brengt een ware verplichting mee en is zij ernstig gedaan en wederzijds aanvaard geweest. zelfs een verplichting op doodzonde, tenware bruidegom en bruid vrijwillig terugtraden, of één van beiden, om bijzondere redenen,
 recht krege om zijn belofte niet te volbrengen.
 
 3. V. Mag het Huwelijk van iedereen ontvangen worden en met alle mensen?
@@ -4892,7 +4798,7 @@ V. Mag het Huwelijk van iedereen, wie het ook zij,
 ontvangen worden. en mag het door degenen die het mogen aangaan, met alle mensen aangegaan worden?
 
 A. Neen, het mag niet van iedereen noch met alle mensehen aangegaan worden: niet, zegt de Catechismus, 1° met degenen die belofte van zuiverheid gedaan hebben:
-met degenen die aan God beloofd hebben, voor enige tijd of voor altijd in ongehuwden sfaat te leven, en door die helofte nog gehouden zijn; 2° noch met ongelovigen: met al degenen die eenigszins buiten de Rooms-Katholieke Kerk zijn, zoals ongedoopten, Ketters, Schismatieken;
+met degenen die aan God beloofd hebben, voor enige tijd of voor altijd in ongehuwden sfaat te leven, en door die helofte nog gehouden zijn; 2° noch met ongelovigen: met al degenen die enigszins buiten de Rooms-Katholieke Kerk zijn, zoals ongedoopten, Ketters, Schismatieken;
 3° of zekere geestelijke personen: dezulke die een van de grote orden ontvangen hebben; 4° of degenen die maagschap zijn: die met dewelke men binnen zekeren graad —
 verder aangeduid — verwant of, gelijk men zegt, familie is,
 hetzij door lichamelijk maagschap of bloedverwantschap; (1)
@@ -4905,23 +4811,23 @@ Onder de hier vermelde klassen van mensen met wie het Huwelijk niet mag aangegaa
 
 A. V. Zou het Huwelijk, met dezen aangegaan,
 immers goed wezen?
-A. Met sommigen zou het van geener waarde wezen,
+A. Met sommigen zou het van gener waarde wezen,
 
 als met geestelijke personen, of met lichamelijk maagschap tot de vierden graad, of ook met geestelijk maagschap.
 
 V. Zou het Huwelijk, met de voornoemde klassen van personen aangegaan, goed wezen: geldig zijn of man en vrouw wezenlijk verbinden en gratie geven?
 
-A. Niet met al die klassen, maar alleen met sommige daarvan — zou het van geener waarde wezen: zou het ongeldig zijn en bijgevolg niets teweegbrengen, als, onder anderen, met geestelijke personen, met degenen die een grote orde ontvangen hebben, of met lichamelijk maagschap of bloedverwantschap, in rechte lijn (1), tot alle gra-
+A. Niet met al die klassen, maar alleen met sommige daarvan — zou het van gener waarde wezen: zou het ongeldig zijn en bijgevolg niets teweegbrengen, als, onder anderen, met geestelijke personen, met degenen die een grote orde ontvangen hebben, of met lichamelijk maagschap of bloedverwantschap, in rechte lijn (1), tot alle gra-
 
 gezegd in v. 5. Het wettelijk maagschap ontstaat uit het aannemen van eens anders kind tot het zijne. Daardoor wordt de aannemeling belet in huwelijk te treden, 1e met de persoon die hem heeft aangenomen, 20 met dezes echtgenoot, 30 met dezes kinderen die nog onder de vaderlijke macht staan. Insgelijks wordt de persoon die aanneemt onbekwaam het huwelijk aan te gaan lo met de echtgenoot des aannemelings, 20 met dezes kinderen die nog aan het vaderlijk gezag onderhevig zijn.
 
 (1) Stammen de bloedverwanten de een van de andere af, i. a. w.
 staan zij tot elkander in de betrekking van ouders en kinderen,
-grootvaders en kleinkinderen, enz., dan zijn zij bloedverwanten én de rechte lijn: komen zij uitsluitend uit één en denzelfden stam voort, dan zijn zij bloedverwanten én zijdelijke lijn,
+grootvaders en kleinkinderen, enz., dan zijn zij bloedverwanten én de rechte lijn: komen zij uitsluitend uit één en dezelfde stam voort, dan zijn zij bloedverwanten én zijdelijke lijn,
 — 329 —
 
 den (1) en, ir de zijdelijke lijn tot de vierden graad;
-met wettig aanverwantschap tot de vierden en met onwettig tot de tweeden graad; (de Catechismus zegt enkel tot de vierden graad. omdat hij slechts het bijzonderste wil aanduiden), — of ook met geestelijk maagschap. (v. 5.) Het Huwelijk zou ook van geener waarde wezen met personen die in een door de H. Kerk goedgekeurde orde de plechtige belofte van zuiverheid gedaan hebben, of met ongedoopten; maar met Ketters of Schismatieken zou het geldig wezen.
+met wettig aanverwantschap tot de vierden en met onwettig tot de tweeden graad; (de Catechismus zegt enkel tot de vierden graad. omdat hij slechts het bijzonderste wil aanduiden), — of ook met geestelijk maagschap. (v. 5.) Het Huwelijk zou ook van gener waarde wezen met personen die in een door de H. Kerk goedgekeurde orde de plechtige belofte van zuiverheid gedaan hebben, of met ongedoopten; maar met Ketters of Schismatieken zou het geldig wezen.
 
 Hieruit volgt dat er twee soorten van huwelijksbeletselen zijn: de eene, die het Huwelijk ongeldig, de andere, die het uitsluitend ongeoorloofd maken: zo is het Huwelijk met bloedverwanten tot de vierden graad ongeldig. terwijl dat van een Katholieke met een Ketter wel ongeoorloofd maar toch geldig is.
 
@@ -4932,7 +4838,7 @@ want aan haar alleen heeft Christus het bedienen van de Sacramenten toevertrouwd
 
 2o Wat de bloedverwanten in zijdelijke lijn betreft: broeders en zusters zijn in de eersten graad; kinderen van broeders en zusters, in de tweeden; kleinkinderen van broeders en zusters, in de derden; kinderen van deze kleinkinderen in de vierden graad.
 
-De man is aangetrouwd maagschap met de familie van zijn vrouw in dezelfde lijn en in denzelfden graad als de vrouw er mee in bloedverwantschap is, en omgekeerd.
+De man is aangetrouwd maagschap met de familie van zijn vrouw in dezelfde lijn en in dezelfde graad als de vrouw er mee in bloedverwantschap is, en omgekeerd.
 — 330 —
 
 ot
@@ -4947,7 +4853,7 @@ Dit beletsel is ingebracht, omdat peter, meter en bedienaar in voornoemde Sacram
 
 6. V. Moet het huwelijk vóór iemand geschieden?
 
-A. Het moet geschieden vóór de eigen pastoor, of vóór iemand van hem daartoe gemachtigd, en twee getuigen; of anders zou het van geener waarde wezen.
+A. Het moet geschieden vóór de eigen pastoor, of vóór iemand van hem daartoe gemachtigd, en twee getuigen; of anders zou het van gener waarde wezen.
 
 V. Moet het Huwelijk, om geldig te zijn, vóór iemand geschieden, ofwel mag men het in ‘t geheim of zonder getuigen aangaan?
 
@@ -4956,14 +4862,14 @@ vóór de eigen pastoor: vóór de wettigen pastoor van de
 — 331 —
 
 parochie des mans of van de vrouw, of vóór iemand: voor
-éénen priester van hem: van de eigen pastoor — daartoe gemachtigd: aangesteld om hem daarbij te vervangen, en vóór twee getuigen die tot de jaren van verstand gekomen zijn en in staat zijn getuigenis te geven van het aangegaan Huwelijk; of anders: ware een van deze voorwaarden niet volbracht, zou het niet uitsluitend ongeoorloofd, maar van geener waarde of ongeldig wezen. Het Concilie van Trente heeft deze voorwaarde tot de geldigheid des Huwelijks vereist om de geheime Huwelijken, waar zoovele misbruiken uit voortsproten, te beletten. Doch het heeft tevens vastgesteld dat deze wet slechts in die parochiën zou gelden,
+éénen priester van hem: van de eigen pastoor — daartoe gemachtigd: aangesteld om hem daarbij te vervangen, en vóór twee getuigen die tot de jaren van verstand gekomen zijn en in staat zijn getuigenis te geven van het aangegaan Huwelijk; of anders: ware een van deze voorwaarden niet volbracht, zou het niet uitsluitend ongeoorloofd, maar van gener waarde of ongeldig wezen. Het Concilie van Trente heeft deze voorwaarde tot de geldigheid des Huwelijks vereist om de geheime Huwelijken, waar zoovele misbruiken uit voortsproten, te beletten. Doch het heeft tevens vastgesteld dat deze wet slechts in die parochiën zou gelden,
 waar zij afgekondigd zou geweest zijn. In ons land is die afkondiging gebeurd in alle parochiën.
 
 7. V. Wat geeft het heilig Sacrament des Huwelijks?
 
 A, Ten eerste, gratie om kinderen tot Gods eer te krijgen en op te voeden; ten tweede, boven de verbintenis geeft het gratie om in liefde en peis te leven; ten derde, sterkte om beter de lasten van het Huwelijk te dragen.
 
-V. Zeg meer specifiek welke de uitwerksels zijn van het Huwelijk, dat, zoals de le vraag leert, man en vrouw wettelijk verbindt en gratie geeft om kinderen tot Gods glorie op te brengen.
+V. Zeg meer specifiek welke de uitwerksels zijn van het Huwelijk, dat, zoals de 1° vraag leert, man en vrouw wettelijk verbindt en gratie geeft om kinderen tot Gods glorie op te brengen.
 
 A. Ten eerste, gratie om het hoofdeinde van het Huwelijk te bereiken, namelijk, om kinderen tot Gods eer te krijgenen op te voeden;
 
@@ -4995,7 +4901,7 @@ A. Omdat het tijden zijn van boetvaardigheid en godsdienstigheid, dewelke, door 
 V. Waarom laat de H. Kerk de Huwelijken: de solemniteiten van de Huwelijken, en, in ons land, ten gevolge
 — 333 —
 
-eener wet door de algemeene gewoonte ingebracht, de Huwelijken zelf niet toe in de Advent: van de eersten Zondag van de Advent tot daags na Drijkoningen en in de Vasten: van Aschwoensdag tot daags na Beloken Pasen?
+eener wet door de algemene gewoonte ingebracht, de Huwelijken zelf niet toe in de Advent: van de eersten Zondag van de Advent tot daags na Drijkoningen en in de Vasten: van Aschwoensdag tot daags na Beloken Pasen?
 
 A. Zij laat ze dan niet toe, omdat het tijden zijn van boetvaardigheid en godsdienstigheid: omdat zij wil dat de gelovigen, gedurende die tijden. op een bijzondere wijze de boetvaardigheid en godsdienstigheid beoefenen, met hun zonden uit te boeten, hun conscientie te zuiveren en hun hart met deugden te versieren, dewelke noodzakelijk belet worden door de blijdschap die op de bruiloften gemeenlijk geschiedt: door de feesten en vermaken die op de huwelijksdagen gewoonlijk plaats grijpen.
 
@@ -5053,7 +4959,7 @@ heid. Christelijke Rechtvaardigheid ?
 s\- | Doodzonden. ‚V 8 Wat zijn 3 5 V. 6. Watis del vreemde zonNS ä b) De da- basel degerjksche den?
 
 9 |Z |delijke zon- agelijk. | ie A 8 hoer sche zon-;V.7. Watkwaad\V. 9. Hoe ge-
-> " den. doen ons def schieden de N dagelijksche vreemde zonzonden? de ?
+> " den. doen ons def schieden de N dagelijkse vreemde zonzonden? de ?
 
 De Catechismus heeft ons in de drie eerste delen geleerd,
 wat er vereist is om in de dienst van God te treden en er in te volharden, en in het vierde deel, welke middelen door Christus ingesteid wij moeten gebruiken om tof dezen dienst de noodzakelijke krachten en hoedanigheden te hebben. Nu in 't vijfde en laatste deel zal hij ons leren, wat iemand die door het Geloof, de Hoop en de Liefde in de dienst van God is getreden, en door de Sacramenten de tot die dienst vereiste krachten en hoedanigheden heeft bekomen, te doen en te vluchten heeft, om God volgens Christus’ leer rechtveer-
@@ -5087,7 +4993,7 @@ Opdat nu een zonde ons kunne aangerekend worden, moet men ze wetens en willens b
 en bijgevolg kan er ons, als mensen, geen zonde toegeschreven worden, indien wij ze niet kennen en willen.
 
 Wie door zijn schuld de zonden niet kent die hij bedrijft,
-maakt zich, door die vrijwillige onwetendheid, ongetwijfeld plichtig aan al de zonden die hij eenigszins voorziet, en hij maakt er zich plichtig aan op de ogenblik zelf dat hij ze voorziet; wil men immers de wet niet kennen die men te volgen keett, dan wil men die wet overtreden.
+maakt zich, door die vrijwillige onwetendheid, ongetwijfeld plichtig aan al de zonden die hij enigszins voorziet, en hij maakt er zich plichtig aan op de ogenblik zelf dat hij ze voorziet; wil men immers de wet niet kennen die men te volgen keett, dan wil men die wet overtreden.
 
 Wie een daad verricht, twijfelende of hij zich aan zonde plichtig maakt, die maakt zich plichtig aan de zonde waar hij aan twijfelt, vermits hij de daad wil plegen, zelfs indien zij zonde is. Twijfelt gij dus of gij iets moogt doen of niet, gij moet, vooraleer te handelen, die twijfel afleggen door 't bijbrengen van gegronde redenen, of, zo gij hiertoe niet geleerd genoeg zijt, door anderen te raadplegen, indien gij daartoe gelegenheid hebt. Het geldt hier, dat spreekt van zelf, gegronde twijfels, en niet bevreesdheden van nauwgezette gewetens; op zulke immers moet niet gelet worden.
 
@@ -5099,9 +5005,9 @@ volgens Christus’ leer in de omstandigheden waarin men zich bevindt wezenlijk 
 
 A. Tweeërlei: de erfzonde en de dadelijke zonde;
 en onder de zonden, die met de daad geschieden,
-zijn enige dodelijke en andere dagelijksche.
+zijn enige dodelijke en andere dagelijkse.
 
-A. De zonden zijn tweeërlei of worden in twee hoofdsoorten verdeeld: de erfzonde: de zonde die wij, niet door persoonlijke daad hedreven, maar van onzen eersten vader Adam geërfd hehben; — en de dadelijke zonde: de zonde waaraan wij ons door eigen daad plichtig maken; en onder de zonden die met de daad geschieden of onder de dadelijke zonden — zijn enige dodelijke: zijn er enige die ons van het geestelijk leven van de ziel herooven en zo ons doden, en andere dagelijksche: andere die de dood van het geestelijk leven niet veroorzaken, maar ons enkel in de liefde Gods doen verftauwen, ten gevolge van de menselijke krankheid dik wijls geschieden, en daarom dagelijksche zonden genoemd worden.
+A. De zonden zijn tweeërlei of worden in twee hoofdsoorten verdeeld: de erfzonde: de zonde die wij, niet door persoonlijke daad hedreven, maar van onzen eersten vader Adam geërfd hehben; — en de dadelijke zonde: de zonde waaraan wij ons door eigen daad plichtig maken; en onder de zonden die met de daad geschieden of onder de dadelijke zonden — zijn enige dodelijke: zijn er enige die ons van het geestelijk leven van de ziel herooven en zo ons doden, en andere dagelijkse: andere die de dood van het geestelijk leven niet veroorzaken, maar ons enkel in de liefde Gods doen verftauwen, ten gevolge van de menselijke krankheid dik wijls geschieden, en daarom dagelijkse zonden genoemd worden.
 
 4. V. Wat is de erfzonde?
 
@@ -5143,20 +5049,20 @@ vaardigheid dat de erfzonde gelegen is. Door het verlies van al die gaven heeft 
 
 2o Dat zij ons onbekwaam maakt om de glorie van de hemel, die in hef aanschouwen van God bestaat, te genieten; dit geluk immers is de belooning van Gods aangenomene kinderen, en ‘tis alleen door de heiligmakende gratie, waar de erfzonde ons van berooft, dat wij kinderen Gods zijn.
 
-6. V. Watts de dagelijksche zonde?
+6. V. Watts de dagelijkse zonde?
 
 A. een zonde zó gedaan tegen de wet Gods, dat zij nochtans de goddelijke liefde niet wegneemt,
 maar uitsluitend tot enige tijdelijke pijn verbindt.
 
-Â. De dagelijksche zonde is een zonde — zó gedaan tegen de wet Gods: zó wetens en willens tegen de geboden van God of van andere wettige overheden bedreven —
+Â. De dagelijkse zonde is een zonde — zó gedaan tegen de wet Gods: zó wetens en willens tegen de geboden van God of van andere wettige overheden bedreven —
 dat zij nochtans de goddelijke liefde niet wegneemt:
 dat zij, hoewel tegen God strijdende en Hem vergrammende,
 nochtans de vriendschap met Hem niet breekt, noch ons van de heiligmakende gratie berooft, noch. hijgevolg, de eeuwige straf van de hel medebrengt die slechts bestemd is voor degenen die buiten Gods liefde sterven (15e les, 8e vr.), maar uitsluitend verbindt — tot enige tijdelijke pijn: tot een pijn van bepaalden tijd hier op de aarde of hiernamaals in het vagevuur te lijden.
 
 Dat er zonden zijn die de goddelijke liefde niet wegnemen,
-is gemakkelijk om begrijpen; de vriendschap met iemand wordt niet door allerhande, maar slechts door grote, door volkomene beledigingen verbroken; welnu er zijn noodzakelijk zonden die niet volkomen zijn, en zo zijn er noodzakelijk dagelijksche zonden.
+is gemakkelijk om begrijpen; de vriendschap met iemand wordt niet door allerhande, maar slechts door grote, door volkomene beledigingen verbroken; welnu er zijn noodzakelijk zonden die niet volkomen zijn, en zo zijn er noodzakelijk dagelijkse zonden.
 
-7. V. Watkwaad doen ons de dagelijksche zonden?
+7. V. Watkwaad doen ons de dagelijkse zonden?
 A. Ten eerste, zij doen ons in de liefde Gods verflauwen; ten tweede, zij maken ons gereed tot
 — 342 —
 
@@ -5168,7 +5074,7 @@ Ten eerste, zij doen ons in de liefde Gods verflauwen ;
 zij verminderen in ons niet de graad van de liefde of van de heiligmakende gratie, maar wel, om reden van de oneer God aangedaan, de dadelijke gratiën en diensvolgens de levendigheid,
 de vurigheid van de liefde, waaruit de goede werken voortspruiten, en zo beletten zij ons onrechtstreeks van door goede werken en het ontvangen van de HH. Sacramenten grote vermeerdering van de heiligmakende gratie te bekomen.
 
-Ten tweede, zij maken ons gereed tot meerderen val: om menigvuldiger en groter zonden, zowel dodelijke als dagelijksche, te bedrijven, en dat evenzeer met de vurigheid van onze liefde te verminderen als met onze neiging tot het kwaad te vermeerderen.
+Ten tweede, zij maken ons gereed tot meerderen val: om menigvuldiger en groter zonden, zowel dodelijke als dagelijkse, te bedrijven, en dat evenzeer met de vurigheid van onze liefde te verminderen als met onze neiging tot het kwaad te vermeerderen.
 
 Ten derde, zij verbinden ons tot tijdelijke straffen.
 (v. 6.) Aan een volkomene zonde komt een volkomene straf,
@@ -5184,11 +5090,11 @@ begeerten of verzuimenissen die, hoewel zij niet door ons zelven, maar door ande
 — 343 —
 
 bedrijven dier zonden in enige manier geholpen hebben:
-eenigszins medegewerkt hebben, hetzij met anderen tot die zonden te bewegen (medewerken in het werk van de ziel), hetzij met hen tot het bedrijven derzelve te helpen (medewerkenin het werk van het lichaam), hetzij met ze niet te beletten (verzuimen van het werk van de ziel of van het lichaam te beletten), als wij er niet uitsluitend uit liefde, maar van ambtswege of uit hoofde van een contract toe gehouden waren. De zonden van anderen niet beletten als wij er slechts uit liefde toe verplicht zijn, dat maakt geen vreemde zonde, maar enkel een zonde tegen de liefde uit, omdat wij dan geen ware medeoorzaak van de bedrevene zonde zijn. Vreemde zonde is b.v. een diefte waar wij een ander toe bewogen of geholpen hebben, of waar wij ons niet tegen hebben verzet, wanneer wij er uit hoofde van ons ambt of van een contract toe verplicht waren. In de eerste manier van medewerken is er, boven de vreemde zonde,
+enigszins medegewerkt hebben, hetzij met anderen tot die zonden te bewegen (medewerken in het werk van de ziel), hetzij met hen tot het bedrijven derzelve te helpen (medewerkenin het werk van het lichaam), hetzij met ze niet te beletten (verzuimen van het werk van de ziel of van het lichaam te beletten), als wij er niet uitsluitend uit liefde, maar van ambtswege of uit hoofde van een contract toe gehouden waren. De zonden van anderen niet beletten als wij er slechts uit liefde toe verplicht zijn, dat maakt geen vreemde zonde, maar enkel een zonde tegen de liefde uit, omdat wij dan geen ware medeoorzaak van de bedrevene zonde zijn. Vreemde zonde is b.v. een diefte waar wij een ander toe bewogen of geholpen hebben, of waar wij ons niet tegen hebben verzet, wanneer wij er uit hoofde van ons ambt of van een contract toe verplicht waren. In de eerste manier van medewerken is er, boven de vreemde zonde,
 nog een zonde van rechtstreeksche verergernis; in de tweede en in de derde zal er, boven de vreemde zonde, nog een zonde van onrechtstreeksche verergernis zijn, als wij er iemand de gelegenheid door geven van te zondigen. (25° les, 1 v.)
 
 De vreemde zonden worden zo genoemd, omdat wij ze niet door ons zelven, maar door anderen, door vreemden bedrijven.
-Zij kunnen, als blijkt, dodelijke of dagelijksche zonden zijn.
+Zij kunnen, als blijkt, dodelijke of dagelijkse zonden zijn.
 
 Daar de vreemde zonden ons wezenlijk aangerekend en toegeschreven worden, is het niet genoeg in de Biecht (wel te verstaan als er spraak is van doodzonden), te verklaren, dat men tot eens anders zonde medegewerkt heeft; men moet daarenboven zeggen tot welke zonde de medewerking verleend werd. Wij moeten immers in de Biecht verklaren,
 welke doodzonden wij gedaan hebben,
@@ -5251,15 +5157,15 @@ Wat is een onvolmaaktheid, en hoe verschilt zij van de zonde?
 3. Geef, met de Catechismus, de hoofdverdeling van de zonden.
 — Leg deze verdeling uit, en geef tevens rekenschap van de namen. — Hoe verdeelt de Catechismus de dadelijke zonden? — Leg die verdeling uit, en geef rekenschap van de namen.
 
-4, Waarin bestaat eerst en vooral, volgens de Catechismus, de erfzonde? — Leg het antwoord uit. — Van waar komt, volgens de Catechismus, die staat voort welke de erfzonde uitmaakt? — Verklaar uw antwoord. — Welk is, volgens de Catechismus, de oorsprong van die beroving, welke de erfzonde teweegbrengt? — Leg dit antwoord uit. — Wie is er, volgens de Catechismus, met de erfzonde besmet? — Leg dit uit. — Hoe en wanneer worden deze allen er mee besmet? — Toon hoe niets God belette, het bewaren van de heiligmakende gratie van de wil onzes algemeenen stamvaders te doen afhangen. — Toon hoe het zelfs betaamde, dat God zo de zaak schikte. — Hoe kan die staat van afgekeerdheid van God en beroving van de rechtvaardigheid, die de erfzonde uitmaakt, de naam van zonde dragen?
+4, Waarin bestaat eerst en vooral, volgens de Catechismus, de erfzonde? — Leg het antwoord uit. — Van waar komt, volgens de Catechismus, die staat voort welke de erfzonde uitmaakt? — Verklaar uw antwoord. — Welk is, volgens de Catechismus, de oorsprong van die beroving, welke de erfzonde teweegbrengt? — Leg dit antwoord uit. — Wie is er, volgens de Catechismus, met de erfzonde besmet? — Leg dit uit. — Hoe en wanneer worden deze allen er mee besmet? — Toon hoe niets God belette, het bewaren van de heiligmakende gratie van de wil onzes algemenen stamvaders te doen afhangen. — Toon hoe het zelfs betaamde, dat God zo de zaak schikte. — Hoe kan die staat van afgekeerdheid van God en beroving van de rechtvaardigheid, die de erfzonde uitmaakt, de naam van zonde dragen?
 
 5. Verklaar de vraag: Wat kwaad doet ons de erfzonde? — Leg,
 met de Catechismus, welk dubbel kwaad de erfzonde ons doet, en leg het uit. — Geef rekenschap van het kwaad dat zij ons doet.
 
-6. Is de dagelijksche zonde een ware zonde? — Bewijs het antwoord met de woorden van de Catechismus, en leg deze uit. — Zeg,
-met de Catechismus, hoeveel en welke dingen aan de dagelijksche zonden eigen zijn. — Verklaar deze. — Toon dat er dagelijksche zonden zijn, of dat niet alle zonden de goddelijke liefde wegnemen.
+6. Is de dagelijkse zonde een ware zonde? — Bewijs het antwoord met de woorden van de Catechismus, en leg deze uit. — Zeg,
+met de Catechismus, hoeveel en welke dingen aan de dagelijkse zonden eigen zijn. — Verklaar deze. — Toon dat er dagelijkse zonden zijn, of dat niet alle zonden de goddelijke liefde wegnemen.
 
-7. Welk drijdubbel kwaad doet ons de dagelijksche zonde? —
+7. Welk drijdubbel kwaad doet ons de dagelijkse zonde? —
 Leg het uit. — Bewijs dat al dat kwaad er natuurlijk uit volgt.
 
 8. Zeg, met de Catechismus, wat er eigen is aan de vreemde
@@ -5267,7 +5173,7 @@ Leg het uit. — Bewijs dat al dat kwaad er natuurlijk uit volgt.
 
 zonden, en waarop die eigenschap rust. — Leg de beide antwoorden uit. — Zeg, in ’t bijzonder, op welke manieren wij tot de zonde van anderen kunnen wezenlijk medewerken. — Werkt men ook wezenlijk tot de zonde van een ander mede, als men die zonde verzuimt te beletten, alhoewel men uit liefde, doch enkel uit die hoofde, daartoe verplicht is? — Geef rekenschap van uw antwoord.
 — Geef een voorbeeld van een vreemde zonde, en leg het uit. —
-Leg hunn naam uit. — Is er in de vreemde zonden niet ook altijd een zonde van verergernis te vinden? — Zijn de vreemde zonden dodelijke of dagelijksche zonden? — Hoe moet men de vreemde zonden biechten?
+Leg hunn naam uit. — Is er in de vreemde zonden niet ook altijd een zonde van verergernis te vinden? — Zijn de vreemde zonden dodelijke of dagelijkse zonden? — Hoe moet men de vreemde zonden biechten?
 
 9. Op hoeveel manieren geschieden de vreemde zonden? — Hoe kùnnen zij verdeeld worden? — Leg ieder van die manieren uit. —
 Hoe werken wij door ieder van die manieren in de zonde van anderen mede? — Wanneer zijn wij uit hoofde van verzuimenis tot restitutie verplicht? — Geef rekenschap van uw antwoord.
@@ -5317,7 +5223,7 @@ A. een zonde, zó strijdende tegen de wet Gods,
 dat zij ons geheellijk berooft van de goddelijke liefde die het leven van onze zielen is.
 — 349 —
 
-A. De doodzon le is een zonde zó strijdende tegen de wet Gods: een zó grote overtreding van Gods wet en wil,
+A. De doodzon 1° is een zonde zó strijdende tegen de wet Gods: een zó grote overtreding van Gods wet en wil,
 dat zij ons geheellijk berooft — van de goddelijke liefde: van de vriendschap Gods of van de heiligmakende gratie, die het leven van onze zielen is: waardoor onze zielen instaatzijn de hemel te verdienen en zo voor de hemel leven.
 (29e les, 6° vr.) Door deze zonde is onze ziel buiten staat om de hemel te bekomen en zo dood voor de hemel, gelijk iemand die buiten een spel gezet wordt, dood gezegd wordt voor de winste van het spel.
 
@@ -5342,17 +5248,17 @@ Om. gelijk de doodzonde, ons geheellijk van de goddelijke vriendschap te beroove
 
 A. Men zal met zekerheid weten dat een zonde dodelijk is, als deze twee voorwaarden vervuld zijn:
 
-le Is ‘t dat zij vrijwillig gedaan wordt: indien zij met volle verstand en vrijen wil geschiedt;
+1° Is ‘t dat zij vrijwillig gedaan wordt: indien zij met volle verstand en vrijen wil geschiedt;
 
 2o En ernstig strijdt tegen de eer Gods, of de welvaart van onzen evennaaste: en in haar zelve gewichtig is, en dat is zij, als zij de eer die wij aan God verschuldigd zijn, ernstig schendt, of groot kwaad doet aan de naaste, waaronder wij eerst en vooral ons zelf te verstaan hebben.
 
-Dit antwoord vloeit rechtstreeks uit het voorgaande: indien een zonde geen doodzonde is, als zij zonder vol verstand en vrijen wil geschiedt, of als de zaak in haar zelve klein is, dan moet men noodzakelijk oordelen dat zij dodelijk is, als zij geschiedt met vol verstand en vrijen wil, en tevens de zaak in haar zelve groot is. Opdat men zich een zonde hebbe aan te rekenen, zijn twee dingen nodig: men moet le de wet Gods overtreden en 2° dir vrijwillig doen. Is de overtreding groot en tevens geheel vrijwillig, dan bedrijft men een volledige zonde, een doodzonde; is de overtreding integendeel klein,
-of niet gans vrijwillig, dan bedrijft men slechts een onvolledige, een dagelijksche zonde.
+Dit antwoord vloeit rechtstreeks uit het voorgaande: indien een zonde geen doodzonde is, als zij zonder vol verstand en vrijen wil geschiedt, of als de zaak in haar zelve klein is, dan moet men noodzakelijk oordelen dat zij dodelijk is, als zij geschiedt met vol verstand en vrijen wil, en tevens de zaak in haar zelve groot is. Opdat men zich een zonde hebbe aan te rekenen, zijn twee dingen nodig: men moet 1° de wet Gods overtreden en 2° dir vrijwillig doen. Is de overtreding groot en tevens geheel vrijwillig, dan bedrijft men een volledige zonde, een doodzonde; is de overtreding integendeel klein,
+of niet gans vrijwillig, dan bedrijft men slechts een onvolledige, een dagelijkse zonde.
 
 4. V. Wat verliezen wij door de doodzonde?
 
 A. Ten eerste, de goddelijke gratie; ten tweede, de verdiensten van onze goede werken; ten derde,
-de hemelsche glorie.
+de hemelse glorie.
 
 A. Door de doodzonde verliezen wij drie goederen:
 Ten eerste, de goddelijke gratie: de heiligmakende
@@ -5362,7 +5268,7 @@ gratie waardoor wij aangenomene kinderen Gods en erfgenamen van de hemel zijn;
 
 Ten tweede, de verdiensten van onze goede werken: het recht tot vermeerdering van de heiligmakende gratie, dat onze goede werken, werden zij in staat van gratie gedaan, ons zouden verwerven, alsook het recht tot loon, dat onse voorgaande werken in staat van gratie volbracht, ons reeds verworven hadden;
 
-Ten derde, de hemelsche glorie: het geluk des Hemels,
+Ten derde, de hemelse glorie: het geluk des Hemels,
 dat hoofdzakelijk in het aanschouwen van God bestaat.
 
 Het is niet moeilijk om bewijzen, dat wij door de doodzonde wezenlijk deze drie verliezen doen: zij berooft ons van de heiligmakende gratie, daar zij ons vijanden van God maakt; dan, uit dit verlies volgt noodzakelijk 1° dat van de verdiensten van onze goede werken: wie de titel van aangenomen kind Gods verloren heeft, kan onmogelijk nog de verdiensten en de loon verkrijgen die Gods aangenomene kinderen toekomt; 2° het verlies van de hemel, vermits deze de loon is dergenen die in Gods gratie sterven.
@@ -5385,13 +5291,13 @@ die het ware rijk van de duivel is, zullen te lijden hebben; —
 schandelijke slavernij van de duivel, omdat het voor een schepsel tot de allerverhevensten adel van kind Gods behoorende,
 eene schande is, en de hoogste schande denkelijk, aan de slaverhij van de duivel onderworpen te zijn.
 
-Nu kunnen wij gemakkelijk al het verschil tussen de dodelijke en de dagelijksche zonde verstaan: le de doodzonde is een volledige zonde; de dagelijksche, slechts een onvolledige; 2° de dodelijke zonde berooft ons ten volle van de heiligmakende gratie; de dagelijksche doet ons enkel in de liefde Gods verflauwen; 3e de eerste verbindt ons tot de eeuwige pijnen; de laatste, uitsluitend tot tijdelijke.
+Nu kunnen wij gemakkelijk al het verschil tussen de dodelijke en de dagelijkse zonde verstaan: 1° de doodzonde is een volledige zonde; de dagelijkse, slechts een onvolledige; 2° de dodelijke zonde berooft ons ten volle van de heiligmakende gratie; de dagelijkse doet ons enkel in de liefde Gods verflauwen; 3e de eerste verbindt ons tot de eeuwige pijnen; de laatste, uitsluitend tot tijdelijke.
 
 6. V. Wat heet men hoofdzonden?
 A. Die gelijk oorsprongen zijn en beginselen van vele andere zonden.
 
 A. Hoofdzonden heet men, niet de zonden die boven alle andere zwaar zijn: de godslastering b.v. en de vrijwillige doodslag zijn uit hun natuur erger dan de hoofdzonden;
-— noch die altijd dodelijk zijn: de hoofdzonden zijn nu dodelijke, dan dagelijksche zonden, volgens dat hun voorwerp in zich zelf groot of klein is; maar wel dezulke — die gelijk oorsprongen en beginselen zijn van vele andere zonden: die gelijk bronnen zijn waar vele andere zonden uit voortvloeien, of die ons tot vele andere zonden aanzetten of aandrijven. Zedere hoofdzonde is de bron van vele andere zonden; de Zeven Hoofdzonden zijn de bron van al de andere zonden. (7 v.) Zij veroorzaken en beheerschea al de andere kwade werken, gelijk het hoofd al de andere ledematen beweegt en bestiert: vandaar hun naam van hoofdzonden.
+— noch die altijd dodelijk zijn: de hoofdzonden zijn nu dodelijke, dan dagelijkse zonden, volgens dat hun voorwerp in zich zelf groot of klein is; maar wel dezulke — die gelijk oorsprongen en beginselen zijn van vele andere zonden: die gelijk bronnen zijn waar vele andere zonden uit voortvloeien, of die ons tot vele andere zonden aanzetten of aandrijven. Zedere hoofdzonde is de bron van vele andere zonden; de Zeven Hoofdzonden zijn de bron van al de andere zonden. (7 v.) Zij veroorzaken en beheerschea al de andere kwade werken, gelijk het hoofd al de andere ledematen beweegt en bestiert: vandaar hun naam van hoofdzonden.
 
 7. V. Hoeveel hoofdzonden zijn er?
 A. Zeven: 1. Hoovaardigheid. 2. Gierigheid.
@@ -5436,7 +5342,7 @@ de gulzigheid en de onkuischheid; — en drie ongeregelde afgekeerdheden: van ee
 
 8. V. Welke noemt men zonden tegen de H. Geest?
 
-A. Die uit enkele boosheid geschieden en strijden tegen de goddelijke bermhertigheid, en daarom zeer zelden vergeven worden.
+A. Die uit enkele boosheid geschieden en strijden tegen de goddelijke barmhartigheid, en daarom zeer zelden vergeven worden.
 
 A. Men noemt zonden tegen de H. Geest dezulke die de twee volgende voorwaarden vervullen:
 
@@ -5447,22 +5353,22 @@ ie Die geschieden, niet onder de invloed van de driften en van de daaruitvloeien
 
 die, zonder enige aanlokking van wege de driften, uit gans vrije verkiezing in de zonde toestemt;
 
-2e En strijden tegen de goddelijke bermhertigheid:
-en gelegen zijn in het verwerpen en verachten van de middelen waardoor de goddelijke bermhertigheid ons tot de zaligheid geleidt, en zo die bermhertigheid zelve rechtstreeks bestrijden, en daarom dit eigen hebben, niet dat zij nooit,
+2e En strijden tegen de goddelijke barmhartigheid:
+en gelegen zijn in het verwerpen en verachten van de middelen waardoor de goddelijke barmhartigheid ons tot de zaligheid geleidt, en zo die barmhartigheid zelve rechtstreeks bestrijden, en daarom dit eigen hebben, niet dat zij nooit,
 maar dat zij slechts zeer zelden vergeven worden.
 
-De zonden tegen de H. Geest worden zo genoemd, omdat de goddelijke liefde of heiligheid, waartegen zij rechtstreeks strijden daar zij uit enkele boosheid geschieden, en de goddelijke bermhertigheid, die zij verwerpen, hoewel de drie goddelijke personen evenzeer toekomende, nochtans de H. Geest bijzonder worden toegeschreven (lÌeles, v. 8 en 5e les, v. 8).
+De zonden tegen de H. Geest worden zo genoemd, omdat de goddelijke liefde of heiligheid, waartegen zij rechtstreeks strijden daar zij uit enkele boosheid geschieden, en de goddelijke barmhartigheid, die zij verwerpen, hoewel de drie goddelijke personen evenzeer toekomende, nochtans de H. Geest bijzonder worden toegeschreven (lÌeles, v. 8 en 5e les, v. 8).
 
 9. V. Welke zijn de zonden tegen de H. Geest?
 
-A. Deze zes: l. Van Gods genade wanhopen. 2. Op Gods bermhertigheid zonder deugden zich beroemen. 3. De welbekende waarheid bestrijden.
+A. Deze zes: l. Van Gods genade wanhopen. 2. Op Gods barmhartigheid zonder deugden zich beroemen. 3. De welbekende waarheid bestrijden.
 4, De broederlijke liefde benijden. 5. Hardnekkig zijn in de boosheid. 6. Verachten het berouw of de penitentie.
 
 A. De zonden tegen de H. Geest zijn deze zes:
 
-le Van Gods genade wanhopen, het eeuwig leven en al wat ons daartoe helpen kan, niet uit enkele kleinmoedigheid, maar met opzet van God niet willen verzoeken en verwachten (21° les, 2 vr.). Zonde van Cain en van Judas.
+1° Van Gods genade wanhopen, het eeuwig leven en al wat ons daartoe helpen kan, niet uit enkele kleinmoedigheid, maar met opzet van God niet willen verzoeken en verwachten (21° les, 2 vr.). Zonde van Cain en van Judas.
 
-2 Op Gods bermhertigheid zonder deugden zich beroemen: zijn zaligheid verwachten zonder de doodzonde te willen vluchten, zonder Gods geboden te willen volbrengen.
+2 Op Gods barmhartigheid zonder deugden zich beroemen: zijn zaligheid verwachten zonder de doodzonde te willen vluchten, zonder Gods geboden te willen volbrengen.
 Hij zondigt dus tegen de H. Geest, niet die enkel zijn goede werken hooger acht dan zij verdienen, maar wel hij die stoutmoedig in de boosheid voortleeft, voor zeker houdende dat God hem op het einde van het leven wel zal redden,
 
 30 De welbekende waarheid bestrijden: de goddelijke Openbaring, of een of meer geopenbaarde waarheden,
@@ -5480,19 +5386,19 @@ maar omdat God hem liefheeft en hem dientengevolge, ter bekeering of ter meerder
 69 Verachten het berouw of de penitentie: in de zonde volharden, niet uit enkele zwakheid, maar met het kwaad voornemen van zich gedurende een zekeren tijd of zelfs in de ure van de dood niet te bekeeren. Zonde dergenen die de verbintenis aangaan van op hun uiterste de HH. Sacramenten te weigeren.
 
 Deze zes zonden zijn wezenlijk zonden tegen de H. Geest;
-want, zoals uit de gegevene bepaling blijkt, geschieden zij uit enkele boosheid, en zij strijden rechtstreeks tegen de goddelijke bermhertigheid of tegen onze zaligmaking die de H. Geest toegeschreven wordt, daar men door alle iets verstoot dat tot de zaligheid vereist is. Immers, om de vergiffenis van de zonden en de gratie om wel te leven van God te kunnen verhopen en verkrijgen, moeten wij 1° de bermhertigheid Gods erkennen en er kunnen op rekenen; 20 weten wat er te doen is om de vergiffenis en die gratie te verwerven,
+want, zoals uit de gegevene bepaling blijkt, geschieden zij uit enkele boosheid, en zij strijden rechtstreeks tegen de goddelijke barmhartigheid of tegen onze zaligmaking die de H. Geest toegeschreven wordt, daar men door alle iets verstoot dat tot de zaligheid vereist is. Immers, om de vergiffenis van de zonden en de gratie om wel te leven van God te kunnen verhopen en verkrijgen, moeten wij 1° de barmhartigheid Gods erkennen en er kunnen op rekenen; 20 weten wat er te doen is om de vergiffenis en die gratie te verwerven,
 alsmede de krachten bezitten om die middelen aan te wenden;
 3o de vereiste middelen wezenlijk gebruiken of de zonde verfoeien en het vast voornemen maken van niet meer te zondi-
 — 358 —
 
-gen. Welnu, met van Gods genade te wanhopen, verachten wij zijn bermhertigheid ; met op Gods bermhertigheid zonder deugden zich te beroemen, miskennen wij zijn rechtvaardigheid; metde welbekende waarheid te bestrijden, verstooten wij het licht dat ons de weg van de zaligheid moet tonen; met de broederlijke liefde te benijden, verwerpen wij de gratie die ons de kracht geeft om die weg te volgen; met hardnekkig te zijn in de boosheid en het berouw of de penitentie te verachten, doen wij juist het tegenovergestelde van hetgeen vereist is om zich wezenlijk te bekeeren.
+gen. Welnu, met van Gods genade te wanhopen, verachten wij zijn barmhartigheid ; met op Gods barmhartigheid zonder deugden zich te beroemen, miskennen wij zijn rechtvaardigheid; metde welbekende waarheid te bestrijden, verstooten wij het licht dat ons de weg van de zaligheid moet tonen; met de broederlijke liefde te benijden, verwerpen wij de gratie die ons de kracht geeft om die weg te volgen; met hardnekkig te zijn in de boosheid en het berouw of de penitentie te verachten, doen wij juist het tegenovergestelde van hetgeen vereist is om zich wezenlijk te bekeeren.
 
 10. V. Waarom worden sommige zonden genoemd wraakroepende zonden?
 
-A. Omdat zij door hun grote boosheid met reden de goddelijke rechtvaardige wraak, ook in dezewereld, vereischen,
+A. Omdat zij door hun grote boosheid met reden de goddelijke rechtvaardige wraak, ook in dezewereld, vereisen,
 
 A. Zij worden wraakroepende zonden genoemd, omdat zij — door hun grote boosheid: door de buitengewone schending van de geestelijke of wereldlijke orde, en de onrust die zij in de samenleving veroorzaken, de goddelijke rechtvaardige wraak, niet uitsluitend in het ander leven,
-maar ook in deze wereld, zo niet in teder geval, dan toch van tijd tot tijd, vereischen, ten einde er de mensen, uit vrees van deze tijdelijke straffen, van te wederhouden.
+maar ook in deze wereld, zo niet in teder geval, dan toch van tijd tot tijd, vereisen, ten einde er de mensen, uit vrees van deze tijdelijke straffen, van te wederhouden.
 
 1. Vv. Welke zijn wraakroepende zonden?
 
@@ -5520,7 +5426,7 @@ VRAGEN.
 
 Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Zeg wat er in ieder deel geleerd wordt.
 
-1. Zeg, met de Catechismus, hoe de doodzonde tegen de wet Gods strijdt. — Leg het antwoord uit. — Hoe verschilt, onder dit opzicht, de dagelijksche zonde van de doodzonde? — Geef hieruit rekenschap van de naam doodzonde? — Hoe kan de doodzonde ook een ziekte genoemd worden?
+1. Zeg, met de Catechismus, hoe de doodzonde tegen de wet Gods strijdt. — Leg het antwoord uit. — Hoe verschilt, onder dit opzicht, de dagelijkse zonde van de doodzonde? — Geef hieruit rekenschap van de naam doodzonde? — Hoe kan de doodzonde ook een ziekte genoemd worden?
 
 2. Verklaar de vraag: Is het al doodzonde dat tegen Gods gebod geschiedt? — Is alle zonde altijd doodzonde? — In hoeveel en in welke gevallen is, volgens de Catechismus, een zonde geen doodzonde? — Verklaar het antwoord. — Geef de reden waarop die leer steunt.
 
@@ -5531,20 +5437,20 @@ Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Zeg wat er in ieder de
 5, Zeg, met de Catechismus, waartoe de doodzonde ons brengt
 — 360 —
 
-hier op de aarde, en na onze dood. — Leg het antwoord uit. — Hoe wordt de staat van beroving van de heiligmakende gratie met reden een schandelijke slavernij van de duivel genoemd? — Hoe bewijst men dat de doodzonde ons tot het gezegde lot brengt? — Stel geheel het verschil voor, dat tussen de dodelijke en de dagelijksche zonde bestaat.
+hier op de aarde, en na onze dood. — Leg het antwoord uit. — Hoe wordt de staat van beroving van de heiligmakende gratie met reden een schandelijke slavernij van de duivel genoemd? — Hoe bewijst men dat de doodzonde ons tot het gezegde lot brengt? — Stel geheel het verschil voor, dat tussen de dodelijke en de dagelijkse zonde bestaat.
 
-6. Zeg welke zonden onder de naam van hoofdzonden eenigszins kunnen komen, maar er toch niet onder verstaan worden. —
+6. Zeg welke zonden onder de naam van hoofdzonden enigszins kunnen komen, maar er toch niet onder verstaan worden. —
 Zeg, met de Catechismus, welke zonden onder die naam komen.
 — Leg het antwoord uit. — Geef rekenschap van de naam koofdzonde. — Zeg of de hoofdzonden de oorsprong zijn, slechts van vele zonden, ofwel van al de zonden mogelijk.
 
-7. Hoeveel hoofdzonden zijn er? — Stel ze voor en leg ze alle uit, — Zijn zij doodzonden of dagelijksche zonden? — Hoe worden zij verdeeld? — Hoe zijn zij de bron van alle andere zonden?
+7. Hoeveel hoofdzonden zijn er? — Stel ze voor en leg ze alle uit, — Zijn zij doodzonden of dagelijkse zonden? — Hoe worden zij verdeeld? — Hoe zijn zij de bron van alle andere zonden?
 
 8. Welke voorwaarden zijn er, volgens de Catechismus vereist, om een zonde tegen de H. Geest te hebben? — Verklaar deze. — Wat is er, volgens de Catechismus, aan deze zonden eigen, onder opzicht van vergeving? — Leg die woorden van de Catechismus uit. — Geef de reden van deze eigenschap. — Waarom worden deze zonden genoemd zonden tegen de H. Geest; is het omdat zij tegen de H. Geest alleen strijden, of waarom is het?
 
 9. Verklaar de zonden tegen de H. Geest, die de Catechismus noemt. — Toon dat al die zonden wezenlijk zonden tegen de H. Geest zijn.
 
 10. Welke wraak eischen de wraakroepende zonden en waar?
-— Hoe dikwfjls eischen zij die wraak? — Zeg, met de Catechismus, waarom zij zulk een wraak vereischen. — Leg uw antwoord uit. — Waartoe dient de wraak die zij eischen?
+— Hoe dikwfjls eischen zij die wraak? — Zeg, met de Catechismus, waarom zij zulk een wraak vereisen. — Leg uw antwoord uit. — Waartoe dient de wraak die zij eischen?
 
 1. Hoeveel wraakroepende zonden zijn er? — Stel ze voor en leg ze uit.
 — 361 —
@@ -5665,7 +5571,7 @@ A. Het is zeer goed, als het met rijpen raad en volle vrijheid geschiedt.
 V. Is het goed de Evangelische Raden niet alleen te volgen,
 maar er zich zelf door beloften toe te verbinden (23e les, 8e v.)?
 
-A. Het is niet enkel eenigszins, maar zeer goed: zeer volmaakt, als het geschiedt l° met rijpen raad: niet uitsluitend met raad, maar met rijpen raad, d, i, nadat men de zaak lang overdacht en allerbest verstaan en er van andere wijze personen raad toe ontvangen heeft; en 2° met volle vrijheid of zonder enige dwang of vrees; want anders zou men zich in 't gevaar stellen van die beloften te breken, en van er z00,
+A. Het is niet enkel enigszins, maar zeer goed: zeer volmaakt, als het geschiedt l° met rijpen raad: niet uitsluitend met raad, maar met rijpen raad, d, i, nadat men de zaak lang overdacht en allerbest verstaan en er van andere wijze personen raad toe ontvangen heeft; en 2° met volle vrijheid of zonder enige dwang of vrees; want anders zou men zich in 't gevaar stellen van die beloften te breken, en van er z00,
 in plaats van een middel van zaligheid, een bron van verderf in te vinden.
 
 Op de tweede plaats onder de goede werken komen de Acht Zaligheden.
@@ -5687,7 +5593,7 @@ A. 1. Zalig zijn zij, die arm van geest zijn; want het rijk van de hemelen behoo
 4. Zalig zijn zij, die honger en dorst hebben naar de rechtvaardigheid; want zij zullen verzaad worden.
 — 367 —
 
-5. Zalig zijn de bermhertigen; want zij zullen bermhertigheid verwerven.
+5. Zalig zijn de barmhartigen; want zij zullen barmhartigheid verwerven.
 6. Zalig zijn zij, die zuiver van hart zijn; want zij
 
 zullen God zien.
@@ -5719,7 +5625,7 @@ rechtvaardigheid: die niet traag zijn in de dienst van God,
 maar een vurige begeerte hebben van God wel te dienen;
 want zij zullen verzaad worden: want er zal in de hemel ten hele aan hun begeerte voldaan worden.
 
-5. Zalig zijn de bermhertigen:die deel nemen in ’t lijden van de naaste en hem trachten behulpzaam te wezen; want zij zullen bermhertigheid verwerven: volls vergiffenis hunr zonden en schulden ontvangen, en de hemel bekomen.
+5. Zalig zijn de barmhartigen:die deel nemen in ’t lijden van de naaste en hem trachten behulpzaam te wezen; want zij zullen barmhartigheid verwerven: volls vergiffenis hunr zonden en schulden ontvangen, en de hemel bekomen.
 
 6. Zalig zijn zij die zuiver van hart zijn: die vrij zijn van alle zonde; want, omdat hun oog niet door de zonde beneveld is, zullen zij God zien of aanschijn aan aanschijn in de hemel aanschouwen.
 
@@ -5735,7 +5641,7 @@ stellen de hemelse loon op verschillende wijzen voor; iedermaal op de wijze die 
 
 7. V. Wat profijt doen ons de goede werken?
 
-A. Ten eerste, zij leggen de schulden of de penitentie af; ten tweede, zij verwerven vergiffenis van dagelijksche zonden; ten derde, zij verkrijgen de goddelijke gratie; ten vierde, zij verdienen de eeuwigen loon.
+A. Ten eerste, zij leggen de schulden of de penitentie af; ten tweede, zij verwerven vergiffenis van dagelijkse zonden; ten derde, zij verkrijgen de goddelijke gratie; ten vierde, zij verdienen de eeuwigen loon.
 — 369 —
 
 V. Wat goede werken zijn, hebben wij in de 14 les. v‚ 3,
@@ -5745,13 +5651,13 @@ geleerd.
 
 Ten eerste, zij leggen de schulden of de penitentie af: zij nemen weg, of ten minste verkorten of verminderen de tijdelijke pijnen die men voor reeds vergevene zonden nog schuldig is te lijden.
 
-Ten tweede, zij verwerven vergiffenis van dagelijksche zonden. (14e les, a. 8.)
+Ten tweede, zij verwerven vergiffenis van dagelijkse zonden. (14e les, a. 8.)
 
 Ten derde, zij verkrijgen de goddelijke gratie: zijn zij van een zondaar gedaan, zij bewegen God om hem de gratie van bekeering te vergunnen, en gaan zij bij hem met een volmaakte liefde tot God of met een volmaakt berouw gepaard, zij bekomen hem de vergiffenis van zijn doodzonden en de heiligmakende gratie; zijn zij integendeel van een rechtvaardige gedaan, zij verdienen vermeerdering van de heiligmakende gratie en recht tot dadelijke gratiën.
 
 Ten vierde, zij verdienen de eeuwigen loon: het geluk van de hemel, eu dat in de mate van de heiligmakende gratie die men bezit.
 
-Om ons deze profijten te doen, moeten de goede werken geschieden: 1° in staat van gratie, behalve waar het de gunst tot bekeering geldt, of de vergiffenis van de zonden: wie in vijandschap met God leeft, kan immers op geener wijze de andere voordelen verwerven; — 29 om een reden die het Geloof aangaat; anders verstaat men niet hoe zij bovennatuurlijk zouden wezen (14e les, a, 8, letter B). De gelovigen,
+Om ons deze profijten te doen, moeten de goede werken geschieden: 1° in staat van gratie, behalve waar het de gunst tot bekeering geldt, of de vergiffenis van de zonden: wie in vijandschap met God leeft, kan immers op gener wijze de andere voordelen verwerven; — 29 om een reden die het Geloof aangaat; anders verstaat men niet hoe zij bovennatuurlijk zouden wezen (14e les, a, 8, letter B). De gelovigen,
 die een godsdienstig einde voor ogen hebben, handelen meest altijd uit Geloof, daar hun hele godsdienstige kennis ontleend is aan de Catechismus, die het kort begrip is van het Geloof.
 
 8. V. Is God ons iets schuldig voor onze goede werken?
@@ -5764,7 +5670,7 @@ V.‚Is God wit rechtvaardigheid gehouden, ons voor onze goede werken al die pro
 ofwel is Hij daartoe slechts wit betamelijkheid, ofwel in
 “geheel niet verplicht?
 
-A. Volgens (wegens) zijn belofte, die Hij in zijn Openbaring gedaan heeft en die schuld maakt, is Hij ons uit rechtvaardigheid schuldig de eeuwigen loon en de glorie van de hemel, alsook de vermeerdering van de heiligmakende gratie, daar deze de middel is om de glorie van de hemel te bekomen. Zonder zijn belofte moest God ons wel enige bovennatuurlijken loon vergunnen, maar niet het overgroot geluk van de hemel. De overige profijten hierboven gemeld en andere geestelijke goederen kunnen onze goede werken slechts uit betamelijkheid verdienen, of enkel door hun smeekende en voldoende kracht verwerven.
+A. Volgens (wegens) zijn belofte, die Hij in zijn Openbaring gedaan heeft en die schuld maakt, is Hij ons uit rechtvaardigheid schuldig de eeuwigen loon en de glorie van de hemel, alsook de vermeerdering van de heiligmakende gratie, daar deze de middel is om de glorie van de hemel te bekomen. Zonder zijn belofte moest God ons wel enige bovennatuurlijken loon vergunnen, maar niet het overgroot geluk van de hemel. De overige profijten hierboven gemeld en andere geestelijke goederen kunnen onze goede werken slechts uit betamelijkheid verdienen, of enkel door hun smekende en voldoende kracht verwerven.
 
 9. V. Waaruit hebben onze werken de kracht om de hemel te verdienen?
 
@@ -5772,12 +5678,12 @@ A. Uit de verdiensten van Jezus Christus en de goddelijke beloften.
 
 V. Hebben onze goede werken die in staat van gratie en geest van Geloof gedaan zijn, de kracht om de hemel te verdienen uit hun eigen zelven, uit de waardigheid van de menselijke natuur, ofwel uit een andere oorzaak, en zo ja, uit welke? — Men merke hier aan, dat de waardigheid die een goed werk, ter iemands eer gedaan, bezit om loon te ontvangen, verdienstelijkheid genoemd wordt; en dat gen goed werk op twee manieren verdienstelijk kan wezen, namelijk: uit rechtvaardigheid of uit betamelijkheid, volgens dat de rechtvaardigheid of slechts de betamelijkheid vereist, dat de loon worde gegeven.
 
-A. Zij hebben die kracht le uit de verdiensten van Jezus Christus, waardoor wij de bovennatuurlijke hoedanigheden en krachten krijgen die onze goede werken van een bovennatuurlijken loon waardig maken; 2° uit de goddelijke beloften, die bepalen tot welke bovennatuurlijken loon wij recht hebben. Zonder Jezus’ verdiensten zouden onze goede werken geenszins een bovennatuurlijken loon verdienen; zonder de goddelijke beloften zouden zij niet specifiek de hemel verdienen (À. 8). Wanneer een van deze twee
+A. Zij hebben die kracht 1° uit de verdiensten van Jezus Christus, waardoor wij de bovennatuurlijke hoedanigheden en krachten krijgen die onze goede werken van een bovennatuurlijken loon waardig maken; 2° uit de goddelijke beloften, die bepalen tot welke bovennatuurlijken loon wij recht hebben. Zonder Jezus’ verdiensten zouden onze goede werken geenszins een bovennatuurlijken loon verdienen; zonder de goddelijke beloften zouden zij niet specifiek de hemel verdienen (À. 8). Wanneer een van deze twee
 — 3 —
 
 voorwaarden ontbreekt, kan er geen verdienste uit rechtvaardigheid bestaan, maar wel nog verdienste uit betamelijkheid zijn, en deze zal zelfs onfeilbaar wezen, indien er voor het verdienstelijk werk een goddelijke belofte bestaat: niemand kan b.v. uit rechtvaardigheid de vergiffenis van zijn doodzonden verdienen; want de werken van een mens die de vijand van God is, kunnen geen recht geven op goddelijken loon, maar, heeft men door de gratie Gods een volmaakt berouw verwekt en zich zo van de staat van doodzonde hekeerd, dan verdient men uit betamelijkheid vergiffenis van zijn zonden, en men zal die onfeilbaar bekomen, daar God ze voor zulk werk beloofd heeft,
 
-Met goede werken te doen voor de naaste kunnen wij voor hem dezelfde goederen verdienen als voor ons zelven, maar enkel uit betamelijkheid, vermits God ons desaangaande geen belofte gedaan heeft. Wij kunnen Hem zelfs op die wijze de eerste gratie verdienen, hetgeen wij voor ons zelf niet vermogen, daar onze natuurlijke werken de kracht niet hebben om een bovennatuurlijken loon te verwerven. Het spreekt vanzelf dat wij de anderen ook door de smeekende en door de voldoende kracht van onze goede werken ter hulpe kunnen komen.
+Met goede werken te doen voor de naaste kunnen wij voor hem dezelfde goederen verdienen als voor ons zelven, maar enkel uit betamelijkheid, vermits God ons desaangaande geen belofte gedaan heeft. Wij kunnen Hem zelfs op die wijze de eerste gratie verdienen, hetgeen wij voor ons zelf niet vermogen, daar onze natuurlijke werken de kracht niet hebben om een bovennatuurlijken loon te verwerven. Het spreekt vanzelf dat wij de anderen ook door de smekende en door de voldoende kracht van onze goede werken ter hulpe kunnen komen.
 
 10. V. Welkezijnde Vruchten van de Heilige Geest?
 
@@ -5810,14 +5716,14 @@ om hoeveel en om welke redenen deze deugden zo genoemd
 worden. — Leg ze uit. — Onder welk opzicht zijn zij dus goddelijk?
 — Welke zijn de ingestorte zedelijke hoofddeugden? — Waarom worden zij sedelijke deugden genoemd? — Hoe verschillen zij van de goddelijke deugden? — Hoe zijn zij met de goddelijke deugden verbonden? — Hoe zijn de bovennatuurlijke deugden met de heiligmakende gratie verbonden? — Hoe worden zij ontvangen en vermeerderd, en waarom? — Hoe worden zij verloren?
 
-3. Zeg, met de Catechismus, tot welke algemeene klasse van zaken de Evangelische Raden behooren. — Leg het antwoord uit.
+3. Zeg, met de Catechismus, tot welke algemene klasse van zaken de Evangelische Raden behooren. — Leg het antwoord uit.
 — Wat is er, volgens de Catechismus, eigen aan? — Leg de woorden van de Catechismus uit. — Geef rekenschap van de naam Evangelische Raden. — Noem de Evangelische Raden. —
 Leg ze uit. — Hoe verschillen de Evangelische Raden van de gebodene, en van de andere vrije goede werken? — Waarom zijn de Evangelische Raden door Christus op een bijzondere wijze aangeraden?
 
 4. Geef de zin van de vraag: Is het goed zich zelf tot Evangelische Raden te verbinden door beloften? — Welke voorwaarden zijn,
 volgens de Catechismus, vereist, opdat het goed zou wezen zich tot die Raden door beloften te verbinden? — Leg die voorwaarden uit, — Geef er de reden van.
 
-5. Zeg, met de Catechismus, tot welke algemeene klasse van zaken de Acht Zaligheden behooren. — Leg het antwoord uit. —
+5. Zeg, met de Catechismus, tot welke algemene klasse van zaken de Acht Zaligheden behooren. — Leg het antwoord uit. —
 Wat is er, volgens de Catechismus, eigen aan? — Verklaar uw antwoord. — Geef de reden van de naam Zaligheden.
 
 6. Leg ieder van de Acht Zaligheden uit. — Wat is er in de Acht Zaligheden te bemerken, nopens de manier waarop het geluk van de hemel uitgedrukt wordt?
@@ -5837,13 +5743,13 @@ uit. — Geef rekenschap van het antwoord. — Is er in onze werken volstrekt ge
 10. Wat verstaat men door Vruchten van de H. Geest? — Geef rekenschap van die naam. — Hoe kunnen zij verdeeld worden? —
 Hoeveel Vruchten van de H. Geest noemt de Catechismus? —
 Leg ze alle uit.
-ij zullen bermhertigheid
+ij zullen barmhartigheid
 
 verwerven. (Bie zaligh.)
 
-Zalig zijn de bermhertigen, want z
+Zalig zijn de barmhartigen, want z
 
-van bermhertigheid.
+van barmhartigheid.
 
 2o Verdeeling van die werken.
 
@@ -5851,22 +5757,22 @@ van bermhertigheid.
 
 VEERTIGSTE LES.
 
-Van de werken van bermhertigheid.
+Van de werken van barmhartigheid.
 
-Lo Natuur van de werken | 1. Wat zijn werken van bermhertigheid?
+Lo Natuur van de werken | 1. Wat zijn werken van barmhartigheid?
 
 | Vv. 9. , 8
 "&) Getal ĳ 2. Hoeveel lichamelijke
 
-werken van de bermhertignaam.
+werken van de barmhartignaam.
 
 heid zijn er?
 V.3. lsmen somtijds schulb)Verplichting. dig arme mensen aalmoezen te geven?
 
-Lichame- | V. 4. Wanneer zijn de lijke wer werken van bermhertigken van . heid allermeest verbermhertig- °) Verdienste dienstig?
+Lichame- | V. 4. Wanneer zijn de lijke wer werken van barmhartigken van . heid allermeest verbarmhartig- °) Verdienste dienstig?
 heid. lijkheid. V. 5. Wat loon mag men
 
-verwachten voor de werken van de bermhertigheid?
+verwachten voor de werken van de barmhartigheid?
 „6. Waarom worden de lichamen van de Christenen in de kerken of op gewijde plaatsen begraven?
 E 1, Welke zijn de gees-
 
@@ -5886,32 +5792,32 @@ V. 8. Wien staat het meest
 
 Geestelij eestelijke toe de zondaars te srafwerken van ser: …
 … (b) Uitlegging fen en te onderwijzen?
-bermhertig- . . „
+barmhartig- . . „
 heid over enige}V. 9, Voor wie zullen wij
 
 van die wer-\ bidden?
 
-ken. V. 10. Wat ongelijk moeten wij uit bermhertigheid vergeven?
+ken. V. 10. Wat ongelijk moeten wij uit barmhartigheid vergeven?
 
 
 — 376 —
 
-1. V. Wat zijn werken van bermhertigheid?
+1. V. Wat zijn werken van barmhartigheid?
 
-A. Deugden, door welke wij andere mensen in hunn liehamelijken of geestelijken nood uit bermhertigheid bijstaan.
+A. Deugden, door welke wij andere mensen in hunn liehamelijken of geestelijken nood uit barmhartigheid bijstaan.
 
-A. Werken van bermhertigheid zijn deugden: deugdelijke werken door welke wij — andere mensen: alle mensen die onze naaste zijn, behalve de Heiligen, die van ons geen bijstand nodig hebben noch kunnen ontvangen, in hunn lichamelijken of geestelijken nood: als zij in hun tijdelijke goederen of in de zaken hunr zaligheid lijden of op het punt zijn te lijden, en daarbij zich zelf niet kunnen helpen of dit enkel met grote moeite vermogen —
-uit bermhertigheid: niet of ten minste niet enkel uit rechtvaardigheid, d.i. om hun het hun te geven, maar uit medelijden, uit meedogende liefde, omdat wij hun lijden als het onze aanzien, bijstaan: helpen en ondersteunen.
+A. Werken van barmhartigheid zijn deugden: deugdelijke werken door welke wij — andere mensen: alle mensen die onze naaste zijn, behalve de Heiligen, die van ons geen bijstand nodig hebben noch kunnen ontvangen, in hunn lichamelijken of geestelijken nood: als zij in hun tijdelijke goederen of in de zaken hunr zaligheid lijden of op het punt zijn te lijden, en daarbij zich zelf niet kunnen helpen of dit enkel met grote moeite vermogen —
+uit barmhartigheid: niet of ten minste niet enkel uit rechtvaardigheid, d.i. om hun het hun te geven, maar uit medelijden, uit meedogende liefde, omdat wij hun lijden als het onze aanzien, bijstaan: helpen en ondersteunen.
 
-Hieruit volgt dat er twee soorten van werken van bermhertigheid te onderscheiden zijn: de lichamelijke en de geestelijke.
+Hieruit volgt dat er twee soorten van werken van barmhartigheid te onderscheiden zijn: de lichamelijke en de geestelijke.
 
-2. V. Hoeveel lichamelijke werken van de bermhertigheid zijn er?
+2. V. Hoeveel lichamelijke werken van de barmhartigheid zijn er?
 
 A. Zeven, te weten: 1. De hongerigen spijzen.
 2. De dorstigen laven. 8. De naakten kleeden.
 4. De vreemdelingen herbergen. 5. De zieken bezoeken. 6. De gevangenen verlossen. 7. De doden begraven.
 
-A. Er zijn zeven lichamelijke werken van bermhertigheid:
+A. Er zijn zeven lichamelijke werken van barmhartigheid:
 
 1. De hongerigen spijzen: voedsel verschaffen aan wie dit ontbreekt.
 
@@ -5929,17 +5835,17 @@ oppassen, troosten en opwekken, alsook de blinden, kreupelen en stommen onderste
 
 6. De gevangenen verlossen: die om het Geloof of om een andere onrechtvaardige reden gestraft, vervolgd of verdrukt worden, door allerhande middelen trachten te verlossen, te verdedigen en te beschermen.
 
-7. De doden begraven: de lichamen van de afgestorvenen gaan groeten ofhewaken. voor hun begraving zorgen, hun lijkdiensten bijwonen. Dit maakt een werk van bermhertigheid uit, al zijn de dode lichamen onze naaste niet, omdat de overledenen nog op aarde leven door hun faam, en dus de eer, hun lichaam bewezen, hen zelf aangaat; ook omdat hun lichaam bij de verrijzenis opnieuw met hun ziel zal verenigd worden.
+7. De doden begraven: de lichamen van de afgestorvenen gaan groeten ofhewaken. voor hun begraving zorgen, hun lijkdiensten bijwonen. Dit maakt een werk van barmhartigheid uit, al zijn de dode lichamen onze naaste niet, omdat de overledenen nog op aarde leven door hun faam, en dus de eer, hun lichaam bewezen, hen zelf aangaat; ook omdat hun lichaam bij de verrijzenis opnieuw met hun ziel zal verenigd worden.
 
 83. V. Is men somtijds schuldig arme mensen aalmoezen te geven?
 
 A. Ja, als zij in de uitersten of in groten nood zijn, en wij hen helpen kunnen.
 
-V. Is men soms op zonde verplicht arme mensen aalmoezen te geven, of lijdende mensen door eenig lichamelijk werk van bermhertigheid bij te staan en te helpen? — Al de werken van bermhertigheid kunnen onder de naam van aalmoes verstaan worden, daar de aalmoes altijd tot een van die werken dient.
+V. Is men soms op zonde verplicht arme mensen aalmoezen te geven, of lijdende mensen door eenig lichamelijk werk van barmhartigheid bij te staan en te helpen? — Al de werken van barmhartigheid kunnen onder de naam van aalmoes verstaan worden, daar de aalmoes altijd tot een van die werken dient.
 
-A. Ja, wij zijn daartoe op zonde uit bermhertigheid verplicht, als deze twee voorwaarden samen vervuld zijn:
+A. Ja, wij zijn daartoe op zonde uit barmhartigheid verplicht, als deze twee voorwaarden samen vervuld zijn:
 
-le Als zij (de armen. de noodlijdenden) in de uitersten nood zijn: als zij, zonder onze hulp, in gevaar zijn van te sterven of van een verlies te ondergaan dat met de dood kan vergeleken worden; of als zij in groten nood zijn: als zij,
+1° Als zij (de armen. de noodlijdenden) in de uitersten nood zijn: als zij, zonder onze hulp, in gevaar zijn van te sterven of van een verlies te ondergaan dat met de dood kan vergeleken worden; of als zij in groten nood zijn: als zij,
 — 318 —
 
 zonder onze hulp, misschien van gebrek zouden sterven, of ter minste in hun eer of faam of in hun tijdelijke goederen merkelijk lijden ;
@@ -5947,33 +5853,33 @@ zonder onze hulp, misschien van gebrek zouden sterven, of ter minste in hun eer 
 2o En wij hen helpen kunnen: in 't bezit zijn van goederen waarmede wij hen helpen kunnen en helpen moeten.
 
 Als de naaste in de uitersten nood is, dan moeten wij tot zijn onderstand de goederen gebruiken die wij niet nodig hebben om ons eigen leven of dat van onze nabestaanden te onderhouden; als hij enkel ix groten nood verkeert, moeten wij te die einde zeker de goederen besteden die wij tot het onderhouden van onzen staat niet van doen hebben, en waarschijnlijk ook, ten minste in zekere mate, dezulke die wij daartoe kunnen gebruiken, maar strikt genomen ook kunnen missen; dat vereist immers de orde in de samenleving.
-Zelfs schijnt het zeker dat wij op zonde verplicht zijn aalmoezen te geven, van hetgeen niet dient tot het onderhouden van onzen staat, niet aan alle, maar toch aan enige armen die gewonen nood zijn of in die nood waarin al de armen zich gewoonlijk bevinden; want, deden wij het niet, zij zouden welhaast in groten nood vallen. — In geen geval echter zijn wij gehouden buitengewoon grote middels te gebruiken om de naaste bij te staan, want dit zou de orde storen.
+Zelfs schijnt het zeker dat wij op zonde verplicht zijn aalmoezen te geven, van hetgeen niet dient tot het onderhouden van onzen staat, niet aan alle, maar toch aan enige armen die gewonen nood zijn of in die nood waarin al de armen zich gewoonlijk bevinden; want, deden wij het niet, zij zouden welhaast in groten nood vallen. — In geen geval echter zijn wij gehouden buitengewoon grote middelen te gebruiken om de naaste bij te staan, want dit zou de orde storen.
 
-Men bemerke wel dat wij, in een werk van bermhertigheid,
+Men bemerke wel dat wij, in een werk van barmhartigheid,
 eene aalmoes van het onze aan de evennaaste geven,
-terwijl wij, in een werk van rechtvaardigheid, hem Aet zijn ter hand stellen; en dat zo de onrechtvaardigheid ons altijd tot restitutie verplicht, aangezien eenieder altijd en overal recht heeft op het zijne, terwijl de onbermhertigheid zulk een verplichting riet medebrengt, daar de aalmoes die wij geven,
-van het onze is genomen, en er bijgevolg niemand buiten ons recht op heeft. De deugd van beleefdheid, van dankbaarheid, van mildheid en van waarachtigheid, ten minste als wij er door ons ambt of door een bijzonder contract niet toe verplicht zijn, en als wij door de leugentaal de evenmens in zijn goederen niet hinderen, behooren tot de bermhertigheid, omdat wij daar van het onze geven,
+terwijl wij, in een werk van rechtvaardigheid, hem Aet zijn ter hand stellen; en dat zo de onrechtvaardigheid ons altijd tot restitutie verplicht, aangezien eenieder altijd en overal recht heeft op het zijne, terwijl de onbarmhartigheid zulk een verplichting riet medebrengt, daar de aalmoes die wij geven,
+van het onze is genomen, en er bijgevolg niemand buiten ons recht op heeft. De deugd van beleefdheid, van dankbaarheid, van mildheid en van waarachtigheid, ten minste als wij er door ons ambt of door een bijzonder contract niet toe verplicht zijn, en als wij door de leugentaal de evenmens in zijn goederen niet hinderen, behooren tot de barmhartigheid, omdat wij daar van het onze geven,
 
-4. V. Wanneer zijn de werken van bermhertigheid allermeest verdienstig?
+4. V. Wanneer zijn de werken van barmhartigheid allermeest verdienstig?
 — 379 —
 
 A. Als zij geschieden aan arme mensen, uitsluitend uit liefde Gods of om Gods wil.
 
 V. Allermeest verdienstig: aan God bijzonder behaaglijk en in zijn ogen meest loon waardig.
 
-A. De werken van bermhertigheid zijn allermeest vere dienstig, als deze twee voorwaarden volbracht zijn: als zij geschieden:
+A. De werken van barmhartigheid zijn allermeest vere dienstig, als deze twee voorwaarden volbracht zijn: als zij geschieden:
 
 1° Aan arme mensen: aan mensen die op aarde geen gezag hebben; want, hoe lager de persoon die men helpt, hoe meer men zich vernedert om hem te helpen.
 
-go En uitsluitend uit liefde Gods of om Gods wil: als zij eerst en vooral gedaan worden om God onze liefde te betuigen met de mensen, die zijn geliefkoosde schepselen en aangenomene kinderen zijn, uit liefde tot Hem goed te doen; immers de liefde tot God is het volmaaktste van geheel de Godsdienst, en een werk van bermhertigheid moet, om volmaakt te zijn, noodzakelijk uit de liefde voortkomen,
-daar de bermhertigheid onmiddellijk van de liefde afstamt.
+go En uitsluitend uit liefde Gods of om Gods wil: als zij eerst en vooral gedaan worden om God onze liefde te betuigen met de mensen, die zijn geliefkoosde schepselen en aangenomene kinderen zijn, uit liefde tot Hem goed te doen; immers de liefde tot God is het volmaaktste van geheel de Godsdienst, en een werk van barmhartigheid moet, om volmaakt te zijn, noodzakelijk uit de liefde voortkomen,
+daar de barmhartigheid onmiddellijk van de liefde afstamt.
 
-5. Vv. Wat loon mag men verwachten voor de werken van de bermhertigheid?
+5. Vv. Wat loon mag men verwachten voor de werken van de barmhartigheid?
 
 A. Den eeuwigen loon, die Christus in de tegenwoordigheid van alle mensen in het Laatste Oordeel zal geven.
 
-A. Men mag voor de werken van bermhertigheid verwachten de eeuwigen loon van de hemel, die Christus, na hem eerst, in 't Bijzonder Oordeel, alleen aan de ziel geschonken te hebben, in de tegenwoordigheid van alle mensen in het Laatste Oordeel aan ziel en lichaam zal geven. Het spreekt van zelf dat men voor deze werken ook al de andere profijten van de goede werken mag verwachten;
-want die alle zijn in de hemelse loon besloten als een deel in zijn geheel. De Catechismus spreekt van het geven van de eeuwigen loon in het Laatste Oordeel, omdat Christus, van de bermhertigheidswerken handelende, uitdrakkelijk beloofd heeft ze daar bijzonder te loven.
+A. Men mag voor de werken van barmhartigheid verwachten de eeuwigen loon van de hemel, die Christus, na hem eerst, in 't Bijzonder Oordeel, alleen aan de ziel geschonken te hebben, in de tegenwoordigheid van alle mensen in het Laatste Oordeel aan ziel en lichaam zal geven. Het spreekt van zelf dat men voor deze werken ook al de andere profijten van de goede werken mag verwachten;
+want die alle zijn in de hemelse loon besloten als een deel in zijn geheel. De Catechismus spreekt van het geven van de eeuwigen loon in het Laatste Oordeel, omdat Christus, van de barmhartigheidswerken handelende, uitdrakkelijk beloofd heeft ze daar bijzonder te loven.
 — 380 —
 
 6. V. Waarom worden de lichamen van de Christenen in de kerken of op gewijde plaatsen begraven?
@@ -5995,11 +5901,11 @@ Ten derde, omdat zij geholpen worden door de gebeden van de Heiligen die daar ge
 Ten vierde, omdat zij deelachtig worden van de zegening van de plaatsen: omdat de gebeden die in de wijding van de kerken of kerkhoven voor hen gestort zijn, hun toegepast worden,
 — 381 —
 
-7. V. Welke zijn de geestelijke werken van de bermhertigheid?
+7. V. Welke zijn de geestelijke werken van de barmhartigheid?
 
 A. Deze zeven: 1. De zondaars straffen. 2. De onwetenden leren, 8. Voor de zaligheid van de naaste bidden. 4. De twijfelachtigen goeden raad geven. 5. De bedroefden vertroosten. 6. Het onrecht verduldig lijden. 7. Hetgeen tegen ons misdaan is, vergeven.
 
-A. De geestelijke werken van bermhertigheid zijn deze zeven:
+A. De geestelijke werken van barmhartigheid zijn deze zeven:
 
 1. De zondaars straffen: de zondaars door straf of berisping tot bekeering brengen; die in gevaar zijn van te zondigen op dezelfde wijze daarvan wederhouden.
 
@@ -6043,50 +5949,50 @@ A. Niet voor de Engelen, die niets meer kunnen bekomen boven hetgeen zij bezitte
 
 geluk niet meer kan vermeerderd worden; noch voor de verdoemden, die ouwederroepelijk veroordeeld zijn; maar voor alle mensen die tot de eeuwige zaligheid kunnen komen, hetzij dat ze nog leven hier op aarde, of dat ze overleden zijn en in het vagevuur lijden ; want deze allen kunnen door onze gebeden geholpen worden.
 
-10. V. Wat ongelijk moeten wij uit bermhertigheid vergeven?
+10. V. Wat ongelijk moeten wij uit barmhartigheid vergeven?
 
 A. Alle ongelijk, hoe groot het ook moge wezen,
 en hoe dikwijls het zou mogen geschied zijn.
 
-Vv. Wat ongelijk moeten wij, op zonde, uit hoofde van de deugd van bermhertigheid vergeven? Vergeven, men neme dat wel in acht, bestaat niet in geen restitutie te eischen of in geen rechtvaardige straf van de overheid voor de misdaad te verzoeken, maar in allen vrijwilligen afkeer, haat en wraakzucht tegen degenen, die ons misdaan hebben, uit ons hart te verbannen.
+Vv. Wat ongelijk moeten wij, op zonde, uit hoofde van de deugd van barmhartigheid vergeven? Vergeven, men neme dat wel in acht, bestaat niet in geen restitutie te eischen of in geen rechtvaardige straf van de overheid voor de misdaad te verzoeken, maar in allen vrijwilligen afkeer, haat en wraakzucht tegen degenen, die ons misdaan hebben, uit ons hart te verbannen.
 
 A. Alle ongelijk, zonder één uitzondering, hoe groot,
 hoe zwaar, het ook moge wezen, en hoe dikwijls het zou mogen geschied zijn: dus, noch de buitengewone zwaarte, noch de menigvuldigheid van de misdaden, niets kan ons verontschuldigen van het ons aangedaan ongelijk te vergeven.
 
 VRAGEN.
 
-Wat bevat deze les? — Geef haar algemeene verdeling. — Geef de onderverdeling van de hoofddelen. — Zeg wat ieder van deze onderverdelingen bevat.
+Wat bevat deze les? — Geef haar algemene verdeling. — Geef de onderverdeling van de hoofddelen. — Zeg wat ieder van deze onderverdelingen bevat.
 
-1. Tot welke algemeene klasse van zaken behooren de werken van bermhertigheid? — Leg dat uit. — Zeg, met de Catechismus,
-wat wij door die werken van bermhertigheid doen, en aan wie,
+1. Tot welke algemene klasse van zaken behooren de werken van barmhartigheid? — Leg dat uit. — Zeg, met de Catechismus,
+wat wij door die werken van barmhartigheid doen, en aan wie,
 wanneer en om welke reden wij dat doen, — Leg uw antwoord uit.
 
-2. Hoe worden de werken van bermhertigheid verdeeld? — Noem de lichamelijke werken van bermhertigheid, en leg ze uit. — Hoe is het begraven van de doden een waar werk van bermhertigheid?
+2. Hoe worden de werken van barmhartigheid verdeeld? — Noem de lichamelijke werken van barmhartigheid, en leg ze uit. — Hoe is het begraven van de doden een waar werk van barmhartigheid?
 
 3. Verklaar de vraag: Js men somtijds schuldig arme mensen aalmoezen te geven? — Hoe kunnen al de lichamelijke werken van
 
 25
 — 384 —
 
-bermhertigheid onder de naam van aalmoes verstaan worden? —
+barmhartigheid onder de naam van aalmoes verstaan worden? —
 Zijn wij ooit op zonde verplicht aalmoezen aan de armen te geven?
-— Zeg, met de Catechismus, war er vereist is, opdat wij daartoe zouden verplicht zijn. — Leg dat uit. — Welke goederen moeten wij besteden om de armen, die in de uitersten of in groten nood zijn, bij te staan; en waarom?! — Zeg welke verplichting wij voorzeker schijnen te hebben jegeus de armen die in gewonen nood zijn. — Geef er de reden van, — Moeten wij ooit buitengewoon grote middelen gebruiken om de naaste te helpen? — Geef er de reden van. — Stel het verschil voor dat er tussen een werk van bermhertigheid en een werk van rechtvaardigheid bestaat.
+— Zeg, met de Catechismus, war er vereist is, opdat wij daartoe zouden verplicht zijn. — Leg dat uit. — Welke goederen moeten wij besteden om de armen, die in de uitersten of in groten nood zijn, bij te staan; en waarom?! — Zeg welke verplichting wij voorzeker schijnen te hebben jegeus de armen die in gewonen nood zijn. — Geef er de reden van, — Moeten wij ooit buitengewoon grote middelen gebruiken om de naaste te helpen? — Geef er de reden van. — Stel het verschil voor dat er tussen een werk van barmhartigheid en een werk van rechtvaardigheid bestaat.
 
-4, Geef de zin van de vraag: Wanneer zijn de werken van bermhertigheid allermeest verdienstig? — Zeg, met de Catechismus,
+4, Geef de zin van de vraag: Wanneer zijn de werken van barmhartigheid allermeest verdienstig? — Zeg, met de Catechismus,
 wat er vereist is, opdat deze werken allermeest verdienstig zouden zijn. — Leg het uit, en geef er de reden van.
 
-5. Zeg, met de Catechismus, welke loon wij voor de werken van bermhertigheid zullen ontvangen. — Leg het antwoord uit. —
+5. Zeg, met de Catechismus, welke loon wij voor de werken van barmhartigheid zullen ontvangen. — Leg het antwoord uit. —
 Wat zegt de Catechismus van die loon? — Leg de woorden van de Catechismus uit. — Waarom zegt de Catechismus dat van die loont
 
 6. Verklaar de vraag: Waarom worden de lichamen van de Christenen in de kerken of op gewtyde plaatsen begraven? — Om hoeveel en om welke redenen worden de lichamen van de Christenen in de kerken of op gewijde plaatsen begraven? — Leg die redenen uit.
 
-7. Noem de geestelijke werken van bermhertigheid, en leg ze uit.
+7. Noem de geestelijke werken van barmhartigheid, en leg ze uit.
 
 8. Geef de zin van de vraag: Wien staat het meest toe de zondaars te straffen en te onderwijzent — Wie zijn, volgens de Catechismus, daartoe meest gehouden? — Verklaar uw antwoord. — Hoe zijn deze allen daartoe verplicht? — Zijn de andere mensen soms verplicht de zondaars te berispen? — Wanneer? — Hoe moet men de berisping doen?
 
 9. Verklaar de vraag: Voor wie zullen wij bidden? — Voor welke klasse van redelijke schepselen behooren wij, volgens de Cateehismus, te bidden? — Voor welke personen van die klasse behooren wij, volgens de Catechismus, te bidden? — Leg het antwoord uit. — Geef er de reden van.
 
-10, Verklaar de vraag: Wat ongelijk moeten wij uit bermhertigheid vergeven? — Leg, volgens de Catechismus, in één woord, wat ongelijk wij moeten vergeven. — Bewijs uit de Catechismus, dat er aan die regel geen uitzondering is.
+10, Verklaar de vraag: Wat ongelijk moeten wij uit barmhartigheid vergeven? — Leg, volgens de Catechismus, in één woord, wat ongelijk wij moeten vergeven. — Bewijs uit de Catechismus, dat er aan die regel geen uitzondering is.
 De Uitersten van de mens.
 
 _
@@ -6144,7 +6050,7 @@ A. Er zijn vier Uitersten van de mens, te weten:
 en in het vonnis dat Hij daarna over ons zal uitspreken.
 (10e les, v. 5, 6, 8.)
 
-3. De Hel of de plaats waar de verdoemden gestraft worden. Er zijn twee plaatsen in te onderscheiden: le de eigenlijke hel, waar de verdoemden het goddelijk aanschijn derven en daarenboven door het vuur gepijnigd worden; 2e het voor-
+3. De Hel of de plaats waar de verdoemden gestraft worden. Er zijn twee plaatsen in te onderscheiden: 1° de eigenlijke hel, waar de verdoemden het goddelijk aanschijn derven en daarenboven door het vuur gepijnigd worden; 2e het voor-
 — 387 —
 
 geborchte van de hel, waar de kinderen die vóór de jaren van verstand zonder Doopsel sterven, enkel beroofd zijn van het goddelijk aanschijn. (9e les, 2 v.)
@@ -6161,7 +6067,7 @@ V. Komen deze Vier Uitersten alle of slechts enige mensen over?
 
 A. De dood, gelijk de ondervinding het getuigt; en het.
 Oordeel, zowel het Bijzonder als het Algemeen, komen toe aan alle mensen zonder uitzondering ; nochtans twijfelen enige godgeleerden, of de mensen die op het einde van de wereld zullen leven, de Dood zullen ondergaan (10e les, v. 7);
-de eigenlijke Hel aan degenen die in dadelijke doodzonde, en het voorgeborchte er van aan die vóór de jaren van verstand zonder Doopsel sterven ; — de Hemelsche Glorie aan degenen die in Gods gratie zó sterven, dat zij niets meer te betalen of te zuiveren hebben, en het vagevuur aan degenen die alleen met dagelijksche zonden of last van tijdelijke pijnen verscheiden. (15e les.)
+de eigenlijke Hel aan degenen die in dadelijke doodzonde, en het voorgeborchte er van aan die vóór de jaren van verstand zonder Doopsel sterven ; — de Hemelsche Glorie aan degenen die in Gods gratie zó sterven, dat zij niets meer te betalen of te zuiveren hebben, en het vagevuur aan degenen die alleen met dagelijkse zonden of last van tijdelijke pijnen verscheiden. (15e les.)
 
 4. V. Wat is er van de Dood te geloven?
 
@@ -6200,7 +6106,7 @@ vonnis Gods, eens uitgesproken. in van de eeuwigheid onveranderlijk, onverbrekel
 
 6. V. Wat zullen de verdoemde zielen lijden in de Hel?
 
-À. Ten eerste, de onbegrijpelijke zware beroving van het goddelijk aanschijn; ten tweede, de knaging van de conscientie; ten derde, het derven van al wat ze eenigszins zou mogen troosten; ten vierde, de brand van het smertend en onblusschelijk vuur; ten vijfde en bovenal, de ellendige eeuwigheid.
+À. Ten eerste, de onbegrijpelijke zware beroving van het goddelijk aanschijn; ten tweede, de knaging van de conscientie; ten derde, het derven van al wat ze enigszins zou mogen troosten; ten vierde, de brand van het smertend en onblusschelijk vuur; ten vijfde en bovenal, de ellendige eeuwigheid.
 
 V. Welke pijnen zullen de zielen die om hun dadelijke zonden verdoemd zijn, in de Hel te lijden hebben?
 
@@ -6210,7 +6116,7 @@ Ten eerste, de beroving van het goddelijk aanschijn, pijn die onbegrijpelijk of 
 
 Ten tweede, de knaging van de conscientie: de inwendige zelfverwijting die de verdoemden van hun eigen geweten zullen te lijden hebben, bij de gedachte dat zij hun eeuwig geluk voor een dwaze voldoening verbeurden, dat zij hun zaligheid zo gemakkelijk konden bekomen en nu voor eeuwig verloren zijn.
 
-Ten derde, het derven van al wat ze eenigszins zou mogen troosten: de herooving van allen troost hetzij van God, van de Engelen, van de Heiligen, van de duivelen of van hun medeverdoemden; hetzij uit de vervulling van een hunr begeerten of uit de voldoening hunr zinnen na het
+Ten derde, het derven van al wat ze enigszins zou mogen troosten: de herooving van allen troost hetzij van God, van de Engelen, van de Heiligen, van de duivelen of van hun medeverdoemden; hetzij uit de vervulling van een hunr begeerten of uit de voldoening hunr zinnen na het
 — 390 —
 
 Laatste Oordeel. Hunne zinnen zullen dan integendeel ten uiterste gepijnigd worden: hun ogen, door de duisternissen en de afschuwelijkheid van de verdoemde lichamen, die vuiler zullen zijn dan het vuilste lijk ; hun ooren, door het geschreeuw, het gehuil en het tandengeknars hunr lijdgenooten; hun reuk, door de walgachtigste uitwasemingen;
@@ -6220,7 +6126,7 @@ door allerhande kwellingen van het vuur en door beroving van alle rust.
 Ten vierde, de brand van het smertend (allerpijnlijkste) en onblusschelijk (eeuwig) vuur, naar de gemeene leer van de Godgeleerden bestaande uit waarachtig, stoffelijk vuur dat, volgens het einde waar het toe dient, bijzondere hoedanigheden bezit, o. a. van onblusschelijk te zijn; van te verbranden zonder te vernietigen; van, door een bijzondere tussenkomst Gods, zelfs een onstoffelijk wezen, de ziel van.
 lichaam beroofd, te kunnen pijnigen.
 
-Ten vijfde en bovenal, de ellendige eeuwigheid: de Catechismus heet deze pijn terecht de meeste; immers, waar er geen hoop meer is, kan er geen troost meer wezen. De straf van de doodzonde moet eeuwig zijn, omdat die zonde, ingezien het oneindig volmaakt wezen dat zij beleedigt, oneindig zwaarisen zo een straf vereist, die ten minste eenigszins oneindig is; welnu de eeuwigheid is de eenigste oneindigheid die in een straf kan gevonden worden. Overigens, ware de Hel niet eeuwig, de wet Gods zou niet genoeg bekrachtigd zijn,
+Ten vijfde en bovenal, de ellendige eeuwigheid: de Catechismus heet deze pijn terecht de meeste; immers, waar er geen hoop meer is, kan er geen troost meer wezen. De straf van de doodzonde moet eeuwig zijn, omdat die zonde, ingezien het oneindig volmaakt wezen dat zij beleedigt, oneindig zwaarisen zo een straf vereist, die ten minste enigszins oneindig is; welnu de eeuwigheid is de eenigste oneindigheid die in een straf kan gevonden worden. Overigens, ware de Hel niet eeuwig, de wet Gods zou niet genoeg bekrachtigd zijn,
 daar de mens licht een tijdelijke straf zou verachten. Eindelijk, zonder de eeuwigheid van de Hel, ware de oneindige afstand,
 die tussen het goed en het kwaad bestaat, tussen de loon van het goed en de straf van het kwaad niet meer te vinden.
 
@@ -6245,7 +6151,7 @@ A. Neen; maar elk zal hebben naar zijn verdiensten.
 
 V, In glorie: in het hemelsch geluk van God te aanschouwen en in Hem alle goed te genieten.
 
-A. Neen, zij zullen niet allen even volmaaktelijk het hemelsch geluk genieten; maar elk zal hebben — naar zijn verdiensten: volgens de hoeveelheid en de waarde van de goede werken die hij in zijn leven zal gedaan, of volgens de graad van heiligmakende gratie die hij op de ure van zijn dood zal bereikt hebben; deze immers beantwoordt altijd aan onze verdiensten. De rechtvaardigheid en de wijsheid Gods vereischen zulk verschil in glorie, en dat zal de Heiligen die minder ontvangen hebben, niet bedroeven, omdat zij allen ten uiterste aan Gods wil zullen onderworpen zijn.
+A. Neen, zij zullen niet allen even volmaaktelijk het hemelsch geluk genieten; maar elk zal hebben — naar zijn verdiensten: volgens de hoeveelheid en de waarde van de goede werken die hij in zijn leven zal gedaan, of volgens de graad van heiligmakende gratie die hij op de ure van zijn dood zal bereikt hebben; deze immers beantwoordt altijd aan onze verdiensten. De rechtvaardigheid en de wijsheid Gods vereisen zulk verschil in glorie, en dat zal de Heiligen die minder ontvangen hebben, niet bedroeven, omdat zij allen ten uiterste aan Gods wil zullen onderworpen zijn.
 — 392 —
 
 9. V. Wat zullen de Zaligen behalve het opperste goed nog hebben?
@@ -6446,7 +6352,7 @@ ACHT EN DERTIGSTE LES. ‘Van de doodzonde . . .
 
 NEGEN EN DeRTIGSTE LES. Van de deugden en goede werken. . … … .…. se ee ee
 
-VereRTIGSTE Les. Van de wer srken + van \ bermhertigheid.
+VereRTIGSTE Les. Van de wer srken + van \ barmhartigheid.
 
 EEN EN VeerTiGsTE Lies. Van de Vier Uitersten
 

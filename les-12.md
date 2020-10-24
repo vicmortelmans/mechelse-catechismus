@@ -92,7 +92,7 @@ A. Zijn ambt of macht wordt hier op twee manieren voorgesteld: hij is:
 
 2° **De wettige navolger van de H. Petrus, op wie Christus zijn Kerk getimmerd heeft:** de ware opvolger van de H. Petrus, die Christus de eersten als zijn stadhouder aangesteld, en op wie Hij dus zijn Kerk, gelijk een gebouw op zijn grondslagen, gevestigd heeft; derhalve heeft de Paus van Rome dat ambt of die macht, welke de H. Petrus van Christus ontvangen heeft.
 
-Deze leer, nader bepaald, komt op het volgende uit: de Paus heeft over geheel de H. Kerk en over ieder van haar leden, over de bisschoppen zowel als over de priesters en de gelovigen, volle macht om hun het Geloof voor te houden en de HH. Sacramenten te bedienen, om hun wetten op te leggen en hen te oordelen en te straffen. Daarenboven is hij onfeilbaar, als hij verklaart, war alle Christenen, in zaken van geloof en zeden, verplicht zijn voor waar te houden. (3ᵉ les, 6ᵉ v.)
+Deze leer, nader bepaald, komt op het volgende uit: de Paus heeft over geheel de H. Kerk en over ieder van haar leden, over de bisschoppen zowel als over de priesters en de gelovigen, volle macht om hun het Geloof voor te houden en de HH. Sacramenten te bedienen, om hun wetten op te leggen en hen te oordelen en te straffen. Daarenboven is hij onfeilbaar, als hij verklaart, war alle Christenen, in zaken van geloof en zeden, verplicht zijn voor waar te houden. ([3ᵉ les, 6ᵉ v.](les-03.html#waaruit-hebben-wij-deze-zekerheid-in-de-stukken-die-het-geloof-aangaan))
 
 # Wat zijn de bisschoppen in de Heilige Kerk?
 
@@ -116,7 +116,7 @@ A. **De pastoors en priesters zijn wettige** (ware) **navolgers van de twee en z
 
 De pastoors hebhen de macht van, in de naam van hunn bisschop, het Geloof aan hun onderdanen te verkondigen, hun de Sacramenten te bedienen, alsook hen in de weg van de zaligheid te leiden met hun de wetten van de H. Kerk voor te houden en goeden raad te geven. De andere priesters hebben de macht die zij van de H. Kerk of van de bisschop ontvangen hebben.
 
-Men bemerke wel, dat er in deze les spraak is van de *rangorde van de bestier- of rechtsambten* in de H. Kerk, In de 35ᵉ les zal er gehandeld worden van de *rangorde van de priesterlijke macht,* die door het Sacrament van het Priesterschap gegeven wordt.
+Men bemerke wel, dat er in deze les spraak is van de *rangorde van de bestier- of rechtsambten* in de H. Kerk, In de [35ᵉ les](les-35.html) zal er gehandeld worden van de *rangorde van de priesterlijke macht,* die door het Sacrament van het Priesterschap gegeven wordt.
 
 # Welke zijn de leden van de Heilige Kerk?
 
@@ -134,7 +134,7 @@ A. Er zijn drie klassen van leden:
 
 De eerste klasse van leden maakt de *strijdende,* de tweede, de *lijdende,* en de derde, de *zegepralende Kerk* uit. Deze woorden brengen hun eigen verklaring mede,
 
-De zielen van het vagevuur en de Heiligen van de hemel maken wezenlijk deel van de H. Kerk: het zijn haar leden die reeds hun einde bereikt hebben en, als blijken zal uit de volgende les, met de strijdende leden in gemeenschap blijven.
+De zielen van het vagevuur en de Heiligen van de hemel maken wezenlijk deel van de H. Kerk: het zijn haar leden die reeds hun einde bereikt hebben en, als blijken zal uit de [volgende les](les-13.html), met de strijdende leden in gemeenschap blijven.
 
 # Welke zijn de eigendommen en tekenen van de waarachtige Kerk van Christus?
 

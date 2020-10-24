@@ -205,3 +205,19 @@
 :%s/eenige/enige/g
 :%s/ harer / van haar /g
 :%s/mededeeling/mededeling/g
+:%s/ le / 1° /g
+:%s/^le /1° /g
+:%s/vereischen/vereisen/g
+:%s/deele/dele/g
+:%s/aanveerd/aanvaard/g
+:%s/vollen/volle/g
+:%s/smeeken/smeken/g
+:%s/bermhertig/barmhartig/g
+:%s/lijksche/lijkse/g
+:%s/denzelfden/dezelfde/g
+:%s/eenigszins/enigszins/g
+:%s/middels/middelen/g
+:%s/algemeene/algemene/g
+:%s/geener/gener/g
+:%s/hemelsche/hemelse/g
+

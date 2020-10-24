@@ -53,13 +53,13 @@ V. **Van welke** goddelijke **Persoon komt de H. Geest** voort?
 
 A. Hij komt voort **van God de Vader en God de Zoon:** dat vloeit uit het antwoord op de 1° vraag, lerende dat Hij de derde Persoon isin de H. Drievuldigheid. Kwam Hij van niemand voort, dan zou Hij de eerste Persoon zijn; kwam Hij van de Vader alleen voort, dan zou Hij, gelijk God de Zoon, de tweede Persoon zijn; en kwam hij van God de Zoon alleen voort, dan zou God de Zoon de eerste Persoon zijn, en God de H. Geest, de tweede.
 
-God de H. Geest komt van de Vader en de Zoon voort door de *liefde,* (zie 5ᵉ les) en dat niet door twee achtereenvolgende werkingen, maar door één en dezelfde werking, aangezien God de Vader en God de Zoon maar één en dezelfde natuur hebben.
+God de H. Geest komt van de Vader en de Zoon voort door de *liefde,* (zie [5ᵉ les](les-05.html)) en dat niet door twee achtereenvolgende werkingen, maar door één en dezelfde werking, aangezien God de Vader en God de Zoon maar één en dezelfde natuur hebben.
 
 # Is de Heilige Geest minder dan de andere twee Personen?
 
 ## Geenszins; maar Hij is even wijs, machtig, eeuwig, enz., als God de Vaderen God de Zoon
 
-A. De reden van dit antwoord is, dat de drie goddelijke Personen maar één en dezelfde goddelijke natuur hebben. (Zie 5ᵉ les, 7ᵉ v.)
+A. De reden van dit antwoord is, dat de drie goddelijke Personen maar één en dezelfde goddelijke natuur hebben. (Zie [5ᵉ les, 7ᵉ v.](les-05.html#is-god-de-vader-ouder-of-meerder-dan-de-zoon-of-de-heilige-geest))
 
 # Wat eer zijn wij God de Heilige Geest schuldig?
 
@@ -107,11 +107,11 @@ Onder al de bovennatuurlijke werken van de H. Geest is dat het bijzonderste, aan
 
 ## Omdat Hij is de liefde van de Vader en van de Zoon, en uit Gods liefde ons alle heiligheid komt
 
-V. De Catechismus vraagt, waarom het werk van onze heiligmaking de H. Geest bijzonder wordt *toegeschreven,* en geenszins, waarom Hem dit werk wordt *toegeëigend* alsof het Hem alleen en niet evenwel de Vader en de Zoon toebehoorde; immers, al de werken die God huiten zich zelf doet, zijn de drie goddelijke Personen gemeen. (Zie 5ᵉ les, 8ᵉ v.)
+V. De Catechismus vraagt, waarom het werk van onze heiligmaking de H. Geest bijzonder wordt *toegeschreven,* en geenszins, waarom Hem dit werk wordt *toegeëigend* alsof het Hem alleen en niet evenwel de Vader en de Zoon toebehoorde; immers, al de werken die God huiten zich zelf doet, zijn de drie goddelijke Personen gemeen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
 
 A. **Omdat Hij is de liefde van de Vader en van de Zoon:** omdat Hij de eeuwige en oneindige liefde ís die God de Vader en God de Zoon tot elkander hebben, gelijk de Zoon het eeuwig en oneindig volmaakt denkbeeld is dat God de Vader van zich zelf heeft, en **uit Gods liefde ons alle heilig heid komt:** en omdat die liefde van de Vader en van de Zoon, of de liefde die God tot zich zelven, tot zijn oneindige goedheid heeft, de oorsprong is van al de goddelijke werken waardoor wij tot de heiligheid komen. Deze reden is klaarblijkend: onze heiligheid spruit uit de liefde Gods voort, en de liefde van de Vader en van de Zoon is de Persoon van de H. Geest; dus wordt die heiligmaking natuurlijk de H. Geest toegeschreven.
 
-De hoedanigheden en werken die de goddelijke Personen toegeschreven worden, dienen rechtstreeks om hunn oorsprong te doen uitschijnen. (Zie 5ᵉ les, 8ᵉ v.)
+De hoedanigheden en werken die de goddelijke Personen toegeschreven worden, dienen rechtstreeks om hunn oorsprong te doen uitschijnen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
 
 ### VRAGEN
 

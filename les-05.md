@@ -68,7 +68,7 @@ Men bemerke wel, dat deze twee punten: *één God en drie goddelijke Personen,* 
 
 A. **Omdat zij alle drij,** niet elk een verscheiden, **maar** slechts **één en hetzelfde goddelijk wezen of natuur hebben.** Deze reden is klaarblijkend: inderdaad, verscheidene mensen zijn niet *één mens,* maar *verscheidene mensen,* omdat ieder van hen zijn eigen en van de andere personen verscheidene natuur heeft; integendeel iedere goddelijke Persoon heeft geen eigeneen van de andere Personen verscheidene natuur, want zij hebben alle drie maar één en hetzelfde goddelijk wezen of natuur, en zo zijn er niet drie goden of drie goddelijke naturen, maar één God, een goddelijke natuur.
 
-Deze waarheid: *drie goddelijke Personen en één God,* is een waar mysterie (zie 2ᵉ les, 6ᵉ v.), dat wij maar in de hemel klaar zullen verstaan.
+Deze waarheid: *drie goddelijke Personen en één God,* is een waar mysterie (zie [2ᵉ les, 6ᵉ v.](les-02.html#wat-betekenen-wij-door-het-maken-vas-het-heilig-kruis)), dat wij maar in de hemel klaar zullen verstaan.
 
 # Waar is God?
 
