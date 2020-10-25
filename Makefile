@@ -2,7 +2,7 @@ RESOURCEDIR = "resources"
 TARGETDIR = "docs"
 
 
-SOURCES = $(wildcard les*.md)
+SOURCES = $(wildcard *.md)
 HTMLs = $(patsubst %.md,$(TARGETDIR)/%.html,$(SOURCES))
 
 all: mkdir copy_resources $(HTMLs)
