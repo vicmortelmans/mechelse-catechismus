@@ -53,6 +53,10 @@ subtitle: Van de Vergiffenis van de zonden en de Verrijzenis van het lichaam
 
 ## Van alle zonden, hoe groot of hoe zwaar die ook zouden mogen wezen
 
+<span class=marginnote>
+  <img src="resources/1400a.jpg">
+  <img src="resources/1400b.jpg">
+</span>
 V. **In de H. Kerk:** voor de leden van de H. Kerk; wie immers geenszins tot de H. Kerk behoort, kan onmogelijk de vriend van God zijn of zalig worden.
 
 A. **Van alle zonden,** zonder één uitzondering, **hoe groot of hoe zwaar die ook zouden mogen wezen:** 't is gelijk van welke soort en hoe menigvuldig zij zijn, en hoe dikwijls men er zou in hervallen wezen.

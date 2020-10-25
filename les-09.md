@@ -45,6 +45,10 @@ subtitle: Van de Nederdaling ter helle, de Verrijzenis en de Hemelvaart van Chri
 
 ## De ziel van Christus, verenigd met de godheid, is nedergedaald ter helle
 
+<span class=marginnote>
+  <img src="resources/0900a.jpg">
+  <img src="resources/0900b.jpg">
+</span>
 V. Hier, gelijk in de voorgaande les, is er spraak van Christus als mens.
 
 A. **De ziel van Christus,** zonder het lichaam dat ondertussen levenloos in het graf bleef, **verenigd met de godheid** (Zie [8ᵉ les, v. 5.](les-08.html#hoe-is-christus-gestorven)) **is nedergedaald ter helle.** (Zie [v. 2.](#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is)) De goddelijke natuur van Christus bleef altijd onveranderlijk, gelijk zij van in van de eeuwigheid altijd geweest is en tot in van de eeuwigheid altijd zal zijn.

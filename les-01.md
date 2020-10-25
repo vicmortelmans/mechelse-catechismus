@@ -43,6 +43,18 @@ subtitle: Van de Christelijke Leer en de mens
 
 ## De Christelijke Leer of de Catechismus
 
+<span class=marginnote>
+  <img src="resources/0100a.jpg">
+  <img src="resources/0100b.jpg">
+  <img src="resources/0100c.jpg">
+  <img src="resources/0100d.jpg">
+  <img src="resources/0100e.jpg">
+  <img src="resources/0100f.jpg">
+  <img src="resources/0100g.jpg">
+  <img src="resources/0100h.jpg">
+  <img src="resources/0100i.jpg">
+  <img src="resources/0100j.jpg">
+</span>
 V. **Allerzaligste**, dat is, meest dienstig tot het bekomen van het eeuwig geluk; want in godsdienstige zaken verstaan wij door Zaligheid het eeuwig geluk. – **Wetendheden**, d.i. kennissen.
 
 A. De allerzaligste onder alle wetendheden van de wereld is **de Christelijke Leer:** de leer voortkomende van Christus, de tweede persoon van de H. Drievuldigheid, voor ons mens geworden, — **of de Catechismus:** dit woord betekent uit zich zelf niets anders dan leer, maar is algemeen aangenomen om de uitmuntendste aller leren, namelijk, de *Christelijke Leer* aan te duiden.
@@ -61,7 +73,6 @@ Men merke hier op: 1° dat niet enkel de *Christenen* verplicht zijn de Christel
 
 ## A. Christus zelf heeft deze eerst geleerd, en de Apostelen hebben ze alom verkondigd
 
-<span class=marginnote><img src="resources/004.JPG"></span>
 A. **Christus zelf heeft deze eerst geleerd**: eerst zijn leer gepredikt, en dan in Palestina, het land van de Joden, omdat het joodse volk, van Abraham’s roep af‚ bestemd was, om zijn komst te bereiden. Hij heeft de goddelijkheid van zijn zending bewezen door menigvuldige voorzeggingen en mirakelen, in het bijzonder door de voorzegging en het mirakel van zijn verrijzenis. De mirakelen en de voorzeggingen, aangezien zij slechts door Gods bijzondere hulp kunnen gedaan worden, zijn noodzakelijk onwederlegbare bewijzen, dat de veropenbaring, voor dewelke zij gedaan worden, wezenlijk van God komt. **En de Apostelen hebben ze alom verkondigd**: *Apostel* wil eigenlijk zeggen *zendeling*, en onder de naam van Apostel verstaat men hier de twaalf geloofszendelingen door Christus gekozen, ook de H. Mathias: in de plaats van Judas aangesteld, en de H. Paulus later, op een buitengewone wijze tot het apostelschap geroepen. Deze hebben dus, na Christus, zijn leer gepredikt, en dat niet uitsluitend in het land van de joden, maar alom, d.i., overal, geheel de wereld dóór.
 
 # Hoeveel delen zijn er van de Christelijke Leer? 

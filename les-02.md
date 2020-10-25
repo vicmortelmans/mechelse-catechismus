@@ -56,6 +56,7 @@ subtitle: Van de Christen mens en het Kruisteken
 
 ## Een discipel van Jezus Christus, die, gedoopt zijnde, gelooft en belijdt de zalige wet van Christus in de waarachtige Kerk tegen alle sekten
 
+<span class=marginnote><img src="resources/0201a.jpg"></span>
 A. Een Christen mens is **een discipel:** een leerling, een navolger van Jezus Christus, die ons komen leren is al wat wij moeten weten of doen om zalig te worden: vandaar de naam van **Christenen**, die Christus’ discipelen eerst in Antiochië, weinige tijd na zijn hemelvaart, gekregen hebben.
 
 Om Christus’ discipel of om Christen te wezen, zijn er drie dingen vereist:
@@ -86,6 +87,7 @@ Het eerste moet de Christen mens op zonde doen; het tweede, uitsluitend om tot d
 
 ## Het teken van het Heilig Kruis
 
+<span class=marginnote><img src="resources/0203a.jpg"></span>
 V. Een *teken* is iets dat ons tot de kennis brengt van een andere zaak: zo is het kniebuigen een teken, vermits het ons de inwendigen eerbied van het hart te kennen geeft.
 
 A. **Het teken van het Heilig Kruis:** de afbeelding van het kruis, waar Christus op gestorven is. Christus heeft ons door zijn dood op het kruis verlost en ons de Hemel geopend, en zo is de afbeelding van zijn kruis het natuurlijk teken van ons geloof in zijn verlossingswerk.
@@ -144,6 +146,7 @@ Het *tweede deel,* te weten, onze verlossing uit de slavernij van de duivel, wor
 
 ## Van onze voorvaders tot de Apostelen toe; ja van Christus zelven, die door het Kruis de wereld verlost heeft
 
+<span class=marginnote><img src="resources/0209a.jpg"></span>
 A. Wij hebben het Kruisteken **van onze voorvaders tot de Apostelen toe:** wij vinden het bij al de Christenen van de voorgaande eeuwen tot aan de tijd toe van de Apostelen, die, na Christus, het Geloof alom verkondigd hebben. Het komt ons van hooger nog, **ja van Christus zelven, die door het Kruis de wereld verlost heeft:** die, door zijn dood op het kruis de wereld van de slavernij van de duivel vrijgekocht, en zo het kruis tot het natuurlijk teken van zijn discipelen achtergelaten heeft.
 
 # Wanneer behoort men meest het Kruisteken te maken?
@@ -166,7 +169,7 @@ A. Door het maken van het Kruisteken verkrijgen wij *drie* profijten:
 
 **Ten tweede, het Kruis is een kort gebed tot God door het lijden en de verdiensten van Christus:** het Kruis maakt een kort gebed uit, waarin wij, door Christus’ lijden en door zijn verdiensten in dat lijden verworven, allerhande gunsten van God vragen; want, met dat teken te gebruiken, geven wij te kennen, dat geheel onze hoop op Christus’ lijden en verdiensten steunt, en smeeken zo de toepassing van dit lijden, van die verdiensten af;
 
-**Ten derde, het Kruis jaagt van ons de duivel met al zijn bedrijf:** met al hetgeen hij doet om ons tot zonde te brengen. De reden van deze kracht is, dat het Kruis en de dood van Christus de bron zijn van alle zaligheid, en dat degenen, die zich met een waar Geloof tot die heilbron wenden, van de vijand hunr zaligheid bevrijd worden, gelijk de Joden, met de koperen slang van Mozes te aanschouwen, van hun ziekten genezen werden.
+**Ten derde, het Kruis jaagt van ons de duivel met al zijn bedrijf:** met al hetgeen hij doet om ons tot zonde te brengen. De reden van deze kracht is, dat het Kruis en de dood van Christus de bron zijn van alle zaligheid, en dat degenen, die zich met een waar Geloof tot die heilbron wenden, van de vijand van hun zaligheid bevrijd worden, gelijk de Joden, met de koperen slang van Mozes te aanschouwen, van hun ziekten genezen werden.
 
 Behalve deze drie voordelen hekomen wij door het Kruisteken 50 *dagen aflaat,* telkens wij het maken met een rouwmoedig hart, en 100 *dagen,* als wij het zo maken met Wijwater.
 

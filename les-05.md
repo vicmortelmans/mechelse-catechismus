@@ -46,6 +46,11 @@ subtitle: Van God de Vader almachtig en van de H. Drievuldigheid
 
 ## De Schepper, Heer en Regeerder van hemel en aarde, de Fontein van onze zaligheid en ons opperste Goed
 
+<span class=marginnote>
+  <img src="resources/0500a.jpg">
+  <img src="resources/0500b.jpg">
+  <img src="resources/0500c.jpg">
+</span>
 A. God is de **Schepper:** degene die een wezen van niet maakt, zonder voorbestaande stof, door zijn enkelen wil, — **Heer:** bezitter of eigenaar — en **Regeerder:** bestierder **van hemel en aarde:** van al wat buiten Hem bestaat, of van hemel en aarde met al wat zij bevatten, te weten: engelen, mensen, dieren, planten, zon, maan, sterren, zee enz, — **de Fontein van onze zaligheid:** de oorsprong van ons eeuwig geluk en van de hulp die wij nodig hebben om dat geluk te bekomen, — **en ons opperste Goed:** Hij zelf of het aanschouwen aanschijn aan aanschijn van zijn volmaaktheden maakt onze zaligheid of ons eeuwig geluk uit; dit aanschouwen is het grootste geluk dat de mens kan bezitten, en zelfs een gans bovennatuurlijk geluk: wij zijn er immers enkel uit loutere goedheid Gods toe geroepen.
 
 De drie eerste hoedanigheden zeggen ons, wat God is *ten opzichte van alle schepselen,* en de twee laatste, wat Hij is *ten opzichte van onze zaligheid.* Alle vijf zijn allernauwst met elkander verbonden: wie de *schepper* is van hemel en aarde, is er ongetwijfeld de *heer* van; want, wie door zich zelf iets maakt, is de eigenaar, de meester van zijn werk; dan, de heer van iets is er ook de *regeerder* van, daar het bestier aan de oppermeester toebehoort; eindelijk moet de schepper, de eerste oorsproug van alles, ook de *fontein* of de bron zijn van ons eeuwig geluk en van de daartoe te gebruiken middelen, alsmede *ons opperste goed;* want, als oorsprong van al het geschapene, moet hij alle andere zaken in grootheid, schoonheid, waardigheid en aangenaamheid oneindig overtreffen.
@@ -58,6 +63,9 @@ Dat er een God bestaat, schepper van hemel en aarde, weten wij niet alleen door 
 
 ## Daar is maar één God; zó nochtans dat er drie Personen zijn, te weten: de Vader, de Zoon en de H. Geest
 
+<span class=marginnote>
+  <img src="resources/0502a.jpg">
+</span>
 A. **Daar is maar — één God:** een goddelijk wezen of natuur; **zó nochtans dat er drie Personen zijn:** hoewel er nochtans drie verscheidene goddelijke Personen bestaan, die dat één goddelijk wezen of natuur hebben, **te weten: de Vader, de Zoon en de H. Geest.**
 
 Men bemerke wel, dat deze twee punten: *één God en drie goddelijke Personen,* niet met elkander strijden; want, door *één God,* verstaan wij één goddelijk wezen of natuur, en, door *drie goddelijke Personen,* niet drie goddelijke wezens of naturen, maar drie ware goddelijke Personen. Welnu, natuur of wezen en persoon zijn gans verschillende zaken: door *natuur* betekenen wij hetgene, waardoor een zaak zulk een zaak is en niet een andere: zo is de natuur van een boom datgene, waardoor hij *boom,* en niet steen of dier of iets anders is: de natuur van een mens is datgene, waardoor hij *mens* is, te weten, zijn ziel en zijn lichaam; maar door *persoon* duiden wij een redelijke natuur aan, die op zich zelve of onafhankelijk van andere bestaat en werkt.
@@ -66,6 +74,12 @@ Men bemerke wel, dat deze twee punten: *één God en drie goddelijke Personen,* 
 
 ## Omdat zij alle drie maar één en hetzelfde goddelijk wezen of natuur hebben
 
+<span class=marginnote>
+  <img src="resources/0598a.jpg">
+  <img src="resources/0598b.jpg">
+  <img src="resources/0598c.jpg">
+  <img src="resources/0599a.jpg">
+</span>
 A. **Omdat zij alle drij,** niet elk een verscheiden, **maar** slechts **één en hetzelfde goddelijk wezen of natuur hebben.** Deze reden is klaarblijkend: inderdaad, verscheidene mensen zijn niet *één mens,* maar *verscheidene mensen,* omdat ieder van hen zijn eigen en van de andere personen verscheidene natuur heeft; integendeel iedere goddelijke Persoon heeft geen eigeneen van de andere Personen verscheidene natuur, want zij hebben alle drie maar één en hetzelfde goddelijk wezen of natuur, en zo zijn er niet drie goden of drie goddelijke naturen, maar één God, een goddelijke natuur.
 
 Deze waarheid: *drie goddelijke Personen en één God,* is een waar mysterie (zie [2ᵉ les, 6ᵉ v.](les-02.html#wat-betekenen-wij-door-het-maken-vas-het-heilig-kruis)), dat wij maar in de hemel klaar zullen verstaan.

@@ -108,6 +108,7 @@
 :%s/aanveerden/aanvaarden/g
 :%s/onfaalbaar/onfeilbaar/g
 :%s/eeniegelijk/iedereen/g
+:%s/hunner/van hun/g
 :%s/hunne/hun/g
 :%s/grotelijks/ernstig/g
 :%s/veropenbaarde/geopenbaarde/g
@@ -220,4 +221,9 @@
 :%s/algemeene/algemene/g
 :%s/geener/gener/g
 :%s/hemelsche/hemelse/g
-
+:%s/n van de eeuwigheid/n eeuwigheid/g
+:%s/des Hemels/van de Hemel/g
+:%s/dergenen/van degenen/g
+:%s/celebreeren/celebreren/g
+:%s/heeten/heten/g
+:%s/eeren/eren/g

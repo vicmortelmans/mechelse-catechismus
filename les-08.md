@@ -42,6 +42,11 @@ subtitle: Van het Lijden van Christus
 
 ## Zijn geheel leven lang grote armoede en verdriet aan ziel en lichaam; maar op de dag van zijn lijden grote pijnen, die nooit mens verdragen heeft
 
+<span class=marginnote>
+  <img src="resources/0800a.jpg">
+  <img src="resources/0800b.jpg">
+  <img src="resources/0800c.jpg">
+</span>
 A. Hier wordt in ’t kort voorgesteld, wat Christus voor ous geleden heeft 1° **zijn geheel leven lang** en 2° **op de dag van zijn lijden** dat zijn dood voorafging.
 
 1° *Zijn geheel leven lang* **grote armoede:** in armoede is Hij te Bethleëm geboren, in armoede naar Egypte gevlucht, in armoede ook heeft Hij tot zijn dertigste jaar te Nazareth geleefd, en daarna gedurende drie jaar tot de ure van zijn dood gepredikt; in dit laatste tijdperk van zijn levens was Hij zelfs zo arm, dat Hij niets had waar Hij het hoofd kon nederleggen; — **en verdriet:** het aanschouwen van onze zonden die Hij op zich genomen had, zijn allergrootste liefde tot God door de zonden van de wereld zo schrikkelijk beleedigd, de ondankbaarheid van de mensen, de vervolgingen van de Joden en het bijblijvende gedacht van zijn toekomende dood op het kruis hebben Hem in het diepste verdriet gebracht: hierdoor heeft Hij geleden **aan ziel,** en door armoede **aan lichaam.**

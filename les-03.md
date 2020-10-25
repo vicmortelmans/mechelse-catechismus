@@ -46,6 +46,13 @@ subtitle: Van het Geloof
 
 ## Een gave Gods en een licht, door hetwelk de mens vast gelooft al hetgene God ons geopenbaard heeft en door de Heilige Kerk voorhoudt, 't zij dat het geschreven is of niet
 
+<span class=marginnote>
+  <img src="resources/0300a.jpg">
+  <img src="resources/0301a.jpg">
+  <img src="resources/0301b.jpg">
+  <img src="resources/0301c.jpg">
+  <img src="resources/0301d.jpg">
+</span>
 V. De Catechismus spreekt hier van de *deugd,* en niet enkel van de *akte* van Geloof, om reden dat, alle deugd een genegenheid zijnde van de ziel tot een zeker goed werk, de beschrijving van een deugd noodzakelijk ook die bevat van de akte of het werk, waartoe zij ons genegen maakt, en het overigens, om God te behagen, niet voldoende is, Hem met eenige akten van Geloof te vereeren, maar daartoe de deugd zelve in ons vereist wordt; immers, een bovennatuurlijk einde, zoals de Hemel die God alleen toebehoort, kan niemand bereiken zonder bovennatuurlijke krachten, en deze bestaan hoofdzakelijk in de heiligmakende gratie en in de bovennatuurlijke deugden. De deugden zijn de bijzonderste middelen tot het goed; zonder deze kunnen wij wel het goed doen maar slechts onvolmaaktelijk en met moeite.
 
 A. De bepaling van de deugd van Geloof vermeldt daarvan hoofdzakelijk: 1° de oorsprong, 2° de natuur, 3° de akte en 4° het voorwerp.
@@ -92,6 +99,7 @@ A. **Dezen hebben geen goddelijk Geloof:** geloven niet wezenlijk in God, aanvaa
 
 ## Zo leren de ketters, maar zij dolen; want zonder het één waarachtig Geloof is de zaligheid onmogelijk
 
+<span class=marginnote><img src="resources/0305a.jpg"></span>
 V. Kunnen de verschillende soorten van ketters die eenige stukken van de goddelijke Openbaring voor goed houden en andere verachten, zowel als de katholieken, die geheel de Openbaring aannemen, tot de zaligheid komen?
 
 A. **Zo leren de ketters,** namelijk, dat iedereen in zijn Geloof kan zalig worden, **maar zij dolen:** hun meening is vals; **want zonder het één waarachtig Geloof is de zaligheid onmogelijk;** zonder de hele Openbaring aan te nemen, gelijk de Rooms-Katholieke Kerk ze voorhoudt, is het onmogelijk de Hemel te bekomen. De reden is, dat, wie vrijwillig een punt van de Openbaring weigert te geloven, ernstig zondigt, geen goddelijk Geloof meer heeft, en zo reeds aan het eerste vereiste om God te kunnen dienen, te kort blijft.
@@ -112,6 +120,12 @@ De onfeilbaarheid in de H. Kerk, behoort toe 1° aan de Paus van Rome, als Paus 
 
 ## Het Symbolum van het Geloof, van de Apostelen gemaakt en in twaalf delen verdeeld
 
+<span class=marginnote>
+  <img src="resources/0307a.jpg">
+  <img src="resources/0307b.jpg">
+  <img src="resources/0307c.jpg">
+  <img src="resources/0307d.jpg">
+</span>
 V. De zin van de woorden **meest geloven** is hier niet *vaster geloven,* maar *uitdrukkelijker kennen en geloven.*
 
 A. **Het Symbolum,** de verzameling, de opsomming, ofwel het teken of de belijdenis **van het Geloof,** van de geopenbaarde leer, die de H. Kerk ons voorhoudt, **van de Apostelen gemaakt,** gelijk de Overlevering getuigt, **en in twaalf delen** of twaalf bijzondere waarheden **verdeeld.**

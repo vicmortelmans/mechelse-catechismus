@@ -41,6 +41,10 @@ subtitle: Van het Laatste Oordeel en het Rechterschap van Christus
 
 ## Hij zit ter rechter hand van de Vader, wezende in de opperste rust en allerhoogste eer met God de Vader
 
+<span class=marginnote>
+  <img src="resources/1000a.jpg">
+  <img src="resources/1000b.jpg">
+</span>
 V. **Waar is Christus,** als mens beschouwd, — **nu:** sedert zijn Hemelvaart?
 
 A. **Hij zit ter rechter hand van de Vader:** deze woorden van het Symbolum zijn blijkbaar, niet in hunn eìgenlijken, maar in de overdrachtelijken zin te verstaan, die de Cateehismus zelf aanduidt: de woorden **wezende in de opperste rust met God de Vader** bevatten de uitlegging van *Hij zit (bij de Vader);* de overige, **wezende in de allerhoogste eer met God de Vader** dienen tot verklaring van *ter rechter hand van de Vader.* Door de woorden: **met God de Vader** wil men hier zeggen, dat Christus, als mens, deelachtig is in de rust en in de eer van God de Vader of van de goddelijke natuur die de drie goddelijke Personen eigen is.

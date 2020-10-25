@@ -58,6 +58,9 @@ subtitle: De Heilige Katholieke Kerk
 
 ## Een vergadering van alle gelovige Christenen, die, onder de gehoorzaamheid van de Paus van Rome de waarachtige leer van Christus belijden
 
+<span class=marginnote>
+  <img src="resources/1200a.jpg">
+</span>
 V. Waarin bestaat de H. Katholieke Kerk, die wij geloven de ware Kerk van Christus te zijn; of, welke kerk verstaat men door de *H. Kerk?*
 
 A. Het woord *Kerk* betekent hier, niet een gebouw, maar **een vergadering:** een genootschap, een vereniging van mensen. Nochtans niet alle zulke vergaderingen worden kerken genoemd, maar alleen die van *Christenen.* — Door *Christenen* worden hier verstaan niet enkel de *ware* Christenen, die al de vereisten vervullen om Christenen te zijn, maar ook al degenen die gedoopt zijn en ten minste Christus als de goddelijken Zaligmaker erkennen.
@@ -148,6 +151,9 @@ A. Uit de woorden: **onder andere deze vier** volgt, dat er nog andere zulke ken
 
 ## Ten eerste, omdat haar hoofd Christus heilig is; ten tweede, omdat in haar alleen te vinden is het waarachtig gebruik van de Heilige Sacramenten, die ons heilig maken; ten derde, omdat haar beste deel, haar roep en haar leer heilig is
 
+<span class=marginnote>
+  <img src="resources/1206a.jpg">
+</span>
 V. De zin is: waarin is de Rooms-Katholieke Kerk heilig.
 
 A. Zij is heilig om *drie* redenen:
@@ -178,6 +184,9 @@ Deze dubbele eenheid moet noodzakelijk in de ware Kerk van Christus te vinden zi
 
 ## Omdat zij in zich besluit alle gelovigen, die van de tijd van Christus tot het einde van de wereld geweest zijn en zijn zullen, en omdat zij verspreid is onder alle natiën en in alle landen van de wereld
 
+<span class=marginnote>
+  <img src="resources/1208a.jpg">
+</span>
 V. **Algemeen** of **katholiek** betekent *onbeperkt.*
 
 A. De H. Kerk wordt algemeen of katholiek gezegd om *twee* redenen:
@@ -218,6 +227,9 @@ Men bemerke, dat wij al deze eigendommen van de H. Kerk zo gemakkelijk kennen al
 
 ### VRAGEN
 
+<span class=marginnote>
+  <img src="resources/1299a.jpg">
+</span>
 Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Catechismus over ieder deel?
 
 1. Wat vraagt de Catechismus als hij zegt: *Wat is de H. Kerk?*  — Wat verstaat men hier door het woord *Kerk?* — Welke Kerk is de ware Kerk van Christus? — Wat iser aan deze Kerk hoofdzakelijk eigen? — Welke zijn de bestanddelen van de H. Kerk? — Wat is er vereist om wezenlijk lid te zijn van de H. Kerk?

@@ -46,6 +46,11 @@ subtitle: Van de Schepping van de wereld
 
 ## Omdat Hij met zijn goddelijke wil alle dingen kan maken en ook te niet doen
 
+<span class=marginnote>
+  <img src="resources/0600a.jpg">
+  <img src="resources/0600b.jpg">
+  <img src="resources/0600c.jpg">
+</span>
 A. Er zijn dus drie dingen vereist om almachtig te zijn:
 
 1° **Dingen kunnen maken en ook te niet doen;**
@@ -70,6 +75,9 @@ God heeft zijn almachtigheid in het scheppen van hemel en aarde waarlijk getoond
 
 ## Hij heeft het lichaam van Adam gemaakt van aarde, en een ziel daarin gestort; maar Eva van een rib genomen uit Adam
 
+<span class=marginnote>
+  <img src="resources/0603a.jpg">
+</span>
 V. De zin is: waaruit heeft God de eerste mensen gemaakt, van welke het hele mensdom voortkomt: heeft Hij ze onmiddellijk van niet gemaakt, ofwel uit een reeds geschapene stof, en, zo ja, uit welke stof? — Men bemerke hier wel dat de mens gemaakt is door God, die hemel en aarde geschapen heeft met al wat er in is; dat hij bijgevolg noch uit zijn eigen bestaat, noch van eenig ander schepsel van de aarde of van de hemel voortkomt.
 
 A. **God heeft het lichaam van Adam,** de eersten man, **gemaakt — van aarde:** van de aarde namelijk, in ‘t begin van de schepping van niet voortgebracht; **en een ziel daarin gestort:** en een ziel, gemaakt niet uit aarde of iets anders, maar van niet, in dat gevormd lichaam gestort; **maar Eva van een rib genomen uit Adam:** maar het lichaam van Eva, de eerste vrouw, heeft God gemaakt uit een rib van Adam, en in dat gevormd lichaam heeft Hij een ziel gestort, gelijk Hij voor Adam gedaan had.
@@ -88,9 +96,13 @@ Deze buitengewone gaven ontvingen zij niet alleen voor zich zelven, maar voor ge
 
 ## De Engelen heeft God van niet gemaakt in de hemel
 
+<span class=marginnote>
+  <img src="resources/0604a.jpg">
+  <img src="resources/0604b.jpg">
+</span>
 V. De Engelen hebben geen lichaam, maar zijn *enkele geesten* met rede en verstand begaafd. Het woord *engel* betekent eigenlijk *bode, afgezant.*
 
-A. **De Engelen heeft God gemaakt:** dus zij ook bestaan uit zieh zelf niet, noch zijn van eenig ander geschapen wezen, maar wel van God gemaakt, en dat **van niet:** door zijn enkelen wil, zonder daartoe iets te gebruiken dat reeds bestond; **in de hemel:** in de plaats waar de gelukzaligen verblijven. Doch niet van het hegin hunr schepping genoten de Engelen daar het geluk van God aanschijn aan aanschijn te aanschouwen, maar hebben dat eerst, gedurende een zekeren proeftijd, moeten verdienen door God te eeren en te loven,
+A. **De Engelen heeft God gemaakt:** dus zij ook bestaan uit zieh zelf niet, noch zijn van eenig ander geschapen wezen, maar wel van God gemaakt, en dat **van niet:** door zijn enkelen wil, zonder daartoe iets te gebruiken dat reeds bestond; **in de hemel:** in de plaats waar de gelukzaligen verblijven. Doch niet van het hegin van hun schepping genoten de Engelen daar het geluk van God aanschijn aan aanschijn te aanschouwen, maar hebben dat eerst, gedurende een zekeren proeftijd, moeten verdienen door God te eeren en te loven,
 
 Het *getal* van de Engelen is zeer groot. Zij worden gewoonlijk verdeeld in *negen koren,* waarvan de hoogste zijn de Serafijnen, de Cherubijnen en de Tronen.
 
@@ -98,7 +110,10 @@ Het *getal* van de Engelen is zeer groot. Zij worden gewoonlijk verdeeld in *neg
 
 ## Neen; want de ongehoorzame en hoogmoedige zijn daaruit gedreven in de afgrond van de hel
 
-A. **De ongehoorzame en hoogmoedige:** de Engelen die, gedurende hunn proeftijd, met zich aan God niet te willen onderwerpen, in hoogmoedigheid, en van daar in ongehoorzaamheid vielen, **zijn daaruit gedreven in de afgrond van de hel:** zijn, tot straf hunr zonde uit de hemel gejaagd, en in de afgrond geworpen van de plaats, waar God de verdoemden eeuwig straft. Van toen af genieten de getrouwe Engelen, tot loon hunr deugd, het geluk van God voor eeuwig te mogen aanschouwen.
+<span class=marginnote>
+  <img src="resources/0605a.jpg">
+</span>
+A. **De ongehoorzame en hoogmoedige:** de Engelen die, gedurende hunn proeftijd, met zich aan God niet te willen onderwerpen, in hoogmoedigheid, en van daar in ongehoorzaamheid vielen, **zijn daaruit gedreven in de afgrond van de hel:** zijn, tot straf van hun zonde uit de hemel gejaagd, en in de afgrond geworpen van de plaats, waar God de verdoemden eeuwig straft. Van toen af genieten de getrouwe Engelen, tot loon van hun deugd, het geluk van God voor eeuwig te mogen aanschouwen.
 
 # Welk is het ambt van de Engelen?
 
@@ -108,7 +123,7 @@ V. **Het ambt,** d.i. de bediening.
 
 A. De Engelen hebben plichten jegens God en jegens de mensen:
 
-1° *Jegens God:* zij moeten Hem a) **dienen:** zijn wil volbrengen, onder andere, met zijn gezanten te zijn, om welke bediening juist zij de naam van *Engelen* ontvangen hebben; b) **loven:** Hem erkennen en eeren als de Schepper, Heer en Regeerder van hemel en aarde, de Fontein hunr zaligheid en hun opperste Goed.
+1° *Jegens God:* zij moeten Hem a) **dienen:** zijn wil volbrengen, onder andere, met zijn gezanten te zijn, om welke bediening juist zij de naam van *Engelen* ontvangen hebben; b) **loven:** Hem erkennen en eeren als de Schepper, Heer en Regeerder van hemel en aarde, de Fontein van hun zaligheid en hun opperste Goed.
 
 2° *Jegens de mensen:* zij moeten hun **behulpig wezen:** hun tot hun geluk dienst bewijzen met hen bij te staan in de gevaren van het lichaam en in de kwellingen van de ziel, met voor hen te bidden, met hen te vermanen.
 

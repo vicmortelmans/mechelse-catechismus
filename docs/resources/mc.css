@@ -68,17 +68,24 @@ h2 {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
-img:hover {
-  webkit-transition: all .3s ease-in;
-  moz-transition: all .3s ease-in;
-  ms-transition: all .3s ease-in;
-  o-transition: all .3s ease-in;
+img{
   transition: all .3s ease-in;
-  opacity: 1;
-  transform: scale(2);
-  right: 0; 
   position: relative;
-  right: 150px;
+  z-index: 1;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+img:hover {
+  transition: all .3s ease-in;
+  transform: scale(2) translate(-40%,10%);
+  position: relative;
+  z-index: 2;
+}
+img.small {
+  max-width: 50%;
+  float: left;
+}
+img.small:hover {
+  transform: scale(4) translate(-20%,5%);
 }
 @media (max-width: 760px) {
   section > h1, section > h2 {

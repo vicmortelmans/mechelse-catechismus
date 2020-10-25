@@ -41,6 +41,9 @@ subtitle: Van God de Heilige Geest
 
 ## Dat Hij waarachtig God is, en de derde Persoon in de H. Drievuldigheid
 
+<span class=marginnote>
+  <img src="resources/1100a.jpg">
+</span>
 V. Wat verstaat gij door de H. Geest, als gij zegt: *« Ik geloof in de H. Geest »* of, welke natuur heeft Hij en welke Persoon is Hij?
 
 A. Ik geloof **dat Hij waarachtig God is:** dat Hij evenals de Vader en de Zoon, waarlijk de goddelijke natuur heeft, **en de derde Persoon in de H. Drievuldigheid:** dat Hij een goddelijke Persoon is, namelijk, de derde van de H. Drievuldigheid.

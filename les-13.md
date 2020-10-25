@@ -51,6 +51,11 @@ subtitle: Van de Gemeenschap van de Heiligen
 
 ## In een mededeling van alle sacrificiën, openbare diensten, goede werken en gebeden, die in de Heilige Kerk geschieden
 
+<span class=marginnote>
+  <img src="resources/1300a.jpg">
+  <img src="resources/1300b.jpg">
+  <img src="resources/1300c.jpg">
+</span>
 V. Met het woord **Heiligen** bedoelt men hier al de leden van de H. Kerk ([12ᵉ les, 6ᵉ v.](les-12.html#welke-zijn-de-leden-van-de-heilige-kerk)), en deze allen worden *heilig* genoemd, omdat zij, ofwel gelijk de gelukzaligen van de hemel, tot de volmaakte heiligheid gekomen zijn; ofwel, gelijk de zielen van het vagevuur, daartoe zullen komen; ofwel, gelijk de rechtvaardigen van de aarde, de heiligmakende gratie bezitten, of ten minste, gelijk de zondaars, door het Doopsel geheiligd zijn geweest en nog altijd tot de heiligheid geroepen zijn.
 
 A. Het woord **mededeling** leert ons dat de gemeenschap van de Heiligen gelegen is in een staat, waarin de een deel heeft in de goederen van de andere. De mee te delen goederen van deze gemeenschap zijn vruchten van de volgende werken **die in de Heilige Kerk geschieden,** te weten: **van alle sacrificiën:** van al de Misoffers dagelijks, door de priesters opgedragen, — **openbare diensten:** al de godsdienstige oefeningen op bevelen in de naam van de H. Kerk gedaan, — **goede werken:** al de werken in overeenstemming met Christus’ wet en in staat van gratie en geest van Geloof volbracht, — **gebeden:** al de smeekingen door de leden van de H. Kerk in ’t bijzonder ten hemel gestuurd.

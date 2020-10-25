@@ -49,6 +49,10 @@ subtitle: Van de H. Schrift en van de Traditiën
 
 ## Uit de schatten, die God haar achtergelaten heeft, te weten: de Heilige Schrift en de Apostelijke Traditiën of Overleveringen
 
+<span class=marginnote>
+  <img src="resources/0401a.jpg">
+  <img src="resources/0401b.jpg">
+</span>
 V. De zin is: waaruit neemt de H. Kerk de leer, die zij ons als de goddelijke Openbaring voorhoudt: is het uit nieuwe goddelijke openbaringen, ofwel uit eenige bewijs of bewaarstukken van de gedane Openbaring?
 
 A. Zij neemt de leer, die zij voorhoudt **uit de schatten,** de bewaarstukken, **die God,** na daarin zijn Openbaring besloten te hebben, **haar achtergelaten heeft,** opdat zij er haar leer zou uit putten. Die bewaarstukken, hier *schatten* genoemd om hun allerkostbaarste inhoud, zijn ten getalle van twee, **te weten: de Heilige Schrift en de Apostelijke Traditiën of Overleveringen.**
@@ -94,6 +98,7 @@ Hier nochtans is een uitzondering te maken voor die overzettingen van de Bijbel 
 
 ## Neen; maar zij is zeer duister in vele plaatsen, en daarom is het zeer zorglijk voor ongeleerde mensen die te lezen
 
+<span class=marginnote><img src="resources/0406a.jpg"></span>
 A. **Neen; maar zij is zeer duister,** zeer moeilijk om verstaan in **vele plaatsen,** en de oorzaak daarvan ligt in de verhevene waarheden die zij bevat, alsmede in onze onvolmaakte kennis van de talen, waar de Bijbel in geschreven is, en van de oude gebruiken die daarin vermeld worden; **en daarom is het zeer zorglijk,** zeer gevaarlijk **die te lezen voor ongeleerde mensen:** voor personen die in het Geloof, in de geschiedenis en in de taalkunde weinig ervaren zijn. 't Is om reden van de duisterheid van de H. Schrift en het daaruit voortvloeiend gevaar, dat de H. Kerk aan de gemeene lieden verboden heeft ze te lezen in de moederlijke taal.
 
 # Moeten wij iets geloven, dat in de Bijbel niet geschreven is?

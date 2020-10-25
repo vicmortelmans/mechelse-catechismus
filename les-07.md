@@ -47,6 +47,10 @@ subtitle: Van de Menswording van Christus
 
 ## God de Zoon, die, mens geworden zijnde, Jezus Christus genoemd is
 
+<span class=marginnote>
+  <img src="resources/0701a.jpg">
+  <img src="resources/0701b.jpg">
+</span>
 A. De tweede Persoon van de H. Drievuldigheid is **God de Zoon,** en Hij is de tweede en niet de eerste of de derde, omdat Hij, in de orde van de voortkomst, na de Vader en vóór de H. Geest staat (zie [6ᵉ v. 5ᵉ les](les-05.html#welke-is-de-eerste-persoon-van-de-heilige-drievuldigheid)); **die, mens geworden zijnde:** de menselijke natuur aangenomen hebbende en als dusdanig beschouwd, **Jezus Christus genoemd is.**
 
 De tweede Persoon van de H. Drievuldigheid heet dus *God de Zoon* en *Jezus Christus: God de Zoon,* als wij Hem alleen als God, en *Jezus Christus* als wij Hem als God en mens beschouwen. Bijgevolg moet men op de vraag: *wie is Jezus Christus?* antwoorden: *Jezus Christus is God de Zoon, de tweede Persoon van de H. Drievuldigheid, voor ons mens geworden.* Hij is dus een goddelijke Persoon, te weten, de tweede Persoon van de H. Drievuldigheid: maar, op geener wijze een menselijke persoon.
