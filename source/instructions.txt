@@ -191,6 +191,7 @@
 :%s/onzer/van onze/g
 :%s/borsten/barstten/g
 :%s/hemelschen/hemelse/g
+:%s/hemelsch/hemels/g
 :%s/veerdig/vaardig/g
 :%s/noode/node/g
 :%s/verdeeling/verdeling/g
@@ -227,3 +228,21 @@
 :%s/celebreeren/celebreren/g
 :%s/heeten/heten/g
 :%s/eeren/eren/g
+:%s/eere/ere/g
+:%s/eelig/elig/g
+:%s/onzen/onze/g
+:%s/volkomenlijk/volkomen/g
+:%s/oneindelijk/oneindig/g
+:%s/ uwe / uw /g
+:%s/zelven/zelf/g
+:%s/lijksch/lijks/g
+:%s/ooren/oren/g
+:%s/verlorene/verloren/g
+:%s/onzes/van ons/g
+:%s/heersch/heers/g
+:%s/heersappij/heerschappij/g
+:%s/bestier/bestuur/g
+:%s/volmaaktelijk/volmaakt/g
+:%s/kleederen/kleren/g
+:%s/eischen/eisen/g
+:%s/hooger/hoger/g
