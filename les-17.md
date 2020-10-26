@@ -9,57 +9,57 @@ subtitle: Van het Gebed des Heren
   <td rowspan=13>**Het Gebed des Heren**</td>
   <td rowspan=13 class=accolade></td>
   <td colspan=4>**Waarde**</td>
-  <td></td>
+  <td>*[Welk is het allerbeste en allerwaardigste gebed?](#welk-is-het-allerbeste-en-allerwaardigste-gebed)*</td>
 </tr>
 <tr>
   <td colspan=4>**Woorden**</td>
-  <td></td>
+  <td>*[Zeg het Gebed des Heren](#zeg-het-gebed-des-heren)*</td>
 </tr>
 <tr>
   <td rowspan=11>**Uitleg**</td>
   <td rowspan=11 class=accolade></td>
   <td rowspan=2>Onze Vader, die in de hemelen zijt</td>
   <td rowspan=2 class=accolade></td>
-  <td></td>
+  <td>*[Hoe is God onze Vader?](#hoe-is-god-onze-vader)*</td>
 </tr>
 <tr>
-  <td></td>
+  <td>*[Waarom zegt gij: *die in de hemelen zijt?*](#waarom-zegt-gij-die-in-de-hemelen-zijt)*</td>
 </tr>
 <tr>
   <td rowspan=2>Geheiligd zij uw naam</td>
   <td rowspan=2 class=accolade></td>
-  <td></td>
+  <td>*[Wat verstaat gij door de naam Gods?](#wat-verstaat-gij-door-de-naam-gods)*</td>
 </tr>
 <tr>
-  <td></td>
+  <td>*[Wat begeert gij, zeggende: *geheiligd zij uw naam?*](#wat-begeert-gij-zeggende-geheiligd-zij-uw-naam)*</td>
 </tr>
 <tr>
   <td colspan=2>Ons toekome uw rijk</td>
-  <td></td>
+  <td>*[Wat rijk begeert gij van God?](#wat-rijk-begeert-gij-van-god)*</td>
 </tr>
 <tr>
   <td colspan=2>Uw wil geschiede op de aarde als in den hemel</td>
-  <td></td>
+  <td>*[Vermogen wij wel te volbrengen de wil Gods op de aarde als in de hemel?](#vermogen-wij-wel-te-volbrengen-de-wil-gods-op-de-aarde-als-in-de-hemel)*</td>
 </tr>
 <tr>
   <td colspan=2>Geef ons heden ons dagelijks brood</td>
-  <td></td>
+  <td>*[Wat is het dagelijks brood, dat wij begeren?](#wat-is-het-dagelijks-brood-dat-wij-begeren)*</td>
 </tr>
 <tr>
   <td rowspan=2>En vergeef ons onze schulden, gelijk wij vergeven onze schuldenaren</td>
   <td rowspan=2 class=accolade></td>
-  <td></td>
+  <td>*[Welke zijn de schulden, die wij hebben?](#welke-zijn-de-schulden-die-wij-hebben)*</td>
 </tr>
 <tr>
-  <td></td>
+  <td>*[Hoe moeten wij onze schuldenaren vergeven?](#hoe-moeten-wij-onze-schuldenaren-vergeven)*</td>
 </tr>
 <tr>
   <td colspan=2>En leid ons niet in bekoring</td>
-  <td></td>
+  <td>*[Hoe leidt God ons in bekoringen?](#hoe-leidt-god-ons-in-bekoringen)*</td>
 </tr>
 <tr>
   <td colspan=2>Maar verlos ons van den kwade. Amen</td>
-  <td></td>
+  <td>*[Van wat kwaad begeert gij verlost te worden?](#van-wat-kwaad-begeert-gij-verlost-te-worden)*</td>
 </tr>
 </table>
 
@@ -70,6 +70,9 @@ Na van het gebed in ’t algemeen gesproken te hebben, zal de Catechismus, in de
 ## Het Gebed des Heren of de *Pater noster;* want dit is van Christus de oppersten Meester gemaakt, en het begrijpt al wat wij zouden mogen begeren
 
 V. **Het allerbeste gebed:** het volmaaktste of volkomenste; **het allerwaardigste:** het gebed dat hoven alle andere onze achting verdient.
+<span class=marginnote>
+  <img src="resources/1701a.jpg">
+</span>
 
 A. Het allerbeste en allerwaardigste gebed is **het Gebed des Heren of de Pater noster,** in ’t Vlaams ook *Onze Vader* genoemd. Het heet: *Gebed des Heren,* omdat het gemaakt is van Christus zelf, wie op een bijzondere wijze de naam *onze Heer* gegeven wordt ([7ᵉ les, 7ᵉ v.](les-07.html#waarom-wordt-de-zoon-meer-onze-heer-genoemd-dan-god-de-vader)); *Pater noster* (letterlijk Vader Onze), omdat het in 't Latijn, en *Onze Vader,* omdat het in 't Vlaams met die woorden begint.
 
@@ -85,12 +88,18 @@ De *Onze Vader* is dus het uitmuntendste gebed zowel om zijn inhoud als om zijn 
 
 ## Onze Vader, die in de hemelen zijt: 1. Geheiligd zij uw naam. 2. Ons toekome uw rijk. 3. Uw wil geschiede op de aarde als in de hemel, 4, Geef ons heden ons dagelijks brood. 5. En vergeef ons onze schulden, gelijk wij vergeven onze schuldenaren. 6. En leid ons niet in bekoring. 7. Maar verlos ons van de kwade. Amen.
 
+<span class=marginnote>
+  <img src="resources/1702a.jpg">
+</span>
 A. De *Onze Vader* bevat vooreerst een korte voorrede of voorbereiding, bestaande uit de woorden: **Onze Vader, die in de hemelen zijt;** daarna zeven vragen, die begrijpen al wat wij kunnen begeren, en, ten slotte, het woordje: **Amen.** Al de christenen behoren dit gebed van buiten te kennen.
 
 # Hoe is God onze Vader?
 
 ## Omdat Hij ons heeft geschapen, van de eeuwige dood verlost, door het Doopsel tot zijn kinderen aangenomen, en voor ons de hemelse erfenis heeft gereed gemaakt
 
+<span class=marginnote>
+  <img src="resources/1703a.jpg">
+</span>
 V. **God** betekent hier, niet alleen God de Vader, maar de goddelijke natuur in de drie goddelijke Personen bestaande.
 
 A. God is onze Vader om *vier* redenen:
@@ -125,6 +134,10 @@ A. **God zelf:** de goddelijke natuur in de drie goddelijke Personen bestaande, 
 
 ## Dat God van ons en alle mensen moge gekend, gediend en geëerd worden.
 
+<span class=marginnote>
+  <img src="resources/1706a.jpg">
+  <img src="resources/1706b.jpg">
+</span>
 A. Zeggende **geheiligd zij uw naam,** drukken wij de begeerte uit, niet dat God heilig of heiliger worde, maar wel **dat God van ons en van alle mensen:** van de gelovigen en ook van al de andere mensen van deze aarde — **moge gekend:** door de rede en het Geloof als de enige ware God moge gekend en erkend, — **gediend:** met ware onderwerping van de wil aan de rede en de Openbaring moge erkend, — en door het dadelijk erkennen van zijn opperste majesteit moge **geëerd worden.** De woorden *gediend* en *geëerd* komen dus het voorgaande *gekend* bepalen.
 
 Deze vraag is noodzakelijk de eerste in het gebed dat bevat al wat wij kunnen begeren; immers, al hetgeen wij hier op aarde te doen en te begeren hebben, komt uit op God te dienen ([1ᵉ les, 7ᵉ v.](les-01.html#wat-is-de-mens-van-node-om-tot-zijn-einde-de-komen)) en het eerste dat wij nodig hebben om Hem te dienen, is Hem als God te kennen en te erkennen.
@@ -151,6 +164,9 @@ Deze derde vraag is innig met de twee eerste verbonden: het derde dat wij van no
 
 ## Al hetgeen wij van node hebben tot kost, kleren, gezondheid, en al andere dingen, die het lichaam of de ziel aangaan
 
+<span class=marginnote>
+  <img src="resources/1709a.jpg">
+</span>
 A. **Al hetgeen wij van node hebben tot kost:** om ons lichaam te spijzen, **kleren:** om ons lichaam te dekken, **gezondheid:** om deze te bewaren, als wij in goeden staat, en ze te herstellen, als wij ziek of zwak zijn, **en al andere dingen die het lichaam,** b.v. de fortuin en de voorspoed op deze wereld, **of de ziel aangaan,** zoals de heiligmakende en de dadelijke gratie, de HH. Sacramenten, de vergiffenis van de zonden, het woord Gods, enz; het tijdelijk goed nochtans alleen voor zoveel het dient tot profijt van onze zielen. Dit alles komt onder het woord *dagelijks brood,* aangezien dat wij daardoor gewoonlijk betekenen al hetgene wij meest nodig hebben.
 
 Deze vraag volgt natuurlijk op de voorgaande: na van God verzocht te hebben hetgene rechtstreeks zijn dienst uitmaakt, smeken wij van Hem de middelen af die wij nodig hebben om Hem dadelijk te kunnen dienen.
@@ -167,6 +183,9 @@ Deze vraag ook komt op haar plaats: nadat wij van God de nodige middelen gevraag
 
 ## Wij moeten de een de andere uit van de harte vergeven hetgeen tegen ons misdaan is, geen straf daarvan verzoekende
 
+<span class=marginnote>
+  <img src="resources/1711a.jpg">
+</span>
 V. **Onze schuldenaren:** degenen die ons beleedigd, of ons hetzij in ons lichaam, hetzij in onze fortuin, hetzij in onze eer, hetzij in onze geestelijke goederen enig ongelijk aangedaan hebben.
 
 A. **Wij moeten — de een de andere:** elkander, wie de schuldenaar ook weze, vriend of vijand, bekend of onbekend, enz., niet alleen met de mond, maar **uit van de harte:** met oprechte meening **vergeven hetgeen tegen ons misdaan is:** vergeven alle kwaad hoe groot en hoe zwaar het ook moge wezen, **geen straf daarvan verzoekende:** daar ten minste geen straf van verzoekende *uit haat of ongeregelde wraakzucht,* want wij mogen vóór de rechtbanken schadeherstelling en straf eisen, en somwijlen zelfs behoren wij dat te doen, ten einde daardoor de kwaadwilligen schrik in te boezemen en de orde in de samenleving te handhaven.
@@ -177,6 +196,9 @@ Willen wij van God vergiffenis van onze schulden bekomen, dan moeten wij noodzak
 
 ## Als Hij die van ons niet keert, of als Hij ons zulke hulp niet geeft, met dewelke wij alle kwade bekoringen of aanlokkingen tot zonden wederstaan
 
+<span class=marginnote>
+  <img src="resources/1712a.jpg">
+</span>
 V. Een **bekoring** is een uitwendige of inwendige zaak die ons tot zonde beweegt of aanlokt.
 
 A. In *twee* gevallen zegt men dat God ons in bekoring leidt:
@@ -193,12 +215,18 @@ De 6ᵉ vraag staat in nauw verband met de 5ᵉ; de bekoringen, die ons tot zond
 
 ## Van alle kwaad, dat ons naar ziel of lichaam mag hinderen, en de tijdelijke of de eeuwige welvaart beletten
 
+<span class=marginnote>
+  <img src="resources/1713a.jpg">
+</span>
 A. **Van alle kwaad,** zonder uitzondering, — **dat ons naar ziel of lichaam mag hinderen** ([9ᵉ v.](TODO)), en zo de tijdelijke of de eeuwige welvaart beletten: wij vragen dus in 't algemeen, verlost te zijn van al hetgeen enigszins onze zaligheid zou kunnen schaden; van hetgeen ze *rechtstreeks* zou schaden met de ziel te hinderen, of *onrechtstreeks* met het lichaam te hinderen in die zaken welke de ziel aangaan. Strikt genomen, betekent **van de kwade,** in de laatste vraag van de Onze Vader, enkel *van de duivel;* doch, aangezien dat de duivel de eerste oorsprong is van alle kwaad, zo is de bovenstaande uitlegging voor volkomen goed te houden. De hele vraag: *maar verlos ons van de kwade,* komt dus hier op uit: in plaats dat Gij, o Vader, ons in bekoring zoudt leiden, verlos ons liever van alle kwaad.
 
 Thans blijkt het klaar, hoe wij in de Onze Vader wezenlijk alles vragen wat wij zouden mogen begeren: al hetgeen wij hier te begeren hebben, is God wel te dienen om Hem zo hiernamaals eeuwig te mogen aanschouwen, en hiertoe zijn drie dingen vereist: 1° hetgeen de dienst Gods in zich zelf uitmaakt, 2° de nodige krachten om God gemakkelijk te dienen, 3° de verwijdering van alle beletsels in zijn dienst. Welnu, in de drie eerste vragen bidden wij om de dingen die de dienst Gods uitmaken, te weten, om Hem te mogen erkennen, ons aan zijn heerschappij te onderwerpen en zijn geboden te volbrengen; in de 4° vraag verzoeken wij van God al de hiertoe vereiste middelen, en, in de drie laatste, smeken wij Hem, dat Hij al de beletsels in zijn dienst van ons zou verwijderen, namelijk, de zonden en schulden, de te grote bekoringen waaraan Hij ons, tot straf van onze zonden, zou laten bloot staan, en alle aanvallen van de duivel.
 
 ### VRAGEN
 
+<span class=marginnote>
+  <img src="resources/1799a.jpg">
+</span>
 Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — Hoe wordt zij verdeeld?
 
 1. Wat betekenen de woorden: *het allerbeste en allerwaardigste gebed?* — Leg de namen uit: *Gebed des Heren* en *Pater noster.* — Hoe wordt dit gebed in ’t Vlaams genoemd, en waarom? — Om hoeveel en om welke redenen is de Onze Vader het allerbeste en allerwaardigste gebed? — Leg die redenen uit. — Onder welke opzichten is dit gebed dus het allerbeste en allerwaardigste? .

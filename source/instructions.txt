@@ -265,3 +265,8 @@
 :%s/looze/loze/g
 :%s/vereering/verering/g
 :%s/ijdellijk/ijdel/g
+:%s/Engelse Groetenis/Begroeting van de Engel/g
+:%s/engelse-groetenis/begroeting-van-de-engel/g
+:%s/groetenis/begroeting/g
+:%s/de Wees Gegroet/het Wees Gegroet/g
+
