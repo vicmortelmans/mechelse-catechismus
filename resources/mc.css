@@ -1,3 +1,6 @@
+header, footer {
+  text-align: center;
+}
 td {
   vertical-align: middle;
   padding: 3px;
