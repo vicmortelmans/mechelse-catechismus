@@ -246,3 +246,22 @@
 :%s/kleederen/kleren/g
 :%s/eischen/eisen/g
 :%s/hooger/hoger/g
+:%s/hoore/hore/g
+:%s/waarmede/waarmee/g
+:%s/ haren / haar /g
+:%s/ uws / van uw /g
+:%s/ascht/ast/g
+:%s/hooge/hoge/g
+:%s/eenig/enig/g
+:%s/de ure/het uur/g
+:%s/hoogsten/hoogste/g
+:%s/godvruchtiglijk/godvruchtig/g
+:%s/bollekens/kralen/g
+:%s/bolleke/kraal/g
+:%s/bediedenis/betekenis/g
+:%s/geëischt/geëist/g
+:%s/aardsche/aardse/g
+:%s/wenschen/wensen/g
+:%s/looze/loze/g
+:%s/vereering/verering/g
+:%s/ijdellijk/ijdel/g
