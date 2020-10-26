@@ -45,15 +45,25 @@ subtitle: Van de Christelijke Leer en de mens
 
 <span class=marginnote>
   <img src="resources/0100a.jpg">
+  <em>De Christelijke leer of de leer van Christus heeft het allergrootste belang omdat zij en zij alleen ons een juist antwoord kan geven op de grote levensvragen die noodzakelijk elke mens zich eens moet stellen.</em>
   <img src="resources/0100b.jpg">
+  <em>Deze zaak is zo belangrijk dat zij het voorwerp van gelijk welke andere wetenschap ver overtreft, tegenover de godsdienst immers moet iedereen of hij het wil of niet stemming nemen.</em>
   <img src="resources/0100c.jpg">
+  <em>Door het geloof weten wij dat God ons goed is, vandaar dat wij naar Hem trachten door de hoop.</em>
   <img src="resources/0100d.jpg">
+  <em>De mens is een redelijk schepsel Gods door God geschapen en voortdurend in bestaan gehouden uit loutere goedheid.</em>
   <img src="resources/0100e.jpg">
+  <em>De ziel is onstoffelijk want zij beschikt over onstoffelijke vermogens. Nu die onstoffelijke vermogens kunnen onmogelijk voortkomen van het lichaam. Zoniet ging het uitwerksel zijn oorzaak te boven.</em>
   <img src="resources/0100f.jpg">
+  <em>De menselijke ziel is niet zuiver geestelijk zoals de engel. De ziel immers is bestemd om met het lichaam te worden verenigd. Zo zegt men juist dat de ziel is de zelfstandige vorm van de mens.</em>
   <img src="resources/0100g.jpg">
+  <em>Het is een hoofdpunt in Christus' leer: na de dood leeft zowel de kwade als de goede voort, de ene in pijn en straf, de andere in geluk en beloning.</em>
   <img src="resources/0100h.jpg">
+  <em>De zucht naar voortleven, naar blijvend geluk, m.a.w. de zucht naar onsterfelijkheid die aangetroffen werd zowel bij de oudste volkeren als heden ten dage, die zucht kan niet ijdel zijn, dit ware immers tegen de wijsheid en de liefde van God.</em>
   <img src="resources/0100i.jpg">
+  <em>De ware orde is dus: weest meester over uw lichaam en weest geen slaaf, uw ziel, uw verstand moe gebieden en nooit uw lichaam of uw vlees.</em>
   <img src="resources/0100j.jpg">
+  <em>Streven naar volmaaktheid.</em>
 </span>
 V. **Allerzaligste**, dat is, meest dienstig tot het bekomen van het eeuwig geluk; want in godsdienstige zaken verstaan wij door Zaligheid het eeuwig geluk. – **Wetendheden**, d.i. kennissen.
 
