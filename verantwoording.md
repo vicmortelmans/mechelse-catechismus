@@ -18,6 +18,8 @@ Als handboek van de katholieke geloofsleer voert dit boek ons terug naar de omwe
 
 De digitale publicatie van dit onvergankelijke werk kan niet anders dan een meerwaarde betekenen, want het blikveld op de katholieke traditie is wel erg eng geworden met dat grote zwarte gat tussen de canonisatie van de Bijbel en Vaticanum II...
 
+Wie meer wil leren over de geschiedenis van de catechismussen uitgegeven in het Nederlandse taalgebied, kan verder lezen in dit [oude artikel uit 1937](https://www.dbnl.org/tekst/_ver025193701_01/_ver025193701_01_0039.php), dat eigenlijk een aanklacht is tegen het verouderde taalgebruik uit de onderhavige catechismus (dat ik voor een deel heb proberen rechtzetten) en in dit [recentere artikel van dr. Marcel Gielis](resources/artikel-dr-marcel-gielis.pdf).
+
 De kleine catechismus
 
 Deze catechismus is het grote broertje van de *"kleine catechismus"* die gebruikt werd op de lagere school. Het mag wel blijken dat de onderwijzers op de lagere school met deze 'grote' catechismus aardig wat bagage hadden om hun kinderen die 'kleine' catechismus goed uit te leggen. Anderzijds kan ik me best voorstellen dat deze rigide methode het hen moeilijk maakte om aansluiting te vinden bij de snel veranderende tijdsgeest na de oorlog. 
