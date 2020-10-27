@@ -60,6 +60,7 @@ subtitle: De Heilige Katholieke Kerk
 
 <span class=marginnote>
   <img src="resources/1200a.jpg">
+  <em>De Kerk is de 1ᵉ vergadering van genade, liefde en rechtvaardigheid.</em>
 </span>
 V. Waarin bestaat de H. Katholieke Kerk, die wij geloven de ware Kerk van Christus te zijn; of, welke kerk verstaat men door de *H. Kerk?*
 
@@ -153,6 +154,7 @@ A. Uit de woorden: **onder andere deze vier** volgt, dat er nog andere zulke ken
 
 <span class=marginnote>
   <img src="resources/1206a.jpg">
+  <em>Sommige principes van het protestantisme moeten leiden tot het omverwerpen van het hele christendom.</em>
 </span>
 V. De zin is: waarin is de Rooms-Katholieke Kerk heilig.
 
@@ -186,6 +188,7 @@ Deze dubbele eenheid moet noodzakelijk in de ware Kerk van Christus te vinden zi
 
 <span class=marginnote>
   <img src="resources/1208a.jpg">
+  <em>De heiligheid bevat ook de ware mirakelen.</em>
 </span>
 V. **Algemeen** of **katholiek** betekent *onbeperkt.*
 
@@ -229,6 +232,7 @@ Men bemerke, dat wij al deze eigendommen van de H. Kerk zo gemakkelijk kennen al
 
 <span class=marginnote>
   <img src="resources/1299a.jpg">
+  <em>Hoe beter men zijn katholicisme beleeft, hoe heiliger men wordt. Hoe beter men het protestantisme beleeft, hoe meer men ervan afwijkt.</em>
 </span>
 Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Catechismus over ieder deel?
 

@@ -49,7 +49,9 @@ subtitle: Van de Menswording van Christus
 
 <span class=marginnote>
   <img src="resources/0701a.jpg">
+  <em>Christus is de meest evenwichtige mens, zijn leer is subliem, in het Evangelie geen enkel onwaar of onredelijk woord, Hij was evenwichtig in woord en daad. Het schoonste, evenwichtigste menstype is Christus. Welnu, Christus heeft gezegd dat Hij God is, dus moet een redelijke mens Christus' godheid aannemen.</em>
   <img src="resources/0701b.jpg">
+  <em>Maria is onbevlekt ontvangen. Ze was van in haar eerste ogenblik van haar bestaan zonder erfzonde. Van toen ze in de schoot van haar moeder ontvangen werd.</em>
 </span>
 A. De tweede Persoon van de H. Drievuldigheid is **God de Zoon,** en Hij is de tweede en niet de eerste of de derde, omdat Hij, in de orde van de voortkomst, na de Vader en vóór de H. Geest staat (zie [6ᵉ v. 5ᵉ les](les-05.html#welke-is-de-eerste-persoon-van-de-heilige-drievuldigheid)); **die, mens geworden zijnde:** de menselijke natuur aangenomen hebbende en als dusdanig beschouwd, **Jezus Christus genoemd is.**
 

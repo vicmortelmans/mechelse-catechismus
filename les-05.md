@@ -48,8 +48,11 @@ subtitle: Van God de Vader almachtig en van de H. Drievuldigheid
 
 <span class=marginnote>
   <img src="resources/0500a.jpg">
+  <em>Bij God is de essentie de exessentie (wezen en bestaan) en ook dit begrip is tenslotte analogisch opgebouwd, d.i. wij gaan altijd uit van menselijke elementen die wij transponeren in het oneindige en in het bovenzinnelijke, zodanig dat we moeten zeggen: goed, machtig, ja God is dat, maar dan toch niet gelijk bij ons, wij kunnen van God alleen analogisch spreken.</em>
   <img src="resources/0500b.jpg">
+  <em>Waar er geen leven is, komt er vanzelf nooit leven, m.a.w. alle auto-genesis is vals bevonden. Dit bewijzen wij door de biologie, ondermeer door de proeven van Pasteur. Dus: het leven komt voor van iemand die het geven kan - God.</em>
   <img src="resources/0500c.jpg">
+  <em>Er moet dus een wezen zijn dat het leven bezit en kan geven.</em>
 </span>
 A. God is de **Schepper:** degene die een wezen van niet maakt, zonder voorbestaande stof, door zijn enkelen wil, — **Heer:** bezitter of eigenaar — en **Regeerder:** bestierder **van hemel en aarde:** van al wat buiten Hem bestaat, of van hemel en aarde met al wat zij bevatten, te weten: engelen, mensen, dieren, planten, zon, maan, sterren, zee enz, — **de Fontein van onze zaligheid:** de oorsprong van ons eeuwig geluk en van de hulp die wij nodig hebben om dat geluk te bekomen, — **en ons opperste Goed:** Hij zelf of het aanschouwen aanschijn aan aanschijn van zijn volmaaktheden maakt onze zaligheid of ons eeuwig geluk uit; dit aanschouwen is het grootste geluk dat de mens kan bezitten, en zelfs een gans bovennatuurlijk geluk: wij zijn er immers enkel uit loutere goedheid Gods toe geroepen.
 
@@ -65,6 +68,7 @@ Dat er een God bestaat, schepper van hemel en aarde, weten wij niet alleen door 
 
 <span class=marginnote>
   <img src="resources/0502a.jpg">
+  <em>In elk wezen stellen wij vast een graad van volmaaktheid. Die graad correspondeert met een graad van zijn. Wij stellen vast dat die graad beperkt isen dat er in de wereld een schaal van graden vast te stellen is. Welnu, die beperking is niet te verklaren uit het wezen zelf, want had het wezen die volmaaktheid uit zichzelf, dan ware die graad onbeperkt. Die graad van zijn is een medegedeelde graad, die noodzakelijk een wezen veronderstelt dat hoogtepunt en uitgangspunt van al die graden is. Dit wezen noemen wij God.</em>
 </span>
 A. **Daar is maar — één God:** een goddelijk wezen of natuur; **zó nochtans dat er drie Personen zijn:** hoewel er nochtans drie verscheidene goddelijke Personen bestaan, die dat één goddelijk wezen of natuur hebben, **te weten: de Vader, de Zoon en de H. Geest.**
 
@@ -76,9 +80,13 @@ Men bemerke wel, dat deze twee punten: *één God en drie goddelijke Personen,* 
 
 <span class=marginnote>
   <img src="resources/0598a.jpg">
+  <em>God heeft een bepaalde wereld gekozen, hierin zal A gered zijn en B verdoemd. Waarom heeft God *die* wereld gekozen? God is vrij in zijn keuze en Hij heeft die wereld gekozen, waarin de mens zijn zaligheid *vrij* kan bewerken.</em>
   <img src="resources/0598b.jpg">
+  <em>God heeft in zijn wezenheid 3 uitingen: ZIJN (Vader) - KENNIS/WOORD (Zoon) - LIEFDE (Geest).</em>
   <img src="resources/0598c.jpg">
+  <em>Kennis, wil en zijn ben *ik*, maar bij God zijn het personen en daar ligt het mysterie.</em>
   <img src="resources/0599a.jpg">
+  <em>De mystieke theologie, men verdeelt ze in twee grote onderdelen: mystiek van de minne (Hadewijch, Ruusbroek) en passiemystiek: gelijk worden met de lijdende Christus.</em>
 </span>
 A. **Omdat zij alle drij,** niet elk een verscheiden, **maar** slechts **één en hetzelfde goddelijk wezen of natuur hebben.** Deze reden is klaarblijkend: inderdaad, verscheidene mensen zijn niet *één mens,* maar *verscheidene mensen,* omdat ieder van hen zijn eigen en van de andere personen verscheidene natuur heeft; integendeel iedere goddelijke Persoon heeft geen eigeneen van de andere Personen verscheidene natuur, want zij hebben alle drie maar één en hetzelfde goddelijk wezen of natuur, en zo zijn er niet drie goden of drie goddelijke naturen, maar één God, een goddelijke natuur.
 

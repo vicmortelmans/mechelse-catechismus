@@ -72,6 +72,7 @@ Na van het gebed in ’t algemeen gesproken te hebben, zal de Catechismus, in de
 V. **Het allerbeste gebed:** het volmaaktste of volkomenste; **het allerwaardigste:** het gebed dat hoven alle andere onze achting verdient.
 <span class=marginnote>
   <img src="resources/1701a.jpg">
+  <em>In zijn bergrede had Jezus zijn leerlingen gewaarschuwd tegen het huichelachtig bidden van de farizeeërs, hij had hen doen inzien hoe dwaas de heidenen handelen die de kracht van het gebed zochten in lange, nietszeggende woorden. Terwijl Jezus zich nu in gebed bevond, sprak een van zijn leerlingen: "Heer leer ons bidden, gelijk ook Johannes dat aan zijn leerlingen heeft geleerd. Hij nu zei hun: "Zo zult ge bidden, Onze Vader,..." Matth. VI, 9.</em>
 </span>
 
 A. Het allerbeste en allerwaardigste gebed is **het Gebed des Heren of de Pater noster,** in ’t Vlaams ook *Onze Vader* genoemd. Het heet: *Gebed des Heren,* omdat het gemaakt is van Christus zelf, wie op een bijzondere wijze de naam *onze Heer* gegeven wordt ([7ᵉ les, 7ᵉ v.](les-07.html#waarom-wordt-de-zoon-meer-onze-heer-genoemd-dan-god-de-vader)); *Pater noster* (letterlijk Vader Onze), omdat het in 't Latijn, en *Onze Vader,* omdat het in 't Vlaams met die woorden begint.
@@ -99,6 +100,7 @@ A. De *Onze Vader* bevat vooreerst een korte voorrede of voorbereiding, bestaand
 
 <span class=marginnote>
   <img src="resources/1703a.jpg">
+  <em>Dit algemeen vaderschap van God over alle mensen heeft als rechtstreeks gevolg de algemene broederschap van de mensen onderling. Zodus het woord *Onze Vader* bepaalt niet alleen onze plichten tegenover God, maar zelfs tegenover onze evenmens, een fundament voor de christelijke maatschappij.</em>
 </span>
 V. **God** betekent hier, niet alleen God de Vader, maar de goddelijke natuur in de drie goddelijke Personen bestaande.
 
@@ -136,7 +138,9 @@ A. **God zelf:** de goddelijke natuur in de drie goddelijke Personen bestaande, 
 
 <span class=marginnote>
   <img src="resources/1706a.jpg">
+  <em>Het rijk Gods betekent hier vooral de H. Kerk en het genadeleven in de Kerk. Christus heeft dit rijk gesticht en zijn Apostelen, missionarissen en priesters, bijgestaan door de gelovigen, breiden dit rijk alom uit. Welnu, dit rijk op aarde wordt in het hiernamaals het rijk der hemelen genoemd.</em>
   <img src="resources/1706b.jpg">
+  <em>In de derde vraag van het Onze Vader vragen wij dat idereen God verheerlijkt door Gods wil bereidwillig te aanvaarden. De volmaaktheid hirin - een voorbeeld voor de wereld - wordt slechts gevonden in de hemel.</em>
 </span>
 A. Zeggende **geheiligd zij uw naam,** drukken wij de begeerte uit, niet dat God heilig of heiliger worde, maar wel **dat God van ons en van alle mensen:** van de gelovigen en ook van al de andere mensen van deze aarde — **moge gekend:** door de rede en het Geloof als de enige ware God moge gekend en erkend, — **gediend:** met ware onderwerping van de wil aan de rede en de Openbaring moge erkend, — en door het dadelijk erkennen van zijn opperste majesteit moge **geëerd worden.** De woorden *gediend* en *geëerd* komen dus het voorgaande *gekend* bepalen.
 
@@ -166,6 +170,7 @@ Deze derde vraag is innig met de twee eerste verbonden: het derde dat wij van no
 
 <span class=marginnote>
   <img src="resources/1709a.jpg">
+  <em>Benevens het stoffelijk brood mogen wij hier ook denken aan het geestelijk brood van de ziel. Heel juist dus komt het pater noster voor de H. Communie in de misgebeden.</em>
 </span>
 A. **Al hetgeen wij van node hebben tot kost:** om ons lichaam te spijzen, **kleren:** om ons lichaam te dekken, **gezondheid:** om deze te bewaren, als wij in goeden staat, en ze te herstellen, als wij ziek of zwak zijn, **en al andere dingen die het lichaam,** b.v. de fortuin en de voorspoed op deze wereld, **of de ziel aangaan,** zoals de heiligmakende en de dadelijke gratie, de HH. Sacramenten, de vergiffenis van de zonden, het woord Gods, enz; het tijdelijk goed nochtans alleen voor zoveel het dient tot profijt van onze zielen. Dit alles komt onder het woord *dagelijks brood,* aangezien dat wij daardoor gewoonlijk betekenen al hetgene wij meest nodig hebben.
 
@@ -185,6 +190,7 @@ Deze vraag ook komt op haar plaats: nadat wij van God de nodige middelen gevraag
 
 <span class=marginnote>
   <img src="resources/1711a.jpg">
+  <em>Het is mogelijk dat wij zwakke mensen nog geen vergiffenis geschonken hebben, maar dan vragen wij in het Onze Vader dat wij de kracht zouden hebben om vergiffenis te kunnen schenken. Zie parabel van de onbarmhartige dienstknecht, Matth. XVIII, 23-35.</em>
 </span>
 V. **Onze schuldenaren:** degenen die ons beleedigd, of ons hetzij in ons lichaam, hetzij in onze fortuin, hetzij in onze eer, hetzij in onze geestelijke goederen enig ongelijk aangedaan hebben.
 
@@ -198,6 +204,7 @@ Willen wij van God vergiffenis van onze schulden bekomen, dan moeten wij noodzak
 
 <span class=marginnote>
   <img src="resources/1712a.jpg">
+  <em>De bekoring is een noodzakelijke proef op onze getrouwheid. Telkens zelfs wanneer wij tegenover de plicht staan, is de bekoring daar, voor of tegen te kiezen.</em>
 </span>
 V. Een **bekoring** is een uitwendige of inwendige zaak die ons tot zonde beweegt of aanlokt.
 
@@ -217,6 +224,7 @@ De 6ᵉ vraag staat in nauw verband met de 5ᵉ; de bekoringen, die ons tot zond
 
 <span class=marginnote>
   <img src="resources/1713a.jpg">
+  <em>Amen: het liturgische slotwoord, door de H. Kerk toegevoegd aan de gebeden, is een Hebreeuws woord, dat kan vertaald worden: het zij zo: ainsi-soit-il.</em>
 </span>
 A. **Van alle kwaad,** zonder uitzondering, — **dat ons naar ziel of lichaam mag hinderen** ([9ᵉ v.](TODO)), en zo de tijdelijke of de eeuwige welvaart beletten: wij vragen dus in 't algemeen, verlost te zijn van al hetgeen enigszins onze zaligheid zou kunnen schaden; van hetgeen ze *rechtstreeks* zou schaden met de ziel te hinderen, of *onrechtstreeks* met het lichaam te hinderen in die zaken welke de ziel aangaan. Strikt genomen, betekent **van de kwade,** in de laatste vraag van de Onze Vader, enkel *van de duivel;* doch, aangezien dat de duivel de eerste oorsprong is van alle kwaad, zo is de bovenstaande uitlegging voor volkomen goed te houden. De hele vraag: *maar verlos ons van de kwade,* komt dus hier op uit: in plaats dat Gij, o Vader, ons in bekoring zoudt leiden, verlos ons liever van alle kwaad.
 

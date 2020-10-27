@@ -56,7 +56,10 @@ subtitle: Van de Christen mens en het Kruisteken
 
 ## Een discipel van Jezus Christus, die, gedoopt zijnde, gelooft en belijdt de zalige wet van Christus in de waarachtige Kerk tegen alle sekten
 
-<span class=marginnote><img src="resources/0201a.jpg"></span>
+<span class=marginnote>
+  <img src="resources/0201a.jpg">
+  <em>Sekten zijn gedoopten die afgescheiden leven van de kerk, 't zij als ketters of schismatieken.</em>
+</span>
 A. Een Christen mens is **een discipel:** een leerling, een navolger van Jezus Christus, die ons komen leren is al wat wij moeten weten of doen om zalig te worden: vandaar de naam van **Christenen**, die Christus’ discipelen eerst in Antiochië, weinige tijd na zijn hemelvaart, gekregen hebben.
 
 Om Christus’ discipel of om Christen te wezen, zijn er drie dingen vereist:
@@ -87,7 +90,10 @@ Het eerste moet de Christen mens op zonde doen; het tweede, uitsluitend om tot d
 
 ## Het teken van het Heilig Kruis
 
-<span class=marginnote><img src="resources/0203a.jpg"></span>
+<span class=marginnote>
+  <img src="resources/0203a.jpg">
+  <em>Het echte teken van de Christen mens is nochtans naar Christus' woord de liefde: "Hieraan zullen de mensen zien dat ge mijn leerlingen zijt: 't is dat ge elkaar bemint."</em>
+</span>
 V. Een *teken* is iets dat ons tot de kennis brengt van een andere zaak: zo is het kniebuigen een teken, vermits het ons de inwendigen eerbied van het hart te kennen geeft.
 
 A. **Het teken van het Heilig Kruis:** de afbeelding van het kruis, waar Christus op gestorven is. Christus heeft ons door zijn dood op het kruis verlost en ons de Hemel geopend, en zo is de afbeelding van zijn kruis het natuurlijk teken van ons geloof in zijn verlossingswerk.
@@ -146,7 +152,10 @@ Het *tweede deel,* te weten, onze verlossing uit de slavernij van de duivel, wor
 
 ## Van onze voorvaders tot de Apostelen toe; ja van Christus zelven, die door het Kruis de wereld verlost heeft
 
-<span class=marginnote><img src="resources/0209a.jpg"></span>
+<span class=marginnote>
+  <img src="resources/0209a.jpg">
+  <em>Naar oud Vlaams gebruik vragen de kinderen thuis een kruiske.</em>
+</span>
 A. Wij hebben het Kruisteken **van onze voorvaders tot de Apostelen toe:** wij vinden het bij al de Christenen van de voorgaande eeuwen tot aan de tijd toe van de Apostelen, die, na Christus, het Geloof alom verkondigd hebben. Het komt ons van hooger nog, **ja van Christus zelven, die door het Kruis de wereld verlost heeft:** die, door zijn dood op het kruis de wereld van de slavernij van de duivel vrijgekocht, en zo het kruis tot het natuurlijk teken van zijn discipelen achtergelaten heeft.
 
 # Wanneer behoort men meest het Kruisteken te maken?

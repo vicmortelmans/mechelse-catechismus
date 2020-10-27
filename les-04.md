@@ -51,7 +51,9 @@ subtitle: Van de H. Schrift en van de Traditiën
 
 <span class=marginnote>
   <img src="resources/0401a.jpg">
+  <em>De Schrift is Gods woord en alsdusdanig is zij de waardigste bron, maar de voornaamste bron is de kerk, omdat het de kerk is die in laatste instantie de verklaring moet geven van de Schrift.</em>
   <img src="resources/0401b.jpg">
+  <em>De kerk heeft de canon samengebracht en had dit niet geweest, de protestanten hadden waarschijnlijk heel andere boeken genomen.</em>
 </span>
 V. De zin is: waaruit neemt de H. Kerk de leer, die zij ons als de goddelijke Openbaring voorhoudt: is het uit nieuwe goddelijke openbaringen, ofwel uit eenige bewijs of bewaarstukken van de gedane Openbaring?
 
@@ -98,7 +100,10 @@ Hier nochtans is een uitzondering te maken voor die overzettingen van de Bijbel 
 
 ## Neen; maar zij is zeer duister in vele plaatsen, en daarom is het zeer zorglijk voor ongeleerde mensen die te lezen
 
-<span class=marginnote><img src="resources/0406a.jpg"></span>
+<span class=marginnote>
+  <img src="resources/0406a.jpg">
+  <em>Gods woord moet de klaarheid zelf wezen. Rechtstreeks wel, maar onrechtstreeks heeft God gewerkt door mensen en deze waren soms heel onvolmaakt.</em>
+</span>
 A. **Neen; maar zij is zeer duister,** zeer moeilijk om verstaan in **vele plaatsen,** en de oorzaak daarvan ligt in de verhevene waarheden die zij bevat, alsmede in onze onvolmaakte kennis van de talen, waar de Bijbel in geschreven is, en van de oude gebruiken die daarin vermeld worden; **en daarom is het zeer zorglijk,** zeer gevaarlijk **die te lezen voor ongeleerde mensen:** voor personen die in het Geloof, in de geschiedenis en in de taalkunde weinig ervaren zijn. 't Is om reden van de duisterheid van de H. Schrift en het daaruit voortvloeiend gevaar, dat de H. Kerk aan de gemeene lieden verboden heeft ze te lezen in de moederlijke taal.
 
 # Moeten wij iets geloven, dat in de Bijbel niet geschreven is?

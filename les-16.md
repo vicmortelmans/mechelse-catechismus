@@ -52,8 +52,11 @@ Hoe dit tweede deel met het eerste verbonden is, hebben wij reeds gezegd in de [
 
 <span class=marginnote>
   <img src="resources/1600a.jpg">
+  <em>Het voorwerp van ons geloof is God, de opperste waarheid, het opperste goed; het voorwerp van onze hoop is God, ons goed. Daaruit volgt de beweegreden van onze hoop.</em>
   <img src="resources/1601a.jpg">
+  <em>Een deugd hebt ge wel of niet. De akte van hoop kunt ge ook half en half hebben.</em>
   <img src="resources/1601b.jpg">
+  <em>Wij moeten de middelen die God ons tot bereiking van het einddoel gaf, ijverig en standvastig benutten.</em>
 </span>
 V. Het geldt hier de *deugd* en niet enkel de *akte* van Hoop; de redenen zijn gegeven bij de [1ᵉ vraag van de 3ᵉ les](les-03.html#wat-is-het-geloof).
 
@@ -92,6 +95,7 @@ A. De Catechismus duidt *drie* middelen aan:
 
 <span class=marginnote>
   <img src="resources/1603a.jpg">
+  <em>Wij onderscheiden het inwendig gebed alleen ook nog genoemd meditatie. Het uitwendig gebed alleen bestaat niet.</em>
 </span>
 A. Een gebed, in 't algemeen, is een samenspraak waardoor wij iemand te kennen geven, wat wij van hem begeren.
 
@@ -119,6 +123,7 @@ A. **Ja,** het is voordeliger om *drie* redenen:
 
 <span class=marginnote>
   <img src="resources/1605a.jpg">
+  <em>Praktisch zo bidden: Wij vragen ook aan God tijdelijke goederen voor zoveel die ons zalig zijn - en daarna alles overlaten aan de Goddelijke voorzienigheid.</em>
 </span>
 V. **Behoort men alle dingen** (de geestelijke en de tijdelijke) op dezelfde wijze **te begeren in het gebed?** — *Geestelijke* zaken zijn die welke rechtstreeks het eeuwig geluk van de zielen aangaan, zoals Gods gratie, vermindering van de bekoringen, vergiffenis van de zonden, en deze worden zo genoemd, omdat de ziel, tot wier eeuwige zaligheid zij rechtstreeks dienen, een geest is. *Tijdelijke* zaken heet men die welke rechtstreeks voor ons sterfelijk leven hier op aarde dienen, zoals spijzen, kleren, goederen, wetenschappelijke kennissen; zij dragen dezen naam, omdat zij slechts een *tijdelijk* geluk verschaffen.
 
@@ -140,7 +145,9 @@ A. Dat velen bidden en niet verkrijgen wat zij vragen, dit kan uit *twee* oorzak
 
 <span class=marginnote>
   <img src="resources/1607a.jpg">
+  <em>Voor wie moeten wij bidden? Voor alle mensen die tot de zaligheid kunnen geraken. Nochtans wij kunnen onderscheid maken en eerst en vooral bidden - voor onszelf, voor onze ouders, voor onze verwanten en vrienden, - voor de noden en de belangen van de heilige Kerk (het gebed voor de katholieke actie, missie-actie), - voor de belngen van eigen land en eigen volk.</em>
   <img src="resources/1607b.jpg">
+  <em>Het gebed is noodzakelijk, want Jezus heeft het zelf bevolen.</em>
 </span>
 A. Wij moeten bidden:
 

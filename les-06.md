@@ -48,8 +48,11 @@ subtitle: Van de Schepping van de wereld
 
 <span class=marginnote>
   <img src="resources/0600a.jpg">
+  <em>Bij Scheppen is alles aanwezig, behalve de stof. In God is de essentie van alles aanwezig, dus haalt God alle dingen uit zich.</em>
   <img src="resources/0600b.jpg">
+  <em>God heeft een zekere wereld gekozen en hierin laat hij de 2ᵉ oorzaken hun gang gaan; houdt Hij dit voor een speciaal geval tegen, dan doet hij een mirakel.</em>
   <img src="resources/0600c.jpg">
+  <em>De mens is door God uit het niet-zijn getrokken en gaat hoger en hoger op in het zijn en in de Hemel wordt hij gestabiliseerd in het ZIJN. Een zondaar kan niet volledig in het niets terugzakken: de HEL is de limiet van het niet-zijn.</em>
 </span>
 A. Er zijn dus drie dingen vereist om almachtig te zijn:
 
@@ -77,6 +80,7 @@ God heeft zijn almachtigheid in het scheppen van hemel en aarde waarlijk getoond
 
 <span class=marginnote>
   <img src="resources/0603a.jpg">
+  <em>Ethnologie: studie over voor-historische volkeren en de thans nog bestaande primitieven. Hoe primitiever de materiële beschaving, hoe zuiverder de godsgedachten, hoe zuiverder de zeden. Uitzonderingen op die regel worden gewoonlijk verklaard door contact met zogezegd meer beschaafde volkeren.</em>
 </span>
 V. De zin is: waaruit heeft God de eerste mensen gemaakt, van welke het hele mensdom voortkomt: heeft Hij ze onmiddellijk van niet gemaakt, ofwel uit een reeds geschapene stof, en, zo ja, uit welke stof? — Men bemerke hier wel dat de mens gemaakt is door God, die hemel en aarde geschapen heeft met al wat er in is; dat hij bijgevolg noch uit zijn eigen bestaat, noch van eenig ander schepsel van de aarde of van de hemel voortkomt.
 
@@ -98,7 +102,9 @@ Deze buitengewone gaven ontvingen zij niet alleen voor zich zelven, maar voor ge
 
 <span class=marginnote>
   <img src="resources/0604a.jpg">
+  <em>Door de rede alleen kennen wij het bestaan van mineralen, planten, dieren, mens, God. Volgens de Schrift is er nog een schakel tekort, d.i. de engelen. Dit is ook volgens ons verstand juist. God enkel geest (geen stof, geen potentie). Mens geest + stof (akt en potentie). De ontbrekende sport: geen stof, maar akt en potentie.</em>
   <img src="resources/0604b.jpg">
+  <em>De engelen zouden het raadsbesluit van God willen kennen over de menswording van Christus.</em>
 </span>
 V. De Engelen hebben geen lichaam, maar zijn *enkele geesten* met rede en verstand begaafd. Het woord *engel* betekent eigenlijk *bode, afgezant.*
 
@@ -112,6 +118,7 @@ Het *getal* van de Engelen is zeer groot. Zij worden gewoonlijk verdeeld in *neg
 
 <span class=marginnote>
   <img src="resources/0605a.jpg">
+  <em>God heeft de mens geschapen, de ziel rechtstreeks, het lichaam onrechtstreeks. De Bijbel verzet zich uitdrukkelijk tegen de dierlijke afstamming van de ziel, dit mogen we echter niet zeggen van het lichaam.</em>
 </span>
 A. **De ongehoorzame en hoogmoedige:** de Engelen die, gedurende hunn proeftijd, met zich aan God niet te willen onderwerpen, in hoogmoedigheid, en van daar in ongehoorzaamheid vielen, **zijn daaruit gedreven in de afgrond van de hel:** zijn, tot straf van hun zonde uit de hemel gejaagd, en in de afgrond geworpen van de plaats, waar God de verdoemden eeuwig straft. Van toen af genieten de getrouwe Engelen, tot loon van hun deugd, het geluk van God voor eeuwig te mogen aanschouwen.
 

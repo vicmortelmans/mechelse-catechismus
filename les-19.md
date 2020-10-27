@@ -49,7 +49,9 @@ In de voorgaande les heeft de Catechismus gesproken van een bijzonder gebed tot 
 
 <span class=marginnote>
   <img src="resources/1901a.jpg">
+  <em>Als medeverlosseres heeft Maria moeten deelnemen ook in Christus' volkomen zegepraal over de dood. Ook hierin, de opstanding uit de dood en de daaropvolgende verheerlijking, is het lot van de zoon en dit van de moeder, van de verlosser en van de medeverlosseres, van de nieuwe Adam en van de nieuwe Eva, onafscheidbaar geweest.</em>
   <img src="resources/1901b.jpg">
+  <em>Maria was ongeveer 72 jaar. Maria's lichaam werd begraven, het graf werd leeg gevonden als men het opende met een sterke rozengeur.</em>
   <img src="resources/1901c.jpg">
 </span>
 V. Waar is Maria, de Moeder van Christus, sedert haar dood?
@@ -91,6 +93,7 @@ A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben,
 
 <span class=marginnote>
   <img src="resources/1905a.jpg">
+  <em>Wat zijn bedevaarten</em>
   <img src="resources/1905b.jpg">
 </span>
 A. **Voegende bij het gebed enige goede werken — tot haar eer,** dat is, tot voldoening van haar begeerte, de enige die zij heeft, van de geboden en raden Gods te zien volgen; dit inzicht immers strekt tot haar eer, daar men daardoor haar heiligheid en verhevenheid erkent en zich aan haar onderwerpt. Goede werken die men ter ere van de H. Maagd kan doen, zijn b.v. **vasten,** waaronder men niet uitsluitend het eigenlijk vasten, gelijk de H. Kerk het voorschrijft, maar ook alle versterving te verstaan heeft die men zich vrijwillig oplegt, of ten minste goedwillig aanvaardt; — **bedevaarten:** heilige reizen tot afgelegen plaatsen, waar God, de H. Maagd of de Heiligen op een bijzondere wijze geëerd worden; — **en andere diergelijke,** zoals te biechten gaan, ter ere van de H. Maagd licht ontsteken, en zelfs al onze goede en betamelijke werken, als wij ze doen met het inzicht van de wil Gods te volbrengen.
@@ -129,6 +132,8 @@ A. **Geenszins:** het bevat geen superstitie, — **het wordt genomen,** niet al
 
 <span class=marginnote>
   <img src="resources/1999a.jpg">
+  <em>Een heel bijzondere godsvrucht die in de laatste jaren meer om meer verspreid werd, is *De Ware Godsvrucht* volgens de zalige Grignion de Montfort. Hij is het die in belangrijke schriften vooral de volgende leer heeft verspreid: alles komt ons van Jezus door Maria, dus hoeven wij naar Jezus te gaan door Maria.</em>
+  <em>Hoe zal de onderwijzer de godsvrucht tot Maria bij de kinderen inprenten? 1° Dikwijls de gebedsintentie tot Maria aanbevelen; 2° De devotie van de 3 weesgegroeten onder de kinderen verspreiden om de zuiverheid door Maria te bewaren of te bekomen.</em>
 </span>
 Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Wat onderzoekt de Catechismus in ieder van die delen ?
 
