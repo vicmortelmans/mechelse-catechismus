@@ -1,5 +1,6 @@
 header, footer {
   text-align: center;
+  width: 55%;
 }
 td {
   vertical-align: middle;
@@ -24,6 +25,7 @@ p.top-line-2 {
   margin-top: 0rem;
   margin-bottom: 0rem;
   line-height: 1.4rem;
+  letter-spacing: 0.15rem;
 }
 p.top-line-3 {
   text-align: center;
@@ -39,6 +41,7 @@ p.top-line-4 {
   margin-top: 0rem;
   margin-bottom: 5rem;
   line-height: 1.4rem;
+  letter-spacing: 0.15rem;
 }
 p.part {
   text-align: center;
@@ -63,6 +66,7 @@ h1 {
   width: 55%;
   font-size: 2rem;
   font-style: italic;
+  letter-spacing: 0.03125em;
 }
 h2 {
   width: 55%;
@@ -70,6 +74,14 @@ h2 {
   font-style: normal;
   margin-top: 1rem;
   margin-bottom: 2rem;
+  letter-spacing: 0.03125em;
+}
+strong {
+  -webkit-text-stroke: thin;
+  letter-spacing: 0.0625em;
+}
+p > em {
+  letter-spacing: 0.03125em;
 }
 img {
   transition: all .3s ease-in;
