@@ -280,3 +280,9 @@
 :%s/schoone/schone/g
 :%s/ zweerd/ zwaard/g
 :%s/superstitie/bijgeloof/g
+:%s/beleedigd/beledigd/g
+:%s/heilighschenderij/heiligschennis/g
+:%s/godvreezend/godvrezend/g
+:%s/ dezen / deze /g
+:%s/i\. a\. w\./i.a.w./g
+:%s/blasphem/blasfem/g

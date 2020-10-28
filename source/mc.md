@@ -1,215 +1,4 @@
 DERDE DEEL
-
-
-DRIJ EN TWINTIGSTE LES
-
-Van het Tweede Gebod
-
-1e Blasphemee- | V. 2, In wat manier geschiedt blas-
-
-ren, phemie?
-— /V. 3. Wat is/V. 5. Wie zweert
-= eed doen of} met goed oor-
-= zweren? deel?
-> V. 6. Wie zijn ze Di 2e Lichtvaardig die zweren te-
-
-SV, 4 Is het altijd?
-kwaad en verboden te zwe=
-ren ?
-
-zweren, gen de rechtvaardigheid?
-
-V. 7. Wat is zwe-
-
-\ ren tegen de waarheid?
-
-3e Breken ao} 8, Is het ook goed en deugdelijk
-
-er
-
-Dee
-
-aangedaan wordt door
-
-
-
-
-
-Dit Gebod verbiedt alle oneer die de goddelijken naam
-
-IL IJdellijk en zweert noch en spot.
-
-belofte. $ God of zijn Heiligen iets te be-
-‘loven?
-1. V. Wat verbiedt God in het Tweede Gebod?
-Á. Alle oneer, die de goddelijken naam aangedaan
-
-wordt door blasphemeren, lichtvaardig zweren,
-of breken van belofte.
-
-A. In het Tweede Gebo verbiedt God én 't algemeen, alle oneer: alle verachting en minachting, — die de goddelijken naam aangedaan wordt, waarmee God zelf of de goâdelijke volmaaktheid (zie 17e les. vr, 5) beleedigd worden;
-— oneer welke geschiedt: 19 door blasphemeren, 2° door lichtvaardig zweren of 3° door breken van belofte.
-
-Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten jegens een overste, na die van hem te erkennen, op hem betrouwen te hebben en hem te willen dienen. ongetwijfeld is, hem niet te onteren. Eenen overste vernederdten is grotef kwaad, dan hem de verschuldigden dienst te weigeren,
-— 186 —
-2. V. In wat manier geschiedt blasphemie?
-A. Als men God of zijn Heiligen iets toeschrijft dat
-
-tegen hun eer is, of iets loochent dat hun toekomt, of van dezelve spotsgewijs spreekt.
-
-V. Blasphemie betekent letterlijk Kwaadsprekerij;
-blasphemeren is kwaad van iemand zeggen.
-
-A. De blasphemie geschiedt op deze drie manieren:
-
-1° Als men God of zijn Heiligen — iets toeschrijft dat tegen hun eer is: een hoedanigheid of een werk toekent dat strijdt met hun volmaaktheden, of iets wenscht dat met hun volmaaktheden niet overeenstemt.
-Op deze wijze blasphemeert men met b.v. te zeggen, dat God te veel straft, dat de H. Maagd kan zondigen, of met te wensen, dat God niet zou bestaan, dat de Heiligen de hemel zouden verliezen, — Men bemerke dat er hier spraak is van de oneer aan de Heiligen aangedaan, alhoewel het Tweede Gebod slechts handelt over onze plichten jegens God. De reden daarvan is, dat men, met de Heiligen oneer aan te doen, God zelf onteert, vermits zij zijn vrienden en hovelingen zijn.
-
-2e Of iets loochent dat hun toekomt: als men aan God of aan zijn Heiligen een hoedanigheid of een daad ontkent, die hun waarlijk toebehoort. Op deze wijze blasphemeert men met b. v‚ te zeggen dat God niet almachtig is, of dat Hij de wereld niet geschapen heeft, dat de Heiligen op ons niet denken.
-
-3e Of van dezelve spotsgewijs spreekt: of als men zonder hun iets toe te schrijven dat tegen hun eer is, of hun iets te loochenen dat hun toekomt, van hen „zó
-spreekt of te hun opzichte 266 handelt, dat het klaar blijkt, hoe men ze misacht. Zo blasphemeert hij b.v. die God en de Heiligen namen geeft. die men slechts aan verachtelijke en slechte personen toepast.
-
-Men bemerke dat de blasphemie niet uitsluitend door woorden of tekenen, maar ook nog door enkele gedachten kan geschieden.
-
-De blasphemie wordt dikwijls godslastering, en die blasphe-
-— [87 —
-
-mie, waardoor wij God of de Heiligen kwaad wensen, wordt gewoonlijk vloek genoemd.
-
-De heiligschenderij is allernauwst met de blasphemie verwantschapt. Gelijk de blasphemie bestaat in God te onteren roet van Hem kwaad te spreken, zo bestaat de heiligschenderij in God oneer aan te doen met heilige zaken, personen of plaatsen onwaardig te behandelen of te onteren.
-
-De H. Geschiedenis leert ons met welke schrikkelijke straffen God in bet Oud Testament de godslasteraars geslagen heeft. Sennacherib, Koning van Assyrië, die door zijn veldoverste Rabsaces de Allerhoogste gelasterd had, verloor, door de hand van een Engel van de hemel, 185,000 man,
-en werd door zijn eigen zonen vermoord; Holofernes, veldoverste van Nabuchodonosor, die zijn koning als God wilde doen erkennen, werd het hoofd afgehouwen door een joodse vrouw Judith genoemd. — De straffen van de heiligschenders zijn niet minder geweest: Balthazar, Koning van Babylonië, die met zijn dischgenooten wijn dronk uit de heilige vaten van de tempel van Jeruzalem, verloor in dezelfde nacht zijn leven en zijn kroon; en de boze kinderen, die Elisëus beschimpten, werden, ten getalle van twee en veertig,
-door twee beren verscheurd.
-
-8. V. Watts eed doen of zweren?
-
-A. God of iets, dat God merkelijk aangaat, nemen tot getuige van hetgene men zegt.
-
-A. Eed doen of zweren is — God of iets dat God merkelijk aangaat: God zelf of alle andere zaken, die met God in een bijzonder innige verbintenis staan, zoals de Engelen en Heiligen, die zijn beste vrienden zijn: de H. Schrift en de HH. Sacramenten, die tot zijn kostelijkste gaven behoren: de hemel, de aarde, de zee, die zijn grootste natuurlijke werken uitmaken, — nemen tot getuige van hetgene men zegt, d.i. vragen om verslag te doen over hetgene wij bevestigen, opdat wij zouden kunnen bewijzen dat, hetgene wij zeggen, zeker en onbetwistelijk waar is.
-
-Als wij, indeneed,'teenof ‘tander wezen, dat God merkelijk
-— 188 —
-
-aangaat tot getuige roepen, verstaan wij, ouder dit wezen,
-God zelf.
-
-De eed dient allerbest om de waarheid van hetgene wij zeggen te bevestigen, aangezien dat God de opperste waarheid isen alle macht heeft om de waarheid te verklaren en de bedriegers te straffen, en een godvreezende mens het niet zou durven wagen God tot getuige van de valsheid te roepen,
-
-4. V. Is het altijd kwaad en verboden te zweren?
-
-A. Neen; want het is deugdelijk, als de eed geschiedt met goed oordeel, rechtvaardigheid en waarheid;
-maar het is zonde, als er één van deze voorwaarden ontbreekt.
-
-A. Neen, het is niet altijd kwaad en verboden te zweren;
-want het is deugdelijk: het is een goed werk, als de eed geschiedt met deze drie voorwaarden: l° met goed oordeel, 2° rechtvaardigheid, 3° en waarheid; maar het is zonde, of de eed is lichtvaardig, d.i. vermetel, tegen de rede, tegen de goede orde, als er één van deze voorwaarden ontbreekt: dus, opdat de eed slecht weze, moeten niet de drie voorwaarden, maar slechts de een of de andere ontbreken.
-
-5. V. Wie zweert met goed oordeel?
-A. Die niet zweert dan uit nood en goede reden.
-
-A. Men zweert uit nood, als men het doet, 19 om de wetten van de H. Kerk of van de staat, die de eed vereisen, te volbrengen, of 2e om een grote schade te vermijden, een gewichtig geschil te eindigen, een belangrijke waarheid te doen aanvaarden, en daartoe geen anderen middel heeft dan de eed.
-
-Men zweert uit goede reden, als de eed, die men doet,
-zoo niet volstrekt noodzakelijk om een grote schade te ontgaan, dan toch zeer dienstig is om een gewichtig voordeel te verschaffen, of een nadeel van enige aangelegenheid te verwijderen.
-— 189 —
-
-Het blijkt heel klaar, dat een eed niet anders mag geschieden dan uit nood en goede reden, aangezien dat God te groot en te waardig is, om voor een kleine zaak tot getuige geroepen te worden.
-
-De eed van Esaü, waardoor hij, om een spijs, zijn recht verkocht van eerstgeboren, werd voorzeker zonder nood of goede reden gedaan.
-
-6. V. Wie zijn ze, die zweren tegen de rechtvaardigheid?
-
-A. Die met eed bevestigen te doen hetgene kwaad en verboden is; en deze eed mag niet gehouden worden.
-
-A. Die met eed bevestigen te doen, d. i, die God tot getuige roepende van hun getrouwheid in het uitvoeren van hun voornemen of van hun belofte, verzekeren dat zij iets, door hen besloten of beloofd, zullen doen, — dat kwaad en verboden is: hetgene zonde is, of zelfs, wanneer er spraak is van iets te doen voor God, dat beter niet gedaan dan gedaan wordt; — en deze eed mag niet gehouden worden: en men mag zich niet aanzien als door dezen eed verplicht zijnde. Zo b.v. doet men eed tegen de rechtvaardigheid,
-als men zweert dat men zijn vijand zal haten, want de haat is zonde; — of als men zweert, dat men maar juist ééns
-’s jaars zal te biecht gaan; want dit is een zaak die God rechtstreeks aangaat en beter niet gedaan dan gedaan wordt.
-
-Het is klaarblijkend dat een eed tegen de rechtvaardigheid zonde is, daar wij God onteren met Hem tot getuige te roepen van onze getrouwheid in het uitvoeren van een voornemen of van een belofte, die een zonde, of ten miaste zulk een werk dat God aangaat en beter niet gedaan dan gedaan wordt, als voorwerp hebben. Dan, daar niemand kan verplicht zijn een zonde te bedrijven, of iets voor God te doen dat Hij liever niet gedaan heeft, zo mag zulke eed niet gehouden worden.
-
-Deze leer legt ons voor ogen, hoe Herodes die gezworen had aan Salome, de dochter van Herodias, alles
-— 190 —
-
-te geven wat zij hem zou vragen, dezen eed op gener wijze mocht houden, als de jonge prinses op ’t verzoek van haar moeder het hoofd van Joannes de Dooper kwam eisen.
-
-1. V. Watis zweren tegen de waarheid?
-
-A. Iets met eed bevestigen dat men met zekerheid weet of meent vals te wezen, of ook waar men aan twijfelt.
-
-A. Er zijn drie manieren van te zweren tegen de waarheid:
-men kan — iets met eed bevestigen: iets op eed als waar verklaren.
-
-1e dat men met zekerheid weet vals te wezen: dat inder daad vals is en men weet vals te zijn,
-
-2e dat men meent vals te wezen, i. a. w. dat men voor vals houdt, alhoewel het niet vals is,
-
-30 of ook waar men aan twijfelt, d.i. dat men als wezenlijk twijfelachtig aanschouwt.
-
-Iedereen begrijpt dat een eed tegen de waarheid noodzakelijk zonde is en zelfs doodzonde; want wie zulk een eed doet, die oordeelt metterdaad, dat God, de Alwetende, de waarheid niet kent, of dat Hij, de Heiligheid zelve, de leugen bemint en de valsheid kan voorstaan, of eindelijk dat Hij,
-de Rechtvaardige en Almachtige, de valsn eed niet wil of niet kan straffen. Nu, wie zo oordeelt, doet God voorzeker grote oneer aan en zondigt bijgevolg ernstig tegen het tweede Gebod.
-
-8. V. Is het ook goed en deugdelijk God of zijn Heiligen iets te beloven?
-
-A. Ja, als hetgene men belooft uit zich zelf goed is, en als men van zin is het te volbrengen.
-
-V.Is het goed en deugdelijk — God of zijn Heiligen,
-d. i, aan God alleen, of aan God en tevens ter eer van de Heiligen, — iets te beloven, d.i. niet uitsluitend het voornemen
-— 191 —
-
-te maken iets voor God of zijn Heiligen te doen, maar zich daartoe op zonde te verplichten?
-
-Hier kan geen spraak zijn van beloften, die niet aan God geschieden; want het breken van zulke beloften kan geen zonde zijn tegen het Tweede Gebod, dat enkel van de eer Gods handelt,
-
-A. Ja, dit is goed en deugdelijk, als deze twee voorwaarden vervuld zijn: a) als hetgene men belooft uit zich zelf goed is, d.i. als hetgene men belooft te doen, geen zonde uitmaakt, mogelijk is en beter gedaan dan niet gedaan wordt;
-want ware het anders, God zou die belofte niet aannemen; —
-en b) als men van zin is het te volbrengen, d. í. als men wezenlijk de wil heeft van de belofte uit te voeren; want anders zou men met God de spot drijven,
-
-Als deze beide voorwaarden vervuld zijn, is de belofte een godsdienstig werk, aangezien dat men aan God een bijzonder teken van onderwerping geeft, met zich vrijwillig een nieuwe plicht jegens Hem op te leggen.
-
-De verplichting van een belofte houdt op, wanneer de beloofde zaak onmogelijk, onverschillig of door het gebod eens oversten of uit een andere oorzaak ongeoorloofd wordt; ook nog,
-als men van een gemachtigden biechtvader of kerkoverste,
-om een goede reden, dispensatie ontvangen heeft. — Soms wordt in de belofte slechts ten dele gedispenseerd, en soms ook wordt zij enkel in een ander werk veranderd.
-
-Degenen die geheel van een overheid afhangen, zoals kloosterlingen van hun oversten of jonge kinderen van hun ouders, kunnen geen geldige beloften doen, tenzij met de voorwaarde: als mijne oversten toestemmen; en daarom bestaan hun beloften niet, als hun deze toestemming geweigerd wordt,
-
-Eenieder heeft de macht zijn belofte te veranderen in een betere, d. í, in een werk dat merkelijk en zichtbaar beter is.
-
-VRAGEN.
-
-Welk is het voorwerp van deze les? — Hoe wordt zij verdeeld? —
-Wat onderzoekt de Catechismus in ieder van deze delen?
-
-1. Zeg, met de woorden van de Catechismus, wat het Tweede Gebod in ’t algemeen verbiedt. — Verklaar deze woorden. — Op
-
-18
-— 192 —
-
-‘hoeveel en op welke manieren wordt de goddelijken naam oneer aangedaan? — Toon dat het Tweede Gebod een gepaste plaats bekleedt onder de Tien Geboden.
-
-2. Welk is de letterlijke betekenis van het woord blasphemie? —
-In hoeveel en in welke manieren geschiedt, volgens de Catechismus, de blasphemie? — Leg die manieren uit en geef een voorbeeld van ieder. — Hoe maakt de oneer, de Heiligen aangedaan,
-eene zonde uit tegen het Tweede Gebod? — Geschiedt de blasphemie uitsluitend door woorden? — Hoe wordt de zonde van blasphemie nog genoemd? — Welke zonde is met de blasphemie allernauwst verwantschapt, en waarin bestaat deze zonde?
-
-3. Wat is iemand tot getuige roepen? — Zeg, met de woorden van de Catechismus, wie men in de eed tot getuige roept en waartoe men dit doet. — Leg die woorden uit. — Hoe roept men in de eed soms tot getuige iets dat God merkelijk aangaat? — Verklaar hoe de eed allerbest dient om de waarheid te bevestigen van hetgene men zegt.
-
-4. Zeg of de eed altijd zonde is of niet. — Hoeveel en welke voorwaarden zijn vereist, opdat hij zou goed zijn? — Wanneer is hij dus slecht? — Wat betekent de uitdrukking Uchtvaardig zweren?
-
-5. Zeg, met de woorden van de Catechismus, in welke gevallen de eed geschiedt met goed oordeel. — Leg ze uit. — Toon dat de eed noodzakelijk slecht is, als hij buiten deze gevallen geschiedt.
-
-6. Zeg, met de woorden van de Catechismus, waarin het zweren tegen de rechtvaardigheid bestaat. — Wat betekenen de woorden:
-die met eed bevestigen te doen? — Verklaar de woorden: dat kwaad en verboden is. — Verplicht deze eed te doen hetgene men gezworen heeft? — Geef voorbeelden van eeden tegen de rechtvaardigheid.
-— Bewijs dat een eed die tegen de rechtvaardigheid strijdt, altijd zonde is en dat hij niet mag gehouden worden.
-
-7. Zeg, met de woorden van de Catechismus, op hoeveel wijzen men kan zweren tegen de waarheid. — Leg ze uit. — Welke zonde is de eed tegen de waarheid? — Bewijs dit.
-
-8. Wat verstaat men hier door beloven? — Aan wie geschieden de beloften waarvan er hier spraak is? — Bewijs dat er hier van deze beloften alleen gesproken wordt, — Hoeveel en welke voorwaarden vereist de Catechismus, opdat een belofte goed en deugdelijk zou wezen? — Leg ze uit en geef er de reden van. —
-Waarom is de belofte, als die voorwaarden vervuld zijn, een godsdienstig werk? — Hoe houdt de verplichting van een belofte op? —
-Wat iser te bemerken nopens de geldigheid van de beloften van degenen, wier wil van oversten geheel afhangt? — Hoe mag eenieder zijn belofte veranderen ?
-XII. Viert de Meiligdagen allegader.
-
-— 193 —
-
 VIER EN TWINTIGSTE LES.
 
 Van het Derde en Vierde Gebod.
@@ -255,7 +44,7 @@ A. De Zondagen en andere Feestdagen, die van de H. Kerk ingesteld zijn.
 
 A. Twee soorten van Heiligdagen dus moeten wij vieren:
 
-Ie De Zondagen d.i. al de Zondagen van het jaar. — De Zondag is de eerste dag van de week. De H. Kerk heeft in de Nieuwe Wet, dezen dag aan God bijzonder toegewijd, in plaats van de Sabbatdag (rustdag), die, volgens Gods gebod,
+Ie De Zondagen d.i. al de Zondagen van het jaar. — De Zondag is de eerste dag van de week. De H. Kerk heeft in de Nieuwe Wet, deze dag aan God bijzonder toegewijd, in plaats van de Sabbatdag (rustdag), die, volgens Gods gebod,
 onder de Oude Wet gevierd werd. Hoewel de Tien Geboden,
 als natuurwetten, onveranderlijk zijn, kon de H. Kerk nochtans die verandering doen, omdat het Derde Gebod tot de onveranderlijke natuurwet wel behoort of door de rede wordt voorgeschreven, voor zoveel het oplegt dikwijls in 't leven een zekeren tijd aan God bijzonder toe te wijden;
 maar niet voor zoveel het de dag bepaalt waarop die bijzondere verering moet plaats hebben. Onder de Oude Wet was de Sabbatdag ingesteld ter gedachtenis van de voleinding van de schepping, en hij isin de Zondag door de H. Kerk veranderd ter herinnering van de verrijzenis van Christus en van de nederdaling van de H. Geest, door welke gebeurtenissen het mensdom tot het bovennatuurlijk leven van de gratie is herschapen.
@@ -293,7 +82,7 @@ A. Drij soorten van werken worden meest verboden:
 
 1° Slafelijke ambachten en werken: dat zijn alle werken waarin het lichaam meer deel heeft dan de geest en die gewoonlijk door dagloners, dienaars en ambachtslieden verricht worden, zoals ploegen, zaaien, maaien, naaien, enz.
 Vrije werken integendeel zijn al dezulke, waarin de geest meer deel heeft dan het lichaam, zoals lezen, schrijven,
-studeren, onderwijs geven in wetenschappen en schoone kunsten, spelen en vele andere. De eerste worden slafelijke werken genoemd, omdat zij eertijds door slaven; de laatste,
+studeren, onderwijs geven in wetenschappen en schone kunsten, spelen en vele andere. De eerste worden slafelijke werken genoemd, omdat zij eertijds door slaven; de laatste,
 vrije werken, omdat zij eertijds door vrije mensen verricht werden.
 — 196 —
 
@@ -362,7 +151,7 @@ gen en veel voor hen bidden, en ce) hun gebreken met liefde verdragen.
 
 A. De Catechismus leert ons hier twee dingen: 1° dat wij,
 in talgemeen, alles moeten doen wat onze ouders gebieden,
-en 29 dat er aan dezen regel uitsluitend uitzondering te maken is, als de gebodene zaak kwaad is en tegen God strijdt:
+en 29 dat er aan deze regel uitsluitend uitzondering te maken is, als de gebodene zaak kwaad is en tegen God strijdt:
 zonde is, of ten minste tegen God strijdt met zijn raden tegen te spreken of met de palen te buiten te gaan, die God aan de macht van de ouders en van de oversten gesteld heeft.
 
 8. V. Wat belooft God aan de kinderen die hun ouders eren?
@@ -500,7 +289,7 @@ Het Vijfde Gebod raakt niet enkel het lichamelijk, maar
 — 205 —
 
 ook het bovennatuurlijk leven, dat in de heiligmakende gratie bestaat. Dit bovennatuurlijk leven wordt verloren door de doodzonde en gekrenkt door de dagelijkse zonde, en zo strijden alle zonden op een algemene wijze tegen het Vijfde Gebod; iedere doodzonde is een zelfmoord; iedere dagelijkse zonde, een zelfverhindering in het bovennatuurlijk leven. Hier echter valt op te merken dat, door de zonde,
-elkeen enkel zich zelf en niet enige andere mensen kan treffen, tenzij met daartoe raad of hulp of ten minste gelegenheid te verschaffen, of i. a. w. met verergernis of schandaal te geven.
+elkeen enkel zich zelf en niet enige andere mensen kan treffen, tenzij met daartoe raad of hulp of ten minste gelegenheid te verschaffen, of i.a.w. met verergernis of schandaal te geven.
 
 De verergernis bestaat eigenlijk in een woord, werk of verzuimenis, die minder goed is, en een ander tot val brengt, —
 Dus is niet vereist dat hetgeen men doet uit zich zelf zonde zij; het is genoeg dat het minder goed weze, omdat het de naaste tot zonde leidt.
@@ -519,9 +308,9 @@ A. Ja,ook degenen die iemand vermaledijden, kwaad
 wensen, gramschap of haat en nijd in het hart dragen.
 
 V. De zin van de vraag is: misdoen tegen het Vijfde gebod al degenen die niet uitsluitend met de wil, met de begeerte,
-maar metterdaad zich zelf of andere mensen zonder wettige macht en reden doodslaan, kwetsen of merkelijk hinderen, of daartoe raad en hulp geven, en zijn het dezen alleen?
+maar metterdaad zich zelf of andere mensen zonder wettige macht en reden doodslaan, kwetsen of merkelijk hinderen, of daartoe raad en hulp geven, en zijn het deze alleen?
 
-A. Ja, dezen allen misdoen tegen dit Gebod; doch niet zij alleen ;.daartegen misdoen ook nog degenen die iemand vermaledijden, kwaad wensen, gramschap of haat en nijd in het hart dragen.
+A. Ja, deze allen misdoen tegen dit Gebod; doch niet zij alleen ;.daartegen misdoen ook nog degenen die iemand vermaledijden, kwaad wensen, gramschap of haat en nijd in het hart dragen.
 
 Vermaledijden, d.i. iemand kwaad wensen voor zo0veel het voor hem kwaad is, God of de duivel smekende dat die wensch zou volbracht worden.
 
@@ -658,7 +447,7 @@ gramschap, haat, nijd? — Hoe strijden al deze zonden tegen het Vijfde Gebod?
 Hoeveel en welke dingen moeten wij, volgens Christus’ leer:
 voor onze vijanden doen? — Leg ieder punt uit. — Zeg hoe wij tot ieder puat verplicht zijn.
 
-4. Verschillen de zonden tegen het Vijfde Gebod uit hoofde van de persoon die gehinderd wordt? — Wie zijn geestelijke personen? — Waarom dragen zij dezen naam? — Zondigt men meer met geestelijke personen te hinderen dan andere? — Hoe bewijst de Catechismus dit? — Leg de woorden van de Catechismus uit.
+4. Verschillen de zonden tegen het Vijfde Gebod uit hoofde van de persoon die gehinderd wordt? — Wie zijn geestelijke personen? — Waarom dragen zij deze naam? — Zondigt men meer met geestelijke personen te hinderen dan andere? — Hoe bewijst de Catechismus dit? — Leg de woorden van de Catechismus uit.
 — Toon hoe uit het bewijs van de Catechismus vloeit, dat het groter kwaad is geestelijke personen te slaan of te kwetsen dan wereldlijke.
 
 5, Hoe kan men best oordelen, dat een werk, een woord, een aanraking, een oogslag oneerlijk en onzuiver is? — Is deze regel geheel onfeilbaar? — Wat moet men doen ín geval’van twijfel?
@@ -1403,7 +1192,7 @@ Welk is het voorwerp van deze les? — Hoe is zij verdeeld? — Wat onderzoekt d
 
 1. In hoeveel verschillende dingen bestaat het vasten? — Noem ze met de woorden van de Catechismus. — Welke zijn de spijzen die, in ’t algemeen, op de vastendagen verboden worden? — Zeg welke spijzen, volgens de algemene wetten van de H. Kerk, verboden zijn gedurende de Veertigdaagschen Vasten. — Welke spijzen zijn verboden op de vastendagen buiten de Veertigdaagschen Vastent
 — Wat betekenen de woorden: maar ééns daags zijn nooddruft nemen? — Welke verzachting is er, door een algemene gewoonte,
-aan dezen regel gebracht? — Hoe groot mag de collatie zijn? —
+aan deze regel gebracht? — Hoe groot mag de collatie zijn? —
 Wat spijs is er voor de collatie in het Bisdom van Gent verboden?
 — Waarom heeft de H. Kerk geboden ons van enige spijzen en maaltijden te onthouden?
 
@@ -1413,7 +1202,7 @@ Wat spijs is er voor de collatie in het Bisdom van Gent verboden?
 vasten, en waarom? — Welke zijn de bijzonderste vastendagen,
 — 248 —
 
-die de H, Kerk ons voorhoudt? — Wat zijn de veertig dagen vóór Pasen? — Van waar komt deze Vasten voort, en waarum is hij gesteld vóór Pasen? — Welke is de letterlijke betekenis van het woord guatertemperdagen? — Wat zijn deze dagen? — Van wie zijn zij ingesteld, en waartoe dienen zij? — Wat zijn de vigiliedagen, en welk is de oorsprong van dezen naam? — Hoeveel vigiliedagen zijn in ons land vastendagen? — Waartoe dienen deze dagen?
+die de H, Kerk ons voorhoudt? — Wat zijn de veertig dagen vóór Pasen? — Van waar komt deze Vasten voort, en waarum is hij gesteld vóór Pasen? — Welke is de letterlijke betekenis van het woord guatertemperdagen? — Wat zijn deze dagen? — Van wie zijn zij ingesteld, en waartoe dienen zij? — Wat zijn de vigiliedagen, en welk is de oorsprong van deze naam? — Hoeveel vigiliedagen zijn in ons land vastendagen? — Waartoe dienen deze dagen?
 — Welke vastendagen bestaan nog buiten deze, die de Catechismus hier noemt? — Waartoe is men op deze dagen in ons land verplicht? — Bestaat deze verplichting nog in het Bisdom van Gent?
 — Op welke dagen gebiedt de H. Kerk vlees te derven, en waarom? — Wat is er te bemerken voor het Bisdom van Gent.
 nopens het derven van het vlees op de Zaterdagen?
@@ -1910,7 +1699,7 @@ zoo edelen bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdee
 
 do Zijn witwerksel: gratie en sterkte om het Geloof vast te belijden. Gratie en sterkte zijn hier geen twee verschillende zaken: die woorden betekenen versterkende gratie of gratie die bijzondere sterkte geeft. (6e v.)
 
-Het woord vormsel is zoveel als vroomsel, d.i. iets dat vroom, kloek of sterk maakt. Het Vormsel verdient dezen naam, omdat het de mens die door het Doopsel in het geestelijk leven geboren is, tot de volwassenheid van dat leven brengt.
+Het woord vormsel is zoveel als vroomsel, d.i. iets dat vroom, kloek of sterk maakt. Het Vormsel verdient deze naam, omdat het de mens die door het Doopsel in het geestelijk leven geboren is, tot de volwassenheid van dat leven brengt.
 
 2. V. Wanneer moet men het Vormsel ontvangen?
 A. Als men tot de jaren van verstand gekomen is,
@@ -2079,7 +1868,7 @@ sprak er een lof- en dankgebed over uit, brak het in stukken en zeide: « Neemt 
 gaf die aan zijn discipelen zeggende: « Drinkt allen hieruit;
 » want dit is mijn bloed van het Nieuw Testament, dat voor u
 » en voor veler zal vergoten worden ter vergeving van de zonden.
-» Doet dit, zo dikwijls gij dezen kelk ault drmken, tot mijne
+» Doet dit, zo dikwijls gij deze kelk ault drmken, tot mijne
 » gedachtenis. »
 
 ‘t Is omdat de H. Schrift ons heel klaar leert, wasimeer en hoe de instelling van het H. Sacrament des Altaars geschiedde, dat de Catechismus er hier bijzondere melding van maakt. Dit doet hij ook, en om dezelfde reden, in de bepaling van de Biecht. Bij de overige Sacramenten maakt hij daar geen gewag van, omdat wij uit de Schrift of de Overlevering niet, of ten minste niet volkomen weten, hoe en wanneer,
@@ -2088,7 +1877,7 @@ maar enkel det zij van Christus ingesteld zijn. — De instelling van het H. Sac
 2o Het uitwendig teken: de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig (gesteld) is door de woorden van de Consecratie, die de priester over het brood en de wijn gesproken heeft; anders gezeid:
 de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig is, met de woorden van de Consecratie door dewelke Hij er onder tegenwoordig gesteld, en zijn tegenwoordigheid ons kenbaar gemaakt is. Hier is dus geen sprake van waar brood en waren wijn, maar enkel van gedaanten dier beide stoffen, van hun uiterlijk voorkomen, hun vorm, smaak, kleur, reuk, zwaarte, enz.; het wezen hier tegenwoordig is Christus zelf, doch niet in zijn natuurlijke gedaante, maar onder die van brood en wijn.
 
-3e De sonderlinge gratie: Christus zelf onder de gedaanten van bruod en wijn tegenwoordig: d. i, Christus zelf, de bron en de gever van alle gratie, ons als spijs, van het geestelijk leven van de ziel voorgesteld, i. a. w. een mededeling van het goddelijk leven, van de goddelijke krachten om het goed te kennen en te doen, en zo in het geestelijk leven gevoed te zijn: de gedaanten van brood en wijn geven
+3e De sonderlinge gratie: Christus zelf onder de gedaanten van bruod en wijn tegenwoordig: d. i, Christus zelf, de bron en de gever van alle gratie, ons als spijs, van het geestelijk leven van de ziel voorgesteld, i.a.w. een mededeling van het goddelijk leven, van de goddelijke krachten om het goed te kennen en te doen, en zo in het geestelijk leven gevoed te zijn: de gedaanten van brood en wijn geven
 — 285 —
 
 duidelijk te kennen, dat de gratie van dit Sacrament een voedsel is, en de tegenwoordigheid van Christus leert ons,
@@ -2333,7 +2122,7 @@ V. Welke zijn de delen van het Sacrificie van de Mis, zonder dewelke het niet zo
 
 A. Die delen zijn:
 
-1° De Consecratie of verandering (door de woorden van de priester) van brood en wijn (onder de offerande van de Mis bereid)in het lichaam en bloed van Christus, die door de priester zich zelf opoffert: die door de woorden van de priester zich onder de gedaanten van brood en wijn tegenwoordig stelt, en zich, door het aannemen van dezen staat, aan God slachtoffert. ’t Is dus eigenlijk in de Consecratie dat Christus geslachtofferd wordt, en daarom kan de Mis onmogelijk zonder de Consecratie bestaan.
+1° De Consecratie of verandering (door de woorden van de priester) van brood en wijn (onder de offerande van de Mis bereid)in het lichaam en bloed van Christus, die door de priester zich zelf opoffert: die door de woorden van de priester zich onder de gedaanten van brood en wijn tegenwoordig stelt, en zich, door het aannemen van deze staat, aan God slachtoffert. ’t Is dus eigenlijk in de Consecratie dat Christus geslachtofferd wordt, en daarom kan de Mis onmogelijk zonder de Consecratie bestaan.
 
 2o De Nutting: de Communie van de priester. Dit deel is niet op dezelfde wijze nodig als de Consecratie: zonder de Nutting zou de Mis wel een sacrificie zijn, maar slechts een onvoltrokken, een onvolmaakt. Inderdaad, de Mis ìs eerst en vooral een vredesacrificie, d. ì. een sacrificie dat in het bijzonder wordt opgedragen om God te bedanken en nieuwe gunsten van Hem te bekomen; want zij dient rechtstreeks tot toepassing van het Sacrificie des Kruis. Welnu, de vredesacrificiën worden voltrokken door de nutting van het
 — 299 —
@@ -2497,7 +2286,7 @@ hebben, met een vast voornemen van dezelve te biechten en ons te beteren.
 
 A. Het berouw bevat twee delen:
 
-1° Een leedwezen; een spijt of droefheid over de zonden, over de woorden, werken, begeerten of verzuimenissen tegen de wet en de wil Gods, door dewelke wij de goddelijke majesteit en goedheid vergramd hebben, door dewelke wij God, de opperste majesteit en goedheid, beleedigd hebben. Dus het leedwezen tot de Biecht vereist,
+1° Een leedwezen; een spijt of droefheid over de zonden, over de woorden, werken, begeerten of verzuimenissen tegen de wet en de wil Gods, door dewelke wij de goddelijke majesteit en goedheid vergramd hebben, door dewelke wij God, de opperste majesteit en goedheid, beledigd hebben. Dus het leedwezen tot de Biecht vereist,
 moet zijn: a) over de zoden, b) over onze zonden en niet over die van anderen, en c) om reden dat wij God door die zonden vergramd hebben, en niet enkel omdat wij er b.v.
 onze fortuin, onze eer, onze faam door verloren hebben, —
 Er is niet vereist, dat het leedwezen op de oneindige goedheid of volmaaktheid Gods steune, en zo volmaakt weze; het is genoeg, dat het gegrond zijop de hoop van de hemel, of de vrees van de hel, of de leelijk zeid van de zonde, en derwijze slechts een onvolmaakt berouw vitmake (zie 14de les, vr, 3); maar,
@@ -2851,7 +2640,7 @@ wettelijk: in de ogen van God en van de H. Kerk — verbonden worden, en
 en recht tot dadelijke — om kinderen op te brengen tot Gods glorie: tot ware dienaars van God en ware leden van de H. Kerk.
 
 Alhoewel de Sacramenten slechts dienen om Gods gratie mee te delen, brengt het Huwelijk, boven de gratie, nog de verbintenis teweeg, omdat het niet uitsluitend een Sacrament,
-maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i. a. w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere gratie betekent, welke het hun door zich zelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op gener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
+maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i.a.w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere gratie betekent, welke het hun door zich zelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op gener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
 
 Het uitwendig teken van het Sacrament is het contract,
 waardoor man en vrouw zich wettelijk verbinden; want ’t is dit contract zelf dat Christus heeft ingesteld als sacramenteel teken van de bijzondere gratie van het Huwelijk; hijgevolg,
@@ -2891,7 +2680,7 @@ hetzij door lichamelijk maagschap of bloedverwantschap; (1)
 hetzij door aangetrouwd maagschap. ook aanverwantschap of zwagerschap genoemd; hetzij door geestelijk. of nog door wettelijk maagschap; en 5e sommige anderen: b.v. degenen die wettig met een anderen persoon getrouwd zijn.
 Onder de hier vermelde klassen van mensen met wie het Huwelijk niet mag aangegaan worden, zijn er twee die het volstrekt niet mogen aangaan, namelijk, degenen die belofte van zuiverheid gedaan hebben, en zekere geestelijke personen.
 
-A. V. Zou het Huwelijk, met dezen aangegaan,
+A. V. Zou het Huwelijk, met deze aangegaan,
 immers goed wezen?
 A. Met sommigen zou het van gener waarde wezen,
 
@@ -2903,7 +2692,7 @@ A. Niet met al die klassen, maar alleen met sommige daarvan — zou het van gene
 
 gezegd in v. 5. Het wettelijk maagschap ontstaat uit het aannemen van eens anders kind tot het zijne. Daardoor wordt de aannemeling belet in huwelijk te treden, 1e met de persoon die hem heeft aangenomen, 20 met dezes echtgenoot, 30 met dezes kinderen die nog onder de vaderlijke macht staan. Insgelijks wordt de persoon die aanneemt onbekwaam het huwelijk aan te gaan lo met de echtgenoot des aannemelings, 20 met dezes kinderen die nog aan het vaderlijk gezag onderhevig zijn.
 
-(1) Stammen de bloedverwanten de een van de andere af, i. a. w.
+(1) Stammen de bloedverwanten de een van de andere af, i.a.w.
 staan zij tot elkander in de betrekking van ouders en kinderen,
 grootvaders en kleinkinderen, enz., dan zijn zij bloedverwanten én de rechte lijn: komen zij uitsluitend uit één en dezelfde stam voort, dan zijn zij bloedverwanten én zijdelijke lijn,
 — 329 —
@@ -3004,7 +2793,7 @@ wat zij is. — Leg de woorden van dên Catechismus uit, — Welke verplichting 
 
 8. Leg deze vraag uit: Mag het Huwelijk van eendegelijk ontvangen worden en met alle mensen?! — Mag het, ja of neen, van iedereen en met alle mensen aangegaan worden? — Welke personen, met wie het niet mag aangegaan worden, noemt de Catechismus? — Verklaar de woorden van de Catechismus. — Welke van deze personen mogen het Huwelijk volstrekt niet aangaan?
 
-4. Welk is de zin van de vraag: Zou het Huwelijk met dezen aangegaan immers goed wezen? — Loude het met hen allen goed wezen? — Welke klassen noemt de Catechismus met dewelke het niet goed zou wezen? — Verklaar de woorden van de Catechismus. — Noem nog enige klassen, met dewelke het Huwelijk ongeldig zou zijn. — Hoe is de graad van bloedverwantschap op te tellen? — Hoe rekent men het aanverwantschap? — Hoeveel en welke soorten van huwelijksbeletselen zijn er? — Van waar komen al de beletselen hier genoemd? — Bewijs dat de H, Kerk, en zij alleen, de macht heeft om huwelijksbeletselen in te stellen.
+4. Welk is de zin van de vraag: Zou het Huwelijk met deze aangegaan immers goed wezen? — Loude het met hen allen goed wezen? — Welke klassen noemt de Catechismus met dewelke het niet goed zou wezen? — Verklaar de woorden van de Catechismus. — Noem nog enige klassen, met dewelke het Huwelijk ongeldig zou zijn. — Hoe is de graad van bloedverwantschap op te tellen? — Hoe rekent men het aanverwantschap? — Hoeveel en welke soorten van huwelijksbeletselen zijn er? — Van waar komen al de beletselen hier genoemd? — Bewijs dat de H, Kerk, en zij alleen, de macht heeft om huwelijksbeletselen in te stellen.
 
 5. Zeg, met de Catechismus, van waar het geestelijk maagschap voortkomt, en tussen wie het bestaat, — Leg de woorden van de Catechismus uit. — Bestaat dit maagschap tussen peter en meter?
 — Tusschen wie bestaat het dus? — Waarom spreekt de Catechismus niet van de bedienaar? — Waarom is dit beletsel ingesteld?
@@ -3044,7 +2833,7 @@ s\- | Doodzonden. ‚V 8 Wat zijn 3 5 V. 6. Watis del vreemde zonNS ä b) De da-
 > " den. doen ons def schieden de N dagelijkse vreemde zonzonden? de ?
 
 De Catechismus heeft ons in de drie eerste delen geleerd,
-wat er vereist is om in de dienst van God te treden en er in te volharden, en in het vierde deel, welke middelen door Christus ingesteid wij moeten gebruiken om tof dezen dienst de noodzakelijke krachten en hoedanigheden te hebben. Nu in 't vijfde en laatste deel zal hij ons leren, wat iemand die door het Geloof, de Hoop en de Liefde in de dienst van God is getreden, en door de Sacramenten de tot die dienst vereiste krachten en hoedanigheden heeft bekomen, te doen en te vluchten heeft, om God volgens Christus’ leer rechtveer-
+wat er vereist is om in de dienst van God te treden en er in te volharden, en in het vierde deel, welke middelen door Christus ingesteid wij moeten gebruiken om tof deze dienst de noodzakelijke krachten en hoedanigheden te hebben. Nu in 't vijfde en laatste deel zal hij ons leren, wat iemand die door het Geloof, de Hoop en de Liefde in de dienst van God is getreden, en door de Sacramenten de tot die dienst vereiste krachten en hoedanigheden heeft bekomen, te doen en te vluchten heeft, om God volgens Christus’ leer rechtveer-
 — 337 —
 
 diglijk, juist zó gelijk het behoort, metterdaad te dienen, en welk het iot van de goede en van de slechte dienaars zal zijn.
@@ -3608,7 +3397,7 @@ A. Deze drie heet men goddelijke deugden: Geloof,
 Hoop en Liefde, zo genoemd, l° omdat zij, door geen geschapene krachten aanwinlijk, van God alleen ingestort.
 — 363 —
 
-zijn: van God alleen kunnen ingestort worden en slechts als van Hem ingestort kunnen bestaan; God immers is er het voorwerp van, niet voor zoveel Hij door de rede, maar voor zoveel Hij door het Geloof gekend is, en zo veronderstellen zij een bovennatuurlijken oorsprong, — en 2° omdat zij eigenlijk alleen met God bezig zijn: omdat zij op God en op God alleen betrekking hebben; i. a. w. omdat de werken waartoe zij ons genegen maken, God in zich zelf beschouwd en God alleen voor voorwerp en voor beweegreden hebben. Het Geloof beweegt ons om in God te geloven, omdat Hij de opperste en onfaalbare waarheid is; de Hoop, om op God als op onze helper en loner te hopen, omdat Hij oneindig goed is, almachtig en getrouw in zijn beloften; de Liefde, om God en de naaste voor zoveel deze Gods schepsel en kind is, te beminnen, omdat Hij het opperste goed of de opperste volmaaktheid is. Deze drie deugden zijn dus goddelijk, zowel uit hoofde van hun voorwerp en hun beweegredenen als van hun oorsprong. Integendeel de godsdienstigheid b.v. is geen goddelijke deugd omdat zij, alhoewel God tot voorwerp hebbende, Hem toch niet in zich zelf alleen, maar in zijn betrekkingen van Schepper, Heer en Regeerder van de geschapene wezens aanschouwt. De verplichting van godsdienstig te zijn, rust niet op de natuur van God alleen, maar op de betrekkingen die tussen God en ons bestaan.
+zijn: van God alleen kunnen ingestort worden en slechts als van Hem ingestort kunnen bestaan; God immers is er het voorwerp van, niet voor zoveel Hij door de rede, maar voor zoveel Hij door het Geloof gekend is, en zo veronderstellen zij een bovennatuurlijken oorsprong, — en 2° omdat zij eigenlijk alleen met God bezig zijn: omdat zij op God en op God alleen betrekking hebben; i.a.w. omdat de werken waartoe zij ons genegen maken, God in zich zelf beschouwd en God alleen voor voorwerp en voor beweegreden hebben. Het Geloof beweegt ons om in God te geloven, omdat Hij de opperste en onfaalbare waarheid is; de Hoop, om op God als op onze helper en loner te hopen, omdat Hij oneindig goed is, almachtig en getrouw in zijn beloften; de Liefde, om God en de naaste voor zoveel deze Gods schepsel en kind is, te beminnen, omdat Hij het opperste goed of de opperste volmaaktheid is. Deze drie deugden zijn dus goddelijk, zowel uit hoofde van hun voorwerp en hun beweegredenen als van hun oorsprong. Integendeel de godsdienstigheid b.v. is geen goddelijke deugd omdat zij, alhoewel God tot voorwerp hebbende, Hem toch niet in zich zelf alleen, maar in zijn betrekkingen van Schepper, Heer en Regeerder van de geschapene wezens aanschouwt. De verplichting van godsdienstig te zijn, rust niet op de natuur van God alleen, maar op de betrekkingen die tussen God en ons bestaan.
 
 Zedelijke deugden heet men die rechtstreeks, niet met God alleen, maar met onze zeden bezig zijn, of die dienen om ons gedrag jegens God, de naaste en ons zelf te regelen. Zij verschillen van de goddelijke deugden, behalve onder opzicht van hun voorwerp, ook hierin, dat zij, hoewel van God ingestort en van Hem alleen ingestort kunnende worden, toch ook op een natuurlijke wijze in de natuurlijke orde zouden kunnen bestaan, terwijl de goddelijke deugden, gelijk wij ze nu hebben, geenszins tot de natuurlijke orde kunnen behoren.
 Door de goddelijke deugden aanvaarden wij de dienst van God en blijven wij er in; door de zedelijke, volbrengen wij de plichten van die dienst.
@@ -4269,7 +4058,7 @@ V. Zie 14de les, 8ste vr.
 
 A. Ten eerste zij zullen blinken boven alle klaarheid, of klaar en schoonblinkend zijn (Zie 14de les, 8ste vr.)
 
-Ten tweede, zij zullen vlijtig zijn en snel boven al wat licht en snel is, i. a. w. licht zijn (Zie 14de les, Sste vr).
+Ten tweede, zij zullen vlijtig zijn en snel boven al wat licht en snel is, i.a.w. licht zijn (Zie 14de les, Sste vr).
 
 Ten derde, zij zullen subtiel zijn, (zie genoemde les en vraag), zodat hen niets zal kunnen beletten, d. i, zodat hun lichamen noch door honger, noch door dorst, noeh door slaperigheid zullen belet worden van uit te voeren wat de ziel wil, en dat zij ook, als het betamelijk zal wezen, door andere stoffen niet belet zullen worden, zichergenste begeven.
 
