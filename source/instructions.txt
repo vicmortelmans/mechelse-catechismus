@@ -109,7 +109,9 @@
 :%s/onfaalbaar/onfeilbaar/g
 :%s/eeniegelijk/iedereen/g
 :%s/hunner/van hun/g
+:%s/hunnen/van hun/g
 :%s/hunne/hun/g
+:%s/hunn/hun/g
 :%s/grotelijks/ernstig/g
 :%s/veropenbaarde/geopenbaarde/g
 :%s/veropenbaard/geopenbaard/g
@@ -269,4 +271,11 @@
 :%s/engelse-groetenis/begroeting-van-de-engel/g
 :%s/groetenis/begroeting/g
 :%s/de Wees Gegroet/het Wees Gegroet/g
-
+:%s/ooveraar/ovenaar/g
+:%s/ assche/ as/g
+:%s/ plichtig/ schuldig/g
+:%s/Aschwoensdag/Aswoensdag/g
+:%s/keersen/kaarsen/g
+:%s/ververschen/verversen/g
+:%s/schoone/schone/g
+:%s/ zweerd/ zwaard/g
