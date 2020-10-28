@@ -279,3 +279,4 @@
 :%s/ververschen/verversen/g
 :%s/schoone/schone/g
 :%s/ zweerd/ zwaard/g
+:%s/superstitie/bijgeloof/g
