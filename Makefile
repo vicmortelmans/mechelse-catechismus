@@ -7,6 +7,8 @@ HTMLs = $(patsubst %.md,$(TARGETDIR)/%.html,$(SOURCES))
 
 all: mkdir copy_resources $(HTMLs)
 
+.PHONY: all
+
 mkdir:
 	mkdir -p $(TARGETDIR)
 
