@@ -176,6 +176,7 @@
 :%s/toonen/tonen/g
 :%s/berooving/beroving/g
 :%s/eischte/eiste/g
+:%s/eischt/eist/g
 :%s/beleedigde/beledigde/g
 :%s/smert /smart /g
 :%s/dezer/van deze/g
@@ -286,3 +287,14 @@
 :%s/ dezen / deze /g
 :%s/i\. a\. w\./i.a.w./g
 :%s/blasphem/blasfem/g
+:%s/Sinksen/Pinksteren/g
+:%s/koopen/kopen/g
+:%s/bestuuren/besturen/g
+:%s/zich zelf/zichzelf/g
+:%s/verergernis/ergernis/g
+:%s/verergert/ergernis geeft/g
+:%s/verergerend/ergernis gevend/g
+:%s/wensch/wens/g
+:%s/onkuischheid/onkuisheid/g
+:%s/onkuische/onkuise/g
+:%s/onkuisch/onkuis/g
