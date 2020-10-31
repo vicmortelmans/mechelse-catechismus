@@ -36,6 +36,12 @@ De ernst van de studie kan voor ons verrassend zijn, want wij menen dat de catec
 
 Preuts en patriarchaal zijn termen die niet misstaan bij sommige aantekeningen over seksuele moraal, huwelijk en opvoeding. De stereotypen worden bevestigd, maar ik durf er wel de kanttekening bij maken dat deze ingesteldheden zich meer baseren op een maatschappelijk verantwoordelijkheidsgevoel dan op bekrompen ideeën van gefrustreerde priesters.
 
+# Van rede tot liefde
+
+Als ik in de catechismus lees is dat telkens een verademing. Je stapt er binnen in een orde die het wereldlijke en het hemelse, het tijdelijke en het eeuwige, samenbrengt in één consistent geheel. Die orde is gebaseerd op duidelijke gedefinieerde begrippen en logisch opgebouwde stellingen. Je voelt bij het lezen hoe het allemaal gewoon klópt, dat als je je geloof echt zó zou kunnen beleven, je leven er veel mooier zou uitzien! Dat is zo anders dan de geloofsleer zoals je die in hedendaagse publicaties aantreft en die meestal dubbelzinnig is, gebaseerd op vage beeldspraak, speculatief en voor allerlei verklaring vatbaar. Je kan er alle kanten mee uit en je mag je er nog zo in verdiepen, achteraf weet je het nog niet. Dat *niet-weten* is trouwens een modieus begrip waarin de hedendaagse theologie zich wentelt als was het een na te streven doel. 
+
+Het quasi-wetenchappelijke positivisme waarmee de geloofsleer in de catechismus wordt geponeerd, is echter niet absoluut. Ik zou zelfs durven stellen dat het nooit zo absoluut is bedoeld als het gedrukt staat. In onderhavige publicatie voegen de aanvullende verklaringen al heel wat nuance toe. Voor wie de catechismus met een open hart leest, is het geen verzameling holle formalismen, maar een uitnodiging om in een hanteerbaar begripsveld zelf na te denken over de rol van het geloof in je leven en om met alle aangereikte middelen je persoonlijke spiritualiteit te ontwikkelen, je liefde voor God te laten groeien en zo open te staan voor een leven als opgang naar God!
+
 # Tips voor onderwijzers
 
 In zijn aantekeningen noteerde mijn grootvader tips die de docenten gaven voor de onderwijzers in spe. 

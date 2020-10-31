@@ -8,59 +8,42 @@ subtitle: Van het Tweede Gebod
 <tr>
   <td rowspan=6>**Zweert niet ijdel, vloek noch spot**</td>
   <td rowspan=6 class=accolade></td>
-  <td rowspan=6>Dit Gebod verbiedt alle oneer die de goddelijke naam aangedaan wordt</td>
+  <td rowspan=6>*[Dit Gebod verbiedt alle oneer die de goddelijke naam aangedaan wordt](#wat-verbiedt-god-in-het-tweede-gebod)*</td>
   <td rowspan=6 class=accolade></td>
   <td colspan=2>Blasfemeren</td>
-  <td colspan=3></td>
+  <td colspan=3>*[In wat manier geschiedt blasfemie?](#in-wat-manier-geschiedt-blasfemie)*
+</td>
 </tr>
 <tr>
   <td rowspan=4>Lichtvaardig zweren</td>
   <td rowspan=4 class=accolade></td>
-  <td colspan=3></td>
+  <td colspan=3>*[Wat is eed doen of zweren?](#wat-is-eed-doen-of-zweren)*</td>
 </tr>
 <tr>
-  <td rowspan=3></td>
+  <td rowspan=3>*[Is het altijd kwaad en verboden te zweren?](#is-het-altijd-kwaad-en-verboden-te-zweren)*</td>
   <td rowspan=3 class=accolade></td>
-  <td></td>
+  <td>*[Wie zweert met goed oordeel?](#wie-zweert-met-goed-oordeel)*</td>
 </tr>
 <tr>
-  <td></td>
+  <td>*[Wie zijn ze, die zweren tegen de rechtvaardigheid?](#wie-zijn-ze-die-zweren-tegen-de-rechtvaardigheid)*</td>
 </tr>
 <tr>
-  <td></td>
+  <td>*[Wat is zweren tegen de waarheid?](#wat-is-zweren-tegen-de-waarheid)*</td>
 </tr>
 <tr>
   <td colspan=2>Breken van belofte</td>
-  <td colspan=3></td>
+  <td colspan=3>*[Is het ook goed en deugdelijk God of zijn Heiligen iets te beloven?](#is-het-ook-goed-en-deugdelijk-god-of-zijn-heiligen-iets-te-beloven)*</td>
 </tr>
 </table>
-
-
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Wat verbiedt God in het Tweede Gebod?](#wat-verbiedt-god-in-het-tweede-gebod)
-  - [Alle oneer, die de goddelijken naam aangedaan wordt door blasfemeren, lichtvaardig zweren, of breken van belofte](#alle-oneer-die-de-goddelijken-naam-aangedaan-wordt-door-blasfemeren-lichtvaardig-zweren-of-breken-van-belofte)
-- [In wat manier geschiedt blasfemie?](#in-wat-manier-geschiedt-blasfemie)
-  - [Als men God of zijn Heiligen iets toeschrijft dat tegen hun eer is, of iets loochent dat hun toekomt, of van dezelve spotsgewijs spreekt](#als-men-god-of-zijn-heiligen-iets-toeschrijft-dat-tegen-hun-eer-is-of-iets-loochent-dat-hun-toekomt-of-van-dezelve-spotsgewijs-spreekt)
-- [Wat is eed doen of zweren?](#wat-is-eed-doen-of-zweren)
-  - [God of iets, dat God merkelijk aangaat, nemen tot getuige van hetgene men zegt](#god-of-iets-dat-god-merkelijk-aangaat-nemen-tot-getuige-van-hetgene-men-zegt)
-- [Is het altijd kwaad en verboden te zweren?](#is-het-altijd-kwaad-en-verboden-te-zweren)
-  - [Neen; want het is deugdelijk, als de eed geschiedt met goed oordeel, rechtvaardigheid en waarheid; maar het is zonde, als er één van deze voorwaarden ontbreekt](#neen-want-het-is-deugdelijk-als-de-eed-geschiedt-met-goed-oordeel-rechtvaardigheid-en-waarheid-maar-het-is-zonde-als-er-één-van-deze-voorwaarden-ontbreekt)
-- [Wie zweert met goed oordeel?](#wie-zweert-met-goed-oordeel)
-  - [Die niet zweert dan uit nood en goede reden](#die-niet-zweert-dan-uit-nood-en-goede-reden)
-- [Wie zijn ze, die zweren tegen de rechtvaardigheid?](#wie-zijn-ze-die-zweren-tegen-de-rechtvaardigheid)
-  - [Die met eed bevestigen te doen hetgene kwaad en verboden is; en deze eed mag niet gehouden worden](#die-met-eed-bevestigen-te-doen-hetgene-kwaad-en-verboden-is-en-deze-eed-mag-niet-gehouden-worden)
-- [Wat is zweren tegen de waarheid?](#wat-is-zweren-tegen-de-waarheid)
-  - [Iets met eed bevestigen dat men met zekerheid weet of meent vals te wezen, of ook waar men aan twijfelt](#iets-met-eed-bevestigen-dat-men-met-zekerheid-weet-of-meent-vals-te-wezen-of-ook-waar-men-aan-twijfelt)
-- [Is het ook goed en deugdelijk God of zijn Heiligen iets te beloven?](#is-het-ook-goed-en-deugdelijk-god-of-zijn-heiligen-iets-te-beloven)
-  - [Ja, als hetgene men belooft uit zich zelf goed is, en als men van zin is het te volbrengen](#ja-als-hetgene-men-belooft-uit-zich-zelf-goed-is-en-als-men-van-zin-is-het-te-volbrengen)
-    - [VRAGEN.](#vragen)
 
 # Wat verbiedt God in het Tweede Gebod?
 
 ## Alle oneer, die de goddelijken naam aangedaan wordt door blasfemeren, lichtvaardig zweren, of breken van belofte
 
+<span class=marginnote>
+  <img src="resources/2301a.jpg">
+  <em>Merk op dat de echte blasfemie gewoonlijk niet in de volkvloekwoorden te vinden is. De godslastering inderdaad komt veel meer voor in gesprekken en nog veel meer in slechte boeken en dagbladen. Soms wel in heel beschaafde vorm, zijn die woorden in elk geval wel verdacht, soms goed voorgedragen en stichten zo een geweldig kwaad. Meestal komt het neer op twijfel, spot, laster tegen God, Christus, de heiligen, de sacramenten, de kerk.</em>
+</span>
 A. In het Tweede Gebod verbiedt God *in 't algemeen,* **alle oneer:** alle verachting en minachting, — **die de goddelijken naam aangedaan wordt,** waarmee God zelf of de goddelijke volmaaktheid (zie [17ᵉ les, vr. 5](les-17.html#wat-verstaat-gij-door-de-naam-gods)) beledigd worden; — oneer welke geschiedt: 1° **door blasfemeren,** 2° **door lichtvaardig zweren** of 3° **door breken van belofte.**
 
 Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten jegens een overste, na die van hem te erkennen, op hem betrouwen te hebben en hem te willen dienen. ongetwijfeld is, hem niet te onteren. Een overste vernederen is groter kwaad, dan hem de verschuldigde dienst te weigeren,
@@ -69,6 +52,12 @@ Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten 
 
 ## Als men God of zijn Heiligen iets toeschrijft dat tegen hun eer is, of iets loochent dat hun toekomt, of van dezelve spotsgewijs spreekt
 
+<span class=marginnote>
+  <img src="resources/2302a.jpg">
+  <em>Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven.</em>
+  <img src="resources/2302b.jpg">
+  <em>Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te ge bruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
+</span>
 V. **Blasphemie** betekent letterlijk *kwaadsprekerij;* **blasfemeren** is *kwaad van iemand zeggen.*
 
 A. De blasfemie geschiedt op deze *drie* manieren:
@@ -91,6 +80,10 @@ De H. Geschiedenis leert ons met welke schrikkelijke straffen God in het Oud Tes
 
 ## God of iets, dat God merkelijk aangaat, nemen tot getuige van hetgene men zegt
 
+<span class=marginnote>
+  <img src="resources/2303a.jpg">
+  <em>De eed zoals wij hem hier beschouwen is een Godsdienstige daad. Wanneer de eed alleen geschiedt bv. op de eer, op de grondwet, zonder de aanroeping of de getuigenis van God erbij te brengen, verliest de eed elke godsdienstige waarde en dan verplicht die eed nog doch slechts in de menselijke orde der dingen.</em>
+</span>
 A. *Eed doen* of *zweren* is — **God of iets dat God merkelijk aangaat:** God zelf of alle andere zaken, die met God in een bijzonder innige verbintenis staan, zoals de Engelen en Heiligen, die zijn beste vrienden zijn: de H. Schrift en de HH. Sacramenten, die tot zijn kostelijkste gaven behoren: de hemel, de aarde, de zee, die zijn grootste natuurlijke werken uitmaken, — **nemen tot getuige van hetgene men zegt,** d.i. vragen om verslag te doen over hetgene wij bevestigen, opdat wij zouden kunnen bewijzen dat, hetgene wij zeggen, zeker en onbetwistelijk waar is.
 
 Als wij, in de eed, 't een of ‘t ander wezen, dat God merkelijk aangaat tot getuige roepen, verstaan wij, onder dit wezen, God zelf.
@@ -119,6 +112,10 @@ De eed van Esaü, waardoor hij, om een spijs, zijn recht verkocht van eerstgebor
 
 ## Die met eed bevestigen te doen hetgene kwaad en verboden is; en deze eed mag niet gehouden worden
 
+<span class=marginnote>
+  <img src="resources/2306a.jpg">
+  <em>Hieruit volgt dat bv. een fiscale eed waardoor een gelovige meer verplicht zou zijn dan een ongelovige, feitelijk onrechtvaardig is.</em>
+</span>
 A. **Die met eed bevestigen te doen,** d. i, die God tot getuige roepende van hun getrouwheid in het uitvoeren van hun voornemen of van hun belofte, verzekeren dat zij iets, door hen besloten of beloofd, zullen doen, — **dat kwaad en verboden is:** hetgene zonde is, of zelfs, wanneer er spraak is van iets te doen voor God, dat beter niet gedaan dan gedaan wordt; — en deze eed mag niet gehouden worden: en men mag zich niet aanzien als door deze eed verplicht zijnde. Zo b.v. doet men eed tegen de rechtvaardigheid, als men zweert dat men zijn vijand zal haten, want de haat is zonde; — of als men zweert, dat men maar juist ééns ’s jaars zal te biecht gaan; want dit is een zaak die God rechtstreeks aangaat en beter niet gedaan dan gedaan wordt.
 
 Het is klaarblijkend dat een eed tegen de rechtvaardigheid zonde is, daar wij God onteren met Hem tot getuige te roepen van onze getrouwheid in het uitvoeren van een voornemen of van een belofte, die een zonde, of ten miaste zulk een werk dat God aangaat en beter niet gedaan dan gedaan wordt, als voorwerp hebben. Dan, daar niemand kan verplicht zijn een zonde te bedrijven, of iets voor God te doen dat Hij liever niet gedaan heeft, zo mag zulke eed niet gehouden worden.
@@ -143,6 +140,10 @@ Iedereen begrijpt dat een eed tegen de waarheid noodzakelijk zonde is en zelfs d
 
 ## Ja, als hetgene men belooft uit zich zelf goed is, en als men van zin is het te volbrengen
 
+<span class=marginnote>
+  <img src="resources/2308a.jpg">
+  <em>Belofte in streng godgeleerde zin, verplicht altijd op zonde. Wanneer men echter voor God of zijn heiligen iets wil doen, zonder zich daartoe op zonde te verplichten, noemt men dit een *voornemen* of een *bijzonder punt*.</em>
+</span>
 V. **Is het goed en deugdelijk — God of zijn Heiligen,** d. i, aan God alleen, of aan God en tevens ter eer van de Heiligen, — **iets te beloven,** d.i. niet uitsluitend het voornemen te maken iets voor God of zijn Heiligen te doen, maar zich daartoe op zonde te verplichten?
 
 Hier kan geen spraak zijn van beloften, die niet aan God geschieden; want het breken van zulke beloften kan geen zonde zijn tegen het Tweede Gebod, dat enkel van de eer Gods handelt.

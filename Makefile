@@ -1,22 +1,19 @@
-RESOURCEDIR = "resources"
-TARGETDIR = "docs"
-
-
 SOURCES = $(wildcard *.md)
-HTMLs = $(patsubst %.md,$(TARGETDIR)/%.html,$(SOURCES))
+HTMLs = $(patsubst %.md,docs/%.html,$(SOURCES))
 
-all: mkdir copy_resources $(HTMLs)
-
-.PHONY: all
+all: mkdir copy_cname copy_resources $(HTMLs)
 
 mkdir:
-	mkdir -p $(TARGETDIR)
+	mkdir -p docs
 
 copy_resources:
-	cp -r $(RESOURCEDIR) $(TARGETDIR)
+	cp -r resources docs
 
-$(TARGETDIR)/%.html: %.md
-	pandoc -s -c $(RESOURCEDIR)/tufte.css -c $(RESOURCEDIR)/mc.css --template=template.html -f markdown -t html5 -o $@ $<
+copy_cname:
+	cp CNAME docs
+
+docs/%.html: %.md
+	pandoc -s -c resources/tufte.css -c resources/mc.css --template=template.html -f markdown -t html5 -o $@ $<
 
 clean: 
-	rm -rf $(TARGETDIR)
+	rm -rf docs
