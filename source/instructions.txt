@@ -298,3 +298,21 @@
 :%s/onkuischheid/onkuisheid/g
 :%s/onkuische/onkuise/g
 :%s/onkuisch/onkuis/g
+:%s/kuisch/kuis/g
+:%s/berooven/beroven/g
+:%s/leenen/lenen/g
+:%s/gemeene/gemene/g
+:%s/meening/mening/g
+:%s/melaatsch/melaats/g
+:%s/regeering/regering/g
+:%s/zoolang/zolang/g
+:%s/bekleeden/bekleden/g
+:%s/heele/hele/g
+:%s/zijn nooddruft/een maaltijd/g
+:%s/daagschen/daagse/g
+:%s/Paaschbiecht/Paasbiecht/g
+:%s/Paaschcommunie/Paascommunie/g
+:%s/Paaschplicht/Paasplicht/g
+:%s/waarachtiglijk/waarachtig/g
+:%s/geëten/gegeten/g
+:%s/daagsch/daags/g

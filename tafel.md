@@ -2,7 +2,13 @@
 title: TAFEL
 ---
 
-# Eerste Deel
+<style type="text/css" rel="stylesheet">
+a { background: none !important; } /* remove underline */
+</style>
+
+<iframe src="https://duckduckgo.com/search.html?site=mechelse.gelovenleren.net&prefill=Zoeken&bgcolor=fffff8" style="overflow:hidden;margin:0;padding:0;width:55%;height:40px;" frameborder="0"></iframe>
+
+## EERSTE DEEL
 
 [EERSTE LES. Van de Christelijke Leer en de mens](les-01.html)
 
@@ -34,7 +40,7 @@ title: TAFEL
 
 [VIJFTIENDE LES. Van het eeuwig Leven](les-15.html)
 
-# Tweede Deel
+## TWEEDE DEEL
 
 [ZESTIENDE LES. Van de Hoop](les-16.html)
 
@@ -44,7 +50,7 @@ title: TAFEL
 
 [NEGENTIENDE LES. Van de eer en aanroeping van de H. Maagd Maria](les-19.html)
 
-# Derde Deel
+## DERDE DEEL
 
 [TWINTIGSTE LES. Van de Liefde](les-20.html)
 
@@ -64,7 +70,7 @@ title: TAFEL
 
 [ACHT EN TWINTIGSTE LES. Van het Derde, Vierde en Vijfde Gebod van de H. Kerk](les-28.html)
 
-# Viede Deel
+## VIERDE DEEL
 
 [NEGEN EN TWINTIGSTE LES. Van de HH. Sacramenten](les-29.html)
 
@@ -82,7 +88,7 @@ title: TAFEL
 
 [ZES EN DERTIGSTE LES. Van het Huwelijk](les-36.html)
 
-# Vijfde Deel
+## VIJFDE DEEL
 
 [ZEVEN EN DERTIGSTE LES. Van de erfzonde en de dadelijke zonde](les-37.html)
 

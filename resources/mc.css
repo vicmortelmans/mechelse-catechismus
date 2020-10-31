@@ -83,6 +83,9 @@ strong {
 p > em {
   letter-spacing: 0.03125em;
 }
+em em {
+  font-style: normal;
+}
 img {
   transition: all .3s ease-in;
   position: relative;
