@@ -97,8 +97,9 @@ img:hover {
   z-index: 2;
 }
 img.small {
-  max-width: 50%;
+  max-width: 47%;
   float: left;
+  margin: 0 3% 3% 0;
 }
 img.small:hover {
   transform: scale(4) translate(-20%,5%);
