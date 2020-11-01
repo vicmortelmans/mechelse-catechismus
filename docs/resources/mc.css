@@ -1,4 +1,4 @@
-header, footer {
+header, footer, .searchbox {
   text-align: center;
   width: 55%;
 }
@@ -112,7 +112,7 @@ img + em {
   margin: 10px 0px 20px 0px;
 }
 @media (max-width: 760px) {
-  section > h1, section > h2 {
+  section > h1, section > h2, header, footer, .searchbox {
     width: 100%;
   }
 }
