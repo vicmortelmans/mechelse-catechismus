@@ -4,7 +4,11 @@ title: Verantwoording bij de publicatie
 
 # Aanleiding
 
-Het boek lag al jarenlang in een oude koffer, gevuld met oude missaals en andere katholieke boekjes, bij mij op zolder. Allemaal erfstukken uit de familie of opgepikt van rommelmarkten. Ik heb altijd een fascinatie gehad voor de preconiciliaire geloofswereld, die ik nooit heb meegemaakt en die zo plotsklaps tot een einde gekomen is en volledig verdonkermaand is door de postconciliaire Kerk. 
+<span class=marginnote>
+  <img class=nobox src="resources/mc.jpg">
+  <em>Beknopte Verklaring van de Mechelse Catechismus ten gebruike van het middelbaar onderwijs</em> 
+</span>
+Het boek lag al jarenlang in een antieke koffer, gevuld met oude missaals en andere katholieke boekjes, bij mij op zolder. Allemaal erfstukken uit de familie of opgepikt van rommelmarkten. Ik heb altijd een fascinatie gehad voor de preconiciliaire geloofswereld, die ik nooit heb meegemaakt en die zo plotsklaps tot een einde gekomen is en volledig verdonkermaand is door de postconciliaire Kerk. 
 
 Het is een catechismus en heet voluit *Beknopte verklaring van den Mechelse Catechismus ten gebruike van het middelbaar onderwijs, *uitgegeven in bisdom Gent in 1932. Mijn grootvader, Cyriel Houben (1918-1984) gebruikte dit boek tijdens zijn opleiding aan de normaalschool van Sint-Niklaas van 1933 tot 1937, de hoogtijdagen van het katholiek militantisme. 
 
@@ -16,6 +20,10 @@ De opleiding tot onderwijzer voor de lagere school voltrok zich in de normaalsch
 
 # De catechismus
 
+<span class=marginnote>
+  <img class=nobox src="resources/mc-1623.jpg">
+  <em>De oorspronkelijke uitgave uit 1623</em>
+</span>
 Als handboek van de katholieke geloofsleer voert dit boek ons terug naar de omwentelingen van de reformatie en de nieuwe consolidatie van de katholieke leer na het concilie van Trente (1545-1563). De catechismus die in 1623 werd opgesteld door De Pretere sj was een herwerking van een eerste versie uit 1609, opgesteld door Lodewijk Makeblijde sj. Hoewel andere bisdommen in de loop der eeuwen met hun eigen adaptaties op de markt kwamen, bleef bisdom Gent tot in het midden van de twintigste eeuw trouw aan het oorspronkelijke werk. 
 
 De digitale publicatie van dit onvergankelijke werk kan niet anders dan een meerwaarde betekenen, want het blikveld op de katholieke traditie is wel erg eng geworden met dat grote zwarte gat tussen de canonisatie van de Bijbel en Vaticanum II...
@@ -24,7 +32,11 @@ Wie meer wil leren over de geschiedenis van de catechismussen uitgegeven in het 
 
 # De kleine catechismus
 
-Deze catechismus is het grote broertje van de *"kleine catechismus"* die gebruikt werd op de lagere school. Het mag wel blijken dat de onderwijzers op de lagere school met deze 'grote' catechismus aardig wat bagage hadden om hun kinderen die 'kleine' catechismus goed uit te leggen. Anderzijds kan ik me best voorstellen dat deze rigide methode het hen moeilijk maakte om aansluiting te vinden bij de snel veranderende tijdsgeest na de oorlog. 
+<span class=marginnote>
+  <img class=nobox src="resources/kleine-catechismus.jpg">
+  <em>De "kleine catechismus"</em>
+</span>
+Deze catechismus is de grote broer van de *"kleine catechismus",* die gebruikt werd op de lagere school. Het mag wel blijken dat de onderwijzers op de lagere school met deze 'grote' catechismus aardig wat bagage hadden om hun kinderen die 'kleine' catechismus goed uit te leggen. Anderzijds kan ik me best voorstellen dat deze rigide methode het hen moeilijk maakte om aansluiting te vinden bij de snel veranderende tijdsgeest na de oorlog. 
 
 # De aantekeningen
 
@@ -56,6 +68,10 @@ De aantekeningen bevatten tientallen verwijzingen naar hoofdstukken uit een ande
 
 # Persoonlijke aantekeningen
 
+<span class=marginnote>
+  <a href="https://www.andreasboel.be/normal/index.php/diplomajaren/onderwijzers/klas-1931-t-m-1940/306-klas-1937" target="_blank"><img src="resources/cyriel-houben-1937.jpg"></a>
+  <em>Cyriel Houben, afgestudeerd aan de normaalshool van Sint-Niklaas in 1937</em>
+</span>
 Persoonlijke aantekeningen zijn er nauwelijks te vinden. Dat is wel jammer, want mijn grootvader stierf toen ik nog jong was, dus erg goed heb ik hem nooit gekend. Mijn moeder zegt 'dat hij niet graag op het internaat zat' (anecdote: zijn moeder kreeg tijdens zijn verblijf in Sint-Niklaas een derde kind --- eigenlijk zelfs een tweeling, maar één van de kinderen stierf kort na de geboorte --- waarmee hij bij zijn thuiskomst verrast werd). Misschien is dat te merken uit de aantekeningen bij de laatste lessen in 1937, die hij dateerde alsof hij aan het aftellen was, en een triomfantelijk "Einde IVᵉ jaar" bij de laatste les. Op de groepsfoto bij het afstuderen is hij de enige die niet in de camera kijkt... Toch zou hij nog een mooie carrière afleggen als onderwijzer in de gemeentelijke jongensschool van Wommelgem, waar hij graag in het eerste studiejaar les gaf en sinds 1964 hoofdonderwijzer was tot aan zijn pensioen.
 
 A. M. D. G.
