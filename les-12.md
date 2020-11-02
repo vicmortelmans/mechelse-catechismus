@@ -258,8 +258,6 @@ Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Ca
 
 11. Zeg in één woord, uit welke hoofde de H. Kerk de naam van *apostelijk* verdient. — Wat betekenen de woorden: *met ongebroken achtervolging altijd gestaan heeft?* — Sedert wanneer heeft de H. Kerk met ongebroken achtervolging altijd gestaan? — Toon dat de apostoliciteit noodzakelijk eigen is aan de ware Kerk van Christus.
 
-12. Welk is de zin van de vraag: *Wat zijn mirakelen die in de H. Kerk geschieden?* — Hoeveel dingen zijn er vereist tot een *waar mirakel?* — Noem ze met de woorden van de Catechismus.  — Leg iedere voorwaarde uit en verklaar ze door een voorbeeld. — Hoe zijn de mirakelen tekenen van de waarachtige Kerk van Christus? — Is het een eigendom van de waarachtige Kerk mirakelen te hebben?
-
-Hoe komen wij ter kennis, dat de H. Kerk, d. i, de Roomse Katholieke Kerk, die vier eigendommen en tekenen wezenlijk bezit? — Hoe gemakkelijk kunnen wij dat met zekerheid weten?  — Is ieder van deze kentekenen een stellig bewijs van de waarheid van de Kerk, die ze bezit, ofwel moeten zij daartoe samengenomen worden? — Geef rekenschap van uw antwoord.
+12. Welk is de zin van de vraag: *Wat zijn mirakelen die in de H. Kerk geschieden?* — Hoeveel dingen zijn er vereist tot een *waar mirakel?* — Noem ze met de woorden van de Catechismus. — Leg iedere voorwaarde uit en verklaar ze door een voorbeeld. — Hoe zijn de mirakelen tekenen van de waarachtige Kerk van Christus? — Is het een eigendom van de waarachtige Kerk mirakelen te hebben? — Hoe komen wij ter kennis, dat de H. Kerk, d.i. de Roomse Katholieke Kerk, die vier eigendommen en tekenen wezenlijk bezit? — Hoe gemakkelijk kunnen wij dat met zekerheid weten?  — Is ieder van deze kentekenen een stellig bewijs van de waarheid van de Kerk, die ze bezit, ofwel moeten zij daartoe samengenomen worden? — Geef rekenschap van uw antwoord.
 
 

@@ -2,6 +2,9 @@ header, footer, .searchbox {
   text-align: center;
   width: 55%;
 }
+header a, footer a {
+  background: none !important; /* remove underline */
+}
 td {
   vertical-align: middle;
   padding: 3px;
@@ -86,31 +89,31 @@ p > em {
 em em {
   font-style: normal;
 }
-img {
+span img {
   transition: all .3s ease-in;
   position: relative;
   z-index: 1;
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
   border-radius: 5px;
 }
-img.nobox {
+span img.nobox {
   box-shadow: none;
 }
-img:hover {
+span img:hover {
   transition: all .3s ease-in;
   transform: scale(2) translate(-40%,10%);
   position: relative;
   z-index: 2;
 }
-img.small {
+span img.small {
   max-width: 47%;
   float: left;
   margin: 0 3% 3% 0;
 }
-img.small:hover {
+span img.small:hover {
   transform: scale(4) translate(-20%,5%);
 }
-img + em {
+span img + em {
   display: block;
   margin: 10px 0px 20px 0px;
 }
