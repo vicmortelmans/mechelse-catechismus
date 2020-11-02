@@ -1,7 +1,7 @@
 SOURCES = $(wildcard *.md)
 HTMLs = $(patsubst %.md,docs/%.html,$(SOURCES))
 
-all: mkdir copy_cname copy_resources $(HTMLs)
+all: mkdir copy_cname copy_resources copy_sitemap $(HTMLs)
 
 mkdir:
 	mkdir -p docs
@@ -11,6 +11,9 @@ copy_resources:
 
 copy_cname:
 	cp CNAME docs
+
+copy_sitemap:
+	cp sitemap.xml docs
 
 docs/%.html: %.md
 	pandoc -s -c resources/tufte.css -c resources/mc.css --template=template.html -f markdown -t html5 -o $@ $<
