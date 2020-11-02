@@ -1,149 +1,17 @@
-DERTIGSTE LES
-
-Van het Doopsel
-
-# Wat is het Doopsel?
-
-## Het eerste en nodigste Sacrament, in hetwelk, door de uitwendige reiniging en de aanroeping van de H. Drievuldigheid, de mens gezuiverd wordt van alle zonden
-
-V. Waarin bestaat eigenlijk het Sacrament van het Doopsel?
-
-A. Het antwoord doet kennen: 1° de plaats van het Doopsel onder de Sacramenten, 2° zijn uitwendig teken, 3° de bijzondere genade door dit teken betekend en gegeven.
-
-1° De *plaats:* het Doopsel is a) **het eerste Sacrament:** het Sacrament dat vóór al de andere moet ontvangen worden, zodat wij niet een ander mogen, noch zelfs, volgens het algemeen gevoelen van de godgeleerden, kunnen ontvangen, zonder eerst het Doopsel *metterdaad* ontvangen te hebben. De reden hiervan is, dat wij door dit Sacrament tot het bovennatuurlijk leven van de genade geboren worden, en dat alle leven noodzakelijk met de geboorte begint. En, om de andere Sacramenten geldig te kunnen gebruiken, is het niet genoeg het leven van de genade door een volmaakt berouw te hebben verkregen; men moet het H. Sacrament van het Doopsel ontvangen hebben: Christus heeft het zo gewild, omdat zijn Kerk niet enkel een inwendige, maar nog een uitwendige vergadering is, waarom dan ook de leden er van, voor wie al de andere Sacramenten bestemd zijn, door een uitwendig teken in die Kerk moeten ingelijfd en van de ongelovigen onderscheiden worden. Daarenboven, ’t is door het merkteken van het Doopsel dat wij recht verkrijgen om van de andere Sacramenten gebruik te maken, en dat merkteken wordt alleen door het Sacrament van het Doopsel in de ziel geprent, daar slechts daar het ingestelde uitwendig teken te vinden is van hetwelk het inwendig merkteken afhangt. — b) **Het nodigste Sacrament:** het Sacrament dat, ten opzichte van onze zaligheid, nodiger is dan al de andere Sacramenten: zonder deze kan men wel, zonder het Doopsel kan men nooit tot de zaligheid geraken. ([2ᵉ v.](TODO))
-
-2° *Het uitwendig teken:* **de uitwendige reiniging en de aanroeping van de H. Drievuldigheid** samengenomen. Deze reiniging is uit haar natuur dienstig om een zuivering te betekenen, en de woorden die de bedienaar er bij uitspreekt, duiden aan dat zij een zuivering *van de ziel* betekent ([4ᵉ](TODO) en [5ᵉ v.](TODO)). — Van de uitwendige reiniging waar het ten dele uit bestaat, heeft het Doopsel zijn naam ontvangen: *dopen* wileigenlijk zeggen *in het water dompelen;* ook geschiedde, in het begin van de H. Kerk, de uitwendige reiniging met de dopeling in het water te dompelen.
-
-3° *De bijzondere genade* door de uitwendige reiniging en de aanroeping van de H. Drievuldigheid betekend en gegeven, is de *zuivering van de ziel van de onreinheid van de zonden:* **de mens,** zegt de Catechismus, **wordt gezuiverd van alle zonden.** ([7ᵉ v](TODO))
-
-# Aan wie is het Doopsel nodig?
-
-## Aan alle mensen, die de genade Gods willen bekomen, en tot de eeuwige zaligheid geraken
-
-A. Het Doopsel is nodig **aan alle mensen** zonder uitzondering, **die de genade Gods:** die de vergiffenis van de erfzonde en van alle andere voorgaande zonden met de staat van heiligmakende genade **willen bekomen,** en zo, na in zulken staat gestorven te zijn, **tot de eeuwige zaligheid** of de hemel willen **geraken.**
-
-Iedereen heeft dus het Doopsel volstrekt ter zaligheid nodig, doch moet het niet altijd *metterdaad* ontvangen: als zulks onmogelijk is, kan het Sacrament of het *Doopsel van water* vervangen worden door het *doopsel van begeerte* of door het *doopsel van bloed.* Het doopsel van begeerte bestaat in een volmaakte liefde tot God met de uitdrukkelijke of ingeslotene begeerte van het Sacrament van het Doopsel op bekwamen tijd te ontvangen. Het doopsel van bloed is de marteldood voor het Geloof of een andere christene deugd geleden, en gepaard, bij degenen die tot de jaren van verstand gekomen zijn, met ten minste een onvolmaakte liefde tot God.  Dus kunnen de kinderen die de jaren van verstand nog niet bereikt hebben, vergiffenis van de erfzonde bekomen door het Sacrament van het Doopsel en door de marteldood; de andere mensen, door dezelfde middelen en ook door het doopsel van begeerte. Men neme echter goed in acht dat het doopsel van begeerte noch het doopsel van bloed geenszins de dopeling ontslaat van later, bij gepaste gelegenheid, het Sacrament te ontvangen, daar het een noch het ander het merkteken van het Doopsel inprent, noch de dopeling uitwendig lid van de H. Kerk maakt; zij vervangen slechts het Sacrament voor wat het instorten van de heiligmakende genade betreft. De marteldood nochtans vergeeft ook, gelijk het Sacrament, alle tijdelijke pijnen.
-
-# Wien staat het toe te dopen 
-
-## ’t Is het ambt van de priester; in de nood nochtans mag iedereen dopen
-
-V. Mag elkeen het Doopsel toedienen, ofwel behoort dit aan sommige bijzondere personen?
-
-A. **'t Is het ambt van de priester:** de priester is de gewone bedienaar van het Doopsel, en hem alleen komt, buiten de nood, de bediening van dit Sacrament toe; — **in de nood nochtans:** als er gevaar is dat iemand zonder Doopsel zou sterven, moest men naar een priester wachten, — **mag iedereen dopen:** mag elkeen ‘t zij man of vrouw, 't zij gelovige of ongelovige het Doopsel bedienen, als hij maar het gebruik van zijn verstands heeft en kan doen wat ter zake vereist is: dat heeft Christus gewild, omdat het H. Doopsel het nodigste is van al de Sacramenten.
-
-De Catechismus zegt: in de nood nochtans *mag,* en niet *kan* iedereen dopen, omdat elkeen in alle omstandigheden het Doopsel geldig *kan,* maar alleen in de nood wezenlijk *mag* toedienen.
-
-# Waarmede moet men dopen?
-
-## Met waarachtig en natuurlijk water, als met putwater, regenwater, fonteinwater, zeewater
-
-V. Waarmede moet de reiniging in het Doopsel geschieden?
-
-A. Zij moet geschieden **met water,** en dat water moet zijn 1° **waarachtig** d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° **natuurlijk:** overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is **putwater, regenwater, fonteinwater, zeewater.**
-
-De reiniging met *water* is tot de geldigheid van het Saecrament vereist; alleen in de nood mag men een twijfelachtige stof gebruiken, en dan moet men nadien, als het mogelijk is, op conditie herdopen.
-
-De H. Kerk wijdt doopwater of, zo men zegt, wijdt de doopvont op Paas- en Pinksteravond. Nooit is het gebruik van zulk water nodig tot de geldigheid van het Doopsel, maar, volgens het gebod van de H. Kerk, is het verplichtend bij de plechtige bediening van dit Sacrament. In de nood behoort men dat water te gebruiken, als het mogelijk is.
-
-# Welke woorden moet men spreken in het Doopsel?
-
-## Deze (zonder dewelke het Doopsel van gener waarde zou zijn): Ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest
-
-A. Die woorden zijn **deze (zonder dewelke het Doopsel van gener waarde zou zijn):** zonder dewelke het Doopsel geenszins zou bestaan of geen Sacrament van het Doopsel zou wezen, en bijgevolg zonder conditie zou moeten herhaald worden): **ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest.** Deze formule bevat 1° de werking van dopen: *ik doop u,* en 2° het verrichten van die werking onder het aanroepen van de h. drievuldigheid: *in de naam van de vader, en van de zoon, en van de h. geest* ([2ᵉ les, v. 7](les-02.html#hoe-belijden-wij-door-het-maken-van-het-heilig-kruis-de-menswording-van-christus)). zij bepaalt en voltrekt de betekenis van de reiniging, en maakt er zo het uitwendig teken van het doopsel mee uit. uit hoofde van dit verband moet de aanroeping van de h. drievuldigheid en de reiniging op één en dezelfde tijd en door één en dezelfde bedienaar geschieden.
-
-# mag men tweemaal gedoopt worden?
-
-## dit is ongeoorloofd, tenware op conditie, als men met reden twijfelt of men gedoopt zij
-
-a. iemand tweemaal dopen, **dat is ongeoorloofd:** dat is, streng verboden en dat maakt een heiligschenderij uit, daar het doopsel, om reden van het merkteken dat het in de ziel prent, maar ééns mag ontvangen worden, — **tenware op conditie:** ten ware het tweede doopsel slechts toegediend werd op voorwaarde dat men nog niet geldig gedoopt zij; want dan zou men geen tweemaal het doopsel ontvangen; is men immers al gedoopt, dan heeft de bedienaar de wil niet nog eens te dopen. nu, men mag op conditie herdoopt worden, **als men met reden twijfelt of men gedoopt zij:** als men, niet uit een ongegronde vrees, maar om goede redens denkt, dat men misschien op gener wijze, of toch niet geldig gedoopt is.
-
-# wat krijgen wij door het doopsel?
-
-## vergiffenis van de erfzonde en van alle andere voorgaande zonden, en ook van de pijnen daartoe staande
-
-v. in het antwoord op de eerste vraag hebben wij geleerd, dat de mens door het doopsel gezuiverd wordt van alle zonden; hier nu vraagt de catechismus meer *specifiek,* welke de bijzondere genade van het doopsel is.
-
-a. door het doopsel krijgen wij:
-
-1° **vergiffenis van de erfzonde:** ([14ᵉ les, v. 2](les-14.html#door-wat-middel-wordt-ons-de-erfzonde-vergeven) en [37ᵉ, v. 5](todo)).
-
-2° **en van alle andere voorgaande zonden:** van al de dadelijke zonden die wij, reeds tot de jaren van verstand gekomen, vóór ons doopsel zouden bedreven hebben; het doopsel is immers het eerste sacrament, en mag maar ééns ontvangen worden, waaruit volgt dat het uitsluitend de dadelijke zonden kan vergeven, waar de dopeling zich vóór zijn doopsel schuldig aan gemaakt heeft.
-
-3° **en ook van de pijnen daartoe staande:** dus niet enkel van de eeuwige en van die tijdelijke pijnen, welke altijd vergeven worden met de zonde die ze verdiend heeft, maar ook van al de pijnen die men nog dikwijls, na de vergiffenis van de zonde, moet uitboeten. christus heeft gewild dat het doopsel niet alleen al de zonden, maar ook al de pijnen zou vergeven, omdat de middel waardoor de mens tot het geestelijk leven herboren wordt, de kracht dient te hebben om dit leven ten volle te schenken. de gedoopten nochtans blijven aan de dood, de onwetendheid, de begeerlijkheid des vlees en de menigvuldige ellenden van de wereld onderworpen; doch, zijn al die kwalen bij hen nog *gevolgen* van de erfzonde, toch zijn het geen *pijnen* meer tot uitboeting dier zonde te lijden. het doopsel neemt ze niet weg, 1° omdat de orde in de wereld onmogelijk zou wezen, stonden zij de ongedoopten alleen te wachten ; 2° omdat dikwijls de mensen zich anders uitsluitend zouden laten dopen, om van die kwalen verlost te zijn; 3° omdat de toestand waarin zij ons brengen, ons allerbest leert wat de zonde is, en gelegenheid geeft om veel verdiensten te verzamelen; 4° omdat het niet betaamde ons zonder enig lijden de hemel te geven, terwijl christus, onze middelaar, voor ons zoveel heeft moeten lijden.
-
-te gelijk met de vergiffenis van de erfzonde en van de voorgaande zonden bekomen wij de *heiligmakende genade,* die er, in de bovennatuurlijke orde waar wij in leven, onafscheidbaar van is, alsook *het recht tot de dadelijke genaden* en *het merkteken* dat ons bekwaam maakt om de andere sacramenten te ontvangen.
-
-thans valt het niet moeilijk te bepalen waarin, onder opzicht van zijn uitwerksels het doopsel verschilt van de overige sacramenten: het verschilt van al de sacramenten van de levenden hierdoor, dat het rechtstreeks, niet de vermeerderiug van de heiligmakende genade, maar de vergiffenis van de zonden schenkt, en hierin komt het overeen met de biecht; het verschilt echter ook van dit laatste sacrament door de zonden die het vergeeft, en door de manier waarop het deze vergeeft: het doopsel verwerft ons vergiffenis van de erfzonde en van de dadelijke zonden die vóór het ontvangen van dit sacrament bedreven werden; de biecht integendeel, vergiffenis van de zonden die na het doopsel gedaan zijn. het eerste sacrament vergeeft al de pijnen van de zonden en prent ook een merkteken in de ziel, terwijl het laatste niet altijd al de schuld van tijdelijke pijnen wegneemt, noch enig merkteken in de ziel prent.
-
-# welk is de plicht van peters of meters, die gebruikt worden in het doopsel, en ook in het vormsel?
-
-## te zorgen dat degenen, die zij geheven, of tot het vormsel geleid hebben, onderwezen worden in hetgeen de zaligheid aangaat; immers als de ouders hun plicht niet zouden doen
-
-v. **peter** (vader) en **meter** (moeder) worden in het doopsel en het vormsel gebruikt, omdat wij door het eerste sacrament tot het geestelijk leven geboren, en door het andere tot de volwassenheid van dat leven gebracht worden, en daarbij dus geestelijke vaders en moeders behoren te hebben.
-
-a. de plicht van peters en meters is, te bezorgen — **dat degenen die zij geheven of tot het vormsel geleid hebben:** dat degenen van wie zij peter of meter geworden zijn met ze, door het opleggen van de hand, boven de doopvont te houden, of ze tot de bedienaar van het vormsel te leiden, **onderwezen worden — in hetgeen de zaligheid aangaat:** in hetgene zij moeten weten of doen om zalig te worden; **immers als de ouders hun plicht niet zouden doen:** als de ouders hen in de zaken van de zaligheid niet genoeg zouden onderwijzen; in dit geval zijn de peters en de meters daartoe met zekerheid gehouden.
-
-# wat bereiding is er van node tot het doopsel?
-
-## die tot hun verstand gekomen zijn, moeten onderwezen zijn in het geloof, en leedwezen hebben van hun zonden
-
-v. wat is er van node opdat de dopelingen het doopsel niet alleen geldig, maar met al zijn vruchten zouden ontvangen? — om dit sacrament geldig of met zijn merkteken te ontvangen, is er van de dopelingen slechts vereist, en nog maar van deze die tot hun verstand gekomen zijn, dat zij de wil hebben van gedoopt te worden.
-
-a. de catechismus onderscheidt hier twee klassen van dopelingen: de een die nog niet, en de andere die reeds het gebruik huns verstands hebben, van de eerste is niets geëist, weshalve de kleine kinderen, al zijn zij onbekwaam zich enigszins te bereiden, toch al de vruchten van het sacrament verkrijgen. maar **die tot hun verstand gekomen zijn** moeten niet alleen hun vier punten kennen, maar nog wel:
-
-1° **onderwezen zijn in het geloof** of de christelijke leer; door het doopsel immers worden zij leden van de h. kerk en moeten bijgevolg, vooraleer dit sacrament te ontvangen met de plichten van die staat bekend zijn. in de nood nochtans is het genoeg hun de vier punten voor te stellen.
-
-2° ten minste een onvolmaakt **leedwezen hebben van hun** dodelijke en dagelijkse **zonden,** vermits geen dadelijke zonden zonder leedwezen kunnen vergeven worden. van de erfzonde moeten zij geen waar berouw hebben, daar zij deze niet met hun eigenen wil hebben bedreven. nochtans moet hun die zonde mishagen, omdat zij hen vijanden van god maakt en die heeft oneer aangedaan. mishaagde hun de erfzonde niet, of hadden zij geen leedwezen over hun doodzonden, dan zouden zij geen vergiffenis, noch bijgevolg de heiligmakende genade bekomen. hadden zij enkel geen genoegzaam leedwezen over hun dagelijkse zonden, zij zouden de heiligmakende genade ontvangen, maar die dagelijkse zonden waar zij aan vastgekleefd blijven, zouden hun niet vergeven worden, om dus door het doopsel gezuiverd te worden van alle zonden en schulden, en, in geval van sterven, de hemel rechtstreeks binnen te treden, moeten de dopelingen die tot de jaren van verstand gekomen zijn, leedwezen hebben over al hun zonden, zonder uitzondering.
-
-# waartoe dienen al de ceremoniën, die in het doopsel gebruikt worden?
-
-## tot onderwijzing en betoning van de kracht en uitwerking van het doopsel
-
-a. zij dienen **tot onderwijzing en betoning** (die onderwijzing geschiedt deels door betoning of zinnebeeldige voorstelling) **van de kracht en uitwerking van het doopsel:** de ceremoniën die het doopsel voorafgaan, betekenen er eigenlijk de kracht van, terwijl de andere die daarop volgen, er de uitwerksels van doen uitschijnen.
-
-### aanmerking
-
-het uitwendig teken van het doopsel, namelijk, de uitwendige reiniging en de aanroeping van de h. drievuldigheid, leert ons dat het doopsel voor uitwerksel heeft de eerste en volledige vernieuwing van de mens van de staat van zonde tot. het bovennatuurlijk leven van de genade, dat het bijgevolg de erfzonde, de voorgaande zonden en al de pijnen daartoe staande vergeeft, het leven van de genade in de ziel stort en daarin ook het merkteken van christen mens prent. maar is het de geboorte in het geestelijk leven, dan is het ook het eerste en nodigste sacrament; maakt het een middel ter zaligheid uit, dan verplicht bet de gedoopten als christen mensen te leven, en daarom moeten de dopelingen die het gebruik huns verstands hebben, in het geloof onderwezen zijn; vergeeft het de zonden, zo moeten de dopelingen er leedwezen over hebben; en prent het in de ziel een eeuwig en altijddurend merkteken, dan mag het, tenware op conditie, niet meer dan ééns ontvangen worden.
-
-### vragen
-
-waarvan handelt deze les? — geef in 't kort haar verdeling.
-
-1. zeg, met de woorden van de catechismus: a) welke plaats het doopsel onder de sacramenten bekleedt; b) uit welk uitwendig teken het bestaat; c) welk uitwerksel het heeft. — leg die woorden uit.
-
-2. zeg, met de woorden van de catechismus: a) aan welke personen het doopsel nodig is, en 5) waartoe het hun nodig is. — verklaar die woorden. — moet men het doopsel altijd metterdaad ontvangen om de zaligheid te kunnen bekomen? — welke middelen kunnen het doopsel soms vervangen? — waarin bestaan zij? — hoe noemt men deze middelen en waarom? — vervangen zij ten volle het sacrament van het doopsel, en ontstaan zij van de plicht van het sacrament van het doopsel te ontvangen? — geef rekenschap van het antwoord. — welk bijzonder uitwerksel van het sacrament van het doopsel behoort ook aan de marteldood?
-
-3. wiens ambt is het 't doopsel te bedienen? — verklaar deze uitdrukking: *het ambt van het doopsel te bedienen.* — wie mag in de nood dopen? — wat verstaat men hier door *nood?* — waarom heeft christus het recht van dopen niet aan de priesters alleen voorbehouden? — waarom zegt de catechismus niet *kan iedereen dopen,* maar *mag iedereen dopen?* — wie kan dus geldig dopen, en wie mag dopen? — hoe blijkt christus’ wijsheid in hetgeen hij vastgesteld heeft nopens de bedienaar van het doopsel in de nood?
-
-4. met welke stof moet men dopen? — zeg, met de woorden van de catechismus, hoedanig deze stof moet zijn. — verklaar deze woorden. — welke voorbeelden geeft de catechismus van onbetwijfelbare goede stof tot het doopsel? — geef voorbeelden van stoffen, die de hoedanigheid, door de catechismus vereist, niet bezitten. — hoe heeft christus zijn wijsheid getoond met de gezegde stof tot het uitwendig teken van het doopsel aan te nemen? — mag men ooit met een twijfelachtige stof het doopsel toedienen? — waarop moet men dan letten? — wat heeft de h. kerk nopens het water van het doopsel ingesteld en geboden? — geldt dit gebod ook in de nood?
-
-5. zeg de formule welke de bedienaar in het doopsel moet uitspreken. — zeg, met de woorden van de catechismus, hoe deze formule tot het doopsel vereist is, en verklaar ze. — wat vinden wij in deze formule? — wanneer moet deze formule uitgesproken worden, waarom in die ogenblik en door wien?
-
-6. wat verstaat men door: herdoopt worden *op conditie?* — mag men ooit zonder conditie herdoopt worden? — geef er de reden van. — mag men ooit op conditie herdoopt worden? — zeg, met de woorden van de catechismus, wanneer dit mag geschieden en leg die woorden uit. — breng dit antwoord overeen met de leer die zegt, dat het doopsel niet meermaals mag ontvangen worden.
-
-7. noem, met de woorden van de catechismus, de verschillende uitwerksels van het doopsel. — leg ze uit. — welke andere uitwerksels gaan met deze gepaard? — hoe verschilt het doopsel, door die uitwerksels, van de sacramenten van de levenden en van het sacrament van de biecht? — waarom betaamt het dat het doopsel al de pijnen van de zonden vergeve? — neemt het doopsel ook al de gevolgen van de erfzonde weg? — geef er de reden van.
-
-8. wat betekenen de woorden *peter* en *meter?* — waarom worden zij gebruikt in het doopsel en in het vormsel? — zeg, met de woorden van de catechismus, waartoe zij verplicht zijn, — wat betekenen de woorden: die zij geheven of tot het vormsel geleid hebben? — wanneer moeten zij deze plicht vervullen?
-
-9. geef de zin van de vraag: *wat bereiding is er van node tot het doopsel?* — wat is er in de dopeling vereist om het doopsel geldig te ontvangen? — welke klassen van personen zijn er te onderscheiden, als er spraak is van de vereiste bereiding tot het doopsel? — in wie is er tot dit sacrament bereiding nodig? — zeg, met de woorden van de catechismus, welke bereiding er in hen nodig is, — leg die woorden uit. — geef de reden van die vereiste bereiding. — wat is er in iemand, die tot de jaren van verstand gekomen is, vereist, opdat hij door het doopsel gans gezuiverd zou worden van alle zonden en schulden.
-
-10. waartoe dienen de *ceremoniën* ten opzichte van de kracht en de uitwerking van het doopsel? — hoe onderwijzen zij ons nopens die kracht en uitwerking? — welke ceremoniën onderwijzen ons nopens de kracht en welke nopens de uitwerking?
-
 
 een en dertigste les
 
 van het vormsel
 
-# wat is het vormsel?
+# Wat is het vormsel?
 
-## een sacrament, dat van de bisschop wordt gegeven aan degenen die gedoopt zijn, in hetwelk, door de zalving en de heilige woorden, genade en sterkte wordt gegeven om het geloof vast te belijden
+## Een sacrament, dat van de bisschop wordt gegeven aan degenen die gedoopt zijn, in hetwelk, door de zalving en de heilige woorden, genade en sterkte wordt gegeven om het geloof vast te belijden
 
-a. het antwoord leert ons kennen 1° de bedienaar van dit sacrament, 2° de personen voor wie het bestemd is, 3° zijn uitwendig teken en 4° zijn uitwerksel.
+A. Het antwoord leert ons kennen 1° de bedienaar van dit sacrament, 2° de personen voor wie het bestemd is, 3° zijn uitwendig teken en 4° zijn uitwerksel.
 
-1° *de bedienaar:* het vormsel is **een sacrament dat van de bisschop wordt gegeven:** de bisschoppen zijn de gewone bedienaars van het vormsel; doch ook enkele priesters kunnen en mogen het toedienen, als zij van de paus daartoe gemachtigd zijn. christus heeft gewild dat het een zo edele bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdeels om de gewichtigheid van zijn uitwerksel, namelijk, van de volwassenheid in het geestelijk leven, beter te doen uitschijnen.
+1° *De bedienaar:* het vormsel is **een sacrament dat van de bisschop wordt gegeven:** de bisschoppen zijn de gewone bedienaars van het vormsel; doch ook enkele priesters kunnen en mogen het toedienen, als zij van de paus daartoe gemachtigd zijn. Christus heeft gewild dat het een zo edele bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdeels om de gewichtigheid van zijn uitwerksel, namelijk, van de volwassenheid in het geestelijk leven, beter te doen uitschijnen.
 
-2° *de personen voor wie het vormsel bestemd is:* het wordt gegeven **aan degenen die gedoopt zijn.** ([3ᵉ v.](TODO))
+2° *De personen voor wie het vormsel bestemd is:* het wordt gegeven **aan degenen die gedoopt zijn.** ([3ᵉ v.](TODO))
 
 3° *Zijn uitwendig teken:* **de zalving** die de bisschop op het voorhoofd van de vormeling doet, **en de heilige woorden** die hij ondertussen uitspreekt, te weten: « Ik teken u met het teken des H. Kruis en vorm u met het Chrisma van de zaligheid. In de naam van de Vader, en van de Zoon, en van de H. Geest. » ([5ᵉ v.](TODO))
 

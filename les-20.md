@@ -157,6 +157,7 @@ Opzichtens de *wijze* waarop zij gebeurden, verschillen deze drie bekendmakingen
   <img src="resources/2010a.jpg">
   <em>Men heeft de tien geboden veranderd. Van de twee eerste geboden heeft men er één gemaakt, en het laatste heeft men in twee delen gesplitst, wat nu het 9ᵉ en het 10ᵉ gebod is. Door die twee veranderingen heeft men er toch nog tien behouden.</em>
   <img src="resources/2010b.jpg">
+  <em>Wat moet ons bijzonder aansporen tot volmaakte getrouwheid aan de geboden? 1) Eerbied voor God: Hij is de Meester, wat de redeloze niet willoos doet, doen wij uit vrie wil. 2) Liefde tot God, Schepper, Verlosser, Einddoel. 3) Dankbaarheid. 4) Ons eigen belang: Natuurlijk voor de goede gang op de wereld.</em>
 </span>
 1. Ik ben de Heer uw God; gij zult geen vreemde goden hebben vóór mijne ogen. Gij zult u geen gesneden beeld noch enige gelijkenis maken. Gij zult die niet aanbidden noch godsdienstig eren.
 
