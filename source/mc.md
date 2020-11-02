@@ -1,831 +1,381 @@
-VIERDE DEEL
+DERTIGSTE LES
 
-NEGEN EN TWINTIGSTE LES
+Van het Doopsel
 
-Van de HH. Sacramenten
+# Wat is het Doopsel?
 
-Na gesproken te hebben van het Geloof, de Hoop en de Liefde, zal de Catechismus handelen van de HH. Sacramenten of van de uitwendige middelen, door Christus ingesteld ten einde ons de hoedanigheden en krachten te verschaffen die wij nodig hebben om in God te geloven, op Hem te hopen en Hem te beminnen. gelijk onze zaligheid het vereist.
+## Het eerste en nodigste Sacrament, in hetwelk, door de uitwendige reiniging en de aanroeping van de H. Drievuldigheid, de mens gezuiverd wordt van alle zonden
 
-1. V. Wat is een Sacrament?
+V. Waarin bestaat eigenlijk het Sacrament van het Doopsel?
 
-A. Een uitwendig teken, van Christus ingesteld,
-betekenende een bijzondere gratie, die ons door hetzelve gegeven wordt.
-— 251 —
+A. Het antwoord doet kennen: 1° de plaats van het Doopsel onder de Sacramenten, 2° zijn uitwendig teken, 3° de bijzondere genade door dit teken betekend en gegeven.
 
-V. Waarin bestaat een Sacrament van de Nieuwe Wet? —
-Sacrament betekent eigenlijk niets anders dan heilige zaak,
-iets dat de godsdienst is toegewijd; maar. van in het begin van de Kerk is dit woord algemeen aangenomen in de zin van het hier gegeven antwoord,
+1° De *plaats:* het Doopsel is a) **het eerste Sacrament:** het Sacrament dat vóór al de andere moet ontvangen worden, zodat wij niet een ander mogen, noch zelfs, volgens het algemeen gevoelen van de godgeleerden, kunnen ontvangen, zonder eerst het Doopsel *metterdaad* ontvangen te hebben. De reden hiervan is, dat wij door dit Sacrament tot het bovennatuurlijk leven van de genade geboren worden, en dat alle leven noodzakelijk met de geboorte begint. En, om de andere Sacramenten geldig te kunnen gebruiken, is het niet genoeg het leven van de genade door een volmaakt berouw te hebben verkregen; men moet het H. Sacrament van het Doopsel ontvangen hebben: Christus heeft het zo gewild, omdat zijn Kerk niet enkel een inwendige, maar nog een uitwendige vergadering is, waarom dan ook de leden er van, voor wie al de andere Sacramenten bestemd zijn, door een uitwendig teken in die Kerk moeten ingelijfd en van de ongelovigen onderscheiden worden. Daarenboven, ’t is door het merkteken van het Doopsel dat wij recht verkrijgen om van de andere Sacramenten gebruik te maken, en dat merkteken wordt alleen door het Sacrament van het Doopsel in de ziel geprent, daar slechts daar het ingestelde uitwendig teken te vinden is van hetwelk het inwendig merkteken afhangt. — b) **Het nodigste Sacrament:** het Sacrament dat, ten opzichte van onze zaligheid, nodiger is dan al de andere Sacramenten: zonder deze kan men wel, zonder het Doopsel kan men nooit tot de zaligheid geraken. ([2ᵉ v.](TODO))
 
-A. Tot een Sacrament zijn vier dingen vereist:
+2° *Het uitwendig teken:* **de uitwendige reiniging en de aanroeping van de H. Drievuldigheid** samengenomen. Deze reiniging is uit haar natuur dienstig om een zuivering te betekenen, en de woorden die de bedienaar er bij uitspreekt, duiden aan dat zij een zuivering *van de ziel* betekent ([4ᵉ](TODO) en [5ᵉ v.](TODO)). — Van de uitwendige reiniging waar het ten dele uit bestaat, heeft het Doopsel zijn naam ontvangen: *dopen* wileigenlijk zeggen *in het water dompelen;* ook geschiedde, in het begin van de H. Kerk, de uitwendige reiniging met de dopeling in het water te dompelen.
 
-i° Een uitwendig teken: een teken is iets dat ons tot de kennis brengt van een andere zaak (2e les, 3° v.); een witwendig teken is een teken dat wij met onze zinnen kunnen waarnemen. Zo is het kostuum van de priesters een teken,
-omdat het ons de priesterlijke waardigheid doet kennen van de personen die het dragen; het is een uitwendig teken,
-omdat wij het met onze ogen zien.
+3° *De bijzondere genade* door de uitwendige reiniging en de aanroeping van de H. Drievuldigheid betekend en gegeven, is de *zuivering van de ziel van de onreinheid van de zonden:* **de mens,** zegt de Catechismus, **wordt gezuiverd van alle zonden.** ([7ᵉ v](TODO))
 
-2e Een uitwendig teken — van Christus ingesteld: van Christus, onze Zaligmaker tot een zekere betekenis aangenomen. Waarom: een Sacrament van Christus zelf moet ingesteld zijn, zal aanstonds blijken.
+# Aan wie is het Doopsel nodig?
 
-3e Een uitwendig teken… betekenende een bijzondere gratie die gegeven wordt. Hetgene een Sacrament ons doet kennen, is dus een gratie die daar gegeven wordt,
-en niet een onbepaalde, maar een bijzondere, een bijzondere en bepaalde, voor elk Sacrament verschillende gratie.
-Zo drukt b.v. de absolutie van de priester in de Biecht een gratie uit die daar gegeven wordt, en wel een bijzondere,
-namelijk, de vergiffenis van de zonden die na het doopsel bedreven zijn. Ook de H. Communie betekent een bijzondere gratie, maar een andere die haar eigen is, te weten, de geestelijke spijzing van de ziel.
+## Aan alle mensen, die de genade Gods willen bekomen, en tot de eeuwige zaligheid geraken
 
-Onder de naam van gratie komt hier: a) de heiligmakende gratie, zijnde, samen met de haar altijd vergezellende bovennatuurlijke deugden en gaven van de H. Geest (39° les,
-vr. 2), een bijblijvende hoedanigheid en geschiktheid van de ziel die ons, op een wijze welke aan niet één schepsel toebehoort, aan het verstandelijk leven (aan de wetenschap en de heiligheid) Gods deelachtig en zo heilig maakt, en ons van de staat van enkele dienaren tot de waardigheid van kinderen Gods en erfgenamen van de hemel verheft; — b) de dadelijke gratie, bestaande in een voorbijgaande bovennatuurlijke verlichting van het verstand en een dergelijke beweging van de wil, die beide ons tot het goed aandrijven, ons helpen in
-— 252 —
+A. Het Doopsel is nodig **aan alle mensen** zonder uitzondering, **die de genade Gods:** die de vergiffenis van de erfzonde en van alle andere voorgaande zonden met de staat van heiligmakende genade **willen bekomen,** en zo, na in zulken staat gestorven te zijn, **tot de eeuwige zaligheid** of de hemel willen **geraken.**
 
-dit te willen en ten uitvoer te brengen. Zij wordt gegeven voor een werk, voor een daad in ’t bijzonder, duurt bijgevolg niet langer dan dit werk, dan die daad: vandaar haar naam van werkelijke of dadelijke gratie; — c) het merkteken dat enige Sacramenten in de ziel prenten, en dat gelegen is in een geestelijke en bijgevolg onzichtbare hoedanigheid die ons wel niet, gelijk de deugd, genegen maakt tot het goed,
-maar bijzonder bekwaam om de Sacramenten te hedienen of te ontvangen, en ons 200 onderscheidt van alle andere mensen die deze hoedanigheid niet hebben. Het merkteken mag zeer wel onder de naam van gratie, genomen in wijderen zin, verstaan worden, vermits het een bovennatuurlijke gave is, en recht geeft tot dadelijke gratiën die aan zijn bestemming beantwoorden.
+Iedereen heeft dus het Doopsel volstrekt ter zaligheid nodig, doch moet het niet altijd *metterdaad* ontvangen: als zulks onmogelijk is, kan het Sacrament of het *Doopsel van water* vervangen worden door het *doopsel van begeerte* of door het *doopsel van bloed.* Het doopsel van begeerte bestaat in een volmaakte liefde tot God met de uitdrukkelijke of ingeslotene begeerte van het Sacrament van het Doopsel op bekwamen tijd te ontvangen. Het doopsel van bloed is de marteldood voor het Geloof of een andere christene deugd geleden, en gepaard, bij degenen die tot de jaren van verstand gekomen zijn, met ten minste een onvolmaakte liefde tot God.  Dus kunnen de kinderen die de jaren van verstand nog niet bereikt hebben, vergiffenis van de erfzonde bekomen door het Sacrament van het Doopsel en door de marteldood; de andere mensen, door dezelfde middelen en ook door het doopsel van begeerte. Men neme echter goed in acht dat het doopsel van begeerte noch het doopsel van bloed geenszins de dopeling ontslaat van later, bij gepaste gelegenheid, het Sacrament te ontvangen, daar het een noch het ander het merkteken van het Doopsel inprent, noch de dopeling uitwendig lid van de H. Kerk maakt; zij vervangen slechts het Sacrament voor wat het instorten van de heiligmakende genade betreft. De marteldood nochtans vergeeft ook, gelijk het Sacrament, alle tijdelijke pijnen.
 
-4o Ken uitwendig teken… hetekenende een bijzondere gratie die ons door hetzelve (door dat teken) gegeven wordt. Om een Sacrament van de Nieuwe Wet te wezen, moet dus het uitwenaig teken van Christus ingesteld niet enkel een bijzondere gratie betekenen, maar nog door zichzelf en afgezien van de verdiensten des bedienaars of van degenen.
-die het ontvangen, de kracht hebhen van God te bewegen om ons de betekende gratie in de ziel te storten. Christus’ Sacramenten hebben die kracht, daar zij in zijn naam bediend en dusvolgens als zijn werken moeten beschouwd worden. Kwam Hij zelf een Sacrament toedienen, voorzeker zou dit, uit hoofde van de goddelijke waardigheid van zijn bedienaars, de kracht hebben om God tot het geven van de betekende gratie te bewegen; maar of Christus dit door zichzelf doet,
-af door zijn afgezant, dat komt overeen uit. Thans is het ook gemakkelijk om verstaan dat de Sacramenten, om genoemde kracht te hebben, van Christus moeten ingesteld zijn.
+# Wien staat het toe te dopen 
 
-Uit het voorgaande blijkt dat het. Kruisteken geen Sacrament is: het beantwoordt aan de eerste voorwaarde, zeer waarschijnlijk aan de tweede. maar niet aan de derde noch aan de vierde: het is niet ingesteld om een bijzondere gratie te betekenen, noch om zulke door zichzelf te geven; zijn uitwerksel hangt helen gans af van het goed werk dat wij er door Gods gratie mee doen. Kvenmin was het doopsel van de H. Joannes Baptista een Sacrament: wel was het een uitwendig teken, namelijk van boetvaardigheid, maar het
-— 253 —
-
-voldeed aan geen van de drie overige voorwaarden: de vergiffenis van de zonden die men daarhij verkreeg, moet niet aan de kracht van het doopsel, maar wel aan het leedwezen van de doopelingen toegeschreven worden. Ons H., Doopsel echter is een waar Sacrament: het bestaat a) in een uitwendig teken,
-namelijk, de uitwendige wassching en de aanroeping van de H. Drievuldigheid; b) dit uitwendig teken is, volgens de getuigenis van het H. Evangelie, door Christus ingesteld, en dat c) om een bijzondere gratie te betekenen die daar gegeven wordt, te weten, de vergiffenis van de erfzonde en van alle voorgaande zonden. en d) om die gratie door zichzelf en afgezien van de verdiensten des doopers of van de doopelingen in de ziel te storten; iedereen immers kan ze ontvangen, al was de dooper in staat van doodzonde, en een klein kind, al is het buiten staat iets te verdienen.
-
-2. V. Hoeveel Sacramenten zijn er?
-A. Zeven.
-
-Â. Er bestaan dus zeven verschillende uitwendige tekenen van Christus ingesteld om een bijzondere gratie te betekenen en door zichzelf te geven.
-
-Christus kon ons ook zonder de Sacramenten zijn gratie mededelen; doch in zijn opperste wijsheid heeft Hij ze daartoe willen instellen: 1° om aldus de zo nodigen uitwendigen godsdienst te bevorderen; 2° om ous meerdere zekerheid te geven nopens het ontvangen van de gratie; 39 om ons daardoor vele deugden te doen oefenen zoals het geloof,
-de godsdienstigheid, de ootmoedigheid, de sterkte, vooral die tegen het menselijk opzicht; 4e om ons beter te leren wat de Sacramenten in ons uitwerken, en 5° om door hun gebruik de gelovigen in een geestelijke gemeente, in een kerk te verenige.
-
-3. V. Zeg de Zeven Sacramenten.
-
-A. 1. Het Doopsel. 2. Het Vormsel. 3. Het Heilig Sacrament des Altaars. 4. De Biecht. 5. Het Heilig Oliesel. 6. Het Priesterschap. 7. Het Huwelijk.
-— 254 —
-
-A. Door de Zeven HH. Sacramenten heeft Christus ten volle in al de behoeften van het geestelijk leven voorzien: dit leven immers is ingericht in overeenkomst met het lichamelijk leven. Bijgevolg, ook onder opzicht van het geestelijk leven, moeten wij eerst en vooral geboren worden of het leven ontvangen: hiertoe dient het H. Doopsel; ten tweede, opgroeien en dat leven ten volle bekomen: dit geschiedt door het Vormsel; ten derde, spijs gebruiken om ons leven te bewaren: die spijs vinden wij in het H. Sacrament des Altaars;
-ten vierde een geneesmiddel hebben tegen de ziekte van de zonden: zulk een geneesmiddel is het H. Sacrament van de Biecht;
-ten vijfde, bijzonderen onderstand krijgen in het uur van de dood: die verschaft ons het H. Oliesel; ten zesde, in gemeenschap zijn met andere mensen, met hen een maatschappij, een Kerk uitmaken, en bijgevolg onder het gezag en het bestuur van oversten staan: deze oversten worden gezalfd in het H. Sacrament van het Priesterschap; eindelijk ten zevende, moet in de duur van de H. Kerk voorzien worden,
-nieu we gelovigen dus moeten de plaats innemen van degenen die afsterven: daartoe heeft Christus het Huwelijk ingesteld.
-
-4. V. Waaruit hebben wij, dat er zeven Sacramenten zijn, noch minder noch meer?
-
-A. Uit de gedurige leer en Overlevering van de H. Kerk.
-
-V. Waaruit weten wij met zekerheid, dat Christus zeven verschillende Sacramenten ingesteld heeft, noch minder noch meer?
-
-A. Wij weten dat met volle zekerheid:
-
-ie Uit de gedurige leer: uit de gestadige voorhouding van de H. Kerk, die de naaste en de levende regel is van ons Geloof, die ons op een levende, beslissende en verplichtende wijze voorhoudt wat wij moeten geloven:
-
-2e Uit de Overlevering van de H. Kerk: uit die schat van de goddelijke Openbaring die de Overlevering genoemd wordt, en, evenals de H. Schrift, een verdere, een dode regel van het Geloof is. Van de H. Schrift maakt de Catechis-
-— 255 —
-
-mus hier geen gewag, omdat zij nopens het getal van de HH. Saeramenten geen volledige leer bevat.
-
-5. V. Welke intentie of mening is de dienaar
-
-van node in het bedienen van de Heilige Sacramenten?
-
-Â. een oprechte mening om te doen hetgene dat Christus ingesteld heeft, of dat de H. Kerk doet.
-
-V. Is het, voor de geldigheid van een Sacrament, gelijk met welk inzicht de bedienaar gebruik maakt van het uitwendig teken door Christus ingesteld, al was het alleen uit lach of spotlust, of uit veinzerij, ofwel moet hij een bepaalde mening hebben, en, zo ja, dewelke?
-
-A. Het is geenszins gelijk met welk inzicht hij een Sacrament bedient: hij moet hebben — de mening om te doen hetgene dat Christus ingesteld heeft, of dat de H. Kerk doet: het inzicht van het uitwendig teken waar het Sacrament in bestaat, tot dit einde te gebruiken, waar het van Christus toe ingesteld isen van de H. Kerk toe aangewend wordt, en die mening moet — een oprechte: een inwendige en wezenlijke zijn. Hierbij dient aangemerkt te worden: l° dat hetgeen Christus ingesteld heeft en hetgeen de H. Kerk doet, één en hetzelfde is, daar de ware Kerk het waarachtig gebruik van de HH. Sacramenten hebben moet;
-2e dat men, om met het vereiste inzicht te werk te gaan,
-geenszins duidelijk moet weten, wie Christus en welke de ware Kerk is, noch welke de uitwerksels van het Sacrament zijn.
-
-De noodzakelijkheid van dusdanige mening blijkt niet alleen uit de stelligen wil van Christus, ons door de Overlevering bekend gemaakt, maar nog uit de natuur van de Sacramenten; immers de uitwendige tekenen er van kunnen met allerlei inzichten gebruikt worden, en dienen daarom niet altijd en in alls gevallen bronnen van gratie te zijn. Daarenboven, de bedienaars van de Sacramenten zijn Christus’ afgezanten of plaatsvervangers, en een afgezant of plaatsvervanger kan ín van zijn meesters naam niets doen zonder het inzicht te hebben van als zulke te handelen.
-
-17
-— 256 —
-6. V. Wordt de kracht van de Sacramenten ergens door belet?
-A. Ja, door de zonden, de geveinsdheid en onbekwaamheid van degenen die ze ontvangen.
-
-V. Als de Sacramenten door wettige bedienaars, met het teken, van Christus ingesteld, en met de vereiste mening toegediend worden, kan dan nog hun kracht om de betekende gratie uit zichzelf te geven door enige beletselen verhinderd of tegengehouden worden, zoodanig dat die kracht haar uitwerksel niet heeft?
-
-A. Ja, door drie beletselen: lo door de zonden, 2 de geveinsdheid en 3° de onbekwaamheid — van degenen die ze ontvangen. Van de kant des bedienaars kunnen geen beletselen bestaan, indien hij de Sacramenten geldig bedient, d.i. indien hij de daartoe nodige macht bezit, het van Christus ingestelde teken gebruikt en de vereiste mening heeft. De staat van doodzonde waar hij zich in bevinden kan, vermag niet de kracht van de Sacramenten te beletten, daar hun uitwerksels niet afhangen van zijn verdiensten, maar van die van Christus, wiens plaats hij bekleedt.
-
-Ie De zonde houdt niet alle uitwerksels van de Sacramenten tegen: a) zij belet nooit het merkteken, want dit kan er mee samenstaan; b) alleen de dodelijke zonde kan geheel en gans de gratie (de heiligmakende en het recht tot de dadelijke) beletten; de dagelijkse kan slechts de gratiegraad verminderen; de eerste immers maakt ons vijanden van God,
-terwijl de laatste ons slechts in de liefde Gods doet verflauwen; c) de doodzonde belet niet in alle Sacramenten de heiligmakende en het recht tot de dadelijke gratie, maar slechts in deze die dienen om het reeds bestaande geestelijk leven van de heiligmakende gratie in de ziel te ontwikkelen, te voltrekken, en daarom Sacramenten-der levenden genoemd worden, namelijk, in het Vormsel, het H. Sacrament des Altaars, het H. Oliesel, het Priesterschap en het Huwelijk.
-In de twee andere Sacramenten, te weten, het Doopsel en de Biecht, die rechtstreeks bestemd zijn, niet om het geestelijk
-— 257 —
-
-leven in de zie} te ontwikkelen, maar om het er in te storten als het er niet in bestaat, houdt de doodzonde geenszins dat uitwerksel tegen. De reden hiervan is klaarblijkend: de Sacramenten die van Christus ingesteld zijn om het geestelijk leven van de gratie te vermeerderen, kunnen hier niet toe dienen, wanneer zij, in dengene die ze ontvangt, niet dat leven, maar de dood (den staat van doodzonde) tegenkomen: wat niet bestaat,
-kan niet ontwikkeld worden. Daarentegen kunnen de andere Sacramenten, die ingesteld zijn om ons van de dood van de zonde te verlossen, onmogelijk door de zonde belet worden dit uitwerksel teweeg te brengen. (1) Het is zelfs waarschijnlijk dat de kracht van de Sacramenten van de levenden er niet door wordt tegengehouden, en dat men er vergiffenis van bekomt,
-als men die Sacramenten met een onvolmaakt leedwezen te goeder trouw ontvangt.
-
-1) Daar men door leven de kracht verstaat van zichzelf te bewegen of van door zichzelf iets te doen, zo wordt onze ziel ten opzichte van het eeuwig geluk levend gezegd, als zij met de heiligmakende gratie versierd is, en zo de kracht bezit om de hemel te verdienen, en dood als zij van die gratie beroofd is. Van daar de verdeling van de Sacramenten in Sacramenten van de levenden en in Sacramenten van de doden. De eerste zijn bestemd voor degenen die het leven van de gratie hebben, en moeten bijgevolg in staat van gratie ontvangen worden: de andere zijn rechtstreeks ingesteld voor degenen die van dat leven beroofd zijn, en mogen daarom in staat van doodzonde ontvangen worden: zij mogen nochtans ook in staat van gratie ontvangen worden, omdat men er vergiffenis door bekomt van de dagelijkse zonden, alsook vimmdat één en dezelfde zonde meermaals kan vergeven worden.
-
-Het Vormsel, het H. Sacrament des Altaars, het H. Oliesel, hiet Priesterschap en het Huwelijk zijn, uit hun natuur Sacramenten van de levenden. Het Vormsel brengt ons immers tot de volwassenteid van het geestelijk leven; het H. Sacrament des Altaars is er de spijs van; het H. Oliesel de bijzondere steun in de laatsten strijd: het Priesterdom en het Huwelijk geven macht en gratie tot een bijzonder ambt en werk van dat leven. Welnu, niet een dode,
-maar een levende komt tot de volwassenheid, wordt gespijsd, wordt tegen zijn vijanden geholpen, wordt aangenomen tot een bijzonder ambt of werk. Integendeel, het Doopsel, dat de geboorte is in het geestelijk leven, en de Biecht, die ons uit het graf van de zonde doet opstaan, zijn, uit hun natuur Sacramenten van de doden,
-— 258 —
-
-ge De geveinsdheid. Veinzen is zich uitwendig door woorden, gebaren of werken anders uitgeven dan men inwendig gesteld is. Hier kan geveinsdheid zijn in al wat volgens Christus’ instelling vereist is bij degenen die de Sacramenten ontvangen, te weten: a) in de wil of de intentie, wanneer men gebaart een Sacrament te ontvangen zonder dat inwendig te willen; b} in de werken, wanneer deze,
-b.v. het berouw en de belijdenis van de doodzonden in de Biecht,
-niet rechtzinnig zijn. De eerste geveinsdheid belet alle uitwerksels van de HH. Sacramenten, zelfs het merkteken: God wil zijn gaven niet schenken aan wie weigert ze te ontvangen. Wat de andere betreft, die men slechts in het Doopsel van volwassenen en in de Biecht kan tegenkomen, het gebrek aan voldoend berouw belet de vergiffenis van de zonde, die zonder berouw niet kan vergeven worden, maar geenszins het merkteken in het Doopsel, daar dit met de zonde kan samenstaan. Het vrijwillig verzwijgen van doodzonden in de Biecht belet er ook de vergiffenis van daar er dientengevolge een voorwaarde ontbreekt die Christus tot de vergiffenis van de zonden gesteld heeft,
-
-3o De onbekwaamheid. De Catechismus betekent hiermede de ongeschiktheid, voortkomende, niet uit de zonde of uit de geveinsdheid, maar uit de bijzondere bestemming van de Sacramenten tot een zekere klasse van personen waar men niet toe behoort. Wie b.v. eens het Doopsel ontvangen heeft, die is onbekwaam om het nog te ontvangen, omdat Christus gewild heeft dat men maar eenmaal zou gedoopt worden. Insgelijks zijn, volgens Christus’ wil, alle mensen die niet gedoopt zijn, onbekwaam om andere Sacramenten te ontvangen. De onbekwaamheid belet alle kracht, zowel het merkteken als de gratie, daar de Sacramenten enkel dat kunnen uitwerken, waartoe zij door Christus ingesteld zijn.
-
-Heeft een Sacrament zijn kracht niet kunnen uitwerken om reden van onbekwaamheid of van gebrek aan wil in degenen die het ontvingen, dan kan het nimmermeer herleven of zijn uitwerksel hebben, vermits het dan geenszins heeft bestaan. Buiten deze gevallen is Yict bijna zeker dat het Doopsel, en zeer. waarschijnlijk dat het Vormsel en het Priesterdom kunnen herleven, omdat die Sacramenten maar óéns
-— 259 —
-
-mogen ontvangen worden. Om dezelfde reden denken dat velen ook van het H. Oliesel, gedurende dezelfde ziekte, en van het Huwelijk, onder dezelfde gehuwden.
-
-7. V. Mogen alle Sacramenten dikwijls ontrangen worden?
-
-A. Neen; want het Doopsel, Vormsel en Priesterdom, omdat zij een zeker en altijddurend teken in de ziel prenten, mag men maar ééns ontvangen; maar de andere vier mogen naar gelegenHeid tot verscheidene reizen gebruikt worden.
-
-V. Mogen de Zeven Sacramenten zonder onderscheid herhaaldelijk gebruikt worden?
-
-À. Neen, dat is niet toegelaten: het Doopsel, Vormsel en Priesterdom — mag men maar ééns ontvangen: mag men nimmermeer ontvangen, als men ze eens zonder beletsel tegen het merkteken ontvangen heeft; want zij prenten in de ziel een teken (l vr. bl. 252), en wel een zeker,
-d.i. een vast, klaar en duidelijk, en altijddurend, d. í.
-onuitdoenlijk en bijgevolg niet, gelijk de heiligmakende gratie, verliesbaar en voor vermeerdering vatbaar, maar altijd en onveranderlijk hetzelfde; het ware dus nutteloos ze meermaals te ontvangen. En men zegge niet dat men dit zou mogen doen, om vermeerdering te bekomen van de heiligmakende gratie of van het recht op dadelijke, want daartoe dienen de andere vier Sacramenten die, naar gelegenheid of als de vereisten er voor vervuld zijn, tot verscheidene reizen (herhaaldelijk) mogen gebruikt worden. Zo b.v.
-mag men alle dagen ééns het H. Sacrament des Altaars ontvangen, als men genoegzaam onderwezen is en nuchter en zuiver van zonden.
-
-De reden waarom het Doopsel, Vormsel en Priesterdom de eigenschap hebben van een merkteken in de ziel te prenten, is licht om begrijpen: die drie Sacramenten verdelen de gelovigen uitwendig in drie klassen: in intredende, in volwassene en in besturende leden; maar daar de H. Kerk,
-— 260 —
-
-nief enkel een uitwendige vergadering is, maar ôok en wel eerst en vooral een inwendige of geestelijke — welke God door het instorten van zijn bovennatuurlijke gaven te weeg hrengt — zo dienden zij diezelfde verdeling ook inwendig in de zielen uit te werken. Het merkteken van het Doopsel maakt ons leden van de H. Kerk en geeft ons bekwaamheid om al de andere Sacramenten te ontvangen; dat van het Vormsel maakt ons volwassene leden van de H. Kerk en stelt ons in staat om als zulke te leven en te handelen; dat van het Priesterdom maakt ons vaders van de gelovigen en vergunt macht om de HH. Sacramenten te bedienen.
-
-8. V. Zijn de ceremoniën nodig tot de Sacrameutern?
-
-A. Neen, want de Sacramenten bestaan ook zonder de ceremoniën, maar deze dienen om die met meerder eer aan te dienen, en de kracht van dezelve ons voor ogen te stellen.
-
-V. Zijn de ceremoniën: zekere uitwendige gebeden en godsdienstige tekenen die de H. Kerk bij het hedienen van de HH. Sacramenten voorschrijft, nodig tot de Sacramenten, zoodanig dat deze zönder die ceremoniën niet kunnen bestaan of hun kracht uitwerken?
-
-A. Neen, daartoe zijn zij niet nodig, want de Sacramenten — bestaan ook zonder de ceremoniën: hebben alles wat tot hun wezen vereist is, en werken hun kracht uit dan ook als zij zonder ceremoniën bediend worden; im mers hun bestaan en hun kracht hangen alleen van Christus’ instelling af; — maar deze dienen 1° om die met meerder eer aan te dienen: om meer en meer uit te drukken welke kostelijke zaken het zijn, en 2e om de kracht van dezelve ons voor ogen te stellen: om er beter de uitwerks-ls van te doen uitschijnen. Werden de Sacramenten gegeven gelijk Christus ze ingesteld heeft, werd b.v. het Doopsel, de H. Communie, net Priesterdom even toegediend, deze toediening zou klaarblijkend met veel minder eer geschieden, en de ge loovigen minder wel begrijpen, wat zij daar ontvangen.
-— 261 —
-Aanmerking.
-
-Geheel de leer nopens de HH. Sacramenten vloeit uit hun natuur voort. Om ze geldig te bedienen, moet de bedienaar 1e het teken gebruiken door Christus ingesteld, daar zij uit Christus’ instelling al hun kracht trekken; 2° willen doen wat Christus ingesteld heeft of de H. Kerk doet, aangezien dat Christus het zo gewild heeft, en dat de bedienaar als zijn afgezant moet handelen. — Een geldig bediend Sacrament kan, vanwege degenen die het ontvangen, belet worden zijn kracht uit te werken 1° door de zonden, als en omdat zijn uitwerksel bestaat, niet in de zonde te vergeven,
-maar in de staat van gratie te vermeerderen; 2° door de geveinsdheid, want, waar men deze aantreft, worden de voorwaarden die Christus gesteld heeft, niet meer vervuld; 30 door de onbekwaamheid, daar de kracht van de Sacramenten door hun bestemming bepaald wordt. — De HH. Sacramenten mogen óf slechts ééns, óf meermaals ontvangen worden, volgens dat hun voornaamste uitwerksel onveranderlijk blijft bestaan, ofwel verloren of vermeerderd kan worden. — Zij kunnen zonder ceremoniën bestaan, vermits hun kracht geheel van Christus’ instelling afhangt.
-
-VRAGEN.
-
-Waarover handelt het vierde deel van de Catechismus? — Geef het verband van het vierde dee} met de drie voorgaande.
-
-1. Wat betekent het woord Sacrament uit zijn natuur, en in welke betekenis is het door de H. Kerk van in het begin aangenomen? — Welk is de zin van de vraag: wat is een Sacrament? —
-Hoeveel en welke dingen zijn tot een Sacrament vereist? — Leg de woorden een uitwendig teken uit, en verklaar deze uitlegging door een voorbeeld. — Van wie zijn de Sacramenten ingesteld? —
-Welk is de betekenis van het uitwendig teken van de Sacramenten?
-— Waarom zegt de Catechismus niet alteenlijk gratie, maar bijzondere gratie? — Wat komt hier onder de naam van gratie? —
-Zeg ìn ’t kort wat men verstaat door hetligmakende gratie — door dadelijke gratie, — door het merkteken, dat enige Sacramenten in de ziel prenten. — Hoe geven de Sacramenten ons de bijzondere gratie die zij betekenen? — Leg het antwoord uit. — Hoe kunnen de Sacramenten ons op zulk een wijze de gratie geven? — Bewijs hieruit dat de Sacramenten van niemand anders dan van Christus
-— 262 —
-
-konden ingesteld worden. — Toon dat het Kruisteken, het Doopsel van Joannes Baptista geen Sacramenten zijn. — Verklaar hoe ons H. Doopsel en de Biecht ware Sacramenten zijn.
-
-z. Hoeveel Sacramenten zijn er? — Kon Christus ons zijn gratie niet geven zonder de Sacramenten? — Waarom dan heeft Hij deze willen instellen?
-
-3, Verklaar hoe door de Zeven Sacramenten van Christus ingesteld volkomen voorzien is in alle onze geestelijke behoeften.
-
-4. Duid, met de woorden van de Catechismus, de naasten en de verderen middel aan, waardoor wij met zekerheid weten, dat er zeven Sacramenten zijn, noch minder noch meer. — Leg die woorden uit. — Waarom maakt de Catechismus hier geen gewag van de H. Schrift?
-
-5. Geef de zin van de vraag: welke intentie of mening is de dienaar van node in het bedienen van de HH. Sacramenten. — Zeg, met de woorden van de Catechismus, wat de dienaar moet willen doen.
-— Zijn het twee verschillende dingen: hetgene Christus ingesteld heeft, en dat de H. Kerk doet? — Geef de reden van uw antwoord.
-— Hoedanig moet die intentie van de dienaar zijn? — Waarom is die intentie in de dienaar vereist? — Iser in de dienaar noodzakelijk vereist, dat hij Christus of de H. Kerk of de uitwerksels van het Sacrament kenne?
-
-6. Wat betekent de vraag: wordt de kracht van de Sacramenten ergens door belet? — Van welke beletselen van de kracht van de Sacramenten is er hier spraak? — Wat is er, bij de bedienaar, tof de kracht van een Sacrament slechts vereist? — Noem al de beletselen die kunnen bestaan in degenen die de Sacramenten ontvangen. — Welk uitwerksel kan door de zonde nooit belet worden, en waarom? — Door welke zonde kan de heiligmakende gratie en het recht tot de dadelijke gratiën belet worden? — In welke Sacramenten belet de zonde de heiligmakende gratie en het recht tot de dadelijke gratiën, en in welke niet? — Welke is de reden daarvan?
-— Hoe worden de Sacramenten uit dieu hoofde verdeeld? — Geef rekenschap van de namen van deze klassen van Sacramenten. — Toon uit de natuur van ieder Sacrament, hoe het tot de een of tot de andere klasse behoort. — In welke staat.moet de een soort van Sacramenten, en in welke staat mag de andere ontvangen worden? — Kunnen de Sacramenten van de levenden nooit dienen om de doodzonde te vergeven?
-
-Wat verstaat men door geveinsdhetd? — Waarin kan er bij het ontvangen van de Sacramenten geveinsdheid zijn? — Welke geveinsdheid dus kan daarin bestaan? — Wat brengt iedere van die geveinsdheden te weeg? — Geef er de reden van.
-
-Wat verstaat men hier door onbekwaamheid? — Geef voorbeelden
-— 263 —
-
-van dit beletsel. — Welke uitwerksels belet de onbekwaamheid?
-— Wat verstaat men door het herleven van een Sacrament? — In welke gevallen kunnen de Sacramenten zeker niet herleven? —
-Kunnen alle Sacramenten herleven? — Geef de reden van uw antwoord.
-
-7. Mag ieder Sacrament dikwijls ontvangen worden? — Hoeveel en welke Sacramenten mogen maar ééns ontvangen worden? —
-Hoe moeten deze Sacramenten ontvangen geweest zijn, om nimmermeer te mogen ontvangen worden? — Zeg, met de Catechismus, waarom deze Sacramenten niet mogen herhaald worden. —
-Leg die woorden uit. — Wat brengt het merkteken van ieder van deze Sacramenten in ons teweeg? — Toon hoe het redelijk is dat deze Sacramenten een merkteken inprenten. — Hoe is dat merkteken een genoegzame reden om die Sacramenten niet meer dan
-ééns te ontvangen? — Behoren zij niet meermaals ontvangen te worden, om er vermeerdering van de heiligmakende gratie door te bekomen? — Zeg, met de Catechismus, hoe dikwijls wij de andere Sacramenten mogen ontvangen. — Leg die woorden uit.
-
-8. Wat zijn ceremoniën? — Wat betekent de vraag: zijn de ceremoniën nodig tot de Sacramenten? — Kunnen de Sacramenten geldig gegeven en met vrucht ontvangen worden zonder ceremoniën, en waarom? — Zeg, met de Catechismus, waartoe de ceremoniën in de Sacramenten dienen, en leg het antwoord uit. —
-Verklaar het ook door een voorbeeld,
-,
-1
-
-
-
-Nadere bepaling ran de natuur van het Doopsel.
-
-L
-Á.
-
-— 264 —
-DERTIGSTE LES,
-
-Van het Doopsel.
-
-Natuur. ÍV. 1, Wat és het Doopsel ?
-1e Noodzakelijkheid. jV.2. Aan wie is het Doopsel nodig ?
-2o Bedienaar. $V. 3. Wien staat het toe te doopen?
-
-V. 4. Waarmede moet men doopen?
-3° Uitwendig teken. Wv 5. Welke woorden moet men spreken in het Doopsel ?
-V. 6, Mag men tweemaal gedoopt worden ?
-
-V. 7. Wat krij ij door het DoopBo Zonderlinge gratie. Ì sel? at Brijgen wij door het Hoop
-
-4° Gebruik. {
-
-6e Beletsels. M 9, Wat bereiding ts er van node
-
-tot het Doopsel?
-
-Vv. 8. Welk is de plicht van peters of meters, die gebruikt worden in het Doopsel, en ook in het Vormsel?
-
-V. 10. Waartoe dienen al de ceremoniën, die in het Doopsel gebruikt worden?
-
-7o Ceremoniën.
-
-v. Wat is het Doopsel?
-
-Het eerste en nodigste Sacrament, in hetwelk,
-door de uitwendige wassching en de aanroeping van de H. Drievuldigheid, de mens gezuiverd wordt van alle zonden.
-
-Vv. Waarin bestaat eigenlijk het Sacrament van het Doopsel?
-
-A. Het antwoord doet kennen: l° de plaats van het Doopsel onder de Sacramenten, 2e zijn uitwendig teken, 39 de bijzondere gratie door dit teken hetekend en gegeven.
-— 265 —
-
-1e De plaats: het Doopsel is a) het eerste Sacrament:
-het Sacrament dat vóór al de andere moet ontvangen worden,
-zodat wij niet een ander mogen, noch zelfs, volgens het algemeen gevoelen van de godgeleerden, kunnen ontvangen, zonder eerst het Doopsel metterdaad ontvangen te hebben. De reden hiervan is, dat wij door dit Sacrament tot het bovennatuurlijk leven van de gratie geboren worden, en dat alle leven noodzakelijk met de geboorte begint. En, om de andere Sacramenten geldig te kunnen gebruiken, is het niet genoeg het leven van de gratie door een volmaakt berouw te hebben verkregen; men moet het H. Sacrament van het Doopsel ontvangen hebben:
-Christus heeft het zo gewild, omdat zijn Kerk niet enkel een inwendige, maar nog een uitwendige vergadering is,
-waarom dan ook de leden er van, voor wie al de andere Sacramenten bestemd zijn, door een uitwendig teken in die Kerk moeten ingelijfd en van de ongelovigen onderscheiden worden. Daarenboven, ’t is door het merkteken van het Doopsel dat wij recht verkrijgen om van de andere Sacramenten gebruik te maken, en dat merkteken wordt alleen door het Sacrament van het Doopsel in de ziel geprent, daar slechts daar het ingestelde uitwendig teken te vinden is van hetwelk het inwendig merkteken afhangt. — b) Het nodigste Sacrament: het Sacrament dat, ten opzichte van onze zaligheid, nodiger is dan al de andere Sacramenten: zonder deze kan men wel, zonder het Doopsel kan men nooit tot de zaligheid geraken. (2e v.)
-
-2o Het witwendig teken: de uitwendige wassching en de aanroeping van de H. Drievuldigheid samengenomen. Deze wassching is uit haar natuur dienstig om een zuivering te betekenen, en de woorden die de bedienaar er bij uitspreekt, duiden aan dat zij een zuivering van de ziel betekent (4° en 5e v.). — Van de uitwendige wasschisg waar het ten dele uit bestaat, heeft het Doopsel zijn naam ontvangen: doopen wileigenlijk zeggen én het water dompelen;
-ook geschiedde, in het begin van de H. Kerk, de uitwendige was sching met de doopeling in het water te dompelen.
-
-3e De bijzondere gratie door de uitwendige wassching en de aanroeping van de H. Drievuldigheid betekend en gegeven, is de zuivering van de ziel van de onreinheid van de zonden:
-de mens. zegt de Catechismus. wordt gezuiverd van alle zonden, (7e v)
-— 266 —
-
-2. V. Aan wie is het Doopsel nodig?
-A. Aan alle mensen, die de gratie Gods willen bekomen, en tot de eeuwige zaligheid geraken.
-
-Á. Het Doopsel is nodig aan alle mensen zonder uitzondering, die de gratie Gods: die de vergiffenis van de erfzonde en van alle andere voorgaande zonden met de staat van heiligmakende gratie willen bekomen, en zoo, na in zulken staat gestorven te zijn, tot de eeuwige zaligheid of de hemel willen geraken.
-
-Iedereen heeft dus het Doopsel volstrekt ter zaligheid nodig, doeh moet het niet altijd metterdaad ontvangen: als zulks onmogelijk is, kan het Sacrament of het Doopsel van water vervangen worden door het doopsel van begeerte of door het doopsel van bloed. Het doopsel van begeerte bestaat in een volmaakte liefde tot God met de uitdrukkelijke of ingeslotene begeerte van het Sacrament van het Doopsel op bekwamen tijd te ontvangen. Het doopsel van bloed is de marteldood voor het Geloof of een andere christene deugd geleden,
-en gepaard, bij degenen die tot de jaren van verstand gekomen zijn, met ten minste een onvolmaakte liefde tot God.
-Dus kunnen de kinderen die de jaren van verstand nog niet bereikt hebben, vergiffenis van de erfzonde bekomen door het Sacrament van het Doopsel en door de marteldood; de andere mensen, door dezelfde middelen en ook door het doopsel van begeerte. Men neme echter goed in acht dat het doopsel van begeerte noch het doopsel van bloed geenszins de doopenng ontslaat van later, bij gepaste gelegenheid, het Sacrament te ontvangen, daar het een noch het ander het merkteken van het Doopsel inprent, noeh de doopeling uitwendig lid van de H. Kerk maakt; zij vervangen slechts het Sacrament voor wat het instorten van de heiligmakende gratie betreft. De marteldood nochtans vergeeft ook, gelijk het Sacrament, alle tijdelijke pijnen.
-
-8. V. Wien staat het toe te doopen 2 A. ’t Is het ambt van de priester; in de nood nochtans mag iedereen doopen.
-— 267 —
+## ’t Is het ambt van de priester; in de nood nochtans mag iedereen dopen
 
 V. Mag elkeen het Doopsel toedienen, ofwel behoort dit aan sommige bijzondere personen?
 
-A. 'tIs het ambt van de priester: de priester is de gewone bedienaar van het Doopsel, en hem alleen komt, buiten de nood, de bediening van dit Sacrament toe; — in de nood nochtans: als er gevaar is dat iemand zonder Doopsel zou sterven, moest men naar een priester wachten, —
-mag iedereen doopen: mag elkeen ‘t zij man of vrouw,
-t zij gelovige of ongelovige het Doopsel bedienen, als hij maar het gebruik van zijn verstands heeft en kan doen wat ter zake vereist is: dat heeft Christus gewild, omdat het H. Doopsel het nodigste is van al de Sacramenten.
+A. **'t Is het ambt van de priester:** de priester is de gewone bedienaar van het Doopsel, en hem alleen komt, buiten de nood, de bediening van dit Sacrament toe; — **in de nood nochtans:** als er gevaar is dat iemand zonder Doopsel zou sterven, moest men naar een priester wachten, — **mag iedereen dopen:** mag elkeen ‘t zij man of vrouw, 't zij gelovige of ongelovige het Doopsel bedienen, als hij maar het gebruik van zijn verstands heeft en kan doen wat ter zake vereist is: dat heeft Christus gewild, omdat het H. Doopsel het nodigste is van al de Sacramenten.
 
-De Catechismus zegt:in de nood nochtans mag, en niet kan eeniegenlijk doopen, omdat elkeen in alle omstandigheden het Doopsel geldig kan, maar alleen in de nood wezenlijk mag toedienen,
+De Catechismus zegt: in de nood nochtans *mag,* en niet *kan* iedereen dopen, omdat elkeen in alle omstandigheden het Doopsel geldig *kan,* maar alleen in de nood wezenlijk *mag* toedienen.
 
-4. V. Waarmede moet men doopen?
-A. Met waarachtig en natuurlijk water, als met putwater, regenwater, fonteinwater, zeewater.
+# Waarmede moet men dopen?
 
-V., Waarmede moet de afwassching in het Doopsel geschieden?
+## Met waarachtig en natuurlijk water, als met putwater, regenwater, fonteinwater, zeewater
 
-A. Zij moet geschieden met water, en dat water moet zijn 1° waarachtig d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° natuurlijk: overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is putwater, regenwater, fonteinwater, zeewater.
+V. Waarmede moet de reiniging in het Doopsel geschieden?
 
-De afwassching met water is tot de geldigheid van het Saecrament vereist; alleen in de nood mag men een twij elachtige stof gebruiken, en dan moet men nadien, als het mogelijk is, op conditie herdoopen.
+A. Zij moet geschieden **met water,** en dat water moet zijn 1° **waarachtig** d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° **natuurlijk:** overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is **putwater, regenwater, fonteinwater, zeewater.**
 
-De H. Kerk wijdt doopwater of, zo men zegt, wijdt de doopvont op Paasch- en Sinxenavond. Nooit is het gebruik
-— 28 —
+De reiniging met *water* is tot de geldigheid van het Saecrament vereist; alleen in de nood mag men een twijfelachtige stof gebruiken, en dan moet men nadien, als het mogelijk is, op conditie herdopen.
 
-van zulk water nodig tot de geldigheil van het Doopsel.
-maar, volgens het gebod van de H. Kerk, is het verplichtend bij de plechtige bediening van dit Sacrament. In de nood behoort men dat water te gebruiken, als het mogelijk is,
+De H. Kerk wijdt doopwater of, zo men zegt, wijdt de doopvont op Paas- en Pinksteravond. Nooit is het gebruik van zulk water nodig tot de geldigheid van het Doopsel, maar, volgens het gebod van de H. Kerk, is het verplichtend bij de plechtige bediening van dit Sacrament. In de nood behoort men dat water te gebruiken, als het mogelijk is.
 
-5. V. Welke woorden moet men spreken in het Doopsel?
+# Welke woorden moet men spreken in het Doopsel?
 
-A. Deze (zonder dewelke het Doopsel van gener waarde zou zijn): Ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest.
+## Deze (zonder dewelke het Doopsel van gener waarde zou zijn): Ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest
 
-A. Die woorden zijn deze (zonder dewelke het Doopsel van gener waarde zou zijn): zonder dewelke het Doopsel geenszins zou bestaan of geen Sacrament van het Doopsel zou wezen, en bijgevolg zonder conditie zou moeten herhaald worden): ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest. Deze formuul bevat 1° de werking van doopen: ík doop u, en 2o het verrichten van die werking onder het zanroepen van de H. Drievuldigheid: in de naam van de Vader, en van de Zoon, en van de H. Geest (2e les, v. 7).
-Zij bepaalt en voltrekt de betekenis van de afwassching, en maakt er zo het uitwendig teken van het Doopsel mee uit.
-Uit hoofde van dit verband moet de aanroeping van de H. Drievuldigheid en de afwassching op één en dezelfde tijd en door één en dezelfde bedienaar geschieden.
+A. Die woorden zijn **deze (zonder dewelke het Doopsel van gener waarde zou zijn):** zonder dewelke het Doopsel geenszins zou bestaan of geen Sacrament van het Doopsel zou wezen, en bijgevolg zonder conditie zou moeten herhaald worden): **ik doop u in de naam van de Vader, en van de Zoon, en van de H. Geest.** Deze formule bevat 1° de werking van dopen: *ik doop u,* en 2° het verrichten van die werking onder het aanroepen van de h. drievuldigheid: *in de naam van de vader, en van de zoon, en van de h. geest* ([2ᵉ les, v. 7](les-02.html#hoe-belijden-wij-door-het-maken-van-het-heilig-kruis-de-menswording-van-christus)). zij bepaalt en voltrekt de betekenis van de reiniging, en maakt er zo het uitwendig teken van het doopsel mee uit. uit hoofde van dit verband moet de aanroeping van de h. drievuldigheid en de reiniging op één en dezelfde tijd en door één en dezelfde bedienaar geschieden.
 
-6. V. Mag men tweemaal gedoopt worden ?
-A. Dit is ongeoorloofd, tenware op conditie, als men met reden twijfelt of men gedoopt zij.
+# mag men tweemaal gedoopt worden?
 
-A. lemand tweemaal doopen, dat is ongeoorloofd: dat is,
-streng verboden en dat maakt een heiligschenderij uit, daar het Doopsel, om reden van het merkteken dat het in de ziel prent, maar ééns mag ontvangen worden, — tenware op conditie: ten ware het Tweede Doopsel slechts toegediend werd op voorwaarde dat men nog niet geldig gedoopt zij;
-want dan zou men geen tweemaal het Doopsel ontvangen; is
-— 269 —
+## dit is ongeoorloofd, tenware op conditie, als men met reden twijfelt of men gedoopt zij
 
-men immers al gedoopt, dan heeft de bedienaar de wil niet nog eens te doopen. Nu, men mag op conditie herdoopt worden, als men met reden twijfelt of men gedoopt zij:
-als men, niet uit een ongegronde vrees, maar om goede redens denkt, dat men misschien op gener wijze, of toch niet geldig gedoopt is.
+a. iemand tweemaal dopen, **dat is ongeoorloofd:** dat is, streng verboden en dat maakt een heiligschenderij uit, daar het doopsel, om reden van het merkteken dat het in de ziel prent, maar ééns mag ontvangen worden, — **tenware op conditie:** ten ware het tweede doopsel slechts toegediend werd op voorwaarde dat men nog niet geldig gedoopt zij; want dan zou men geen tweemaal het doopsel ontvangen; is men immers al gedoopt, dan heeft de bedienaar de wil niet nog eens te dopen. nu, men mag op conditie herdoopt worden, **als men met reden twijfelt of men gedoopt zij:** als men, niet uit een ongegronde vrees, maar om goede redens denkt, dat men misschien op gener wijze, of toch niet geldig gedoopt is.
 
-7. V. Wat krijgen wij door het Doopsel?
+# wat krijgen wij door het doopsel?
 
-A. Vergiffenis van de erfzonde en van alle andere voorgaande zonden, en ook van de pijnen daartoe staande.
+## vergiffenis van de erfzonde en van alle andere voorgaande zonden, en ook van de pijnen daartoe staande
 
-V. In het antwoord op de eerste vraag hebben wij geleerd,
-dat de mens door het Doopsel gezuiverd wordt van alle zonden; hier nu vraagt de Catechismus meer specifiek,
-welke de bijzondere gratie van het Doopsel is.
+v. in het antwoord op de eerste vraag hebben wij geleerd, dat de mens door het doopsel gezuiverd wordt van alle zonden; hier nu vraagt de catechismus meer *specifiek,* welke de bijzondere genade van het doopsel is.
 
-A. Door het Doopsel krijgen wij:
+a. door het doopsel krijgen wij:
 
-1° Vergiffenis van de erfzonde: (lfe les, v. 2 en 37e, v. 5).
+1° **vergiffenis van de erfzonde:** ([14ᵉ les, v. 2](les-14.html#door-wat-middel-wordt-ons-de-erfzonde-vergeven) en [37ᵉ, v. 5](todo)).
 
-2e En van alle andere voorgaande zonden: van al de dadelijke zonden die wij, reeds tot de jaren van verstand gekomen, vóór ons Doopsel zouden bedreven hebben; het Doopsel is immers het eerste Sacrament, en mag maar ééns ontvangen worden, waaruit volgt dat het uitsluitend de dadelijke zonden kan vergeven, waar de doopeling zich vóór zijn Doopsel schuldig aan gemaakt heeft.
+2° **en van alle andere voorgaande zonden:** van al de dadelijke zonden die wij, reeds tot de jaren van verstand gekomen, vóór ons doopsel zouden bedreven hebben; het doopsel is immers het eerste sacrament, en mag maar ééns ontvangen worden, waaruit volgt dat het uitsluitend de dadelijke zonden kan vergeven, waar de dopeling zich vóór zijn doopsel schuldig aan gemaakt heeft.
 
-3e En ook van de pijnen daartoe staande: dus niet enkel van de eeuwige en van die tijdelijke pijnen, welke altijd vergeven worden met de zonde die ze verdiend heeft, maar ook van al de pijnen die men nog dikwijls, na de vergiffenis van de zonde, moet uitboeten. Christus heeft gewild dat het Doopsel niet alleen al de zonden, maar ook al de pijnen zou vergeven, omdat de middel waardoor de mens tot het geestelijk leven herboren wordt, de kracht dient te hebben om dit leven ten volle te schenken. De gedoopten nochtans blijven aan de dood, de onwetendheid, de begeerlijkheid des vlees en de menigvuldige ellenden van de wereld onderworpens doch, zijn al die kwalen bij hen nog gevolgen van de erfzonde, toch zijn het geen pijnen meer tot uithoeting dier zonde te lijden. Het Doopsel neemt ze niet weg, l° omdat de
-— 210 —
+3° **en ook van de pijnen daartoe staande:** dus niet enkel van de eeuwige en van die tijdelijke pijnen, welke altijd vergeven worden met de zonde die ze verdiend heeft, maar ook van al de pijnen die men nog dikwijls, na de vergiffenis van de zonde, moet uitboeten. christus heeft gewild dat het doopsel niet alleen al de zonden, maar ook al de pijnen zou vergeven, omdat de middel waardoor de mens tot het geestelijk leven herboren wordt, de kracht dient te hebben om dit leven ten volle te schenken. de gedoopten nochtans blijven aan de dood, de onwetendheid, de begeerlijkheid des vlees en de menigvuldige ellenden van de wereld onderworpen; doch, zijn al die kwalen bij hen nog *gevolgen* van de erfzonde, toch zijn het geen *pijnen* meer tot uitboeting dier zonde te lijden. het doopsel neemt ze niet weg, 1° omdat de orde in de wereld onmogelijk zou wezen, stonden zij de ongedoopten alleen te wachten ; 2° omdat dikwijls de mensen zich anders uitsluitend zouden laten dopen, om van die kwalen verlost te zijn; 3° omdat de toestand waarin zij ons brengen, ons allerbest leert wat de zonde is, en gelegenheid geeft om veel verdiensten te verzamelen; 4° omdat het niet betaamde ons zonder enig lijden de hemel te geven, terwijl christus, onze middelaar, voor ons zoveel heeft moeten lijden.
 
-orde in de wereld onmogelijk zou wezen, stonden zij de ongedoopten alleen te wachten ; 2e omdat dikwijls de mensen zich anders uitsluitend zouden laten doopen, om van die kwalen verlost te zijn; 3° omdat de toestand waarin zij ons brengen, ons allerbest leert wat de zonde is,en gelegenheid geeft om veel verdiensten te verzamelen; 4° omdat het niet betaamde ons zonder enig lijden de hemel te geven, terwijl Christus, onze middelaar, voor ons zoveel heeft moeten lijden.
+te gelijk met de vergiffenis van de erfzonde en van de voorgaande zonden bekomen wij de *heiligmakende genade,* die er, in de bovennatuurlijke orde waar wij in leven, onafscheidbaar van is, alsook *het recht tot de dadelijke genaden* en *het merkteken* dat ons bekwaam maakt om de andere sacramenten te ontvangen.
 
-Te gelijk met de vergiffenis van de erfzonde en van de voorgaande zonden bekomen wij de heiligmakende gratie, die er, in de bovennatuurlijke orde waar wij in leven, onafscheidbaar van is, alsook het recht tot de dadelijke gratiën en het merkteken dat ons bekwaam maakt om de andere Sacramenten te ontvangen.
+thans valt het niet moeilijk te bepalen waarin, onder opzicht van zijn uitwerksels het doopsel verschilt van de overige sacramenten: het verschilt van al de sacramenten van de levenden hierdoor, dat het rechtstreeks, niet de vermeerderiug van de heiligmakende genade, maar de vergiffenis van de zonden schenkt, en hierin komt het overeen met de biecht; het verschilt echter ook van dit laatste sacrament door de zonden die het vergeeft, en door de manier waarop het deze vergeeft: het doopsel verwerft ons vergiffenis van de erfzonde en van de dadelijke zonden die vóór het ontvangen van dit sacrament bedreven werden; de biecht integendeel, vergiffenis van de zonden die na het doopsel gedaan zijn. het eerste sacrament vergeeft al de pijnen van de zonden en prent ook een merkteken in de ziel, terwijl het laatste niet altijd al de schuld van tijdelijke pijnen wegneemt, noch enig merkteken in de ziel prent.
 
-Thans valt het niet moeilijk te bepalen waarin, onder opzicht van zijn uitwerksels het Doopsel verschilt van de overige Sacramenten: het verschilt van al de Sacramenten van de levenden hierdoor, dat het rechtstreeks, niet de vermeerderiug van de heiligmakende gratie, maar de vergiffenis van de zonden schenkt, en hierin komt het overeen met de Biecht; het verschilt echter ook van dit laatste Sacrament door de zonden die het vergeeft, en door de manier waarop het deze vergeeft:
-het Doopsel verwerft ons vergiffenis van de erfzonde en van de dadelijke zonden die vóór het ontvangen van dit Sacrament bedreven werden; de Biecht integendeel, vergiffenis van de zonden die na het Doopsel gedaan zijn. Het eerste Sacrament vergeeft al de pijnen van de zonden en prent ook een merkteken in de ziel, terwijl het laatste niet altijd al de schuld van tijdelijke pijnen wegneemt, noch enig merkteken in de ziel prent.
+# welk is de plicht van peters of meters, die gebruikt worden in het doopsel, en ook in het vormsel?
 
-8. Vv. Welk is de plicht van peters of meters, die gebruikt worden in het Doopsel, en ook in het Vormsel?
+## te zorgen dat degenen, die zij geheven, of tot het vormsel geleid hebben, onderwezen worden in hetgeen de zaligheid aangaat; immers als de ouders hun plicht niet zouden doen
 
-A. Te bezorgen dat degenen, die zij geheven, of tot het Vormsel geleid hebben, onderwezen worden in hetgeen de zaligheid aangaat; immers als âe ouders hun plicht niet zouden doen.
-— RI —
+v. **peter** (vader) en **meter** (moeder) worden in het doopsel en het vormsel gebruikt, omdat wij door het eerste sacrament tot het geestelijk leven geboren, en door het andere tot de volwassenheid van dat leven gebracht worden, en daarbij dus geestelijke vaders en moeders behoren te hebben.
 
-V. Peter (vader) en meter (moeder) worden in het Doopsel en het Vormsel gebruikt, omdat wij door het eerste Sacrament tót het geestelijk leven geboren, en door het andere tot de volwassenheid van dat leven gebracht worden, en daarbij dus geestelijke vaders en moeders behoren te hebben.
+a. de plicht van peters en meters is, te bezorgen — **dat degenen die zij geheven of tot het vormsel geleid hebben:** dat degenen van wie zij peter of meter geworden zijn met ze, door het opleggen van de hand, boven de doopvont te houden, of ze tot de bedienaar van het vormsel te leiden, **onderwezen worden — in hetgeen de zaligheid aangaat:** in hetgene zij moeten weten of doen om zalig te worden; **immers als de ouders hun plicht niet zouden doen:** als de ouders hen in de zaken van de zaligheid niet genoeg zouden onderwijzen; in dit geval zijn de peters en de meters daartoe met zekerheid gehouden.
 
-A. De plicht van peters en meters is, te bezorgen — dat degenen die zij geheven of tot het Vormsel geleid hebben: dat degenen van wie zij peter of meter geworden zijn met ze, door het opleggen van de hand, boven de doopvont te houden, of ze tot de bedienaar van het Vormsel te leiden,
-onderwezen worden — in hetgeen de zaligheid aangaat: in hetgene zij moeten weten of doen om zalig te worden; immers als de ouders hun plicht niet zouden doen: als de ouders hen in de zaken van de zaligheid niet genoeg zouden onderwijzen; in dit geval zijn de peters en de meters daartoe met zekerheid gehouden.
+# wat bereiding is er van node tot het doopsel?
 
-9. V. Wat bereiding is er van node tot het Doopsel?
-A. Die tot hun verstand gekomen zijn, moeten onder-
+## die tot hun verstand gekomen zijn, moeten onderwezen zijn in het geloof, en leedwezen hebben van hun zonden
 
-wezen zijn in het Geloof, en leedwezen hebben van hun zonden.
+v. wat is er van node opdat de dopelingen het doopsel niet alleen geldig, maar met al zijn vruchten zouden ontvangen? — om dit sacrament geldig of met zijn merkteken te ontvangen, is er van de dopelingen slechts vereist, en nog maar van deze die tot hun verstand gekomen zijn, dat zij de wil hebben van gedoopt te worden.
 
-V. Watiser van node opdat de doopelingen het Doopsel niet alleen geldig, maar met al zijn vruchten zouden ontvangen? — Om dit Sacrament geldig of met zijn merkteken te ontvangen, is er van de doopelingen slechts vereist, en nog maar van deze die tot hun verstand gekomen zijn, dat zij de wil hebben van gedoopt te worden,
+a. de catechismus onderscheidt hier twee klassen van dopelingen: de een die nog niet, en de andere die reeds het gebruik huns verstands hebben, van de eerste is niets geëist, weshalve de kleine kinderen, al zijn zij onbekwaam zich enigszins te bereiden, toch al de vruchten van het sacrament verkrijgen. maar **die tot hun verstand gekomen zijn** moeten niet alleen hun vier punten kennen, maar nog wel:
 
-A. De Catechismus onderscheidt hier twee klassen van doopelingen: de een die nog niet, en de andere die reeds het gebruik huns verstands hebben, Van de eerste is niets geëist,
-weshalve de kleine kinderen, al zijn zij onbekwaam zich enigszins te bereiden, toch al de vruchten van het Sacrament verkrijgen. Maar die tot hun verstand gekomen zijn moeten niet alleen hun Vier Punten kennen, maar nog wel:
+1° **onderwezen zijn in het geloof** of de christelijke leer; door het doopsel immers worden zij leden van de h. kerk en moeten bijgevolg, vooraleer dit sacrament te ontvangen met de plichten van die staat bekend zijn. in de nood nochtans is het genoeg hun de vier punten voor te stellen.
 
-ie Onderwezen zijn in het Geloof of de Christelijke
+2° ten minste een onvolmaakt **leedwezen hebben van hun** dodelijke en dagelijkse **zonden,** vermits geen dadelijke zonden zonder leedwezen kunnen vergeven worden. van de erfzonde moeten zij geen waar berouw hebben, daar zij deze niet met hun eigenen wil hebben bedreven. nochtans moet hun die zonde mishagen, omdat zij hen vijanden van god maakt en die heeft oneer aangedaan. mishaagde hun de erfzonde niet, of hadden zij geen leedwezen over hun doodzonden, dan zouden zij geen vergiffenis, noch bijgevolg de heiligmakende genade bekomen. hadden zij enkel geen genoegzaam leedwezen over hun dagelijkse zonden, zij zouden de heiligmakende genade ontvangen, maar die dagelijkse zonden waar zij aan vastgekleefd blijven, zouden hun niet vergeven worden, om dus door het doopsel gezuiverd te worden van alle zonden en schulden, en, in geval van sterven, de hemel rechtstreeks binnen te treden, moeten de dopelingen die tot de jaren van verstand gekomen zijn, leedwezen hebben over al hun zonden, zonder uitzondering.
 
-18
-— RR —
+# waartoe dienen al de ceremoniën, die in het doopsel gebruikt worden?
 
-Leering; door het Doopsel immers worden zij leden van de H. Kerk en moeten bijgevolg, vooraleer dit Sacrament te ontvangen met de plichten van die staat bekend zijn. In de nood nochtans is het genveg hun de Vier Punten voor te stellen.
+## tot onderwijzing en betoning van de kracht en uitwerking van het doopsel
 
-2e Ten minste een onvolmaakt leedwezen hebben van hun dodelijke en dagelijkse zonden, vermits geen dadelijke zonden zonder leedwezen kunnen vergeven worden.
-Van de erfsonde moeten zij geen waar berouw hebben, daar zij deze niet met hun eigenen wil hebben bedreven. Nochtans moet hun die zonde mishagen, omdat zij hen vijanden van God maakt en Dien heeft oneer aangedaan. Mishaagde hun de erfzonde niet, of hadden zij geen leedwezen over hun doodzonden, dan zouden zij geen vergiffenis, noch bijgevolg de heiligmakende gratie bekomen. Hadden zij enkel geen genoegzaam leedwezen over hun dagelijkse zonden, zij zouden de heiligmakende gratie ontvangen, maar die dagelijkse zonden waar zij aan vastgekleefd blijven, zouden hun niet vergeven worden, Om dus door het Doopsel gezuiverd te worden van alle zonden en schulden, en, in geval van sterven, de hemel rechtstreeks binnen te treden, moeten de doopelingen die tot de jaren van verstand gekomen zijn, leedwezen hebben over al hun zonden, zonder uitzondering.
+a. zij dienen **tot onderwijzing en betoning** (die onderwijzing geschiedt deels door betoning of zinnebeeldige voorstelling) **van de kracht en uitwerking van het doopsel:** de ceremoniën die het doopsel voorafgaan, betekenen er eigenlijk de kracht van, terwijl de andere die daarop volgen, er de uitwerksels van doen uitschijnen.
 
-10. V. Waartoe dienen al de ceremoniën, die in het Doopsel gebruikt worden?
+### aanmerking
 
-A. Tot onderwijzing en betooning van de kracht en uitwerking van het Doopsel.
+het uitwendig teken van het doopsel, namelijk, de uitwendige reiniging en de aanroeping van de h. drievuldigheid, leert ons dat het doopsel voor uitwerksel heeft de eerste en volledige vernieuwing van de mens van de staat van zonde tot. het bovennatuurlijk leven van de genade, dat het bijgevolg de erfzonde, de voorgaande zonden en al de pijnen daartoe staande vergeeft, het leven van de genade in de ziel stort en daarin ook het merkteken van christen mens prent. maar is het de geboorte in het geestelijk leven, dan is het ook het eerste en nodigste sacrament; maakt het een middel ter zaligheid uit, dan verplicht bet de gedoopten als christen mensen te leven, en daarom moeten de dopelingen die het gebruik huns verstands hebben, in het geloof onderwezen zijn; vergeeft het de zonden, zo moeten de dopelingen er leedwezen over hebben; en prent het in de ziel een eeuwig en altijddurend merkteken, dan mag het, tenware op conditie, niet meer dan ééns ontvangen worden.
 
-A. Zij dienen tot onderwijzing en betooning (die onderwijzing geschiedt deels door betooning of zinnebeeldige voorstelling) van de kracht en uitwerking van het Doopsel: de ceremoniën die het Doopsel voorafgaan, betekenen er eigenlijk de kracht van, terwijl de andere die daarop volgen, er de uitwerksels van doen uitschijnen.
-— 273 —
-Aanmerking.
+### vragen
 
-Het uitwendig teken van het Doopsel, namelijk, de uitwendige wassching en de aanroeping van de H. Drievuldigheid, leert ons dat het Doopsel voor uitwerksel heeft de eerste en volledige vernieuwing van de mens van de staat van zonde tot. het bovennatuurlijk leven van de gratie, dat het bijgevolg de erfzonde, de voorgaande zonden en al de pijnen daartoe staande vergeeft, het leven van de gratie in de ziel stort en daarin ook het merkteken van Christen mens prent.
-Maar is het de geboorte in het geestelijk leven, dan is het ook het eerste en nodigste Sacrament; maakt het een middel ter zaligheid uit, dan verplicht bet de gedoopten als Christen mensen te leven, en daarom moeten de doopelingen die het gebruik huns verstands hebben, in het Geloof onderwezen zijn; vergeeft het de zonden, zo moeten de doopelingen er leedwezen Over hebben; en prent het in de ziel een eeuwig en altijddurend merkteken, dan mag het, tenware op conditie, niet meer dan ééns ontvangen worden.
+waarvan handelt deze les? — geef in 't kort haar verdeling.
 
-VRAGEN.
+1. zeg, met de woorden van de catechismus: a) welke plaats het doopsel onder de sacramenten bekleedt; b) uit welk uitwendig teken het bestaat; c) welk uitwerksel het heeft. — leg die woorden uit.
 
-Waarvan handelt deze les? — Geef in 't kort haar verdeling.
+2. zeg, met de woorden van de catechismus: a) aan welke personen het doopsel nodig is, en 5) waartoe het hun nodig is. — verklaar die woorden. — moet men het doopsel altijd metterdaad ontvangen om de zaligheid te kunnen bekomen? — welke middelen kunnen het doopsel soms vervangen? — waarin bestaan zij? — hoe noemt men deze middelen en waarom? — vervangen zij ten volle het sacrament van het doopsel, en ontstaan zij van de plicht van het sacrament van het doopsel te ontvangen? — geef rekenschap van het antwoord. — welk bijzonder uitwerksel van het sacrament van het doopsel behoort ook aan de marteldood?
 
-1. Zeg, met de woorden van de Catechismus: «) welke plaats het Doopsel onder de Sacramenten bekleedt; b} uit welk uitwendig teken het bestaat; c) welk uitwerksel het heeft, — Leg die woorden uit.
+3. wiens ambt is het 't doopsel te bedienen? — verklaar deze uitdrukking: *het ambt van het doopsel te bedienen.* — wie mag in de nood dopen? — wat verstaat men hier door *nood?* — waarom heeft christus het recht van dopen niet aan de priesters alleen voorbehouden? — waarom zegt de catechismus niet *kan iedereen dopen,* maar *mag iedereen dopen?* — wie kan dus geldig dopen, en wie mag dopen? — hoe blijkt christus’ wijsheid in hetgeen hij vastgesteld heeft nopens de bedienaar van het doopsel in de nood?
 
-2. Zeg, met de woorden van de Catechismus: a) aan welke personen het Doopsel nodig is, en 5) waartoe het hun nodig is, —
-Verklaar die woorden. — Moet men het Doopsel altijd metterdaad ontvangen om de zaligheid te kunnen hekomen? — Welke middelen kunuen het Doopsel soms vervangen? — Waarin bestaan zijt
-— Hoe noemt men deze middelen en waarom? — Vervangen zij ten volle het Sacrament van het Doopsel, en ontstaan zij van de plicht van het Sacrament van het Doopsel te ontvangen! — Geef rekenschap van het antwoord. — Welk bijzonder uitwerksel van het Sacrament van het Doopsel behoort ook aan de marteldood?
+4. met welke stof moet men dopen? — zeg, met de woorden van de catechismus, hoedanig deze stof moet zijn. — verklaar deze woorden. — welke voorbeelden geeft de catechismus van onbetwijfelbare goede stof tot het doopsel? — geef voorbeelden van stoffen, die de hoedanigheid, door de catechismus vereist, niet bezitten. — hoe heeft christus zijn wijsheid getoond met de gezegde stof tot het uitwendig teken van het doopsel aan te nemen? — mag men ooit met een twijfelachtige stof het doopsel toedienen? — waarop moet men dan letten? — wat heeft de h. kerk nopens het water van het doopsel ingesteld en geboden? — geldt dit gebod ook in de nood?
 
-3. Wiens ambt is het 't Doopsel te bedienen? — Verklaar deze uitdrukking: het ambt vun het Doopsel te belenen, — Wie mag in de nood doopen? — Wat verstaat mien hier door nood? —
-Waarom heeft Christus het recht van doopen niet aan de priesters
-— 274 —
+5. zeg de formule welke de bedienaar in het doopsel moet uitspreken. — zeg, met de woorden van de catechismus, hoe deze formule tot het doopsel vereist is, en verklaar ze. — wat vinden wij in deze formule? — wanneer moet deze formule uitgesproken worden, waarom in die ogenblik en door wien?
 
-alleen voorbehouden? — Waarom zegt de Catechismus niet kan iedereen doopen, maar mag iedereen doopen? — Wie kan dus geldig doopen, en wie mag doopen? — Hoe blijkt Christus’ wijsheid in hetgeen Hij vastgesteld heeft nopens de bedienaar van het Doopsel in de nood?
+6. wat verstaat men door: herdoopt worden *op conditie?* — mag men ooit zonder conditie herdoopt worden? — geef er de reden van. — mag men ooit op conditie herdoopt worden? — zeg, met de woorden van de catechismus, wanneer dit mag geschieden en leg die woorden uit. — breng dit antwoord overeen met de leer die zegt, dat het doopsel niet meermaals mag ontvangen worden.
 
-4, Met welke stof moet men doopen? — Zeg, met de woorden van de Catechismus, hoedanig deze stof moet zijn. — Verklaar deze woorden. — Welke voorbeelden geeft de Catechismus van onbetwijfelbare goede stof tot het Doopsel? — Geef voorbeelden van stoffen, die de hoedanigheid, door de Catechismus vereist, niet bezitten. — Hoe heeft Christus zijn wijsheid getoond met de gezegde stof tot het uitwendig teken van het Doopsel aan te nemen?
-— Mag men ooit met een twijfelachtige stof het Doopsel toedienen? — Waarop moet men dan letten? — Wat heeft de H. Kerk nopens het water van het Doopsel ingesteld en geboden? — Geldt dit gebod ook in de nood?
+7. noem, met de woorden van de catechismus, de verschillende uitwerksels van het doopsel. — leg ze uit. — welke andere uitwerksels gaan met deze gepaard? — hoe verschilt het doopsel, door die uitwerksels, van de sacramenten van de levenden en van het sacrament van de biecht? — waarom betaamt het dat het doopsel al de pijnen van de zonden vergeve? — neemt het doopsel ook al de gevolgen van de erfzonde weg? — geef er de reden van.
 
-5. Zeg de formuul welke de bedienaar in het Doopsel moet uitspreken. — Zeg, met de woorden van de Catechismus, hoe deze formuul tot het Doopsel vereist is, en verklaar ze. — Wat vinden wij in deze formuul? — Wanneer moet deze formuul uitgesproken worden, waarom in die ogenblik en door wien?
+8. wat betekenen de woorden *peter* en *meter?* — waarom worden zij gebruikt in het doopsel en in het vormsel? — zeg, met de woorden van de catechismus, waartoe zij verplicht zijn, — wat betekenen de woorden: die zij geheven of tot het vormsel geleid hebben? — wanneer moeten zij deze plicht vervullen?
 
-6. Wat verstaat men door: herdoopt worden op conditie? — Mag men ooïît zonder conditie herdoopt worden? — Geef er de reden van. — Mag men ooit op conditie herdoopt worden? — Zeg, met de woorden van de Catechismus, wanneer dit mag geschieden en leg die woorden uit. — Breng dit antwoord overeen met de leer die zegt, dat het Doopsel niet meermaals mag ontvangen worden.
+9. geef de zin van de vraag: *wat bereiding is er van node tot het doopsel?* — wat is er in de dopeling vereist om het doopsel geldig te ontvangen? — welke klassen van personen zijn er te onderscheiden, als er spraak is van de vereiste bereiding tot het doopsel? — in wie is er tot dit sacrament bereiding nodig? — zeg, met de woorden van de catechismus, welke bereiding er in hen nodig is, — leg die woorden uit. — geef de reden van die vereiste bereiding. — wat is er in iemand, die tot de jaren van verstand gekomen is, vereist, opdat hij door het doopsel gans gezuiverd zou worden van alle zonden en schulden.
 
-7. Noem, met de woorden van de Catechismus, de verschillende uitwerksels van het Doopsel. — Leg ze uit. — Welke andere uitwerksels gaan met deze gepaard? — Hoe verschilt het Doopsel, door die uitwerksels, van de Sacramenten van de levenden en van het Sacrament van de Biecht? — Waarom betaamt het dat het Doopsel al de pijnen van de zonden vergeve? — Neemt het Doopsel ook al de gevolgen van de erfzonde weg? — Geef er de reden van.
+10. waartoe dienen de *ceremoniën* ten opzichte van de kracht en de uitwerking van het doopsel? — hoe onderwijzen zij ons nopens die kracht en uitwerking? — welke ceremoniën onderwijzen ons nopens de kracht en welke nopens de uitwerking?
 
-8. Wat betekenen de woorden peter en meter? — Waarom worden zij gebruikt in het Doopsel en in het Vormsel? — Zeg, met de woorden van de Catechismus, waartoe zij verplicht zijn, — Wat betekenen de woorden: die zij geheven of tot het Vormsel geleid hebben? — Wanneer moeten zij deze plicht vervullen?
 
-9. Geef de zin van de vraag: wat bereiding is er van node tot het Doopsel? — Wat is er in de doopeling vereist om het Doopsel geldig te ontvangen? — Welke klassen van personen zijn er te onderscheiden, als er spraak is van de vereiste bereiding tot het Doopsel? — In wie is er tot dit Sacrament bereiding nodig? —
-— 25 —
+een en dertigste les
 
-Zeg, met de woorden van de Catechismus, welke bereiding er in hen nodig is, — Leg die woorden uit. — Geef de reden van die vereiste bereiding. — Wat is er in iemand, die tot de jaren van verstand gekomen is, vereist, opdat hij door het Doopsel gans gezuiverd zou worden van alle zonden en schulden.
+van het vormsel
 
-10. Waartoe dienen de ceremoniën ten opzichte van de kracht en de uitwerking van het Doopsel? — Hoe onderwijzen zij ons nopens die kracht en uitwerking? — Welke ceremoniën onderwijzen ons nopens de kracht en welke nopens de uitwerking?
-Natuur nader bepaald.
+# wat is het vormsel?
 
-D=
+## een sacrament, dat van de bisschop wordt gegeven aan degenen die gedoopt zijn, in hetwelk, door de zalving en de heilige woorden, genade en sterkte wordt gegeven om het geloof vast te belijden
 
-— 26 —
+a. het antwoord leert ons kennen 1° de bedienaar van dit sacrament, 2° de personen voor wie het bestemd is, 3° zijn uitwendig teken en 4° zijn uitwerksel.
 
-EEN EN DERTIGSTE LES.
+1° *de bedienaar:* het vormsel is **een sacrament dat van de bisschop wordt gegeven:** de bisschoppen zijn de gewone bedienaars van het vormsel; doch ook enkele priesters kunnen en mogen het toedienen, als zij van de paus daartoe gemachtigd zijn. christus heeft gewild dat het een zo edele bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdeels om de gewichtigheid van zijn uitwerksel, namelijk, van de volwassenheid in het geestelijk leven, beter te doen uitschijnen.
 
-Van het Vormsel.
+2° *de personen voor wie het vormsel bestemd is:* het wordt gegeven **aan degenen die gedoopt zijn.** ([3ᵉ v.](TODO))
 
-Natuur. AA 1. Wat is het Vormsel ?
-V. 2, Wanneer moet men het Vormsel ont-
-. vangen?
-fe Gebruik, V, 4, Hoe dikwijls mag men gevormd wor de ?
+3° *Zijn uitwendig teken:* **de zalving** die de bisschop op het voorhoofd van de vormeling doet, **en de heilige woorden** die hij ondertussen uitspreekt, te weten: « Ik teken u met het teken des H. Kruis en vorm u met het Chrisma van de zaligheid. In de naam van de Vader, en van de Zoon, en van de H. Geest. » ([5ᵉ v.](TODO))
 
-2o Beletselen. }V.3 Wat iser van node tot het Vormsel?
+4° *Zijn uitwerksel:* **genade en sterkte om het Geloof vast te belijden.** *Genade* en *sterkte* zijn hier geen twee verschillende zaken: die woorden betekenen *versterkende genade* of genade die bijzondere sterkte geeft. ([6ᵉ v.](TODO))
 
-3o Uitwendig { 5. Waarmede bestrijkt de bisschop het teken. voorhoofd in het Vormsel?
+Het woord *vormsel* is zoveel als *vroomsel,* d.i. iets dat vroom, kloek of sterk maakt. Het Vormsel verdient deze naam, omdat het de mens die door het Doopsel in het geestelijk leven geboren is, tot de volwassenheid van dat leven brengt.
 
-4o Uitwerksels. }V. 6. Wat verkrijgen wij door het Vormsel?
+# Wanneer moet men het Vormsel ontvangen?
 
-V. 7. Waartoe dient de doek, die men ons voorbind! ?
+## Als men tot de jaren van verstand gekomen is, en daartoe bekwaamheid heeft
 
-V. 8. Waarom geeft men ons in het Doopsel en in het Vormsel namen van Heiligen?
+A. Men moet het Vormsel ontvangen als deze *twee* conditiën vervuld zijn:
 
-bo Ceremoniën.
+1° **Als men tot de jaren van verstand gekomen is;** bijgevolg moet het niet, gelijk het Doopsel, aan de kleine kinderen gegeven worden;
 
-V., Wat is het Vormsel?
+2° **En daartoe — bekwaamheid heeft:** genoegzame kennis van het Geloof om dit Sacrament met veel vrucht te ontvangen.
 
-. Een Sacrament, dat van de bisschop wordt gegeven aan degenen die gedoopt zijn, in hetwelk, door de zalving en de heilige woorden,
-gratie en sterkte wordt gegeven om het Geloof vast te belijden.
+Het Vormsel is niet nodig aan al de mensen die de genade Gods willen bekomen en tot de eeuwige zaligheid geraken, omdat het niet dient, gelijk het Doopsel, om ons het geestelijk leven te schenken, maar enkel om dat leven in ons te voltrekken. Kwam men het nochtans uit verachting of geringschatting te verzuimen, men zou voorzeker dodelijk zondigen.
 
-A. Het antwoord leert ons kennen 1° de bedienaar van dit
+# Wat is er van node tot het Vormsel?
 
-Sacrament, 2° de personen voor wie het bestemd is, 30 zijn
-
-ui
-
-twendig teken en 4e zijn uitwerksel.
-ie De bedienaar: het Vormsel is een Sacrament dat van
-
-den bisschop wordt gegeven: de bisschoppen zijn de gewone bedienaars van het Vormsel; doch ook enkele priesters kunnen en mogen het toedienen, als zij van de Paus daartoe gemachtigd zijn. Christus heeft gewild dat het eenen
-— 211 —
-
-zoo edelen bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdeels om de gewichtigheid van zijn uitwerksel, namelijk, van de volwassenheid in het geestelijk leven, beter te doen uitschijnen.
-
-2o De personen voor wie het Vormsel bestemd is + het wordt gegeven aan degenen die gedoopt zijn. (3 v.)
-
-3° Zijn uitwendig teken: de zalwing die de bisschop op het voorhoofd des vormlings doet. en de heilige woorden die hij ondertussen uitspreekt, te weten: « Ik teken u met het teken des H. Kruis en vorm u met het Chrisma van de zaligheid. In de naam van de Vader, en van de Zoon, en van de H. Geest. » (5e v‚)
-
-do Zijn witwerksel: gratie en sterkte om het Geloof vast te belijden. Gratie en sterkte zijn hier geen twee verschillende zaken: die woorden betekenen versterkende gratie of gratie die bijzondere sterkte geeft. (6e v.)
-
-Het woord vormsel is zoveel als vroomsel, d.i. iets dat vroom, kloek of sterk maakt. Het Vormsel verdient deze naam, omdat het de mens die door het Doopsel in het geestelijk leven geboren is, tot de volwassenheid van dat leven brengt.
-
-2. V. Wanneer moet men het Vormsel ontvangen?
-A. Als men tot de jaren van verstand gekomen is,
-en daartoe bekwaamheid heeft.
-
-A. Men moet het Vormsel ontvangen als deze twee conditien vervuld zijn:
-
-1° Als men tot de jaren van verstand gekomen is;
-bijgevolg moet het niet, gelijk het Doopsel, aan de kleine kinderen gegeven worden;
-
-2 En daartoe — hekwaamheid heeft: genoegzame kennis van het Geloof om dit Sacrament met veel vrucht te ontvangen.
-
-Het Vormsel is niet nodig aan al de mensen die de gratie Gods willen bekomen en tot de eeuwige zaligheid geraken, omdat het niet dient, gelijk het Doopsel, om ons het geestelijk leven te schenken, maar enkel om dat leven in ons
-— 218 —
-
-te voltrekken. Kwam men het nochtans uit verachting of geringschatting te verzuimen, men zou voorzeker dodelijk zondigen.
-
-3. V. Wat is er van node tot het Vormsel?
-A. Dat men gedoopt zij, en gezuiverd van alle dodelijke zonden.
+## Dat men gedoopt zij, en gezuiverd van alle dodelijke zonden
 
 V. Wat is er nodig om het Vormsel geldig en met vrucht te ontvangen?
 
-A. Daartoe zijn twee dingen nodig:
+A. Daartoe zijn *twee* dingen nodig:
 
-Ie Dat men gedoopt zij; zonder dat is men onbekwaam het te ontvangen; want het Doopsel is het eerste Sacrament.
+1° **Dat men gedoopt zij;** zonder dat is men onbekwaam het te ontvangen; want het Doopsel is het eerste Sacrament.
 
-2o En gezuiverd van aile dodelijke zonden; want het Vormsel is een Sacrament van de levenden, en moet bijgevolg in staat van gratie ontvangen worden.
+2° **En gezuiverd van alle dodelijke zonden;** want het Vormsel is een Sacrament van de levenden, en moet bijgevolg in staat van genade ontvangen worden.
 
-4. V. Hoe dikwijls mag men gevormd worden?
-A. Niet meer dan ééns in het leven, om het merkteken, dat het in de ziel prent.
+# Hoe dikwijls mag men gevormd worden?
 
-A. Zie 29e les, 7e vr.
+## Niet meer dan ééns in het leven, om het merkteken, dat het in de ziel prent
 
-5. V. Waarmede bestrijkt de bisschop het voorhoofd in het vormsel?
+A. Zie [29ᵉ les, 7ᵉ vr.](les-29.html#mogen-alle-sacramenten-dikwijls-ontvangen-worden)
 
-A. Met olie gemengeld met balsem en van de bisschop daartoe gewijd.
+# Waarmee bestrijkt de bisschop het voorhoofd in het vormsel?
+
+## Met olie gemengeld met balsem en van de bisschop daartoe gewijd
 
 V. Met welke stof geschiedt de zalving die tot het uitwendig teken des Vormsels behoort?
 
-A. Zij geschiedt — met olie: met olijfolie, want gewoonlijk wordt deze alleen in de H. Schrift en in de kerkelijke boeken onder de naam van olie begrepen. Deze olie echter moet twee hoedanigheden hebben: I° gemengeld zijn met balsem, die een welriekende stof is; 20 van de bisschop daartoe gewijd zijn, en dan krijgt zij de naam van Chrisma (zalf bij uitnemendheid).
-— 279 —
+A. Zij geschiedt — **met olie:** met olijfolie, want gewoonlijk wordt deze alleen in de H. Schrift en in de kerkelijke boeken onder de naam van *olie* begrepen. Deze olie echter moet twee hoedanigheden hebben: 1° **gemengeld zijn met balsem,** die een welriekende stof is; 2° **van de bisschop daartoe gewijd** zijn, en dan krijgt zij de naam van *Chrisma* (zalf bij uitnemendheid).
 
-6. V. Wat verkrijgen wij door het Vormsel?
-A. De gratie Gods om het Geloof vast te belijden.
+# Wat verkrijgen wij door het Vormsel?
 
-V. Welke bijzondere gratie verkrijgen wij door het Vormsel?
+## De genade Gods om het Geloof vast te belijden
 
-A. Wij verkrijgen — de gratie Gods: vermeerdering van de heiligmakende gratie, recht tot de dadelijke, en een eeuwig en altijddurend merkteken, uitwerksels die allen ons bijzonder bekwaam maken — om het Geloof vast te belijden: om, zonder aarzelen of twijfelen, in weerwil van alle bekoringen het Geloof inwendig te bewaren en er onze begeerten naar te schikken, uitwendig door woorden en werken te belijden, en zo een volmaakt christelijk leven te leiden. Het Vormsel dus maakt ons volwassen Christenen, z00dat er tussen een persoon die enkel gedoopt, en een anderen die ook gevormd is, hetzelfde verschil bestaat als tussen een kind en een volwassen mens.
+V. Welke bijzondere genade verkrijgen wij door het Vormsel?
 
-Het uitwendig teken des Vormsels drukt er duidelijk de bijzondere gratie van uit; immers wat 1° de zalving betreft,
-zij geschiedt met olie gemengeld met balsem, twee stoffen waarvan de eerste, uit hoofde van haar helende en versterkende kracht, ongetwijfeld dienstig is om de bekomene volwassenheid van het geestelijk leven te betekenen; eu de laatste,
-wegens haar voorbehoudende kracht en haar aangenamen geur, allerbest doet uitschijnen hoe de gratie des Vormsels ons tegen de zonde bevrijdt, en ons bekwaam maakt om voorbeelden te geven van alle deugden. Verder treft men in de omstandigheid, dat de olie gemengeld met balsem door de bisschop gewijd is en ook dat dit Sacrament door hem bediend wordt, een klaar teken aan van de verhevene uitwerksels van het Vormsel. Wat nu 2e de heilige woorden aangaat, deze vooral: « Ik vorm u, » ik versterk, ik bevestig u, leren ons meer specifiek de bijzondere gratie kennen die door de zalving wordt aangeduid.
+A. Wij verkrijgen — **de genade Gods:** vermeerdering van de heiligmakende genade, recht tot de dadelijke, en een eeuwig en altijddurend merkteken, uitwerksels die allen ons bijzonder bekwaam maken — **om het Geloof vast te belijden:** om, zonder aarzelen of twijfelen, in weerwil van alle bekoringen het Geloof inwendig te bewaren en er onze begeerten naar te schikken, uitwendig door woorden en werken te belijden, en zo een volmaakt christelijk leven te leiden. Het Vormsel dus maakt ons volwassen Christenen, zodat er tussen een persoon die enkel gedoopt, en een anderen die ook gevormd is, hetzelfde verschil bestaat als tussen een kind en een volwassen mens.
 
-7. V. Waartoe dient de doek, die men ons voorbindt?
-A. Tot eerbiedigheid voor de heilige olie, en ook
-— 280 —
+Het uitwendig teken des Vormsels drukt er duidelijk de bijzondere genade van uit; immers wat 1° de *zalving* betreft, zij geschiedt met olie gemengeld met balsem, twee stoffen waarvan de eerste, uit hoofde van haar helende en versterkende kracht, ongetwijfeld dienstig is om de bekomene volwassenheid van het geestelijk leven te betekenen; en de laatste, wegens haar voorbehoudende kracht en haar aangenamen geur, allerbest doet uitschijnen hoe de genade des Vormsels ons tegen de zonde bevrijdt, en ons bekwaam maakt om voorbeelden te geven van alle deugden. Verder treft men in de omstandigheid, dat de olie gemengeld met balsem door de bisschop gewijd is en ook dat dit Sacrament door hem bediend wordt, een klaar teken aan van de verhevene uitwerksels van het Vormsel. Wat nu 2° de *heilige woorden* aangaat, deze vooral: « *Ik vorm u,* » ik versterk, ik bevestig u, leren ons meer specifiek de bijzondere genade kennen die door de zalving wordt aangeduid.
 
-om indachtig te wezen, dat wij voor Christus en het Geloof veel moeten verdragen.
+# Waartoe dient de doek, die men ons voorbindt?
 
-V. Waartoe dient de doek die men de vormlingen om het voorhoofd bindt als zij reeds gezalfd zijn?
+## Tot eerbiedigheid voor de heilige olie, en ook om indachtig te wezen, dat wij voor Christus en het Geloof veel moeten verdragen
 
-A. Hij dient tot een dubbel einde:
+V. Waartoe dient de doek die men de vormelingen om het voorhoofd bindt als zij reeds gezalfd zijn?
 
-1° Tot eerbiedigheid voor de heilige olie: opdat de gewijde olie op geen onbetamelijke wijze zou aangeraakt of afgevaagd worden ;
+A. Hij dient tot een *dubbel* einde:
 
-2e Om indachtig te wezen dat wij voor Christus en het Geloof veel moeten verdragen: om de vormling te herinneren dat hij allen smaad en schaamte moet willen lijden om Christus getrouw te blijven en diens leer, door woorden en werken, tot de dood toe te belijden.
+1° **Tot eerbiedigheid voor de heilige olie:** opdat de gewijde olie op geen onbetamelijke wijze zou aangeraakt of afgevaagd worden;
 
-Heden bestaat deze ceremonie niet meer, en in haar dubbel einde is volgender wijze voorzien: terstond na de zalving droogt een priester, bij middel van wat brood en wat boomwol of watte, de heilige olie af‚ en de bisschop geeft de vormling een zachten kaakslag, zeggende: « Vrede zij met u. »
+2° **Om indachtig te wezen dat wij voor Christus en het Geloof veel moeten verdragen:** om de vormeling te herinneren dat hij allen smaad en schaamte moet willen lijden om Christus getrouw te blijven en diens leer, door woorden en werken, tot de dood toe te belijden.
 
-8. V. Waarom geeft men ons in het Doopsel en
-én het Vormsel namen van Heiligen ?
+Heden bestaat deze ceremonie niet meer, en in haar dubbel einde is volgender wijze voorzien: terstond na de zalving droogt een priester, bij middel van wat brood en wat boomwol of watte, de heilige olie af‚ en de bisschop geeft de vormeling een zachten kaakslag, zeggende: « *Vrede zij met u.* »
 
-A. Opdat wij die zouden leren navolgen, en van dezelve als onze patronen geholpen mogen worden.
+# Waarom geeft men ons in het Doopsel en in het Vormsel namen van Heiligen?
 
-A. Dit wordt gedaan om twee redenen:
+## Opdat wij die zouden leren navolgen, en van dezelve als onze patronen geholpen mogen worden
 
-l° Opdat wij die zouden leren navolgen: hiertoe is het zeer dienstig, want zo houdt de H. Kerk ons bijzondere voorbeelden voor, die wij met meer genegenheid zullen zoeken te kennen en te benuttigen. Dan, als wij ons met de namen van Heiligen zullen horen noemen. dan zullen wij ons dikwijls hun voorbeelden herinneren, en er door opgewekt worden om ons leven naar het hun te schikken.
+A. Dit wordt gedaan om *twee* redenen:
 
-2 Opdat wij van dezelve als onze patronen geholpen mogen worden: immers de H. Kerk bidt door haar bedienaar, opdat wij de bijzondere bescherming mogen bekomen van de Heiligen wier namen wij in het Doopsel of in het Vormsel gekregen hebben.
-— 281 —
+1° **Opdat wij die zouden leren navolgen:** hiertoe is het zeer dienstig, want zo houdt de H. Kerk ons bijzondere voorbeelden voor, die wij met meer genegenheid zullen zoeken te kennen en te benuttigen. Dan, als wij ons met de namen van Heiligen zullen horen noemen. dan zullen wij ons dikwijls hun voorbeelden herinneren, en er door opgewekt worden om ons leven naar het hun te schikken.
+
+2° **Opdat wij van dezelve als onze patronen geholpen mogen worden:** immers de H. Kerk bidt door haar bedienaar, opdat wij de bijzondere bescherming mogen bekomen van de Heiligen wier namen wij in het Doopsel of in het Vormsel gekregen hebben.
 
 In het Vormsel legt de bisschop gewoonljk geen nieuwe namen. maar opnieuw de namen van het Doopsel op.
 
-Aanmerking.
+### Aanmerking
 
-Het uitwendig teken van het Vormsel, namelijk, de zalving met het Chrisma en de heilige woorden van de bisschop,
-geeft duidelijk te kennen dat dit Sacrament de mens van intredend lid tot volwassen lid van de H. Kerk maakt, of hem tot de volwassenheid brengt in het leven van de gratie; dat het bijgevolg te die einde de heiligmakende gratie en het recht tot de dadelijke vermeerdert en volmaakt, en daarenboven het merkteken van volwassen lid van de H. Kerk in de ziel prent. Daarom moet de vormling gedoopt en zo reeds intredend lid van de H. Kerk zijn, alsook de gratie Gods al bezitten; want daar alleen kan het geestelijk leven voltrokken worden, waar het alreede bestaat. Om diezelfde reden, namelijk, om de bijzondere uitwerksels van het Vormsel, mag men het nooit meer dan ééns, maar moet men het eens ontvangen, als men tot de jaren van verstand gekomen is, en daartoe hekwaamheid heeft.
+Het uitwendig teken van het Vormsel, namelijk, de zalving met het Chrisma en de heilige woorden van de bisschop, geeft duidelijk te kennen dat dit Sacrament de mens van intredend lid tot volwassen lid van de H. Kerk maakt, of hem tot de volwassenheid brengt in het leven van de genade; dat het bijgevolg te die einde de heiligmakende genade en het recht tot de dadelijke vermeerdert en volmaakt, en daarenboven het merkteken van volwassen lid van de H. Kerk in de ziel prent. Daarom moet de vormeling gedoopt en zo reeds intredend lid van de H. Kerk zijn, alsook de genade Gods al bezitten; want daar alleen kan het geestelijk leven voltrokken worden, waar het alreede bestaat. Om diezelfde reden, namelijk, om de bijzondere uitwerksels van het Vormsel, mag men het nooit meer dan ééns, maar moet men het eens ontvangen, als men tot de jaren van verstand gekomen is, en daartoe bekwaamheid heeft.
 
-VRAGEN.
+### VRAGEN
 
 Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Zeg in 't kort wat ieder deel bevat.
 
-1. Zeg, met de woorden van de Catechismus: a) wie de bedienaar van dit Sacrament is, b) voor wie het bestemd is, c) welk er het uitwendig teken van is, en d) welke er de uitwerksels van
+1. Zeg, met de woorden van de Catechismus: a) wie de bedienaar van dit Sacrament is, b) voor wie het bestemd is, c) welk er het uitwendig teken van is, en d) welke er de uitwerksels van zijn. — Leg dit alles in ’t kort uit. — Geef rekenschap over de bijzonderen bedienaar des Vormsels. — Verklaar het woord *Vormsel.*
 
-zijn. — Leg dit alles in ’t kort uit. — Geef rekenschap over de bijzonderen bedienaar des Vormsels. — Verklaar het woord Vormsel.
+2. Hoeveel conditiën zijn er vereist om het Vormsel te moeten ontvangen? — Stel ze voor met de woorden van de Catechismus, en verklaar deze woorden. — Is het Vormsel zo nodig ter zaligheid als het Doopsel? — Geef daar de reden van. — Wanneer zondigt men voorzeker dodelijk met het Vormsel te verzuimen?
 
-2, Hoeveel conditiën zijn er vereist om het Vormsel te moeten ontvangen? — Stel ze voor met de woorden van de Catechismus,
-en verklaar deze woorden. — Is het Vormsel zo nodig ter zaligheid als het Doopsel? — Geef daar de reden van. — Wanneer zondigt men voorzeker dodelijk met het Vormsel te verzuimen?
-
-3, Geef de zin van de vraag: wat is er van node tot het Vormsel?
-— Hoeveel en welke dingen zijn, volgens de Catechismus, daartoe vereist? — Geef rekenschap van deze vereiste voorwaarden,
+3. Geef de zin van de vraag: *wat is er van node tot het Vormsel?* — Hoeveel en welke dingen zijn, volgens de Catechismus, daartoe vereist? — Geef rekenschap van deze vereiste voorwaarden.
 
 4. Mag men meer dan ééns gevormd worden? — Welke is de reden daarvan?
-— 282 —
 
 5. Zeg, met de Catechismus, met welke stof de zalving in het Vormsel geschiedt, en hoedanig deze stof moet zijn. — Leg dit alles uit, — Hoe wordt die stof genoemd?
 
-6. Hoe stelt de Catechismus ons de bijzondere gratie des Vormsels voor? — Wat iser hier te verstaan door de gratie Gods? —
-Wat betekenen de woorden: om het Geloof vast te belijden?
-— Welk verschil bestaat er dan tussen iemand die enkel gedoopt en iemand die ook gevormd is? — Toon hoe het uitwendig teken des Vormsels geheel deze bijzondere gratie betekent.
+6. Hoe stelt de Catechismus ons de bijzondere genade des Vormsels voor? — Wat is er hier te verstaan door *de genade Gods?* — Wat betekenen de woorden: *om het Geloof vast te belijden?* — Welk verschil bestaat er dan tussen iemand die enkel gedoopt en iemand die ook gevormd is? — Toon hoe het uitwendig teken des Vormsels geheel deze bijzondere genade betekent.
 
-1. Zeg, met de woorden van de Catechismus, om welke redenen de H. Kerk de ceremonie heeft ingesteld van, na de zalving, een doek om het voorhoofd des vormlings te bìnden. — Leg deze woorden uit. — Bestaat deze ceremonie nog? — Hoe is nu voorzien in het einde, waartoe zij ingesteld geweest is?
+7. Zeg, met de woorden van de Catechismus, om welke redenen de H. Kerk de ceremonie heeft ingesteld van, na de zalving, een doek om het voorhoofd des vormelings te bìnden. — Leg deze woorden uit. — Bestaat deze ceremonie nog? — Hoe is nu voorzien in het einde, waartoe zij ingesteld geweest is?
 
 8. Zeg, met de woorden van de Catechismus, om welke redenen in het Doopsel en in het Vormsel namen van Heiligen gegeven worden. — Bewijs dat die redenen geldig zijn. — Worden in het Vormsel andere namen gegeven dan in het Doopsel?
-— 283 —
-TWEE EN DERTIGSTE LES.
 
-Van het Heilig Sacrament des Altaars.
+TWEE EN DERTIGSTE LES
 
-Natuur. } V. 1. Wat is het Heilig Sacrament des Altaars?
-40 Instelling [ 2. Tot wat einde heeft Christus
-' het Heilig Sacrament ingesteld ?
-V. 3. Wat ís er ons tegenwoordig in het Heilig Sacrament?
+Van het Heilig Sacrament des Altaars
 
-ge Christus’ tegen- Vv. 4, Hoe wordt ons Christus tegen
+# Wat is het Heilig Sacrament des Altaars?
 
-woordigheid in dit Sa- woordig gesteld in het Heilig Sa-
+## Een Sacrament, van Christus onze Zaligmaker ingesteld, in hetwelk, onder de gedaante van brood en wijn, Hij zelf tegenwoordig is
 
-crament ?
+A. Het antwoord spreekt ons: 1° van de instelling, 2° van het uitwendig teken, en 3° van de bijzondere genade van het H. Sacrament des Altaars.
 
-V,5. Onder welk deel van de Heilige Hostie is Christus, als die gebroken wordt?
+1° *De instelling:* het is **een Sacrament van Christus, onze Zaligmaker, ingesteld.** Deze instelling greep plaats ’s avonds voor Jezus’ dood, op 't einde van het Laatste Avondmaal. De Heer nam dan het brood in zijn gebenedijde handen, sprak er een lof- en dankgebed over uit, brak het in stukken en zei: *« Neemt en eet; dit is mijn lichaam. »* Daarna nam Hij ook de kelk in handen, deed een lof- en dankgebed, en gaf die aan zijn discipelen zeggende: *« Drinkt allen hieruit; want dit is mijn bloed van het Nieuw Testament, dat voor u en voor velen zal vergoten worden ter vergeving van de zonden. Doet dit, zo dikwijls gij deze kelk zult drinken, tot mijne gedachtenis. »*
 
-V. 6. Moeten alle mensen Christus
+‘t Is omdat de H. Schrift ons heel klaar leert, *wanneer* en *hoe* de instelling van het H. Sacrament des Altaars geschiedde, dat de Catechismus er hier bijzondere melding van maakt. Dit doet hij ook, en om dezelfde reden, in de bepaling van de Biecht. Bij de overige Sacramenten maakt hij daar geen gewag van, omdat wij uit de Schrift of de Overlevering *niet,* of ten minste *niet volkomen* weten, *hoe* en *wanneer,* maar enkel *dat* zij van Christus ingesteld zijn. — De instelling van het H. Sacrament des Altaars wordt gevierd op Witte Donderdag.
 
-3° Gebruik en ver-\ ontvangen onder één gedaante of
+2° *Het uitwendig teken:* **de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig** (gesteld) **is** door de woorden van de Consecratie, die de priester over het brood en de wijn gesproken heeft; anders gezeid: de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig is, met de woorden van de Consecratie door dewelke Hij er onder tegenwoordig gesteld, en zijn tegenwoordigheid ons kenbaar gemaakt is. Hier is dus geen sprake van waar brood en ware wijn, maar enkel van gedaanten van die beide stoffen, van hun uiterlijk voorkomen, hun vorm, smaak, kleur, reuk, zwaarte, enz.; het wezen hier tegenwoordig is Christus zelf, doch niet in zijn natuurlijke gedaante, maar onder die van brood en wijn.
 
-eering van dit Sacra-d onder alle beide de gedaanten ?
-ment. V. 7. Wat eer zijn wij het Heilig Sacrament schuldig?
-V. 8. Is het ook Christus’ bloed, dat
+3° *De sonderlinge genade:* **Christus zelf onder de gedaanten van brood en wijn tegenwoordig:** d.i. Christus zelf, de bron en de gever van alle genade, ons als *spijs,* van het geestelijk leven van de ziel voorgesteld, i.a.w. een mededeling van het goddelijk leven, van de goddelijke krachten om het goed te kennen en te doen, en zo in het geestelijk leven gevoed te zijn: de gedaanten van brood en wijn geven duidelijk te kennen, dat de genade van dit Sacrament een voedsel is, en de tegenwoordigheid van Christus leert ons, waardoor wij in dit Sacrament gevoed worden, namelijk door Christus zelf, en bijgevolg door een mededeling van de goddelijke krachten.
 
-4o Geremoniën. men ons geeft na de Heilige Com-
+Deze genade is heel verschillend van die van het Doopsel en des Vormsels: door het Doopsel worden wij in *het geestelijk leven geboren;* door het Vormsel verkrijgen wij de *volwassenheid,* en door het H. Sacrament des Altaars *de spijs* van dit leven.
 
-manie ?
+Men bemerke hier, dat het uitwendig teken van het H. Sacrament des Altaars onder andere deze eigenschappen heeft: a) dat het niet, gelijk dit van de andere Sacramenten, *voorbijgaand,* maar wel *blijvend* is, aangezien Christus onder de gedaanten van brood en wijn op een voortdurende wijze tegenwoordig blijft, en b), dat het ons niet uitsluitend leert, *welke bijzondere* genade er door wordt gegeven, maar ook nog wat de genade in haar zelve is. Het uitwendig teken van het Doopsel leert ons, dat de genade van dit Sacrament voor eigendom heeft ons te zuiveren van de zonde; en dit des Vormsels, dat dit Sacrament ons de volwassenheid in het geestelijk leven geeft, maar noch het een noch het ander zegt ons waarin de betekende genade eigenlijk gelegen is. Integendeel het uitwendig teken van het H. Sacrament des Altaars leert ons niet uitsluitend, *dat* de genade van dit Sacrament voor eigendom heeft onze ziel in ’t geestelijk leven te spijzen, maar ook nog *waarin* die genade bestaat. Hetgene hier tot spijs gegeven wordt, is geen natuurlijke stof, gelijk het water of de olie van het Doopsel of het Vormsel, maar Christus zelf; en zo wordt er uitgedrukt, dat de genade Gods, die hier bijzonder gegeven wordt om de ziel te spijzen, gelijk zij in het Doopsel en in het Vormsel gegeven wordt om het geestelijk leven in te storten en het te volmaken, niets anders is dan een mededeling van de goddelijke krachten, van het goddelijk leven zelf, onder het opzicht van het goede te kennen en het te doen.
 
-crament.
+Het H. Sacrament des Altaars wordt aldus genoemd, omdat het op het *altaar,* d. i, op de tafel die tot het opdragen van het sacrificie bestemd is, onder de Mis teweeggebracht wordt. Het heet ook *Heilig Sacrament* omdat het Christus, de heiligheid zelve, bevattende, bij uitmuntendheid *heilig* is.
 
-Natuur nader bepaald.
-nme
+# Tot wat einde heeft Christus het Heilig Sacrament des Altaars ingesteld?
 
-
-
-\
-
-1. V. Wat is het Heilig Sacrament des Altaars?
-
-A. Een Sacrament, van Christus onze Zaligmaker ingesteld, in hetwelk, onder de gedaante van brood en wijn, Hij zelf tegenwoordig is.
-
-A. Het antwoord spreekt ons: 1° van de instelling, 2° van het uitwendig teken, en 3° van de bijzondere gratie van het H. Sacrament des Altaars.
-
-ie De instelling: het is een Sacrament van Christus,
-onze Zaligmaker, ingesteld. Deze instelling greep plaats
-— 284 —
-
-’s avonds voor Jezus’ dood, op 't einde van het Laatste Avondmaal. De Heer nam dan het brood in zijn gebenedijde handen,
-sprak er een lof- en dankgebed over uit, brak het in stukken en zeide: « Neemt en eet; dit is mijn lichaam. » Daarna nam Hij ook de kelk in handen, deed een lof- en dankgebed, en.
-gaf die aan zijn discipelen zeggende: « Drinkt allen hieruit;
-» want dit is mijn bloed van het Nieuw Testament, dat voor u
-» en voor veler zal vergoten worden ter vergeving van de zonden.
-» Doet dit, zo dikwijls gij deze kelk ault drmken, tot mijne
-» gedachtenis. »
-
-‘t Is omdat de H. Schrift ons heel klaar leert, wasimeer en hoe de instelling van het H. Sacrament des Altaars geschiedde, dat de Catechismus er hier bijzondere melding van maakt. Dit doet hij ook, en om dezelfde reden, in de bepaling van de Biecht. Bij de overige Sacramenten maakt hij daar geen gewag van, omdat wij uit de Schrift of de Overlevering niet, of ten minste niet volkomen weten, hoe en wanneer,
-maar enkel det zij van Christus ingesteld zijn. — De instelling van het H. Sacrament des Altaars wordt gevierd op Witten Donderdag.
-
-2o Het uitwendig teken: de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig (gesteld) is door de woorden van de Consecratie, die de priester over het brood en de wijn gesproken heeft; anders gezeid:
-de gedaanten van brood en wijn onder dewelke Christus zelf tegenwoordig is, met de woorden van de Consecratie door dewelke Hij er onder tegenwoordig gesteld, en zijn tegenwoordigheid ons kenbaar gemaakt is. Hier is dus geen sprake van waar brood en waren wijn, maar enkel van gedaanten dier beide stoffen, van hun uiterlijk voorkomen, hun vorm, smaak, kleur, reuk, zwaarte, enz.; het wezen hier tegenwoordig is Christus zelf, doch niet in zijn natuurlijke gedaante, maar onder die van brood en wijn.
-
-3e De sonderlinge gratie: Christus zelf onder de gedaanten van bruod en wijn tegenwoordig: d. i, Christus zelf, de bron en de gever van alle gratie, ons als spijs, van het geestelijk leven van de ziel voorgesteld, i.a.w. een mededeling van het goddelijk leven, van de goddelijke krachten om het goed te kennen en te doen, en zo in het geestelijk leven gevoed te zijn: de gedaanten van brood en wijn geven
-— 285 —
-
-duidelijk te kennen, dat de gratie van dit Sacrament een voedsel is, en de tegenwoordigheid van Christus leert ons,
-waardoor wij in dit Sacrament gevoed worden, namelijk door Christus zelf, en bijgevolg door een mededeling van de goddelijke krachten.
-
-Deze gratie is heel verschillend van die van het Doopsel en des Vormsels: door het Doopsel worden wij in het geestelijk leven geboren; door het Vormsel verkrijgen wij de volwassenheid,
-en door het H. Sacrament des Altaars de spijs van dit leven.
-
-Men bemerke hier, dat het uitwendig teken van het H. Sacrament des Altaars onder andere deze eigenschappen heeft: a) dat het niet, gelijk dit van de andere Sacramenten,
-voorbijgaand, maar wel blijvend is, aangezien Christus onder de gedaanten van brood en wijn op een voortdurende wijze tegenwoordig blijft, en bj, dat het ons niet uitsluitend leert,
-welke bijzondere gratie er door wordt gegeven, maar ook nog wat de gratie in haar zelve is. Het uitwendig teken van het Doopsel leert ons, dat de gratie van dit Sacrament voor eigendom heeft ons te zuiveren van de zonde; en dit des Vormsels, dat dees Sacrament ons de volwassenheid in het geestelijk leven geeft, maar noch het een noch het ander zegt ons waarin de betekende gratie eigenlijk gelegen is. Integendeel het uitwendig teken van het H. Sacrament des Altaars leert ons niet uitsluitend, dat de gratie van dit Sacrament voor eigendom heeft onze ziel in ’t geestelijk leven te spijzen,
-maar ook nog waarin die gratie bestaat. Hetgvue hier tot spijs gegeven wordt, is geen natuurlijke stof, gelijk het water of de olie van hei Doopsel of het Vormsel, maar Christus zelf; en zo wordt er uitgedrukt, dat de gratie Gods, die hier bijzonder gegeven wordt om de ziel te spijzen, gelijk zij in het Doopsel en in het Vormsel gegeven wordt om het geestelijk leven in te storten en het te volmaken, niets anders is dan een mededeling van de goddelijke krachten, van het goddelijk leven zelf, onder het opzicht van het goede te kennen en het te doen.
-
-Het H. Sacrament des Altaars wordt aldus genoemd, omdat het op het altaar, d. i, op de tafel die tot het opdragen van het sacrificie bestemd is, onder de Mis teweeggebracht wordt.
-Het heet ook Heilig Sacrament omdat het Christus, de heiligheid zelve, bevattende, bij uitmuntendheid heilig is.
-— 286 —
-
-2. V. Tot wat einde heeft Christus het Heilig Sacrament des Altaars ingesteld?
-
-A. Ten eerste, opdat het ons zou wezen een gedachtenis van zijn liefde en zijn heilig lijden;
-ten tweede, tot een waarachtige spijs van onze ziel; ten derde, tot een gedurig sacrificie van de Nieuwe Wet.
+## Ten eerste, opdat het ons zou wezen een gedachtenis van zijn liefde en zijn heilig lijden; ten tweede, tot een waarachtige spijs van onze ziel; ten derde, tot een gedurig sacrificie van de Nieuwe Wet
 
 V. Om welke redenen heeft Christus het zo verheven H. Sacrament ingesteld?
 
-A. Hij heeft het ingesteld om deze drie redenen:
+A. Hij heeft het ingesteld om deze *drie* redenen:
 
-Ten eerste, opdat het ons zou wezen een gedachtenis van zijn liefde en zijn heilig lijden: opdat het ons zou herinneren hoe Hij ons bemint, en hoe Hij voor onze zaligheid geleden en de dood ondergaan heeft. Het isa)eene gedachtenis van zijn hefde ten onze opzichte; immers het grootste liefdebewijs dat men iemand geven kan, bestaat ongetwijfeld in tot hem te gaan en bij hem te blijven om hem te helpen, te troosten en hem allerlei diensten te bewijzen; welnu,
-door het H. Sacrament komt en blijft Christus bij ons, om ons in alle noodwendigheden bij te staan en ons alle goed te schenken; Hij komt en blijft bij ons, niet op een enkele plaats, maar overal waar priesters te vinden zijn, zodat dit Sacrament terecht een voortzetting en zelfs een uitbreiding van het groot liefdewerk van de menswording mag genoemd worden. Het is b) een gedachtenis van zijn heilig lijden: de gedaanten van brood en wijn zijn gedaanten van levenloze zaken, (in brood en wijn is er geen leven te vinden),
-en zo stellen zij ons Christus, die er onder tegenwoordig is, voor, niet als levend, maar als dood. Daarenboven leren zij ons dat Christus een bloedige dood gestorven is; want de dubbele gedaante waaronder Hij tegenwoordig is, stellende de een (de gedaante van brood) een vaste, en de andere (de gedaante van wijn) een vloeibare stof voor, dient rechtstreeks om te tonen dat Christus door het scheiden van lichaam en bloed gestorven is: de gedaante van brood verbeeldt zijn dood lichaam van bloed beroofd; de gedaante van wijn, zijn bloed van het lichaam afgescheiden.
-— 287 —
+**Ten eerste, opdat het ons zou wezen een gedachtenis van zijn liefde en zijn heilig lijden:** opdat het ons zou herinneren hoe Hij ons bemint, en hoe Hij voor onze zaligheid geleden en de dood ondergaan heeft. Het is a) *een gedachtenis van zijn liefde* voor ons; immers het grootste liefdebewijs dat men iemand geven kan, bestaat ongetwijfeld in tot hem te gaan en bij hem te blijven om hem te helpen, te troosten en hem allerlei diensten te bewijzen; welnu, door het H. Sacrament komt en blijft Christus bij ons, om ons in alle noodwendigheden bij te staan en ons alle goed te schenken; Hij komt en blijft bij ons, niet op een enkele plaats, maar overal waar priesters te vinden zijn, zodat dit Sacrament terecht een voortzetting en zelfs een uitbreiding van het groot liefdewerk van de menswording mag genoemd worden. Het is b) *een gedachtenis van zijn heilig lijden:* de gedaanten van brood en wijn zijn gedaanten van *levenloze* zaken, (in brood en wijn is er geen leven te vinden), en zo stellen zij ons Christus, die er onder tegenwoordig is, voor, niet als *levend,* maar als *dood.* Daarenboven leren zij ons dat Christus een *bloedige* dood gestorven is; want de dubbele gedaante waaronder Hij tegenwoordig is, stellende de een (de gedaante van brood) een vaste, en de andere (de gedaante van wijn) een vloeibare stof voor, dient rechtstreeks om te tonen dat Christus door het scheiden van lichaam en bloed gestorven is: de gedaante van brood verbeeldt zijn dood lichaam van bloed beroofd; de gedaante van wijn, zijn bloed van het lichaam afgescheiden.
 
-Ten tweede, tot een waarachtige spijs van onze ziel:
-opdat het zou dienen om onze ziel in het leven van de gratie te voeden: dit is immers zijn bijzondere gratie. Het geestelijk voedsel, dat het ons geeft, bestaat uit de volgende gratiën:
-1° vermeerdering van de heiligmakende gratie, 2e recht tot de dadelijke, 3° vergiffenis van die dagelijkse zonden waarover men enig leedwezen heeft; — dit uitwerksel komt voorzeker voort uit de goede werken, het leedwezen en de gebeden waartoe de vurigheid van de liefde, door dit Sacrament ingestort, ons opwekt, en misschien ook uit de vermeerdering van onze vriendschap met God, (zie 14e les, vr. 8.) aangezien het natuurlijk is dat God ons zulke fouten vergeeft, als Hij ons in inniger vriendschap ontvangt; 40 dikwijls een bijzondere inwendige vreugde.
+**Ten tweede, tot een waarachtige spijs van onze ziel:** opdat het zou dienen om onze ziel in het leven van de genade te voeden: dit is immers zijn bijzondere genade. Het geestelijk voedsel, dat het ons geeft, bestaat uit de volgende genaden: 1° vermeerdering van de heiligmakende genade, 2° recht tot de dadelijke, 3° vergiffenis van die dagelijkse zonden waarover men enig leedwezen heeft; — dit uitwerksel komt voorzeker voort uit de goede werken, het leedwezen en de gebeden waartoe de vurigheid van de liefde, door dit Sacrament ingestort, ons opwekt, en misschien ook uit de vermeerdering van onze vriendschap met God, (zie [14ᵉ les, vr. 3.](les-14.html#hoe-worden-de-dagelijkse-zonden-vergeven)) aangezien het natuurlijk is dat God ons zulke fouten vergeeft, als Hij ons in inniger vriendschap ontvangt; 4° dikwijls een bijzondere inwendige vreugde.
 
-Ten derde, tot een gedurig sacrificie van de Nieuwe Wet: opdat het zou dienen tot een sacricie in de H. Kerk gedurig op te dragen. (33e les.)
+**Ten derde, tot een gedurig sacrificie van de Nieuwe Wet:** opdat het zou dienen tot een sacricie in de H. Kerk gedurig op te dragen. ([33ᵉ les.](les-33.html))
 
-3. V. Wat is er ons tegenwoordig in het Heilig Sacrament?
+# Wat is er ons tegenwoordig in het Heilig Sacrament?
 
-A. Christus zelf, God en mens, met zijn ziel en zijn lichaam, gelijk Hij nu glorieus in de hemel is.
+## Christus zelf, God en mens, met zijn ziel en zijn lichaam, gelijk Hij nu glorieus in de hemel is
 
-V. Wat, welk wezen, is er ons tegenwoordig in het Heilig Sacrament, onder de gedaanten van brood en wijn,
-die wij uitwendig zien?
+V. **Wat,** welk wezen, **is er ons tegenwoordig in het Heilig Sacrament,** onder de gedaanten van brood en wijn, die wij uitwendig zien?
 
-A. Het wezen in het H. Sacrament des Altaars tegenwoordig is niet brood of wijn, maar Christus, de tweede persoon van de H. Drievuldigheid, God en mens, en Hij is daar tegenwoordig niet alleen met zijn kracht, gelijk in de andere Sacramenten, noch alleen door afbeelding, gelijk in de kruisbeelden, noch alleen door het Geloof, gelijk bij degenen die op Hem denken, maar zelf, d, í, in persoon of wezenlijk; —
-t is Christus niet enkel als God, gelijk Hij overal is met de Vader en de H. Geest, maar als God en mens; — 't is Christus niet enkel met zijn ziel, gelijk in zijn nederdaling ter helle, of niet enkel met zijn lichaam gelijk in zijn graf;
+A. Het wezen in het H. Sacrament des Altaars tegenwoordig is niet brood of wijn, maar **Christus,** de tweede persoon van de H. Drievuldigheid, God en mens, en Hij is daar tegenwoordig niet alleen met zijn kracht, gelijk in de andere Sacramenten, noch alleen door afbeelding, gelijk in de kruisbeelden, noch alleen door het Geloof, gelijk bij degenen die op Hem denken, maar **zelf,** d, i, in persoon of wezenlijk; — 't is Christus niet enkel als God, gelijk Hij overal is met de Vader en de H. Geest, maar als **God en mens;** — 't is Christus niet enkel met zijn ziel, gelijk in zijn nederdaling ter helle, of niet enkel met zijn lichaam gelijk in zijn graf; — noch met een *nieuwe* ziel en een *nieuw* lichaam, maar **met** *zijn* **ziel en met** *zijn* **lichaam,** met die ziel en dat lichaam, welke Hij bij zijn menswording heeft aangenomen; — ’t is Christus met zijn hele menselijke natuur, niet gelijk Hij hier op aarde was, aan lijden en dood onderworpen, maar **gelijk Hij nu glorieus in de hemel is,** gelijk Hij nu, begaafd met de vier hoedanigheden van de verheerlijkte lichamen, met klaarheid, snelheid, subtiliteit en onlijdelijkheid, ter rechter hand van zijn Vaders gezeten is.
 
-19
-— 288 —
+Uit de verheerlijkten staat van Christus’ menselijke natuur in het H. Sacrament des Altaars blijkt, dat zijn lichaam daar geenszins van het bloed is afgescheiden. De verscheidenheid van gedaanten dient wel om het lichaam van het bloed als gescheiden te verbeelden, maar geenszins om uit te drukken, dat deze daar wezenlijk gescheiden zijn. Uit het antwoord volgt nog, dat Christus, als Hij zich in het H. Sacrament tegenwoordig stelt, daarom niet de hemel verlaat. Met één en dezelfde menselijke natuur is Hij in de hemel en op al de plaatsen, waar het H. Sacrament rust, tegenwoordig. In de hemel is Hij in zijn natuurlijke gedaante; hier op aarde in het H. Sacrament is Hij onder de gedaanten van brood en wijn.
 
-— noch met:eene nieuwe ziel en een nieuw lichaam, maar met zijn ziel en met zijn lichaam, met die ziel en dat lichaam, welke Hij bij zijn menswording heeft aangenomen; — ’t is Christus met zijn hele menselijke natuur, niet gelijk Hij hier op aarde was, aan lijden en dood onderworpen, maar gelijk Hij nu glorieus in de hemel is, gelijk Hij nu, begaafd met de vier hoedanigheden van de verheerlijkte lichamen, met klaarheid, snelheid, subtiliteit en onlijdelijkheid, ter rechter hand van zijn Vaders gezeten is.
+In deze tegenwoordigheid van Christus in het H. Sacrament, zijn er twee punten, die wij niet kunnen verstaan, maar die wij nochtans, gelijk al de andere punten van de christelijke leer vast geloven, om reden van de onfeilbaarheid van God, die ze ons geopenbaard heeft. Deze zijn: 1° hoe Christus’ lichaam onder vreemde gedaanten, namelijk onder de gedaanten van brood en wijn kan tegenwoordig wezen; en 2° hoe een en hetzelfde lichaam van Christus in de hemel verblijven kan en tegelijk hier op aarde is overal, waar het H. Sacrament berust.
 
-Uit de verheerlijkten staat van Christus’ menselijke natuur in het H. Sacrament des Altaars blijkt, dat zijn lichaam daar geenszins van het bloed is afgescheiden. De verscheidenheid van gedaanten dient wel om het lichaam van het bloed als gescheiden te verbeelden, maar geenszins om uit te drukken, dat deze daar wezenlijk gescheiden-zijn.
-Uit het antwoord volgt nog, dat Christus, als Hij zich in het H. Sacrament tegenwoordig stelt, daarom niet de hemel verlaat. Met één en dezelfde menselijke natuur ís Hij in de hemel en op al de plaatsen, waar het H. Sacrament rust,
-tegenwoordig. In de hemel is Hij in zijn natuurlijke gedaante; hier op aarde in het H. Sacrament is Hij onder de gedaanten van brood en wijn.
+# Hoe wordt ons Christus tegenwoordig gesteld in het Heilig Sacrament?
 
-In deze tegenwoordigheid van Christus in het H. Sacrament,
-zijner twee punten, die wij niet kunnen verstaan, maar die wij nochtans, gelijk al de andere punten van de christelijke leer vast geloven, om reden van de onfeilbaarheid van God, die ze ons geopenbaard heeft. Deze zijn: 1° hoe Christus’ lichaam onder vreemde gedaanten, namelijk onder de gedaanten van brood en wijn kan tegenwoordig wezen; en 2e hoe een en hetzelfde lichaam van Christus in de hemel verblijven kan en tegelijk hier op aarde is overal, waar het H. Sacrament berust.
-
-4. V. Hoe wordt ons Christus tegenwoordig gesteld in het Heilig Sacrament?
-
-A. Door de woorden van de Consecratie, die de priester spreekt, wordt het brood en de wijn veranderd in het liehaam en bloed van Christus.
-— 289 —
+## Door de woorden van de Consecratie, die de priester spreekt, wordt het brood en de wijn veranderd in het lichaam en bloed van Christus
 
 V. Door welke middel en op welke wijze wordt ons Christus tegenwoordig gesteld in het H. Sacrament?
 
-A. Dit geschiedt door de woorden van de Consecratie
-(letterlijk: inzegening, heiliging) van de Mis: « Dit is mijn lichaam.… deze isde kelk van mijn bloed » — die de priester spreekt: die een geldig gewijde priester spreekt en alleen kan geldig spreken, — wordt het brood en de wijn veranderd in het lichaam en het bloed van Christus:
-houdt het brood en de wijn op onder hun gedaanten te bestaan, om vervangen te worden door het levend lichaam van Christus, zoodanig dat, na de Consecratie, van het brood en de wijn niets anders overblijft dan hun gedaanten, waaronder nu Christus zelf tegenwoordig is.
+A. Dit geschiedt **door de woorden van de Consecratie** (letterlijk: inzegening, heiliging) van de Mis: « Dit is mijn lichaam… deze is de kelk van mijn bloed » — **die de priester spreekt:** die een geldig gewijde priester spreekt en alleen kan geldig spreken, — **wordt het brood en de wijn veranderd in het lichaam en het bloed van Christus:** houdt het brood en de wijn op onder hun gedaanten te bestaan, om vervangen te worden door het levend lichaam van Christus, zoodanig dat, na de Consecratie, van het brood en de wijn niets anders overblijft dan hun gedaanten, waaronder nu Christus zelf tegenwoordig is.
 
-Men bemerke wel dat niet het hrood enkel in het lichaam,
-en de wijn enkel in het bloed, maar het een en het ander in geheel het levend lichaam van Christus veranderd worden, en dat deze verandering geschiedt, niet doordat de bestanddelen van brood en wijn de stoffe worden van Christus’ lichaam,
-maar wel doordat die bestanddelen, al blijven hun gedaanten, ophouden te bestaan om te gelijkertijd door het levend lichaam van Christus onder die gedaanten bestaande vervangen te worden.
+Men bemerke wel dat niet het hrood enkel in het lichaam, en de wijn enkel in het bloed, maar het een en het ander in geheel het levend lichaam van Christus veranderd worden, en dat deze verandering geschiedt, niet doordat de bestanddelen van brood en wijn de stof worden van Christus’ lichaam, maar wel doordat die bestanddelen, al blijven hun gedaanten, ophouden te bestaan om te gelijkertijd door het levend lichaam van Christus onder die gedaanten bestaande vervangen te worden.
 
-Drij dingen dus zijn tothettegenwoordigstellen van Christus onder de gedaanten van brooden wijn vereist: 1° waar brood en ware wijn; 2e de woorden van de Consecratie over dat brood en die wijn uitgesproken; 39 een priester die deze woorden uitspreekt, met de mening van te doen hetgeen Christus ingesteld heeft of de H. Kerk doet,
+Drie dingen dus zijn tot het tegenwoordigstellen van Christus onder de gedaanten van brooden wijn vereist: 1° waar brood en ware wijn; 2° de woorden van de Consecratie over dat brood en die wijn uitgesproken; 3° een priester die deze woorden uitspreekt, met de mening van te doen hetgeen Christus ingesteld heeft of de H. Kerk doet.
 
-5. V. Onder welk deel van de Heilige Hostie is Christus, als die gebroken wordt?
+# Onder welk deel van de Heilige Hostie is Christus, als die gebroken wordt?
 
-A. Onder alle beiden en onder alle stukken, al waren er ook vele.
+## Onder allebei en onder alle stukken, al waren er ook vele
 
-V. Het woord hostie betekent slachtoffer; de H. Hostie is hier de gedaante van brood waaronder Christus tegenwoordig is. Zij wordt zo genoemd, omdat zij de Heer wezenlijk als slachtoffer voorstelt.
-— 290 —
+V. Het woord *hostie* betekent *slachtoffer;* de H. Hostie is hier de gedaante van brood waaronder Christus tegenwoordig is. Zij wordt zo genoemd, omdat zij de Heer wezenlijk als slachtoffer voorstelt.
 
-A. Als de Hostie gebroken wordt. is Christus onder alle beide, wanneer zij in twee, en onder alle stukken, wanneer zij in meer delen verdeeld wordt, — al waren er ook vele: tis gelijk hoeveel stukken er zijn; want door de verdeling van de H. Hostie wordt Christus’ lichaam niet verdeeld,
-daar de gedaanten van brood en wijn, al is Hij er onder tegenwoordig, toch geenszins zijn gedaanten zijn. Voor dat zij gebroken wordt, is Christus tegenwoordig in geheel de H. Hostie en geheel in al haar delen, gelijk onze ziel tegenwoordig is geheel in geheel het lichaam en geheel in al zijn delen.
+A. Als de Hostie gebroken wordt, is Christus **onder allebei,** wanneer zij in twee, **en onder alle stukken,** wanneer zij in meer delen verdeeld wordt, — **al waren er ook vele:** 't is gelijk hoeveel stukken er zijn; want door de verdeling van de H. Hostie wordt Christus’ lichaam niet verdeeld, daar de gedaanten van brood en wijn, al is Hij er onder tegenwoordig, toch geenszins zijn gedaanten zijn. Voor dat zij gebroken wordt, is Christus tegenwoordig in geheel de H. Hostie en geheel in al haar delen, gelijk onze ziel tegenwoordig is geheel in geheel het lichaam en geheel in al zijn delen.
 
-De Catechismus spreekt hier uitsluitend van de verdeling van de H. Hostie, en niet van de verdeling van de Kelk, omdat deze maar zelden geschiedt. Dezelfde leer echter geldt voor heide.
+De Catechismus spreekt hier uitsluitend van de verdeling van de H. Hostie, en niet van de verdeling van de Kelk, omdat deze maar zelden geschiedt. Dezelfde leer echter geldt voor beide.
 
-ö. V. Moeten alle mensen Christus ontvangen onder één gedaante of onder alle beide de gedaanten?
+# Moeten alle mensen Christus ontvangen onder één gedaante of onder allebei de gedaanten?
 
-A. Onder de ene hebben wij zoveel als onder de twee, en de H. Kerk wil, dat wij met éêne tevreden zijn, uitgenomen de priesters, als zij Mis doen.
+## Onder de ene hebben wij zoveel als onder de twee, en de H. Kerk wil, dat wij met één tevreden zijn, uitgenomen de priesters, als zij Mis doen
 
-V. Moeten alle Öhristenen het H. Sacrament ontvangen onder de ene gedaante van brood, of onder de heide gedaanten van brood en wijn?
+V. Moeten alle Christenen het H. Sacrament ontvangen onder de ene gedaante van brood, of onder de heide gedaanten van brood en wijn?
 
-A. Onder de ene — hebben wij zoveel als onder de twee: ontvangen wij Christus en de bijzondere gratie van het H. Sacrament zo volkomen als onder de twee gedaanten,
-zodat het, uit de natuur van de zaak, niet voordeliger is onder de heide gedaanten te communiceren dan enkel onder ééne;
-— en de H. Kerk wil, dat wij met één tevreden zijn:
-bovendien, om de grote moeielijkheden die de Nutting onder de gedaante van wijn medebracht, gebiedt de H. Kerk, dat wij het H. Sacrament slechts onder de ene gedaante van brood zouden ontvangen, uitgenomen de priesters, als
-— 291 —
+A. **Onder de ene — hebben wij zoveel als onder de twee:** ontvangen wij Christus en de bijzondere genade van het H. Sacrament zo volkomen als onder de twee gedaanten, zodat het, uit de natuur van de zaak, niet voordeliger is onder de heide gedaanten te communiceren dan enkel onder één; — **en de H. Kerk wil, dat wij met één tevreden zijn:** bovendien, om de grote moeilijkheden die de Nutting onder de gedaante van wijn medebracht, gebiedt de H. Kerk, dat wij het H. Sacrament slechts onder de ene gedaante van brood zouden ontvangen, **uitgenomen de priesters, als zij Mis doen;** dan immers zijn deze, krachtens een goddelijk gebod verplicht, onder de beide gedaanten te communiceren, vermits Christus van die Communie een voltrekkend deel van de H. Mis gemaakt heeft. Buiten dit geval moeten de priesters zich, zowel als de andere gelovigen, met de ene gedaante van brood tevreden houden.
 
-zij Mis doen; dan immers zijn deze, krachtens een goddelijk gebod verplicht, onder de beide gedaanten te communiceren, vermits Christus van die Communie een voltrekkend deel van de H. Mis gemaakt heeft. Buiten dit geval moeten de priesters zich, zowel als de andere gelovigen, met de ene gedaante van brood tevreden houden.
+# Wat eer zijn wij het Heilig Sacrament schuldig?
 
-7. V. Wat eer zijn wij het Heilig Sacrament schuldig?
-
-A. Dezelfde eer, die wij aan Christus moeten geven,
-te weten, de goddelijke eer en aanbidding.
+## Dezelfde eer, die wij aan Christus moeten geven, te weten, de goddelijke eer en aanbidding
 
 V. Welke in- en uitwendige eer zijn wij het H. Sacrament schuldig: is het de eer die aan God toekomt, ofwel die aan de Heiligen, óf aan de beelden van God en van de Heiligen, óf aan de heilige zaken eigen is?
 
-A. Wij zijn het H. Sacrament dezelfde in- en uitwendige eer schuldig die wij aan Christus, in de hemel heersende, moeten geven, en die zijn Apostelen Hem moeten bewijzen hebben, als Hij op aarde verbleef, te weten, de goddelijke eer: de eer waardoor wij Hem als God erkennen,
-en die, bij uitnemendheid, aanbidding genoemd wordt. De reden hiervan is, dat het H. Sacrament Christus zelf, die God is, in zich bevat; welau aan God moet noodzakelijk de goddelijke eer gegeven worden.
+A. Wij zijn het H. Sacrament **dezelfde** in- en uitwendige **eer** schuldig **die wij aan Christus,** in de hemel heersende, **moeten geven,** en die zijn Apostelen Hem moeten bewijzen hebben, als Hij op aarde verbleef, **te weten, de goddelijke eer:** de eer waardoor wij Hem als God erkennen, en die, bij uitnemendheid, **aanbidding** genoemd wordt. De reden hiervan is, dat het H. Sacrament Christus zelf, die God is, in zich bevat; welau aan God moet noodzakelijk de goddelijke eer gegeven worden.
 
-De andere Sacramenten moeten wij slechts eren als bijzondere bronnen van de goddelijke gratie: de Heiligen, als vrienden en voorsprekers bij God; de beelden, als zaken die ons God of de Heiligen voorstellen.
+De andere Sacramenten moeten wij slechts eren als bijzondere bronnen van de goddelijke genade: de Heiligen, als vrienden en voorsprekers bij God; de beelden, als zaken die ons God of de Heiligen voorstellen.
 
-8. V. Is het ook Christus’ bloed dat men ons geeft na de Heilige Communie?
-A. Geenszins; maar het is uitsluitend wijn, dienende om de Heilige Nutting te vervorderen.
-V. Is ook de drank die men ons geeft na de H. Communie,
+# Is het ook Christus’ bloed dat men ons geeft na de Heilige Communie?
 
-gelijk die van de Communie zelve, een gedaante van wijn waaronder Christus tegenwoordig is?
-— 202 —
+## Geenszins; maar het is uitsluitend wijn, dienende om de Heilige Nutting te vervorderen
 
-À. Dat is hij geenszins; maar het is uitsluitend wijn,
-dienende — om de Heilige Nutting te vervorderen: om het doorzwelgen van de H. Hostie te vergemakkelijken. Om reden van de menigvuldige ongemakken die er uit vloeiden, is het gebruik van die wijn te geven bijna overal afgeschaft,
-tenzij in de Heilige Wijdingen en, op sommige plaatsen, bij de Eerste Communie. Aan de zieken geeft men dikwijls wat wijn of water.
+V. Is ook de drank die men ons geeft na de H. Communie, gelijk die van de Communie zelve, een gedaante van wijn waaronder Christus tegenwoordig is?
 
-Aanmerking.
+A. Dat is hij **geenszins; maar het is uitsluitend wijn, dienende — om de Heilige Nutting te vervorderen:** om het doorzwelgen van de H. Hostie te vergemakkelijken. Om reden van de menigvuldige ongemakken die er uit vloeiden, is het gebruik van die wijn te geven bijna overal afgeschaft, tenzij in de Heilige Wijdingen en, op sommige plaatsen, bij de Eerste Communie. Aan de zieken geeft men dikwijls wat wijn of water.
 
-Het uitwendig teken van dit Sacrament, namelijk de -gedaanten van.brood en wijn, waaronder Christus zelf door de woorden van de Consecratie tegenwoordig gesteld is, legt ons vóór ogen, dat het H. Sacrament de spijs bevat van onze zielen.
-en doet ons zelfs begrijpen wat die spijs is, dat zij namelijk een rechtstreeksche mededeling is van de goddelijke krachten ;
-— en de tegenwoordigheid van Christus onder die gedaanten bewijst heel klaar, hoe het een gedachtenis is van zijn liefde en zijn heilig lijden, en hoe het een sacrificie uitmaakt.
+### Aanmerking
 
-Wat Christus’ tegenwoordigheid in het H. Sacrament betreft, a) zijn tegenwoordigstelling wordt betekend en geschiedt door de woorden van de Consecratie die de priester spreekt; — b) aangezien Christus sedert zijn verrijzenis in een verheerlijkten staat is, zo is Hij in het H. Sacrament juist gelijk Hij nu in de hemel is, en om diezelfde reden is Hij ook tegenwoordig onder alle stukken, in dewelke de Heilige Hostie gebroken wordt; —c) uit hoofde van Christus’
-tegenwoordigheid onder ieder van de twee gedaanten, hebben wij zoveel met enkel één als met de beide gedaanten te nutten, en daarom heeft de H. Kerk de macht om te gebieden,
-dat de gelovigen, buiten de Communie van de priester in de Mis die door Christus zelf geregeld is geweest, zich met één gedaante zouden tevreden houden; — d) om Christus’ tegenwoordigheid zijn wij het H. Sacrament de goddelijke en opperste eer schuldig; — e) de wijn die soms na de Communie gegeven wordt, is Christus’ bloed niet, aangezien de woorden van de Consecratie er niet over uitgesproken zijn,
-— 293 —
-VRAGEN.
+Het uitwendig teken van dit Sacrament, namelijk de gedaanten van.brood en wijn, waaronder Christus zelf door de woorden van de Consecratie tegenwoordig gesteld is, legt ons vóór ogen, dat het H. Sacrament de spijs bevat van onze zielen en doet ons zelfs begrijpen wat die spijs is, dat zij namelijk een rechtstreeksche mededeling is van de goddelijke krachten; — en de tegenwoordigheid van Christus onder die gedaanten bewijst heel klaar, hoe het een gedachtenis is van zijn liefde en zijn heilig lijden, en hoe het een sacrificie uitmaakt.
+
+Wat Christus’ tegenwoordigheid in het H. Sacrament betreft, a) zijn tegenwoordigstelling wordt betekend en geschiedt door de woorden van de Consecratie die de priester spreekt; — b) aangezien Christus sedert zijn verrijzenis in een verheerlijkten staat is, zo is Hij in het H. Sacrament juist gelijk Hij nu in de hemel is, en om diezelfde reden is Hij ook tegenwoordig onder alle stukken, in dewelke de Heilige Hostie gebroken wordt; — c) uit hoofde van Christus’ tegenwoordigheid onder ieder van de twee gedaanten, hebben wij zoveel met enkel één als met de beide gedaanten te nutten, en daarom heeft de H. Kerk de macht om te gebieden, dat de gelovigen, buiten de Communie van de priester in de Mis die door Christus zelf geregeld is geweest, zich met één gedaante zouden tevreden houden; — d) om Christus’ tegenwoordigheid zijn wij het H. Sacrament de goddelijke en opperste eer schuldig; — e) de wijn die soms na de Communie gegeven wordt, is Christus’ bloed niet, aangezien de woorden van de Consecratie er niet over uitgesproken zijn.
+
+### VRAGEN
 
 Welk is het voorwerp van deze les? — Hoe is zij verdeeld? — Geef in 't kort de inhoud van ieder deel.
 
-1. Wanneer is het H. Sacrament des Altaars ingesteld? —
-Waarom maakt de Catechismus hier bijzondere melding van de instelling van dit Sacrament? — Zeg, met de woorden van de Catechismus, welk er het uitwendig teken van is. — Stel dit uitwendig teken in andere woorden voor. — Verklaar de woorden:
-gedaanten van brood en wijn, en deze andere: onder dewelke Christus zelf tegenwoordig is. — Zeg, met de woorden van de Catechismus, welke de bijzondere gratie van dit Sacrament is. —
-Leg die woorden uit. — Hoe is deze bijzondere gratie door het uitwendig teken betekend? — Hoe verschilt deze bijzondere gratie van die van het Doopsel en des Vormsels? — Wat is er eigen aan het uitwendig teken van dit Sacrament onder het opzicht:
-a van zijn bestaan, en b) van zijn betekenis? — Hoe wordt dit Sacrament genoemd en waarom?
+1. Wanneer is het H. Sacrament des Altaars ingesteld? — Waarom maakt de Catechismus hier bijzondere melding van de instelling van dit Sacrament? — Zeg, met de woorden van de Catechismus, welk er het uitwendig teken van is. — Stel dit uitwendig teken in andere woorden voor. — Verklaar de woorden: *gedaanten van brood en wijn,* en deze andere: *onder dewelke Christus zelf tegenwoordig is.* — Zeg, met de woorden van de Catechismus, welke de bijzondere genade van dit Sacrament is. — Leg die woorden uit. — Hoe is deze bijzondere genade door het uitwendig teken betekend? — Hoe verschilt deze bijzondere genade van die van het Doopsel en des Vormsels? — Wat is er eigen aan het uitwendig teken van dit Sacrament onder het opzicht: a) van zijn bestaan, en b) van zijn betekenis? — Hoe wordt dit Sacrament genoemd en waarom?
 
-2. Zeg om hoeveel redenen Christus dit Sacrament heeft ingesteld. — Noem ze met de woorden van de Catechismus, — Toon hoe dit Sacrament een gedachtenis is: a) van Christus’ liefde tot ons, en b) van zijn heilig lijden, — Leg de woorden uit: tot een waarachtige spijs van onze ziel. — Welke zijn in 't bijzonder al de uitwerksels van dit Sacrament?
+2. Zeg om hoeveel redenen Christus dit Sacrament heeft ingesteld. — Noem ze met de woorden van de Catechismus. — Toon hoe dit Sacrament een gedachtenis is: a) van Christus’ liefde tot ons, en b) van zijn heilig lijden. — Leg de woorden uit: *tot een waarachtige spijs van onze ziel.* — Welke zijn in 't bijzonder al de uitwerksels van dit Sacrament?
 
-3. Welk wezen is in het H. Sacrament tegenwoordig? — Zeg,
-met de woorden van de Catechismus, hoe het daar tegenwoordig is, en leg ieder woord uit. — Is, in het H. Sacrament, Christus bloed níet van zijn lichaam gescheiden? — Geef de reden van uw antwoord. — Waartoe dient dus de verscheidenheid van gedaanten?
-— Als Christus in het H. Sacrament begint tegenwoordig te zijn,
-verlaat Hij dan de hemel? — Bewijs uw antwoord door de Catechismus. — Welk verschil is er tussen de tegenwoordigheid van Christus in het H. Sacrament en zijn tegenwoordigheid in de hemel? — Wat gaat, in de tegenwoordigheid van Christus in het H. Sacrament ons verstand te boven?
+3. Welk wezen is in het H. Sacrament tegenwoordig? — Zeg, met de woorden van de Catechismus, hoe het daar tegenwoordig is, en leg ieder woord uit. — Is, in het H. Sacrament, Christus bloed níet van zijn lichaam gescheiden? — Geef de reden van uw antwoord. — Waartoe dient dus de verscheidenheid van gedaanten? — Als Christus in het H. Sacrament begint tegenwoordig te zijn, verlaat Hij dan de hemel? — Bewijs uw antwoord door de Catechismus. — Welk verschil is er tussen de tegenwoordigheid van Christus in het H. Sacrament en zijn tegenwoordigheid in de hemel? — Wat gaat, in de tegenwoordigheid van Christus in het H. Sacrament ons verstand te boven?
 
-4. Zeg, met de woorden van de Catechismus, door welke middel Christus tegenwoordig gesteld wordt in het H, Sacrament. — Leg die woorden uit. — Zeg ook met de Catechismus, hoe die tegenwoordigstelling geschiedt. — Wordt het brood alleen in het lichaam van Christus, en de wijn alleen in zijn bloed veranderd? —
-Gaan de bestanddelen van brood en wijn in het lichaam en bloed van Christus over?
+4. Zeg, met de woorden van de Catechismus, door welke middel Christus tegenwoordig gesteld wordt in het H. Sacrament. — Leg die woorden uit. — Zeg ook met de Catechismus, hoe die tegenwoordigstelling geschiedt. — Wordt het brood alleen in het lichaam van Christus, en de wijn alleen in zijn bloed veranderd? — Gaan de bestanddelen van brood en wijn in het lichaam en bloed van Christus over?
 
-5. Wat betekenen de woorden: Heilige Hostie, in de vraag:
-— 204
+5. Wat betekenen de woorden: *Heilige Hostie,* in de vraag: *onder welk deel van de Heilige Hostie is Christus, als die gebroken wordt?* — Kan er een deeltje van de gebroken Hostie zijn, waaronder Christus niet tegenwoordig is? — Bewijs dit uit de woorden van de Catechismus. — Waarom wordt Christus’ lichaam niet verdeeld bij de verdeling van de Heilige Hostie? — Hoe is Christus tegenwoordig in de Heilige Hostie vóór deze gebroken wordt? — Geldt dezelfde leer voor de verdeling van de Kelk? — Waarom spreekt de Catechismus van de verdeling van de Kelk niet?
 
-onder welk deel van de Heilige Hostte ts Christus, als die gebroken wordt? — Kan er een deeltje van de gebrokene Hostie zijn, waaronder Christus niet tegenwoordig is? — Bewijs dit uit de woorden van de Catechismus. — Waarom wordt Christus’ lichaam niet verdeeld bij de verdeling van de Heilige Hostie? — Hoe is Christus tegenwoordig in de Heilige Hostie vóór deze gebroken wordt? —
-Geldt dezelfde leer voor de verdeling van de Kelk? — Waarom spreekt de Catechismus van de verdeling van de Kelk niet?
+6. Verklaar de vraag: *moeten alle mensen Christus ontvangen onder één gedaante of onder allebei de gedaanten.* — Zeg, met de woorden van de Catechismus, of het voordeliger is het H. Sacrament onder één dan onder de beide gedaanten te ontvangen. — Leg die woorden uit. — Zeg, met de Catechismus, wat de H. Kerk gebiedt nopens het ontvangen van het H. Sacrament onder één of onder de beide gedaanten. — Leg dit antwoord uit. — Wie moeten dus het H. Sacrament onder de beide gedaanten nutten; en wie moeten zich met één gedaante alleen tevreden houden? — Van wie komen deze geboden? — Waarop rust dit gebod dat van de H. Kerk komt?
 
-6. Verklaar de vraag: moeten alle mensen Christus ontvangen onder één gedaante of onder alle beide de gedaanten. — Leg, met de woorden van de Catechismus, of het voordeliger is het H. Sacrament onder één dan onder de beide gedaanten te ontvangen. —
-Leg die woorden uit. — Zeg, met de Catechismus, wat de H. Kerk gebiedt nopens het ontvangen van het H. Sacrament onder één of onder de beide gedaanten. — Leg dit antwoord uit. — Wie moeten dus het H. Sacrament onder de beide gedaanten nutten; en wie moeten zich met één gedaante alleen tevreden houden? — Van wie komen deze geboden? — Waarop rust dit gebod dat van de H. Kerk komt?
+7. Geef de zin van de vraag: *wat eer zijn wij het H. Sacrament schuldig.* — Met welke eer komt, volgens de Catechismus, deze overeen die wij aan het H. Sacrament verschuldigd zijn. — Leg dit antwoord uit. — Hoe noemt de Catechismus deze eer? — Verklaar deze namen. — Hoe verschilt deze eer van die welke wij aan de andere Sacramenten, aan de Heiligen, aan de beelden van God of van de Heiligen schuldig zijn? — Hoe moeten wij de andere Sacramenten eren?
 
-1. Geef de zin van de vraag: wat eer zijn wij het H. Sacrament schuldig. — Met welke eer komt, volgens de Catechismus, deze overeen die wij aan het H. Sacrament verschuldigd zijn. — Leg dit antwoord uit. — Hoe noemt de Catechismus deze eer? — Verklaar deze namen. — Hoe verschilt deze eer van die welke wij aan de andere Sacramenten, aan de Heiligen, aan de beelden van God of van de Heiligen schuldig zijn? — Hoe moeten wij de andere Sacramenten eren?
+8. Verklaar de vraag: *is het ook Christus’ bloed, dat men ons geeft na de H. Communie.* — Zeg of het Christus’ bloed is of niet. — Wat is het? — Zeg, met de Catechismus, waartoe het dient. — Leg die woorden uit — Bestaat dat gebruik nog?
 
-8, Verklaar de vraag: is het ook Christus’ bloed, dat men ons geeft na de H. Communie, — Zeg of het Christus’ bloed is of niet.
-— Wat is het? — Zeg, met de Catechismus, waartoe het dient.
-— Leg die woorden uit — Bestaat dat gebruik nog?
-— 25 —
-DRIJ EN DERTIGSTE LES.
+DRIJ EN DERTIGSTE LES
 
-Van het Heilig Sacrificie van de Mis.
-
-1o Natuur. FV. ft. Wat is de Mis?
-V. 2. Welk sacrificie is beter, dat
-. ?2o Weerde, van de Oude, of dat van de Nieuwe s Wet?
-© , ‚V.3. Welke zijn de bijzonderste en
-®
-" 3 Hoofddelen. { nodigste delen van de Mis?
-5 Vv, 4. Wi l is ge5 te Oorsprong. | À Wie heeft de eerste Mis ge A V. 7. Wie oftert aan God het Sacri Bo Offeraars. fer offert aan God het Saerizo Vo V. 8. Wat kunnen wij verkrijgen door 6e Vrachten. f ze Sacrificie van de Mis?
-s V. 5. Van waar komen al de cere5 | te Oorsprong. moniën van de Mis?
-8 V. 6, Waartoe dienen de ceremo-
-® | 2e Einde. niën, die in de Mis gebruikt 3 worden ?
+Van het Heilig Sacrificie van de Mis
 
 1. V. Wat is de Mis?
 
@@ -940,9 +490,9 @@ V. De Catechismus spreekt van de vruchten van de Mis ten opzichte van de mensen.
 
 A. Door het Sacrificie van de Mis verkrijgen wij:
 
-1° Vergiffenis van onze zonden, niet rechtstreeks, gelijk door de Biecht en het berouw, maar onrechtstreeks, of gratie waarmee wij voldoend leedwezen over de zonden kunnen bekomen. Wij verwerven ook rechtstreeksche vergiffenis van de overgeblevene tijdelijke pijnen.
+1° Vergiffenis van onze zonden, niet rechtstreeks, gelijk door de Biecht en het berouw, maar onrechtstreeks, of genade waarmee wij voldoend leedwezen over de zonden kunnen bekomen. Wij verwerven ook rechtstreeksche vergiffenis van de overgeblevene tijdelijke pijnen.
 
-20 En al wat wij van God begeren: al wat wij door het gebed van God kunnen afsmeken, namelijk: dadelijke gratie om ons te bekeren, of om te volharden en in de deugd vooruit te gaan; vergiffenis van tijdelijke straffen; allerhande tijdelijke goederen die tot de zaligheid dienstig zijn; vermindering van bekoringen, bescherming tegen de vijanden van ons eeuwig geluk. Al deze vruchten kunnen wij bekomen a) voor ons zelf, b) voor anderen: voor alle andere mensen van de wereld, gelovige of ongelovige, en c) ook voor de zielen die in het vagevuur zijn.
+20 En al wat wij van God begeren: al wat wij door het gebed van God kunnen afsmeken, namelijk: dadelijke genade om ons te bekeren, of om te volharden en in de deugd vooruit te gaan; vergiffenis van tijdelijke straffen; allerhande tijdelijke goederen die tot de zaligheid dienstig zijn; vermindering van bekoringen, bescherming tegen de vijanden van ons eeuwig geluk. Al deze vruchten kunnen wij bekomen a) voor ons zelf, b) voor anderen: voor alle andere mensen van de wereld, gelovige of ongelovige, en c) ook voor de zielen die in het vagevuur zijn.
 
 De eerste vrucht brengt het Sacrificie voort door zijn verzoenende kracht, die Gods barmhartigheid treft; de tweede, door zijn smekende kracht, die Gods goedheid raakt. Deelachtig aan beide zijn, 1° in 't algemeen, al de gelovigen; 29 op een bijzondere wijze, de priester die de Mis doet; 3e voor een gans bijzondere hoeveelheid, degeneu voor wie de priester in Christus’ naam het Sacrificie opdraagt.
 
@@ -1015,7 +565,7 @@ Uitwerksels. geven de pijn, die de zonde verdiend heeft?
 
 A. Een Sacrament, van Christus ingesteld, in hetwelk door de priesterlijke macht de zonden, die na het Doopsel gedaan zijn, vergeven worden.
 
-A. Het antwoord spreekt ons: 1e van de instelling; 29 van het uitwendig teken, en 3e van de bijzondere gratie van het Sacrament van de Biecht.
+A. Het antwoord spreekt ons: 1e van de instelling; 29 van het uitwendig teken, en 3e van de bijzondere genade van het Sacrament van de Biecht.
 
 1e De instelling: het is een Sacrament, van Christus ingesteld. (Zie 32° les, l° vr.) Deze instelling greep plaats wanneer Christus, na zijn verrijzenis aan zijn Apostelen verschijnende, over hen blies en tot hen sprak: « Ontvangt
 „den H. Geest; wier zonden gij vergeven zult, die worden
@@ -1028,9 +578,9 @@ vr. 5) heeft. Deze vrijspreking of absolutie geschiedt door de
 
 woorden, « Ik ontsla u van uw zonden in de naam van de Vader, en van de Zoon, en van de H. Geest, Amen. » Zij maakt met de akten van de biechteling, namelijk, het berouw (door de biecht en andere tekenen uitwendig kenbaar gemaakt), de belijdenis en de voldoening, een volmaakt oordeel tot ontslaging uit, en betekent allerduidelijkst de vergiffenis van de zonden.
 
-3o De bijzondere gratie: de zonden, die na het Doopsel gedaan zijn, worden vergeven. Hierdoor verschilt de Biecht a) van het Doopsel, waardoor wij van de erfzonde en de voorgaande zonden vergiffenis bekomen; b) van al de Saeramenten van de levenden, die rechtstreeks dienen, niet om de zonde te vergeven, maar om de heiligmakende gratie te vermeerderen. Uit dit uitwerksel blijkt, dat slechts degenen die na het Doopsel enigszins gezondigd hebben, geldig de absolatie kunnen ontvangen.
+3o De bijzondere genade: de zonden, die na het Doopsel gedaan zijn, worden vergeven. Hierdoor verschilt de Biecht a) van het Doopsel, waardoor wij van de erfzonde en de voorgaande zonden vergiffenis bekomen; b) van al de Saeramenten van de levenden, die rechtstreeks dienen, niet om de zonde te vergeven, maar om de heiligmakende genade te vermeerderen. Uit dit uitwerksel blijkt, dat slechts degenen die na het Doopsel enigszins gezondigd hebben, geldig de absolatie kunnen ontvangen.
 
-De Biecht schenkt ons, met de vergiffenis van de zonden die na het Doopsel gedaan zijn, ook de heiligmakende gratie en recht tot de dadelijke. (30° les, vr. 7.)
+De Biecht schenkt ons, met de vergiffenis van de zonden die na het Doopsel gedaan zijn, ook de heiligmakende genade en recht tot de dadelijke. (30° les, vr. 7.)
 
 Dit Sacrament wordt Biecht genoemd, omdat men zijn zonden moet biechten om de absolutie te kunnen bekomen;
 het heet ook Penitentie (boetvaardigheid), omdat wij er boetvaardigheid door doen over onze zonden.
@@ -1104,7 +654,7 @@ V. Moet ik, na met berouw en rechtzinnigheid mijne zonden gebiecht en de absolut
 À. Gij moet — de penitentie: het gebed, het werk van boetvaardigheid of het goed werk, — die u door de priester tot voldoening voor uw zonden gesteld is, op zonde volbrengen, en zelfs op doodzonde, als zij u tot voldoening vogr doodzonden opgelegd, en uit haar zelve of haar omstandigheden zwaar is. Gij moet ze ook volbrengen op de gestelden tijd, en, is de tijd niet bepaald, dan zoohaast mogelijk.
 
 De penitentie heeft kracht om ons te verlossen van de tijdelijke straffen van de zonden in de Biecht reeds vergeven, niet alleen voor zoveel zij een goed werk is, maar nog en eerst en vooral, uit hoofde van Christus’ instelling, als deel van het Sacrament van de Biecht dat, gelijk al de andere Sacramenten,
-de gratie geeft die het betekent. Nochtans is zij niet, gelijk het berouw en de biecht, nodig tot de geldigheid van de absolutie; zij is slechts een volmakend deel van het Sacrament,
+de genade geeft die het betekent. Nochtans is zij niet, gelijk het berouw en de biecht, nodig tot de geldigheid van de absolutie; zij is slechts een volmakend deel van het Sacrament,
 dienende om ons te verlossen van de pijnen die wij dikwijls,
 na de absolutie ontvangen te hebben, nog schuldig blijven te lijden. (v. 6.) Ooder opzicht van de penitentie is er tot de geldigheid van de absolutie slechts vereist, dat men vóór de absolutie bereid zij de penitentie, die op doodzonde zou verplichten, te volbrengen.
 
@@ -1123,7 +673,7 @@ A. De eeuwige pijn van schade en van gevoel die men,
 om reden van doodzonden, in de hel stond te lijden, alsmede een deel van de tijdelijke pijnen die men, wegens dagelijksehe zonden, hier of in het vagevuur had uit te te boeten,
 wordt, samen met de zonden, door de absolutie vergeven; want als God iemand uit de staat van doodzonde tot zijn kind en zijn erfgenaam aanneemt, dan kan Hij hem niet eeuwig meer straffen; evenmin kan Hij, na de vergiffenis van een dagelijkse zonde, er geheel de verdiende straf van laten bestaan; — maar evenwel blijft er dikwijls, voor de dodelijke zonde en ook voor de dagelijkse, nog schuld van tijdelijke pijn, hier op deze aarde door ongelukken en tegenspoed, of door werken van boetvaardigheid, of hiernamaals in het vagevuur te betalen of uit te boeten.
 
-Aan de doopelingen, mits voldoend berouw in geval dat zij tot de jaren van verstand gekomen zijn, geeft God zonder penitentie vergiffenis van alle pijnen, omdat zij door het Doopsel in het geestelijk leven geboren worden; maar de gedoopten die gezondigd hebben, geeft Hij dikwijls, zonder dat zij penitentie doen, geen volkomene vergiffenis van de pijnen, om 200 hun ondankbaarheid te straffen.
+Aan de dopelingen, mits voldoend berouw in geval dat zij tot de jaren van verstand gekomen zijn, geeft God zonder penitentie vergiffenis van alle pijnen, omdat zij door het Doopsel in het geestelijk leven geboren worden; maar de gedoopten die gezondigd hebben, geeft Hij dikwijls, zonder dat zij penitentie doen, geen volkomene vergiffenis van de pijnen, om 200 hun ondankbaarheid te straffen.
 
 Dat men dikwijls, na de vergiffenis van de zonden bekomen te hebben, nog schuldig blijft hier of hiernamaals tijdelijke pijnen te betalen, blijkt uit de geschiedenis van Adam, van Mozes en van David.
 
@@ -1139,7 +689,7 @@ VRAGEN.
 Waarvan handelt deze les? — Hoe wordt zij verdeeld? — Wat bevat ieder deel?
 
 1, Wanneer en hoe is het Sacrament van de Biecht ingesteld? — Zeg,
-met de Catechismus, welk het uitwendig teken van dit Sacrament is. — Leg het uit. — Waardoor wordt dit teken geheel volledigd? — Zeg, met de Catechismus, welke de bijzondere gratie van dit Sacrament is. — Geeft dit Sacrament dus de heiligmakende gratie en het recht tot de dadelijke gratiën niet? — Hoe verschilt dit Sacrament, onder opzicht van genoemd uitwerksel, van het Doopsel en van de Sacramenten van de levenden? — Wie kan dit Sacrament ontvangen? — Bewijs dat uit de Catechismus. — Hoe wordt dit Sacrament genoemd, en waarom?
+met de Catechismus, welk het uitwendig teken van dit Sacrament is. — Leg het uit. — Waardoor wordt dit teken geheel volledigd? — Zeg, met de Catechismus, welke de bijzondere genade van dit Sacrament is. — Geeft dit Sacrament dus de heiligmakende genade en het recht tot de dadelijke genaden niet? — Hoe verschilt dit Sacrament, onder opzicht van genoemd uitwerksel, van het Doopsel en van de Sacramenten van de levenden? — Wie kan dit Sacrament ontvangen? — Bewijs dat uit de Catechismus. — Hoe wordt dit Sacrament genoemd, en waarom?
 
 2. Geef de zin van de vraag: Hoeveel delen zijn er nodig tot het Sacrament van de Penitentie. — Zeg, hoeveel dingen er vereist zijn van de kant des biechtelings; noem ze met de woorden van de Catechismus, en verklaar enigszins deze woorden.
 
@@ -1172,7 +722,7 @@ Of <
 
 5 7. fo Gebruik, V.3. Hoe dikwijls mag men het Hetei 3\ lig Oliesel ontvangen ?
 
-…\x | 2o Zonderlinge Ms 4, Wat profijt geeft ons het Heilig 5 5| gratie, Oliesel ?
+…\x | 2o Zonderlinge Ms 4, Wat profijt geeft ons het Heilig 5 5| genade, Oliesel ?
 
 Natuur. {V. 5. Wat is het Priesterdom?
 dt … {V.6. Zijn al de dienaars van de H. Kerk 8 z | 1e Verhevenheid. í even groot?
@@ -1188,14 +738,14 @@ A. Een Sacrament, in hetwelk door de heilige zal-
 
 ving de zieken in hun ziekten en hun uitersten nood verlicht en geholpen worden.
 
-A. Het antwoord spreekt 1e van het uitwendig teken en 2o van de bijzondere gratie des H. Oliesels.
+A. Het antwoord spreekt 1e van het uitwendig teken en 2o van de bijzondere genade des H. Oliesels.
 
-ie Het witwendig teken: de heilige zalving: de zalving die de priester op enige delen van het lichaam, voornamelijk op de vijf zintuigen en op de voeten doet met olie van de bisschop daartoe gewijd, — en het volgende gebed, dat hij bij iedere zalving herhaalt: « Door deze heilige zalving en zijn allermildste barmhartigheid vergeve u God wat gij misdaan hebt door het gezicht,…. door het gehoor,…. enz. »
+ie Het uitwendig teken: de heilige zalving: de zalving die de priester op enige delen van het lichaam, voornamelijk op de vijf zintuigen en op de voeten doet met olie van de bisschop daartoe gewijd, — en het volgende gebed, dat hij bij iedere zalving herhaalt: « Door deze heilige zalving en zijn allermildste barmhartigheid vergeve u God wat gij misdaan hebt door het gezicht,…. door het gehoor,…. enz. »
 — 315 —
 
-go De bijzondere gratie: de zieken worden in hun ziekten en in hun uitersten nood verlicht en geholpen: de zieken die in stervensgevaar zijn, ontvangen bijzondere verlichting en hulp tot hun eeuwige zaligheid. (v. 4.)
+go De bijzondere genade: de zieken worden in hun ziekten en in hun uitersten nood verlicht en geholpen: de zieken die in stervensgevaar zijn, ontvangen bijzondere verlichting en hulp tot hun eeuwige zaligheid. (v. 4.)
 
-Het uitwendig teken van het H. Oliesel doet er ons duidelijk de bijzondere gratie van begrijpen; immers, de zalvìing met olie een natuurlijke middel zijnde om pijnen te verzachten, wonden te helen en zwakke ledematen te versterken, zo dient zij allerbest om een inwendige verzachting, genezing en versterking te betekenen, en het gebed van de priester leert ons, dat zij hier wezenlijk die betekenis heeft. Ook doordien de zintuigen en de voeten de bijzonderste werktuigen zijn totdezonde, de bijzonderste oorzaken van bekoring, de bijzonderste uitwendige delen van het lichaam, zo is de zalving ervan zeer geschikt om aan te duiden dat het H. Oliesel ons meer en meer van de zonde zuivert, tegen de bekoringen versterkt en in geheel onze persoon verlicht en helpt. Daarbij nog de gebeden die in de wijding van de heilige ole gestort worden,
+Het uitwendig teken van het H. Oliesel doet er ons duidelijk de bijzondere genade van begrijpen; immers, de zalvìing met olie een natuurlijke middel zijnde om pijnen te verzachten, wonden te helen en zwakke ledematen te versterken, zo dient zij allerbest om een inwendige verzachting, genezing en versterking te betekenen, en het gebed van de priester leert ons, dat zij hier wezenlijk die betekenis heeft. Ook doordien de zintuigen en de voeten de bijzonderste werktuigen zijn totdezonde, de bijzonderste oorzaken van bekoring, de bijzonderste uitwendige delen van het lichaam, zo is de zalving ervan zeer geschikt om aan te duiden dat het H. Oliesel ons meer en meer van de zonde zuivert, tegen de bekoringen versterkt en in geheel onze persoon verlicht en helpt. Daarbij nog de gebeden die in de wijding van de heilige ole gestort worden,
 leggen ons de kracht van dit Sacrament voor ogen, en de waardigheid van de bisschop, die de wijding verricht, doet de verhevenheid van dit Sacrament uitschijnen.
 
 2. V. Aan wie wordt het Heilig Oliesel gegeven?
@@ -1217,7 +767,7 @@ nelozen die nooit tot hun verstand gekomen zijn, dit Sacrament ontvangen.
 
 Het is van node dat men tot de jaren van verstand gekomen zij, omdat men niet eerder in zijn uiterste de verlichting eu hulp van het H. Oliesel kan genieten; dat men ziek zij en zelfs in nood van sterven, omdat dit Sacrament slechts ingesteld is om ons in de overgroten last van een dodelijke ziekte te verlichten en te helpen.
 
-Men merke hierbij op dat het H. Oliesel, als Sacrament van de levenden, in staat van gratie moet ontvangen worden, en dat men zich bijgevolg, vóór het te ontvangen, van zijn doodzonden moet zuiveren.
+Men merke hierbij op dat het H. Oliesel, als Sacrament van de levenden, in staat van genade moet ontvangen worden, en dat men zich bijgevolg, vóór het te ontvangen, van zijn doodzonden moet zuiveren.
 
 3. V. Hoe dikwijls mag men het Heilig Ohesel ontvangen?
 
@@ -1240,10 +790,10 @@ V. De zin van de vraag is: hoe verlicht en helpt het H. Oliesel de zieken in hun
 
 A. Ten eerste, het verlicht de zieken, door de geruststelling van het gemoed en door de verzachting van de pijnen van het lichaam, alsook door de opwekking van de vurigheid door de zonde verfiauwd.
 
-Ten tweede, het vermindert de bekoring, die gewoonlijk in het gevaar van sterven heviger is dan ooit, zowel om reden van de verzwakking van het lichaam, als van de verdubbelde poging van de duivel. God houdt, uit hoofde van het ontvangen Sacrament, die bekoringen ten dele tegen, en Hij geeft meer gratie om ze te overwinnen.
+Ten tweede, het vermindert de bekoring, die gewoonlijk in het gevaar van sterven heviger is dan ooit, zowel om reden van de verzwakking van het lichaam, als van de verdubbelde poging van de duivel. God houdt, uit hoofde van het ontvangen Sacrament, die bekoringen ten dele tegen, en Hij geeft meer genade om ze te overwinnen.
 
 Ten derde, het vergeeft de dagelijkse zonden,
-1° rechtstreeks, (ten minste waarschijnlijk) uit hoofde van de vermeerderde vriendschap met God door de vermeerdering van de heiligmakende gratie teweeggebracht (14de les v. 3), en 2o ook middellijker wijze, door leedwezen, gebeden en allerlei goede werken, tot dewelke de zieken, door de dadelijke gratiën van dit Sacrament bewogen worden.
+1° rechtstreeks, (ten minste waarschijnlijk) uit hoofde van de vermeerderde vriendschap met God door de vermeerdering van de heiligmakende genade teweeggebracht (14de les v. 3), en 2o ook middellijker wijze, door leedwezen, gebeden en allerlei goede werken, tot dewelke de zieken, door de dadelijke genaden van dit Sacrament bewogen worden.
 
 Ten vierde, het neemt weg de vergetene doodzonden: het geldt hier die zonden niet waar de zieke in een voorgaande goede Biecht of in een goede akte van volmaakt berouw niet op gedacht heeft, want deze zijn reeds vergeven:
 er is sprake van dezulke waar hij, nog op de ogenblik dat hij het H. Oliesel ontvangt, onvrijwillig mee besmet blijft,
@@ -1260,17 +810,17 @@ het wapent hem tegen het wedervallen, met hem te verlichten en met de bekoringen
 
 5. Vv. Wat is het Priesterdom?
 
-A. Een Sacrament, door hetwelk de dienaars van de H. Kerk macht ontvangen en gratie om hun ambt bekwamelijk te bedienen.
+A. Een Sacrament, door hetwelk de dienaars van de H. Kerk macht ontvangen en genade om hun ambt bekwamelijk te bedienen.
 
-A. Het antwoord doet ons enkel de bijzondere gratie van dit Sacrament kennen: het geeft — aan de dienaars van de H. Kerk: aan degenen die de HH. Sacramenten moeten bedienen, de gelovigen onderwijzen en besturen — macht:
-het merkteken van de ziel waardoor zij hun ambt vermogen uit te oefenen — en gratie: vermeerdering van de heiligmakende
+A. Het antwoord doet ons enkel de bijzondere genade van dit Sacrament kennen: het geeft — aan de dienaars van de H. Kerk: aan degenen die de HH. Sacramenten moeten bedienen, de gelovigen onderwijzen en besturen — macht:
+het merkteken van de ziel waardoor zij hun ambt vermogen uit te oefenen — en genade: vermeerdering van de heiligmakende
 — 319 —
 
-en recht tot de dadelijke gratie — om hun ambt bekwamelijk te bedienen: om hun plichten op een gevoeglijke en heilige wijze te kunnen vervullen.
+en recht tot de dadelijke genade — om hun ambt bekwamelijk te bedienen: om hun plichten op een gevoeglijke en heilige wijze te kunnen vervullen.
 
 De Catechismus spreekt van het uitwendig teken van het Priesterschap niet, omdat men niet zeker weet, welk van al de delen die in de H. Kerk de Heilige wijding uitmaken, het uitwendig teken is van Christus ingesteld. — Deze onzekerheid echter brengt geen zwarigheid bij, daar de H. Kerk alles wat enigszins tot de geldigheid van het Sacrament zou kunnen vereist zijn, met de grootste nauwkeurigheid onderhoudt.
 
-Men merke op dat het Sacrament van het Priesterschap niet enkel uit de priesterwijding bestaat, maar ook al de andere wijdingen begrijpt waardoor de dienaars van de H. Kerk, uit Christus’ instelling, macht en gratie ontvangen om hun ambt bekwamelijk te bedienen.
+Men merke op dat het Sacrament van het Priesterschap niet enkel uit de priesterwijding bestaat, maar ook al de andere wijdingen begrijpt waardoor de dienaars van de H. Kerk, uit Christus’ instelling, macht en genade ontvangen om hun ambt bekwamelijk te bedienen.
 
 6. V. Zijn al de dienaars van de H. Kerk even groot?
 
@@ -1316,7 +866,7 @@ A. De priesters hebben meer dan de andere dienaren van de H. Kerk deze dubbele m
 
 en zo het Sacrificie van de Mis op te dragen. ’t Is door deze tweede macht dat zij eigenlijk priester zijn: de eerste is er een voltrekking van, vermits het Sacrificie dient om God te verzoenen en zo de vergiffenis van de zonden te bekomen.
 
-Buiten deze twee allerhoogste bedieningen zijn er nog andere, deels aan wlle priesters, deels aan een bijzondere klasse van priesters, namelijk, aan de hogepriesters ot bisschoppen toebehorende. Alle priesters hebben nog de macht van te doopen, de H. Communie uit te delen, het H. Olieselte bedienen, het woord Gods te verkondigen, de hun toevertrouwde christene gemeente, niet als wetgevers, maar als gezanten van de bisschop te besturen, en zelfs, met pauselijke toelating, het Vormsel te geven. De bisschoppen hebben daarenboven de macht van het Priesterdom en, zonder enige bijzondere toelating, het Vormsel te bedienen, alsook van het hun toevertrouwde hisdom als leeraars, wetgevers en rechters onder het gezag van de Paus te besturen. In het uitoefenen van die macht moeten echter de bisschoppen en de priesters stiptelijk de voorschriften van de H. Kerk volgen,
+Buiten deze twee allerhoogste bedieningen zijn er nog andere, deels aan wlle priesters, deels aan een bijzondere klasse van priesters, namelijk, aan de hogepriesters ot bisschoppen toebehorende. Alle priesters hebben nog de macht van te dopen, de H. Communie uit te delen, het H. Olieselte bedienen, het woord Gods te verkondigen, de hun toevertrouwde christene gemeente, niet als wetgevers, maar als gezanten van de bisschop te besturen, en zelfs, met pauselijke toelating, het Vormsel te geven. De bisschoppen hebben daarenboven de macht van het Priesterdom en, zonder enige bijzondere toelating, het Vormsel te bedienen, alsook van het hun toevertrouwde hisdom als leeraars, wetgevers en rechters onder het gezag van de Paus te besturen. In het uitoefenen van die macht moeten echter de bisschoppen en de priesters stiptelijk de voorschriften van de H. Kerk volgen,
 
 Hieruit zal men niet besluiten dat het bisschopschap cen bijzonderen staat uitmaakt: het is maar de hoogste graad van het priesterdom, dat het eikel priesterdoi en het hogepriesterdom of bisschopschap hegrijpt. Het schijnt zeker dat ook de bisschoppelijke wijding een Sacrament is.
 
@@ -1335,19 +885,19 @@ in hoofdzaak door Christus zelf gesteld, heeft de H. Kerk nader bepaald, en, zij
 Aanmerking.
 
 De zalving met de heilige olie en de woorden die de priester daarbij spreekt, betekenen heel klaar de verlichting en hulp
-(v. Dof de vijf bijzondere profijten (v. 4), door de Catechismus opgegeven als zijnde de uitwerksels van het H. Oliesel op de stervenden zieke (v. 1, 29). Uit hoofde van zijn uitwerksels kan en mag dit Sacrament slechts gegeven worden aan de zieken die tot de jaren van verstand gekomen zijnde, in nood zijn van sterven, en daar het zijn kracht behoudt zolang dezelfde dodelijke ziekte duurt, mag het maar eens in één ziekte ontvangen worden; in verscheidene ziekten echter, zo dikwijls als men zou hervallen wezen. — Al de heilige wijdingen die van Christus ingesteld zijn, en zo tot het Sacrament van het Priesterschap behoren, drukken klaarblijkend de macht en de gratie uit, die de dienaars van de H. Kerk ontvangen om hun ambt bekwamelijk te bedienen:
-in de priesterlijke wijding, onder andere, ziet men allerduidelijkst, hoe de priester er de macht bekomt om de zonden te vergeven, en om hef brood en de wijn in het lichaam en bloed van Christus te veranderen. — Uit de verhevenheid en de bestemming van de bijzondere gratie van het Priesterschap blijkt, dat er bijzondere voorwaarden vereist zijn om dit Sacrament te mogen ontvangen.
+(v. Dof de vijf bijzondere profijten (v. 4), door de Catechismus opgegeven als zijnde de uitwerksels van het H. Oliesel op de stervenden zieke (v. 1, 29). Uit hoofde van zijn uitwerksels kan en mag dit Sacrament slechts gegeven worden aan de zieken die tot de jaren van verstand gekomen zijnde, in nood zijn van sterven, en daar het zijn kracht behoudt zolang dezelfde dodelijke ziekte duurt, mag het maar eens in één ziekte ontvangen worden; in verscheidene ziekten echter, zo dikwijls als men zou hervallen wezen. — Al de heilige wijdingen die van Christus ingesteld zijn, en zo tot het Sacrament van het Priesterschap behoren, drukken klaarblijkend de macht en de genade uit, die de dienaars van de H. Kerk ontvangen om hun ambt bekwamelijk te bedienen:
+in de priesterlijke wijding, onder andere, ziet men allerduidelijkst, hoe de priester er de macht bekomt om de zonden te vergeven, en om hef brood en de wijn in het lichaam en bloed van Christus te veranderen. — Uit de verhevenheid en de bestemming van de bijzondere genade van het Priesterschap blijkt, dat er bijzondere voorwaarden vereist zijn om dit Sacrament te mogen ontvangen.
 
 VRAGEN.
 
 Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Wat bevat ieder deel?
 
-1, Zeg, met de Catechismus, welk het uitwendig teken is van het H. Oliesel. — Leg die woorden uit. — Welke is, volgens de Catechismus, de bijzondere gratie van dit Sacrament? — Verklaar
+1, Zeg, met de Catechismus, welk het uitwendig teken is van het H. Oliesel. — Leg die woorden uit. — Welke is, volgens de Catechismus, de bijzondere genade van dit Sacrament? — Verklaar
 — 323 —
 
-het antwoord. — Hoe dient dit uitwendig tzeken allerbest om die bijzondere gratie uit te drukker?
+het antwoord. — Hoe dient dit uitwendig tzeken allerbest om die bijzondere genade uit te drukker?
 
-2, Geef de zin van de vraag: Aan wie wordt het HI. Oliesel gegeven, — Hoeveel en welke voorwaarden zijn, volgens de Catechismus, vereist, om het H. Oliesel te kunnen en te mogen ontvangen? — Leg die voorwaarden uit. — Toon hoe die vereisten natuurlijk uit de bijzondere gratie des H. Oliesels vloeien. — Mag en kan iemand die ten gevolge van veroordeeling ter dood, op punt is van te sterven; een kind, dat het gebruik van het verstand nog niet hereikt heeft; een zieke, die slechts aan een kleine ontsteltenis lijdt, het H. Oliesel ontvangen? — Geef daar rekening van. — In welke staat moet men het H. Oliesel ontvangen, en waarom?
+2, Geef de zin van de vraag: Aan wie wordt het HI. Oliesel gegeven, — Hoeveel en welke voorwaarden zijn, volgens de Catechismus, vereist, om het H. Oliesel te kunnen en te mogen ontvangen? — Leg die voorwaarden uit. — Toon hoe die vereisten natuurlijk uit de bijzondere genade des H. Oliesels vloeien. — Mag en kan iemand die ten gevolge van veroordeeling ter dood, op punt is van te sterven; een kind, dat het gebruik van het verstand nog niet hereikt heeft; een zieke, die slechts aan een kleine ontsteltenis lijdt, het H. Oliesel ontvangen? — Geef daar rekening van. — In welke staat moet men het H. Oliesel ontvangen, en waarom?
 
 3. Geef de zin van de vraag: hoe dikwijls mag men het H. Otiesel ontvangen? — Verklaar al de woorden van het antwoord dat de Catechismus hierop geeft. — Hoe dikwijls dus mag men het ontvangen in iedere dodelijke ziekte? — Hoe dikwijls mag men het ontvangen in het leven? — Wat is vereist om het Heilig Oliesel,
 na het eens ontvangen te hebben, opnieuw te mogen ontvangen? —
@@ -1355,7 +905,7 @@ Geef de reden van de leer van de Catechismus op dit vraagstuk.
 
 4. Verklaar, volgens de samenhang van de les, de vraag: wat profAjt geeft ons het Heilig Oliesel. — Hoeveel en welke voordelen stelt de Catechismus hier voort — Lieg ze alle uit. — Toon hoe het H. Oliesel, door deze voordelen, de zieke ten opzichte van zijn zaligheid komt verlichten en helpen. — Hoe is dit Sacrament in inenige gevallen de enige reddingsnriddel voor de stervenden zondaar?
 
-5. Zeg, met de woorden van de Catechismus, welke de bijzondere gratie van het Priesterschap is. — Leg die woorden uit, — Waarom spreekt de Catechismus van het uitwendig teken van het Priesterschap niet? — Brengt de onzekerheid, nepens dit teken bestaande,
+5. Zeg, met de woorden van de Catechismus, welke de bijzondere genade van het Priesterschap is. — Leg die woorden uit, — Waarom spreekt de Catechismus van het uitwendig teken van het Priesterschap niet? — Brengt de onzekerheid, nepens dit teken bestaande,
 geene zwarigheid bij? — Welke wijdingen komen onder de naam van Sacrament van het Priesterschap?
 
 6. Verklaar de vraag: Zijn al de dienaars van de H. Kerk even groot. — Zeg, of zij allen even groot zijn, of niet. — Hoeveel trappen zijn er onder hen? — Welke is de hoogste? — Noem de zes andere trappen of staten. — Hoe noemt men de vier laagste, en hoe de drie hoogste, en waarom? — Wat verstaat men door de tonsuur,
@@ -1391,7 +941,7 @@ Natuur vandit Sacrament nader bepaald.
 
 1. V. Wat is het Huwelijk?
 
-A. Een Sacrament, door hetwelk man en vrouw wettelijk verbonden worden, en gratie ontvangen om kinderen tot Gods glorie op te brengen.
+A. Een Sacrament, door hetwelk man en vrouw wettelijk verbonden worden, en genade ontvangen om kinderen tot Gods glorie op te brengen.
 
 A. Het antwoord leert wat dit Sacrament bijzonder hetekent en uitwerkt, namelijk:
 
@@ -1403,13 +953,13 @@ wettelijk: in de ogen van God en van de H. Kerk — verbonden worden, en
 
 en recht tot dadelijke — om kinderen op te brengen tot Gods glorie: tot ware dienaars van God en ware leden van de H. Kerk.
 
-Alhoewel de Sacramenten slechts dienen om Gods gratie mee te delen, brengt het Huwelijk, boven de gratie, nog de verbintenis teweeg, omdat het niet uitsluitend een Sacrament,
-maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i.a.w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere gratie betekent, welke het hun door zichzelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op gener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
+Alhoewel de Sacramenten slechts dienen om Gods genade mee te delen, brengt het Huwelijk, boven de genade, nog de verbintenis teweeg, omdat het niet uitsluitend een Sacrament,
+maar ook een contract is: Christus heeft immers, voor de gedoopten, het contract des Huwelijks tot de waardigheid van een Sacrament verheven, i.a.w. het contract des Huwelijks tot een uitwendig teken ingesteld, dat, voor de gedoopten, een bijzondere genade betekent, welke het hun door zichzelf geeft. Doch. men geve er wel acht op, bij de gedoopten kan het contract onmogelijk van het Sacrament gescheiden worden, daar, volgens Christus’ instelling, het contract zelf voor al de gedoopten tot de waardigheid van een Sacrament is verheven, en bijgevolg, ging een gedoopte, volstrekt weigerende het Sacrament te ontvangen, het contract des Huwelijks aan, hij zou op gener wijze getrouwd zijn, want zijn contract zou gans en geheel ongeldig wezen.
 
 Het uitwendig teken van het Sacrament is het contract,
-waardoor man en vrouw zich wettelijk verbinden; want ’t is dit contract zelf dat Christus heeft ingesteld als sacramenteel teken van de bijzondere gratie van het Huwelijk; hijgevolg,
+waardoor man en vrouw zich wettelijk verbinden; want ’t is dit contract zelf dat Christus heeft ingesteld als sacramenteel teken van de bijzondere genade van het Huwelijk; hijgevolg,
 wanneer dit contract door gedoopten wordt aangegaan,
-betekent het niet uitsluitend de natuurlijke verbintenis, maar ook de bijzondere gratie door Christus er aan gehecht.
+betekent het niet uitsluitend de natuurlijke verbintenis, maar ook de bijzondere genade door Christus er aan gehecht.
 Immers het contract kan, gelijk wij reeds gezien hebben. bij de gedoopten geenszins van het Sacrament gescheiden worden.
 
 2. Vv. Wat is de ondertrouw, die gemeenlijk voorgaat?
@@ -1450,7 +1000,7 @@ A. Met sommigen zou het van gener waarde wezen,
 
 als met geestelijke personen, of met lichamelijk maagschap tot de vierden graad, of ook met geestelijk maagschap.
 
-V. Zou het Huwelijk, met de voornoemde klassen van personen aangegaan, goed wezen: geldig zijn of man en vrouw wezenlijk verbinden en gratie geven?
+V. Zou het Huwelijk, met de voornoemde klassen van personen aangegaan, goed wezen: geldig zijn of man en vrouw wezenlijk verbinden en genade geven?
 
 A. Niet met al die klassen, maar alleen met sommige daarvan — zou het van gener waarde wezen: zou het ongeldig zijn en bijgevolg niets teweegbrengen, als, onder anderen, met geestelijke personen, met degenen die een grote orde ontvangen hebben, of met lichamelijk maagschap of bloedverwantschap, in rechte lijn (1), tot alle gra-
 
@@ -1482,9 +1032,9 @@ Vv. Wat is geestelijk maagschap?
 
 A. Hetwelk door de stelling van de H. Kerk bestaat tussen de peter of de meter en dengene die gedoopt of gevormd is, en zijn ouders.
 
-A. Geestelijk maagschap is hetwelk. niet door de natuurwet, maar door de stelling van de H Kerk: door de vrije instelling van de opperste kerkelijke overheid bestaat tussen de peter of de meter van het Doopsel of van het Vormsel, en de bedienaar dier Sacramenten van de een kant, — en dengene die gedoopt of gevormd is, en zijn ouders van de anderen kant. Dus bestaat er geen geestelijk maagschap tussen peter en meter, noch tussen deze en de bedienaar van het Doopsel of hef Vormsel; maar wel tussen hen allen eenszijds, en de doop- of vormlingen en van deze ouders anderszijds, De Catechismus spreekt hier van de bedienaar niet, omdat die van het Doopsel gewoonlijk priester, die van het Vormsel altijd ten minste priester is,en alle priester reeds door zijn wijding belet is het Huwelijk aan te.gaan.
+A. Geestelijk maagschap is hetwelk. niet door de natuurwet, maar door de stelling van de H Kerk: door de vrije instelling van de opperste kerkelijke overheid bestaat tussen de peter of de meter van het Doopsel of van het Vormsel, en de bedienaar dier Sacramenten van de een kant, — en dengene die gedoopt of gevormd is, en zijn ouders van de anderen kant. Dus bestaat er geen geestelijk maagschap tussen peter en meter, noch tussen deze en de bedienaar van het Doopsel of hef Vormsel; maar wel tussen hen allen eenszijds, en de doop- of vormelingen en van deze ouders anderszijds, De Catechismus spreekt hier van de bedienaar niet, omdat die van het Doopsel gewoonlijk priester, die van het Vormsel altijd ten minste priester is,en alle priester reeds door zijn wijding belet is het Huwelijk aan te.gaan.
 
-Dit beletsel is ingebracht, omdat peter, meter en bedienaar in voornoemde Sacramenten als de ouders worden van het geestelijk leven van de doop- of vormlingen; daarom ook draagt het de naam van geestelijk maagschap.
+Dit beletsel is ingebracht, omdat peter, meter en bedienaar in voornoemde Sacramenten als de ouders worden van het geestelijk leven van de doop- of vormelingen; daarom ook draagt het de naam van geestelijk maagschap.
 
 6. V. Moet het huwelijk vóór iemand geschieden?
 
@@ -1502,15 +1052,15 @@ waar zij afgekondigd zou geweest zijn. In ons land is die afkondiging gebeurd in
 
 7. V. Wat geeft het heilig Sacrament des Huwelijks?
 
-A, Ten eerste, gratie om kinderen tot Gods eer te krijgen en op te voeden; ten tweede, boven de verbintenis geeft het gratie om in liefde en peis te leven; ten derde, sterkte om beter de lasten van het Huwelijk te dragen.
+A, Ten eerste, genade om kinderen tot Gods eer te krijgen en op te voeden; ten tweede, boven de verbintenis geeft het genade om in liefde en peis te leven; ten derde, sterkte om beter de lasten van het Huwelijk te dragen.
 
-V. Zeg meer specifiek welke de uitwerksels zijn van het Huwelijk, dat, zoals de 1° vraag leert, man en vrouw wettelijk verbindt en gratie geeft om kinderen tot Gods glorie op te brengen.
+V. Zeg meer specifiek welke de uitwerksels zijn van het Huwelijk, dat, zoals de 1° vraag leert, man en vrouw wettelijk verbindt en genade geeft om kinderen tot Gods glorie op te brengen.
 
-A. Ten eerste, gratie om het hoofdeinde van het Huwelijk te bereiken, namelijk, om kinderen tot Gods eer te krijgenen op te voeden;
+A. Ten eerste, genade om het hoofdeinde van het Huwelijk te bereiken, namelijk, om kinderen tot Gods eer te krijgenen op te voeden;
 
-Ten tweede, boven de verbintenis: boven het recht en de verplichting van samen te leven, geeft het gratie om in liefde en peis te leven: om elkander om God te beminnen en de vrede met elkander te bewaren;
+Ten tweede, boven de verbintenis: boven het recht en de verplichting van samen te leven, geeft het genade om in liefde en peis te leven: om elkander om God te beminnen en de vrede met elkander te bewaren;
 
-Ten derde, sterkte om beter de lasten van het Huwelijk te dragen: gratie om met verduldigheid, onderwerping, vreugde en liefde, de menigvuldige lasten te dragen dia
+Ten derde, sterkte om beter de lasten van het Huwelijk te dragen: genade om met verduldigheid, onderwerping, vreugde en liefde, de menigvuldige lasten te dragen dia
 — 332 —
 
 het opbrengen van de kinderen, het samenleven en de wederzijdsche gebreken veroorzaken.
@@ -1518,7 +1068,7 @@ het opbrengen van de kinderen, het samenleven en de wederzijdsche gebreken veroo
 Deze drie profijten zijn innig met elkander verbonden:
 immers, om kinderen tot Gods glorie op te brengen, moeten de getrouwden in vrede en peis leven, en, om zo te kunnen leven, verduldig de lasten des Huwelijks dragen.
 
-Om, boven de verbintenis, die door het Sacrament geldig ontvangen altijd teweeggebracht wordt, de hier vermelde genadegaven te verwerven, moeten de echtelingen in staat van gratie zijn, daar het een Sacrament van de levenden geldt.
+Om, boven de verbintenis, die door het Sacrament geldig ontvangen altijd teweeggebracht wordt, de hier vermelde genadegaven te verwerven, moeten de echtelingen in staat van genade zijn, daar het een Sacrament van de levenden geldt.
 
 8. V. Kan het Huwelijk niet ontbonden worden?
 
@@ -1543,13 +1093,13 @@ A. Zij laat ze dan niet toe, omdat het tijden zijn van boetvaardigheid en godsdi
 Aanmerking.
 
 De 36e les is heel en gans hierop gegrond, dat Christus het huwelijkseontract, door hem onontbindelijk verklaard,
-tot de waardigheid van Sacrament verheven heeft met het aan te nemen ter betekenis van een bijzondere gratie, de gratie om kinderen tot Gods glorie op te brengen — die het door zichzelf zou geven; hieruit itmnmers volgt 1e dat, voor de gedoopten, het Sacrament niet kan gescheiden worden van het contract; 2° dat de wettige overheid, omdat het een contract geldt, aan het Huwelijk hetetselen kan stellen die het ongeoorloofd en zelfs ongeldig maken, en dat dit stellen van beletselen niet strijdig is met de volkomene afhankelijkheid van de Sacramenten van Christus’ instelling en met hun daaruit vloeiende onveranderlijkheid, vermits Christus, om de orde niet te storen, dát Huwelijk tot de waardigheid van Sacrament heeft verheven, dat wettig aangegaan wordt; — 3° dat de macht van zulke beletselen in te brengen alleen aan de H. Kerk toekomt, daar het Huwelijk een Sacrament is, en de H. Kerk alleen macht over de Sacramenten heeft; — 4e dat het Huwelijk van de gedoopten slechts door de dood kan ontbonden worden, alhoewel de gehuwden soms van de plicht van samen te wonen kuanen ontslagen worden.
+tot de waardigheid van Sacrament verheven heeft met het aan te nemen ter betekenis van een bijzondere genade, de genade om kinderen tot Gods glorie op te brengen — die het door zichzelf zou geven; hieruit itmnmers volgt 1e dat, voor de gedoopten, het Sacrament niet kan gescheiden worden van het contract; 2° dat de wettige overheid, omdat het een contract geldt, aan het Huwelijk hetetselen kan stellen die het ongeoorloofd en zelfs ongeldig maken, en dat dit stellen van beletselen niet strijdig is met de volkomene afhankelijkheid van de Sacramenten van Christus’ instelling en met hun daaruit vloeiende onveranderlijkheid, vermits Christus, om de orde niet te storen, dát Huwelijk tot de waardigheid van Sacrament heeft verheven, dat wettig aangegaan wordt; — 3° dat de macht van zulke beletselen in te brengen alleen aan de H. Kerk toekomt, daar het Huwelijk een Sacrament is, en de H. Kerk alleen macht over de Sacramenten heeft; — 4e dat het Huwelijk van de gedoopten slechts door de dood kan ontbonden worden, alhoewel de gehuwden soms van de plicht van samen te wonen kuanen ontslagen worden.
 — 34 —
 VRAGEN.
 
 Waarvan handelt deze les? — Hoe wordt zij verdeeld? — Wat bevat ieder deel?
 
-1. Onder welk opzicht doet de Catechismus, in zijn beschrijving van het Huwelijk, ons dit Sacrament kennen? — Zeg met de Catechismus, hoeveel en welke dingen het Huwelijk bijzonder uitwerkt. — Leg deze uit. — Hoe geeft dit Sacrament, boven de gratie,
+1. Onder welk opzicht doet de Catechismus, in zijn beschrijving van het Huwelijk, ons dit Sacrament kennen? — Zeg met de Catechismus, hoeveel en welke dingen het Huwelijk bijzonder uitwerkt. — Leg deze uit. — Hoe geeft dit Sacrament, boven de genade,
 nog de verbintenis tussen man en vrouw? — Kan het contract des Huwelijks van het Sacrament gescheiden worden? — Geef er de reden van. — Welk ís het uitwendig teken van dit Sacrament, en waarom?
 
 2. Geef de zin van de vraag: Wat is de ondertrouw die gemeenlijk voorgaat? — Is zij een Sacrament? — Zeg, met de Catechismus,
@@ -1648,18 +1198,18 @@ A. De zonden zijn tweeërlei of worden in twee hoofdsoorten verdeeld: de erfzond
 
 A. een afgekeerdheid van God en hberoving van de rechtvaardigheid, die alle mensen aangeboren wordt door de val van onze eersten vader Adam.
 
-A. De erfzonde is een afgekeerdheid van God: een staat van ongunst bij God, voortkomende uit de beroving van de rechtvaardigheid: van de heiligmakende gratie die iedereen, volgens Gods instelling en wil, zou moeten bezitten, — die alle mensen: welke afgekeerdheid en herooving alle nakomelingen van Adam die ooit geweest zijn en zijn zullen, behalve Jezus Christus en de H. Maagd Maria —
-aangeboren wordt: van 't begin huns levens aankleeft door de val van onze eersten vader Adam: ten gevolge van de zonde die Adam in het aardsch Paradijs bedreven heeft met van de verhodene vrucht te eten. Als stamvader van geheel het menselijk geslacht, had Adam de heiligmakende gratie bekomen niet alleen voor zichzelf, maar ook voor
+A. De erfzonde is een afgekeerdheid van God: een staat van ongunst bij God, voortkomende uit de beroving van de rechtvaardigheid: van de heiligmakende genade die iedereen, volgens Gods instelling en wil, zou moeten bezitten, — die alle mensen: welke afgekeerdheid en herooving alle nakomelingen van Adam die ooit geweest zijn en zijn zullen, behalve Jezus Christus en de H. Maagd Maria —
+aangeboren wordt: van 't begin huns levens aankleeft door de val van onze eersten vader Adam: ten gevolge van de zonde die Adam in het aardsch Paradijs bedreven heeft met van de verhodene vrucht te eten. Als stamvader van geheel het menselijk geslacht, had Adam de heiligmakende genade bekomen niet alleen voor zichzelf, maar ook voor
 — 340 —
 
 al zijn afstammelingen; doch op voorwaarde dat hij Gods
 
 gebod zou onderhouden met van de verbodene vrucht niet te
 
-eten. Hij overtrad echter dit goddelijk gebod, en verloor zo de heiligmakende gratie voor zichzelf en voor al zijn nakomelingen.
+eten. Hij overtrad echter dit goddelijk gebod, en verloor zo de heiligmakende genade voor zichzelf en voor al zijn nakomelingen.
 
 Niets helette God ons allen, om wille van Adams zonde,
-van de heiligmakende gratie te beroven, daar deze een bovennatuurlijke en dus gans vrije gave is, die God naar believen kan weigeren of geven. Zelfs betaamde het dat, in 't begin van de wereld, het bewaren of het verliezen dier gratie van de wil van ons stamvaders afhing, daar zij, vóór de zonde, behoorde vergezeld te zijn van deze vier gaven: de onsterfelijkheid en de vrijdom vande begeerlijkheid van het lichaam,
+van de heiligmakende genade te beroven, daar deze een bovennatuurlijke en dus gans vrije gave is, die God naar believen kan weigeren of geven. Zelfs betaamde het dat, in 't begin van de wereld, het bewaren of het verliezen dier genade van de wil van ons stamvaders afhing, daar zij, vóór de zonde, behoorde vergezeld te zijn van deze vier gaven: de onsterfelijkheid en de vrijdom vande begeerlijkheid van het lichaam,
 van de onwetendheid en van de ellenden dezes levens; welnu,
 de orde ware in de wereld onmogelijk geweest, hadden enige mensen, bij uitsluiting van anderen, deze gaven genoten.
 
@@ -1674,7 +1224,7 @@ A. Dat zij ons de rechtvaardigheid beneemt en onbekwaam maakt om de glorie van d
 
 A. De erfzonde doet ons een dubbel kwaad of nadeel:
 
-1e Dat zij ons de rechtvaardigheid beneemt. dat zij ons berooft van de heiligmakende gratie, waardoor wij aangenomene kinderen Gods zijn, en van de vier huitennatuurlijke
+1e Dat zij ons de rechtvaardigheid beneemt. dat zij ons berooft van de heiligmakende genade, waardoor wij aangenomene kinderen Gods zijn, en van de vier huitennatuurlijke
 
 gaven dieer in 't Paradijs mee gepaard gingen (a. de 6 L.
 a.3);'tisimmers in die herooving vande oorspronkelijke recht-
@@ -1682,7 +1232,7 @@ a.3);'tisimmers in die herooving vande oorspronkelijke recht-
 
 vaardigheid dat de erfzonde gelegen is. Door het verlies van al die gaven heeft onze ziel vier wonden ontvangen: de verblindheid in het verstand, de boosheid in de wil, de genegenheid tot het kwaad en de krankheid tot het goed.
 
-2o Dat zij ons onbekwaam maakt om de glorie van de hemel, die in hef aanschouwen van God bestaat, te genieten; dit geluk immers is de belooning van Gods aangenomene kinderen, en ‘tis alleen door de heiligmakende gratie, waar de erfzonde ons van berooft, dat wij kinderen Gods zijn.
+2o Dat zij ons onbekwaam maakt om de glorie van de hemel, die in hef aanschouwen van God bestaat, te genieten; dit geluk immers is de belooning van Gods aangenomene kinderen, en ‘tis alleen door de heiligmakende genade, waar de erfzonde ons van berooft, dat wij kinderen Gods zijn.
 
 6. V. Watts de dagelijkse zonde?
 
@@ -1692,7 +1242,7 @@ maar uitsluitend tot enige tijdelijke pijn verbindt.
 Â. De dagelijkse zonde is een zonde — zó gedaan tegen de wet Gods: zó wetens en willens tegen de geboden van God of van andere wettige overheden bedreven —
 dat zij nochtans de goddelijke liefde niet wegneemt:
 dat zij, hoewel tegen God strijdende en Hem vergrammende,
-nochtans de vriendschap met Hem niet breekt, noch ons van de heiligmakende gratie berooft, noch. hijgevolg, de eeuwige straf van de hel medebrengt die slechts bestemd is voor degenen die buiten Gods liefde sterven (15e les, 8e vr.), maar uitsluitend verbindt — tot enige tijdelijke pijn: tot een pijn van bepaalden tijd hier op de aarde of hiernamaals in het vagevuur te lijden.
+nochtans de vriendschap met Hem niet breekt, noch ons van de heiligmakende genade berooft, noch. hijgevolg, de eeuwige straf van de hel medebrengt die slechts bestemd is voor degenen die buiten Gods liefde sterven (15e les, 8e vr.), maar uitsluitend verbindt — tot enige tijdelijke pijn: tot een pijn van bepaalden tijd hier op de aarde of hiernamaals in het vagevuur te lijden.
 
 Dat er zonden zijn die de goddelijke liefde niet wegnemen,
 is gemakkelijk om begrijpen; de vriendschap met iemand wordt niet door allerhande, maar slechts door grote, door volkomene beledigingen verbroken; welnu er zijn noodzakelijk zonden die niet volkomen zijn, en zo zijn er noodzakelijk dagelijkse zonden.
@@ -1706,8 +1256,8 @@ meerderen val; ten derde, zij verbinden ons tot tijdelijke straffen.
 Á. Zij doen ons een drievoudig kwaad:
 
 Ten eerste, zij doen ons in de liefde Gods verflauwen ;
-zij verminderen in ons niet de graad van de liefde of van de heiligmakende gratie, maar wel, om reden van de oneer God aangedaan, de dadelijke gratiën en diensvolgens de levendigheid,
-de vurigheid van de liefde, waaruit de goede werken voortspruiten, en zo beletten zij ons onrechtstreeks van door goede werken en het ontvangen van de HH. Sacramenten grote vermeerdering van de heiligmakende gratie te bekomen.
+zij verminderen in ons niet de graad van de liefde of van de heiligmakende genade, maar wel, om reden van de oneer God aangedaan, de dadelijke genaden en diensvolgens de levendigheid,
+de vurigheid van de liefde, waaruit de goede werken voortspruiten, en zo beletten zij ons onrechtstreeks van door goede werken en het ontvangen van de HH. Sacramenten grote vermeerdering van de heiligmakende genade te bekomen.
 
 Ten tweede, zij maken ons gereed tot meerderen val: om menigvuldiger en groter zonden, zowel dodelijke als dagelijkse, te bedrijven, en dat evenzeer met de vurigheid van onze liefde te verminderen als met onze neiging tot het kwaad te vermeerderen.
 
@@ -1792,7 +1342,7 @@ Wat is een onvolmaaktheid, en hoe verschilt zij van de zonde?
 3. Geef, met de Catechismus, de hoofdverdeling van de zonden.
 — Leg deze verdeling uit, en geef tevens rekenschap van de namen. — Hoe verdeelt de Catechismus de dadelijke zonden? — Leg die verdeling uit, en geef rekenschap van de namen.
 
-4, Waarin bestaat eerst en vooral, volgens de Catechismus, de erfzonde? — Leg het antwoord uit. — Van waar komt, volgens de Catechismus, die staat voort welke de erfzonde uitmaakt? — Verklaar uw antwoord. — Welk is, volgens de Catechismus, de oorsprong van die beroving, welke de erfzonde teweegbrengt? — Leg dit antwoord uit. — Wie is er, volgens de Catechismus, met de erfzonde besmet? — Leg dit uit. — Hoe en wanneer worden deze allen er mee besmet? — Toon hoe niets God belette, het bewaren van de heiligmakende gratie van de wil van ons algemenen stamvaders te doen afhangen. — Toon hoe het zelfs betaamde, dat God zo de zaak schikte. — Hoe kan die staat van afgekeerdheid van God en beroving van de rechtvaardigheid, die de erfzonde uitmaakt, de naam van zonde dragen?
+4, Waarin bestaat eerst en vooral, volgens de Catechismus, de erfzonde? — Leg het antwoord uit. — Van waar komt, volgens de Catechismus, die staat voort welke de erfzonde uitmaakt? — Verklaar uw antwoord. — Welk is, volgens de Catechismus, de oorsprong van die beroving, welke de erfzonde teweegbrengt? — Leg dit antwoord uit. — Wie is er, volgens de Catechismus, met de erfzonde besmet? — Leg dit uit. — Hoe en wanneer worden deze allen er mee besmet? — Toon hoe niets God belette, het bewaren van de heiligmakende genade van de wil van ons algemenen stamvaders te doen afhangen. — Toon hoe het zelfs betaamde, dat God zo de zaak schikte. — Hoe kan die staat van afgekeerdheid van God en beroving van de rechtvaardigheid, die de erfzonde uitmaakt, de naam van zonde dragen?
 
 5. Verklaar de vraag: Wat kwaad doet ons de erfzonde? — Leg,
 met de Catechismus, welk dubbel kwaad de erfzonde ons doet, en leg het uit. — Geef rekenschap van het kwaad dat zij ons doet.
@@ -1859,7 +1409,7 @@ dat zij ons geheellijk berooft van de goddelijke liefde die het leven van onze z
 — 349 —
 
 A. De doodzon 1° is een zonde zó strijdende tegen de wet Gods: een zó grote overtreding van Gods wet en wil,
-dat zij ons geheellijk berooft — van de goddelijke liefde: van de vriendschap Gods of van de heiligmakende gratie, die het leven van onze zielen is: waardoor onze zielen instaatzijn de hemel te verdienen en zo voor de hemel leven.
+dat zij ons geheellijk berooft — van de goddelijke liefde: van de vriendschap Gods of van de heiligmakende genade, die het leven van onze zielen is: waardoor onze zielen instaatzijn de hemel te verdienen en zo voor de hemel leven.
 (29e les, 6° vr.) Door deze zonde is onze ziel buiten staat om de hemel te bekomen en zo dood voor de hemel, gelijk iemand die buiten een spel gezet wordt, dood gezegd wordt voor de winste van het spel.
 
 Al doodt de doodzonde het geestelijk leven van de ziel, en verdient zij juist daarom de naam van doodzonde, toch mag zij ook een ziekte genoemd worden; omdat het kwaad dat zij ons doet, nog herstelbaar is zolang wij op aarde zijn.
@@ -1892,31 +1442,31 @@ of niet gans vrijwillig, dan bedrijft men slechts een onvolledige, een dagelijks
 
 4. V. Wat verliezen wij door de doodzonde?
 
-A. Ten eerste, de goddelijke gratie; ten tweede, de verdiensten van onze goede werken; ten derde,
+A. Ten eerste, de goddelijke genade; ten tweede, de verdiensten van onze goede werken; ten derde,
 de hemelse glorie.
 
 A. Door de doodzonde verliezen wij drie goederen:
-Ten eerste, de goddelijke gratie: de heiligmakende
+Ten eerste, de goddelijke genade: de heiligmakende
 
-gratie waardoor wij aangenomene kinderen Gods en erfgenamen van de hemel zijn;
+genade waardoor wij aangenomene kinderen Gods en erfgenamen van de hemel zijn;
 — 351 —
 
-Ten tweede, de verdiensten van onze goede werken: het recht tot vermeerdering van de heiligmakende gratie, dat onze goede werken, werden zij in staat van gratie gedaan, ons zouden verwerven, alsook het recht tot loon, dat onse voorgaande werken in staat van gratie volbracht, ons reeds verworven hadden;
+Ten tweede, de verdiensten van onze goede werken: het recht tot vermeerdering van de heiligmakende genade, dat onze goede werken, werden zij in staat van genade gedaan, ons zouden verwerven, alsook het recht tot loon, dat onse voorgaande werken in staat van genade volbracht, ons reeds verworven hadden;
 
 Ten derde, de hemelse glorie: het geluk van de Hemel,
 dat hoofdzakelijk in het aanschouwen van God bestaat.
 
-Het is niet moeilijk om bewijzen, dat wij door de doodzonde wezenlijk deze drie verliezen doen: zij berooft ons van de heiligmakende gratie, daar zij ons vijanden van God maakt; dan, uit dit verlies volgt noodzakelijk 1° dat van de verdiensten van onze goede werken: wie de titel van aangenomen kind Gods verloren heeft, kan onmogelijk nog de verdiensten en de loon verkrijgen die Gods aangenomene kinderen toekomt; 2° het verlies van de hemel, vermits deze de loon is van degenen die in Gods gratie sterven.
+Het is niet moeilijk om bewijzen, dat wij door de doodzonde wezenlijk deze drie verliezen doen: zij berooft ons van de heiligmakende genade, daar zij ons vijanden van God maakt; dan, uit dit verlies volgt noodzakelijk 1° dat van de verdiensten van onze goede werken: wie de titel van aangenomen kind Gods verloren heeft, kan onmogelijk nog de verdiensten en de loon verkrijgen die Gods aangenomene kinderen toekomt; 2° het verlies van de hemel, vermits deze de loon is van degenen die in Gods genade sterven.
 
-De verdiensten van de goede werken die in staat van gratie gedaan zijn, herleven als de doodzonde vergeven wordt; want zij werden door deze zonde niet vernietigd, maar enkel ontoepasselijk gemaakt. De verdiensten van de goede werken die in staat van doodzonde volbracht zijn, kunnen niet herleven,
+De verdiensten van de goede werken die in staat van genade gedaan zijn, herleven als de doodzonde vergeven wordt; want zij werden door deze zonde niet vernietigd, maar enkel ontoepasselijk gemaakt. De verdiensten van de goede werken die in staat van doodzonde volbracht zijn, kunnen niet herleven,
 daar zij nooit bestaan hebben; deze goede werken nochtans zijn niet nutteloos; zij dienen immers om de bekeering van de zondaar te bereiden.
 
 5. V. Waartoe brengt ons de doodzonde?
 Á. Tot een schandelijke slavernij van de duivel en de pijnen van de hel.
 
-A. De doodzonde brengt ons tot een schandelijke slavernij van de duivel in dit leven, en, na de dood, tot de eeuwige pijnen, van schade en van gevoel, van de hel. Dit wederom volgt uit het verlies van de heiligmakende gratie, dat de doodzonde ons doet ondergaan.
+A. De doodzonde brengt ons tot een schandelijke slavernij van de duivel in dit leven, en, na de dood, tot de eeuwige pijnen, van schade en van gevoel, van de hel. Dit wederom volgt uit het verlies van de heiligmakende genade, dat de doodzonde ons doet ondergaan.
 
-De staat van degenen die beroofd zijn van Gods gratie, wordt slavernij genoemd, omdat, volgens de wetten van het Heidendom, diegene slaaf werd die de titel van kind des huisgezins verloor; — slavernij van de duivel, omdat het de duivel is die
+De staat van degenen die beroofd zijn van Gods genade, wordt slavernij genoemd, omdat, volgens de wetten van het Heidendom, diegene slaaf werd die de titel van kind des huisgezins verloor; — slavernij van de duivel, omdat het de duivel is die
 
 23
 — 352 —
@@ -1926,7 +1476,7 @@ die het ware rijk van de duivel is, zullen te lijden hebben; —
 schandelijke slavernij van de duivel, omdat het voor een schepsel tot de allerverhevensten adel van kind Gods behorende,
 eene schande is, en de hoogste schande denkelijk, aan de slaverhij van de duivel onderworpen te zijn.
 
-Nu kunnen wij gemakkelijk al het verschil tussen de dodelijke en de dagelijkse zonde verstaan: 1° de doodzonde is een volledige zonde; de dagelijkse, slechts een onvolledige; 2° de dodelijke zonde berooft ons ten volle van de heiligmakende gratie; de dagelijkse doet ons enkel in de liefde Gods verflauwen; 3e de eerste verbindt ons tot de eeuwige pijnen; de laatste, uitsluitend tot tijdelijke.
+Nu kunnen wij gemakkelijk al het verschil tussen de dodelijke en de dagelijkse zonde verstaan: 1° de doodzonde is een volledige zonde; de dagelijkse, slechts een onvolledige; 2° de dodelijke zonde berooft ons ten volle van de heiligmakende genade; de dagelijkse doet ons enkel in de liefde Gods verflauwen; 3e de eerste verbindt ons tot de eeuwige pijnen; de laatste, uitsluitend tot tijdelijke.
 
 6. V. Wat heet men hoofdzonden?
 A. Die gelijk oorsprongen zijn en beginselen van vele andere zonden.
@@ -2014,19 +1564,19 @@ Zonde van de Joden die door vele mirakelen van Jezus’ zending overtuigd, Hem a
 zonden ook van de ongelovigen en van de ketters (2le les, 2e vr).
 
 40 De broederlijke liefde benijden: bedroefd zijn, niet omdat onze broeder of naaste ons in deugdzaamheid overtreft.
-maar omdat God hem liefheeft en hem dientengevolge, ter bekeering of ter meerdere heiligmaking, zijn gratiën verleent; dus ook bedroefd zijn over ‘s naasten bekeering of heiligheid. Zonde van Caïn, van de Joden die hardnekkig verbitterd waren over de roep van de Heidenen tot het Christelijk Geloof, van de goddeloze en slechte Christenen die met spijt de bekeering of de deugdzaamheid van de naaste zien.
+maar omdat God hem liefheeft en hem dientengevolge, ter bekeering of ter meerdere heiligmaking, zijn genaden verleent; dus ook bedroefd zijn over ‘s naasten bekeering of heiligheid. Zonde van Caïn, van de Joden die hardnekkig verbitterd waren over de roep van de Heidenen tot het Christelijk Geloof, van de goddeloze en slechte Christenen die met spijt de bekeering of de deugdzaamheid van de naaste zien.
 
 50 Hardnekkig zijn in de boosheid: in de zonde voortgaan, niet uit enkele krankheid tegenover de driften, maar uit kwaadwilligheid en ondanks de vermaningen waardoor God tot bekeering opwekt. Zonde van de Joden die de vermaningen van God en zijn profeten verstootten en verachtten.
 
 69 Verachten het berouw of de penitentie: in de zonde volharden, niet uit enkele zwakheid, maar met het kwaad voornemen van zich gedurende een zekeren tijd of zelfs in het uur van de dood niet te bekeren. Zonde van degenen die de verbintenis aangaan van op hun uiterste de HH. Sacramenten te weigeren.
 
 Deze zes zonden zijn wezenlijk zonden tegen de H. Geest;
-want, zoals uit de gegevene bepaling blijkt, geschieden zij uit enkele boosheid, en zij strijden rechtstreeks tegen de goddelijke barmhartigheid of tegen onze zaligmaking die de H. Geest toegeschreven wordt, daar men door alle iets verstoot dat tot de zaligheid vereist is. Immers, om de vergiffenis van de zonden en de gratie om wel te leven van God te kunnen verhopen en verkrijgen, moeten wij 1° de barmhartigheid Gods erkennen en er kunnen op rekenen; 20 weten wat er te doen is om de vergiffenis en die gratie te verwerven,
+want, zoals uit de gegevene bepaling blijkt, geschieden zij uit enkele boosheid, en zij strijden rechtstreeks tegen de goddelijke barmhartigheid of tegen onze zaligmaking die de H. Geest toegeschreven wordt, daar men door alle iets verstoot dat tot de zaligheid vereist is. Immers, om de vergiffenis van de zonden en de genade om wel te leven van God te kunnen verhopen en verkrijgen, moeten wij 1° de barmhartigheid Gods erkennen en er kunnen op rekenen; 20 weten wat er te doen is om de vergiffenis en die genade te verwerven,
 alsmede de krachten bezitten om die middelen aan te wenden;
 3o de vereiste middelen wezenlijk gebruiken of de zonde verfoeien en het vast voornemen maken van niet meer te zondi-
 — 358 —
 
-gen. Welnu, met van Gods genade te wanhopen, verachten wij zijn barmhartigheid ; met op Gods barmhartigheid zonder deugden zich te beroemen, miskennen wij zijn rechtvaardigheid; metde welbekende waarheid te bestrijden, verstooten wij het licht dat ons de weg van de zaligheid moet tonen; met de broederlijke liefde te benijden, verwerpen wij de gratie die ons de kracht geeft om die weg te volgen; met hardnekkig te zijn in de boosheid en het berouw of de penitentie te verachten, doen wij juist het tegenovergestelde van hetgeen vereist is om zich wezenlijk te bekeren.
+gen. Welnu, met van Gods genade te wanhopen, verachten wij zijn barmhartigheid ; met op Gods barmhartigheid zonder deugden zich te beroemen, miskennen wij zijn rechtvaardigheid; metde welbekende waarheid te bestrijden, verstooten wij het licht dat ons de weg van de zaligheid moet tonen; met de broederlijke liefde te benijden, verwerpen wij de genade die ons de kracht geeft om die weg te volgen; met hardnekkig te zijn in de boosheid en het berouw of de penitentie te verachten, doen wij juist het tegenovergestelde van hetgeen vereist is om zich wezenlijk te bekeren.
 
 10. V. Waarom worden sommige zonden genoemd wraakroepende zonden?
 
@@ -2072,7 +1622,7 @@ Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Zeg wat er in ieder de
 5, Zeg, met de Catechismus, waartoe de doodzonde ons brengt
 — 360 —
 
-hier op de aarde, en na onze dood. — Leg het antwoord uit. — Hoe wordt de staat van beroving van de heiligmakende gratie met reden een schandelijke slavernij van de duivel genoemd? — Hoe bewijst men dat de doodzonde ons tot het gezegde lot brengt? — Stel geheel het verschil voor, dat tussen de dodelijke en de dagelijkse zonde bestaat.
+hier op de aarde, en na onze dood. — Leg het antwoord uit. — Hoe wordt de staat van beroving van de heiligmakende genade met reden een schandelijke slavernij van de duivel genoemd? — Hoe bewijst men dat de doodzonde ons tot het gezegde lot brengt? — Stel geheel het verschil voor, dat tussen de dodelijke en de dagelijkse zonde bestaat.
 
 6. Zeg welke zonden onder de naam van hoofdzonden enigszins kunnen komen, maar er toch niet onder verstaan worden. —
 Zeg, met de Catechismus, welke zonden onder die naam komen.
@@ -2174,9 +1724,9 @@ voorgesteld wat zij zijn, en hoe zij met de goddelijke deugden in verband staan 
 De Zeven Gaven van de H. Geest, te weten, wijsheid, verstand, raad, sterkte, wetenschap, godvruchtigheid en vreeze des Heren zijn, gelijk de zedelijke deugden, bovennatuurlijke genegenheden van de ziel tot het goed; maar térwijl genoemde deugden ons enkel genegen maken tot gewone goede werken,
 bewegen de Gaven ons tot buitengewone, uitmuntende en heldhaftige goede werken (2).
 
-De goddelijke en de zedelijke deugden, alsook de Gaven van de H. Geest staan in innig verband met de heiligmakende gratie: zij zijn er als't ware de vermogens van, gelijk het verstand en de wil de vermogens zijn van de ziel; vandaar komt het dat zij met de heiligmakende gratie ingestort, en samen met haar door de HH. Sacramenten en door de verdienstelijke werken vermeerderd worden.
+De goddelijke en de zedelijke deugden, alsook de Gaven van de H. Geest staan in innig verband met de heiligmakende genade: zij zijn er als't ware de vermogens van, gelijk het verstand en de wil de vermogens zijn van de ziel; vandaar komt het dat zij met de heiligmakende genade ingestort, en samen met haar door de HH. Sacramenten en door de verdienstelijke werken vermeerderd worden.
 
-Wat het verlies van de bovennatuurlijke deugden betreft, dat van de Liefde gaat gepaard met het verlies van de heiligmakende gratie; want de Liefde kan onmogelijk bestaan in iemand die in vijandschap met God leeft. Dan, uit het verlies van de Liefde volgt dat van al de zedelijke deugden, daar deze enkel dienen om uit te voeren hetgeen de Liefde gehiedt. Het Geloof en de Hoop gaan niet met de Liefde verloren: wij verliezen het Geloof enkel door ongelovigheid; de Hoop, door ongelovigheid en door wanhoop.
+Wat het verlies van de bovennatuurlijke deugden betreft, dat van de Liefde gaat gepaard met het verlies van de heiligmakende genade; want de Liefde kan onmogelijk bestaan in iemand die in vijandschap met God leeft. Dan, uit het verlies van de Liefde volgt dat van al de zedelijke deugden, daar deze enkel dienen om uit te voeren hetgeen de Liefde gehiedt. Het Geloof en de Hoop gaan niet met de Liefde verloren: wij verliezen het Geloof enkel door ongelovigheid; de Hoop, door ongelovigheid en door wanhoop.
 
 Nu dat de Catechismus ons de deugden heeft leren kennen, gaat hij over tot de werken waar zij ons toe genegen maken. Hij spreekt eerst en vooral van de volmaaktste dier werken, namelijk van de Evangelische Raden.
 
@@ -2187,7 +1737,7 @@ maar die nochtans van Christus aangeprezen zijn;
 (1) Zie ook Aanhangsel: « Over het verband van de Christelijke deugden » in onze Verklaring van de Mechelschen Catechismus.
 T. I, bl. 398 en vg.
 
-(2) Aanhangsel: « Over de goddelijke gratie » t. II, bl, 829, enz.
+(2) Aanhangsel: « Over de goddelijke genade » t. II, bl, 829, enz.
 — 365 —
 te weten: gewillige armoede, eeuwige zuiverheid en volkomene gehoorzaamheid.
 
@@ -2276,7 +1826,7 @@ stellen de hemelse loon op verschillende wijzen voor; iedermaal op de wijze die 
 
 7. V. Wat profijt doen ons de goede werken?
 
-A. Ten eerste, zij leggen de schulden of de penitentie af; ten tweede, zij verwerven vergiffenis van dagelijkse zonden; ten derde, zij verkrijgen de goddelijke gratie; ten vierde, zij verdienen de eeuwigen loon.
+A. Ten eerste, zij leggen de schulden of de penitentie af; ten tweede, zij verwerven vergiffenis van dagelijkse zonden; ten derde, zij verkrijgen de goddelijke genade; ten vierde, zij verdienen de eeuwigen loon.
 — 369 —
 
 V. Wat goede werken zijn, hebben wij in de 14 les. v‚ 3,
@@ -2288,37 +1838,37 @@ Ten eerste, zij leggen de schulden of de penitentie af: zij nemen weg, of ten mi
 
 Ten tweede, zij verwerven vergiffenis van dagelijkse zonden. (14e les, a. 8.)
 
-Ten derde, zij verkrijgen de goddelijke gratie: zijn zij van een zondaar gedaan, zij bewegen God om hem de gratie van bekeering te vergunnen, en gaan zij bij hem met een volmaakte liefde tot God of met een volmaakt berouw gepaard, zij bekomen hem de vergiffenis van zijn doodzonden en de heiligmakende gratie; zijn zij integendeel van een rechtvaardige gedaan, zij verdienen vermeerdering van de heiligmakende gratie en recht tot dadelijke gratiën.
+Ten derde, zij verkrijgen de goddelijke genade: zijn zij van een zondaar gedaan, zij bewegen God om hem de genade van bekeering te vergunnen, en gaan zij bij hem met een volmaakte liefde tot God of met een volmaakt berouw gepaard, zij bekomen hem de vergiffenis van zijn doodzonden en de heiligmakende genade; zijn zij integendeel van een rechtvaardige gedaan, zij verdienen vermeerdering van de heiligmakende genade en recht tot dadelijke genaden.
 
-Ten vierde, zij verdienen de eeuwigen loon: het geluk van de hemel, eu dat in de mate van de heiligmakende gratie die men bezit.
+Ten vierde, zij verdienen de eeuwigen loon: het geluk van de hemel, eu dat in de mate van de heiligmakende genade die men bezit.
 
-Om ons deze profijten te doen, moeten de goede werken geschieden: 1° in staat van gratie, behalve waar het de gunst tot bekeering geldt, of de vergiffenis van de zonden: wie in vijandschap met God leeft, kan immers op gener wijze de andere voordelen verwerven; — 29 om een reden die het Geloof aangaat; anders verstaat men niet hoe zij bovennatuurlijk zouden wezen (14e les, a, 8, letter B). De gelovigen,
+Om ons deze profijten te doen, moeten de goede werken geschieden: 1° in staat van genade, behalve waar het de gunst tot bekeering geldt, of de vergiffenis van de zonden: wie in vijandschap met God leeft, kan immers op gener wijze de andere voordelen verwerven; — 29 om een reden die het Geloof aangaat; anders verstaat men niet hoe zij bovennatuurlijk zouden wezen (14e les, a, 8, letter B). De gelovigen,
 die een godsdienstig einde voor ogen hebben, handelen meest altijd uit Geloof, daar hun hele godsdienstige kennis ontleend is aan de Catechismus, die het kort begrip is van het Geloof.
 
 8. V. Is God ons iets schuldig voor onze goede werken?
 
 A. Volgens zijn belofte is Hij ons schuldig de eeuwigen loon en de glorie van de hemel.
 
-V.‚Is God wit rechtvaardigheid gehouden, ons voor onze goede werken al die profijten of enige daarvan te geven;
+V.‚Is God uit rechtvaardigheid gehouden, ons voor onze goede werken al die profijten of enige daarvan te geven;
 — 310 —
 
-ofwel is Hij daartoe slechts wit betamelijkheid, ofwel in
+ofwel is Hij daartoe slechts uit betamelijkheid, ofwel in
 “geheel niet verplicht?
 
-A. Volgens (wegens) zijn belofte, die Hij in zijn Openbaring gedaan heeft en die schuld maakt, is Hij ons uit rechtvaardigheid schuldig de eeuwigen loon en de glorie van de hemel, alsook de vermeerdering van de heiligmakende gratie, daar deze de middel is om de glorie van de hemel te bekomen. Zonder zijn belofte moest God ons wel enige bovennatuurlijken loon vergunnen, maar niet het overgroot geluk van de hemel. De overige profijten hierboven gemeld en andere geestelijke goederen kunnen onze goede werken slechts uit betamelijkheid verdienen, of enkel door hun smekende en voldoende kracht verwerven.
+A. Volgens (wegens) zijn belofte, die Hij in zijn Openbaring gedaan heeft en die schuld maakt, is Hij ons uit rechtvaardigheid schuldig de eeuwigen loon en de glorie van de hemel, alsook de vermeerdering van de heiligmakende genade, daar deze de middel is om de glorie van de hemel te bekomen. Zonder zijn belofte moest God ons wel enige bovennatuurlijken loon vergunnen, maar niet het overgroot geluk van de hemel. De overige profijten hierboven gemeld en andere geestelijke goederen kunnen onze goede werken slechts uit betamelijkheid verdienen, of enkel door hun smekende en voldoende kracht verwerven.
 
 9. V. Waaruit hebben onze werken de kracht om de hemel te verdienen?
 
 A. Uit de verdiensten van Jezus Christus en de goddelijke beloften.
 
-V. Hebben onze goede werken die in staat van gratie en geest van Geloof gedaan zijn, de kracht om de hemel te verdienen uit hun eigen zelf, uit de waardigheid van de menselijke natuur, ofwel uit een andere oorzaak, en zo ja, uit welke? — Men merke hier aan, dat de waardigheid die een goed werk, ter iemands eer gedaan, bezit om loon te ontvangen, verdienstelijkheid genoemd wordt; en dat gen goed werk op twee manieren verdienstelijk kan wezen, namelijk: uit rechtvaardigheid of uit betamelijkheid, volgens dat de rechtvaardigheid of slechts de betamelijkheid vereist, dat de loon worde gegeven.
+V. Hebben onze goede werken die in staat van genade en geest van Geloof gedaan zijn, de kracht om de hemel te verdienen uit hun eigen zelf, uit de waardigheid van de menselijke natuur, ofwel uit een andere oorzaak, en zo ja, uit welke? — Men merke hier aan, dat de waardigheid die een goed werk, ter iemands eer gedaan, bezit om loon te ontvangen, verdienstelijkheid genoemd wordt; en dat gen goed werk op twee manieren verdienstelijk kan wezen, namelijk: uit rechtvaardigheid of uit betamelijkheid, volgens dat de rechtvaardigheid of slechts de betamelijkheid vereist, dat de loon worde gegeven.
 
 A. Zij hebben die kracht 1° uit de verdiensten van Jezus Christus, waardoor wij de bovennatuurlijke hoedanigheden en krachten krijgen die onze goede werken van een bovennatuurlijken loon waardig maken; 2° uit de goddelijke beloften, die bepalen tot welke bovennatuurlijken loon wij recht hebben. Zonder Jezus’ verdiensten zouden onze goede werken geenszins een bovennatuurlijken loon verdienen; zonder de goddelijke beloften zouden zij niet specifiek de hemel verdienen (À. 8). Wanneer een van deze twee
 — 3 —
 
-voorwaarden ontbreekt, kan er geen verdienste uit rechtvaardigheid bestaan, maar wel nog verdienste uit betamelijkheid zijn, en deze zal zelfs onfeilbaar wezen, indien er voor het verdienstelijk werk een goddelijke belofte bestaat: niemand kan b.v. uit rechtvaardigheid de vergiffenis van zijn doodzonden verdienen; want de werken van een mens die de vijand van God is, kunnen geen recht geven op goddelijken loon, maar, heeft men door de gratie Gods een volmaakt berouw verwekt en zich zo van de staat van doodzonde hekeerd, dan verdient men uit betamelijkheid vergiffenis van zijn zonden, en men zal die onfeilbaar bekomen, daar God ze voor zulk werk beloofd heeft,
+voorwaarden ontbreekt, kan er geen verdienste uit rechtvaardigheid bestaan, maar wel nog verdienste uit betamelijkheid zijn, en deze zal zelfs onfeilbaar wezen, indien er voor het verdienstelijk werk een goddelijke belofte bestaat: niemand kan b.v. uit rechtvaardigheid de vergiffenis van zijn doodzonden verdienen; want de werken van een mens die de vijand van God is, kunnen geen recht geven op goddelijken loon, maar, heeft men door de genade Gods een volmaakt berouw verwekt en zich zo van de staat van doodzonde bekeerd, dan verdient men uit betamelijkheid vergiffenis van zijn zonden, en men zal die onfeilbaar bekomen, daar God ze voor zulk werk beloofd heeft,
 
-Met goede werken te doen voor de naaste kunnen wij voor hem dezelfde goederen verdienen als voor ons zelf, maar enkel uit betamelijkheid, vermits God ons desaangaande geen belofte gedaan heeft. Wij kunnen Hem zelfs op die wijze de eerste gratie verdienen, hetgeen wij voor ons zelf niet vermogen, daar onze natuurlijke werken de kracht niet hebben om een bovennatuurlijken loon te verwerven. Het spreekt vanzelf dat wij de anderen ook door de smekende en door de voldoende kracht van onze goede werken ter hulpe kunnen komen.
+Met goede werken te doen voor de naaste kunnen wij voor hem dezelfde goederen verdienen als voor ons zelf, maar enkel uit betamelijkheid, vermits God ons desaangaande geen belofte gedaan heeft. Wij kunnen Hem zelfs op die wijze de eerste genade verdienen, hetgeen wij voor ons zelf niet vermogen, daar onze natuurlijke werken de kracht niet hebben om een bovennatuurlijken loon te verwerven. Het spreekt vanzelf dat wij de anderen ook door de smekende en door de voldoende kracht van onze goede werken ter hulpe kunnen komen.
 
 10. V. Welkezijnde Vruchten van de Heilige Geest?
 
@@ -2328,7 +1878,7 @@ verduldigheid, goedertierenheid, goedheid, lankmoedigheid, zachtmoedigheid, getr
 zeegbaarheid, eerbaarheid, reinigheid.
 
 V. Om reden van hun overeenkomsten met de vruchten van de boom, heet men Vruchten van de H. Geest de goede werken welke de laatste voortbrengselen zijn van de hele werken van de H. Geest in onze ziel, en die tevens,
-omdat zij het slot zijn van een hele werking, een zekere zoetigheid en aangenaamheid hebben en een klaar bewijs geven van inwendige vruchtbaarheid. Men zegt vruchten niet van God, maar van de H. Geest, omdat de gratie die onze
+omdat zij het slot zijn van een hele werking, een zekere zoetigheid en aangenaamheid hebben en een klaar bewijs geven van inwendige vruchtbaarheid. Men zegt vruchten niet van God, maar van de H. Geest, omdat de genade die onze
 — 372 —
 
 ziel vruchtbaar maakt, alhoewel zij van de drie Goddelijke Personen gegeven wordt, toch de H. Geest bijzonder wordt toegeschreven.
@@ -2349,7 +1899,7 @@ om hoeveel en om welke redenen deze deugden zo genoemd
 — 313 —
 
 worden. — Leg ze uit. — Onder welk opzicht zijn zij dus goddelijk?
-— Welke zijn de ingestorte zedelijke hoofddeugden? — Waarom worden zij sedelijke deugden genoemd? — Hoe verschillen zij van de goddelijke deugden? — Hoe zijn zij met de goddelijke deugden verbonden? — Hoe zijn de bovennatuurlijke deugden met de heiligmakende gratie verbonden? — Hoe worden zij ontvangen en vermeerderd, en waarom? — Hoe worden zij verloren?
+— Welke zijn de ingestorte zedelijke hoofddeugden? — Waarom worden zij sedelijke deugden genoemd? — Hoe verschillen zij van de goddelijke deugden? — Hoe zijn zij met de goddelijke deugden verbonden? — Hoe zijn de bovennatuurlijke deugden met de heiligmakende genade verbonden? — Hoe worden zij ontvangen en vermeerderd, en waarom? — Hoe worden zij verloren?
 
 3. Zeg, met de Catechismus, tot welke algemene klasse van zaken de Evangelische Raden behoren. — Leg het antwoord uit.
 — Wat is er, volgens de Catechismus, eigen aan? — Leg de woorden van de Catechismus uit. — Geef rekenschap van de naam Evangelische Raden. — Noem de Evangelische Raden. —
@@ -2531,7 +2081,7 @@ bij het zien van de grafsteden van hun broeders, natuurlijk opgewekt worden om v
 Ten tweede, omdat zij deelachtig worden van de kerkelijke gebeden en de Missen die daar geschieden,
 aangezien al die gebeden en Missen altijd een bijzondere smeeking bevatten voor de overledenen, welke smeeking voorzeker eerst en vooral geldt voor degenen die daar begraven liggen.
 
-Ten derde, omdat zij geholpen worden door de gebeden van de Heiligen die daar geëerd worden; want het ie natuurlijk dat die Heiligen de aldaar hegraven afgestorvenen rechtstreeks door hun gebeden helpen, en ook dat zij aan de levenden de gratie bekomen om er veel voor te bidden.
+Ten derde, omdat zij geholpen worden door de gebeden van de Heiligen die daar geëerd worden; want het ie natuurlijk dat die Heiligen de aldaar hegraven afgestorvenen rechtstreeks door hun gebeden helpen, en ook dat zij aan de levenden de genade bekomen om er veel voor te bidden.
 
 Ten vierde, omdat zij deelachtig worden van de zegening van de plaatsen: omdat de gebeden die in de wijding van de kerken of kerkhoven voor hen gestort zijn, hun toegepast worden,
 — 381 —
@@ -2546,7 +2096,7 @@ A. De geestelijke werken van barmhartigheid zijn deze zeven:
 
 2. De onwetenden leren: die in het Geloof niet genoeg onderwezen zijn, aanleren wat zij moeten weten of doen om zalig te worden.
 
-3. Voor de zaligheid van de naaste bidden: voor de naaste van God vragen al wat hem ter zaligheid kan dienstig zijn, zoals vergiffenis van zijn zonden, gratie om wel te leven,
+3. Voor de zaligheid van de naaste bidden: voor de naaste van God vragen al wat hem ter zaligheid kan dienstig zijn, zoals vergiffenis van zijn zonden, genade om wel te leven,
 kwijtschelding van de tijdelijke pijnen, enz.
 
 4. De twijfelachtigen goeden raad geven: wien, om de zonde te vluchten, om het goed te doen, om een staat te kiezen, goede raad nodig of nuttig is, door goeden raad hulp bieden.
@@ -2696,13 +2246,13 @@ geborchte van de hel, waar de kinderen die vóór de jaren van verstand zonder D
 
 A. De Dood en het Oordeel aan alle mensen;
 de Hel aan degenen die in doodzonde sterven;
-de Hemelsche Glorie aan degenen die sterven in Gods gratie.
+de Hemelsche Glorie aan degenen die sterven in Gods genade.
 
 V. Komen deze Vier Uitersten alle of slechts enige mensen over?
 
 A. De dood, gelijk de ondervinding het getuigt; en het.
 Oordeel, zowel het Bijzonder als het Algemeen, komen toe aan alle mensen zonder uitzondering ; nochtans twijfelen enige godgeleerden, of de mensen die op het einde van de wereld zullen leven, de Dood zullen ondergaan (10e les, v. 7);
-de eigenlijke Hel aan degenen die in dadelijke doodzonde, en het voorgeborchte er van aan die vóór de jaren van verstand zonder Doopsel sterven ; — de Hemelsche Glorie aan degenen die in Gods gratie zó sterven, dat zij niets meer te betalen of te zuiveren hebben, en het vagevuur aan degenen die alleen met dagelijkse zonden of last van tijdelijke pijnen verscheiden. (15e les.)
+de eigenlijke Hel aan degenen die in dadelijke doodzonde, en het voorgeborchte er van aan die vóór de jaren van verstand zonder Doopsel sterven ; — de Hemelsche Glorie aan degenen die in Gods genade zó sterven, dat zij niets meer te betalen of te zuiveren hebben, en het vagevuur aan degenen die alleen met dagelijkse zonden of last van tijdelijke pijnen verscheiden. (15e les.)
 
 4. V. Wat is er van de Dood te geloven?
 
@@ -2786,7 +2336,7 @@ A. Neen; maar elk zal hebben naar zijn verdiensten.
 
 V, In glorie: in het hemels geluk van God te aanschouwen en in Hem alle goed te genieten.
 
-A. Neen, zij zullen niet allen even volmaakt het hemels geluk genieten; maar elk zal hebben — naar zijn verdiensten: volgens de hoeveelheid en de waarde van de goede werken die hij in zijn leven zal gedaan, of volgens de graad van heiligmakende gratie die hij op het uur van zijn dood zal bereikt hebben; deze immers beantwoordt altijd aan onze verdiensten. De rechtvaardigheid en de wijsheid Gods vereisen zulk verschil in glorie, en dat zal de Heiligen die minder ontvangen hebben, niet bedroeven, omdat zij allen ten uiterste aan Gods wil zullen onderworpen zijn.
+A. Neen, zij zullen niet allen even volmaakt het hemels geluk genieten; maar elk zal hebben — naar zijn verdiensten: volgens de hoeveelheid en de waarde van de goede werken die hij in zijn leven zal gedaan, of volgens de graad van heiligmakende genade die hij op het uur van zijn dood zal bereikt hebben; deze immers beantwoordt altijd aan onze verdiensten. De rechtvaardigheid en de wijsheid Gods vereisen zulk verschil in glorie, en dat zal de Heiligen die minder ontvangen hebben, niet bedroeven, omdat zij allen ten uiterste aan Gods wil zullen onderworpen zijn.
 — 392 —
 
 9. V. Wat zullen de Zaligen behalve het opperste goed nog hebben?

@@ -319,5 +319,11 @@
 :%s/gratiën/genaden/g
 :%s/afwassching/reiniging/g
 :%s/wassching/reiniging/g
+:%s/doopeling/dopeling/g
+:%s/betooning/betoning/g
+:%s/doopen/dopen/g
+:%s/formuul/formule/g
+:%s/vormling/vormeling/g
+:%s/alle beide/allebei/g
 :%s/gratie/genade/g
 
