@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://mechelse.gelovenleren.net/sitemap.xml
+Sitemap: https://mechelse.gelovenleren.net/sitemap.xml
