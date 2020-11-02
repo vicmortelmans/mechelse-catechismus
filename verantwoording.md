@@ -69,9 +69,9 @@ De aantekeningen bevatten tientallen verwijzingen naar hoofdstukken uit een ande
 # Persoonlijke aantekeningen
 
 <span class=marginnote>
-  <a href="https://www.andreasboel.be/normal/index.php/diplomajaren/onderwijzers/klas-1931-t-m-1940/306-klas-1937" target="_blank"><img src="resources/cyriel-houben-1937.jpg"></a>
-  <em>Cyriel Houben, afgestudeerd aan de normaalshool van Sint-Niklaas in 1937</em>
+  <img src="resources/cyriel-houben-1937.jpg">
+  <em>Cyriel Houben, afgestudeerd aan de normaalschool van Sint-Niklaas in 1937</em>
 </span>
-Persoonlijke aantekeningen zijn er nauwelijks te vinden. Dat is wel jammer, want mijn grootvader stierf toen ik nog jong was, dus erg goed heb ik hem nooit gekend. Mijn moeder zegt 'dat hij niet graag op het internaat zat' (anecdote: zijn moeder kreeg tijdens zijn verblijf in Sint-Niklaas een derde kind --- eigenlijk zelfs een tweeling, maar één van de kinderen stierf kort na de geboorte --- waarmee hij bij zijn thuiskomst verrast werd). Misschien is dat te merken uit de aantekeningen bij de laatste lessen in 1937, die hij dateerde alsof hij aan het aftellen was, en een triomfantelijk "Einde IVᵉ jaar" bij de laatste les. Op de groepsfoto bij het afstuderen is hij de enige die niet in de camera kijkt... Toch zou hij nog een mooie carrière afleggen als onderwijzer in de gemeentelijke jongensschool van Wommelgem, waar hij graag in het eerste studiejaar les gaf en sinds 1964 hoofdonderwijzer was tot aan zijn pensioen.
+Persoonlijke aantekeningen zijn er nauwelijks te vinden. Dat is wel jammer, want mijn grootvader stierf toen ik nog jong was, dus erg goed heb ik hem nooit gekend. Mijn moeder zegt 'dat hij niet graag op het internaat zat' (anecdote: zijn moeder kreeg tijdens zijn verblijf in Sint-Niklaas een derde kind --- eigenlijk zelfs een tweeling, maar één van de kinderen stierf kort na de geboorte --- waarmee hij bij zijn thuiskomst verrast werd). Misschien is dat te merken uit de aantekeningen bij de laatste lessen in 1937, die hij dateerde alsof hij aan het aftellen was, en een triomfantelijk "Einde IVᵉ jaar" bij de laatste les. Op de [groepsfoto bij het afstuderen](https://www.andreasboel.be/normal/index.php/diplomajaren/onderwijzers/klas-1931-t-m-1940/306-klas-1937) is hij de enige die niet in de camera kijkt... Toch zou hij nog een mooie carrière afleggen als onderwijzer in de gemeentelijke jongensschool van Wommelgem, waar hij graag in het eerste studiejaar les gaf en sinds 1964 hoofdonderwijzer was tot aan zijn pensioen.
 
 A. M. D. G.
