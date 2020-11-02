@@ -13,7 +13,7 @@ copy_cname:
 	cp CNAME docs
 
 copy_sitemap:
-	cp sitemap.xml docs
+	cp sitemap.xml robots.txt docs
 
 docs/%.html: %.md
 	pandoc -s -c resources/tufte.css -c resources/mc.css --template=template.html -f markdown -t html5 -o $@ $<
