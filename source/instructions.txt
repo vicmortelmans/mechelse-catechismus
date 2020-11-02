@@ -316,3 +316,8 @@
 :%s/waarachtiglijk/waarachtig/g
 :%s/geëten/gegeten/g
 :%s/daagsch/daags/g
+:%s/gratiën/genaden/g
+:%s/afwassching/reiniging/g
+:%s/wassching/reiniging/g
+:%s/gratie/genade/g
+
