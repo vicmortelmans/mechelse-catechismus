@@ -6,7 +6,7 @@ title: TAFEL
 a { background: none !important; } /* remove underline */
 </style>
 
-<iframe class="searchbox" src="https://duckduckgo.com/search.html?site=mechelse.gelovenleren.net&prefill=Zoeken&bgcolor=fffff8" style="overflow:hidden;margin:0;padding:0;height:40px;" frameborder="0"></iframe>
+<iframe class="searchbox" src="https://duckduckgo.com/search.html?site=mechelse.gelovenleren.net&prefill=Zoeken&bgcolor=fffff8&k1=-1&kt=g&ka=g&kae=r&k7=%23fffff8&kj=%23fffff8&kx=e&kac=-1&kl=be-nl" style="overflow:hidden;margin:0;padding:0;height:40px;" frameborder="0"></iframe>
 
 ## EERSTE DEEL
 
