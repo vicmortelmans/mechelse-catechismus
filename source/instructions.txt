@@ -326,4 +326,5 @@
 :%s/vormling/vormeling/g
 :%s/alle beide/allebei/g
 :%s/gratie/genade/g
-
+:%s/neerstig/naarstig/g
+:%s/bijkans/bijna/g
