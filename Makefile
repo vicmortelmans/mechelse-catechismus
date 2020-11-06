@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 SOURCES = $(wildcard *.md)
 HTMLs = $(patsubst %.md,docs/%.html,$(SOURCES))
 
@@ -16,6 +18,7 @@ copy_sitemap:
 	cp sitemap.xml robots.txt docs
 
 docs/%.html: %.md
+	echo $*
 	pandoc -s -c resources/tufte.css -c resources/mc.css --template=template.html -f markdown -t html5 -o $@ $<
 
 clean: 
