@@ -29,5 +29,15 @@ docs/%.html: %.md
 	  -t html5 \
 	  -o $@ $<
 
+book:
+	awk -f merge.awk *.md | pandoc -s \
+	  -c resources/tufte.css \
+	  -c resources/mc.css \
+	  -c resources/mc-print.css \
+	  -f markdown \
+	  -t html5 \
+	  --pdf-engine=wkhtmltopdf \
+	  -o mechelse_catechismus.pdf
+
 clean: 
 	rm -rf docs
