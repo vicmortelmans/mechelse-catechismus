@@ -35,9 +35,12 @@ book:
 	  -c resources/mc.css \
 	  -c resources/mc-print.css \
 	  -f markdown \
-	  -t html5 \
-	  --pdf-engine=wkhtmltopdf \
-	  -o mechelse_catechismus.pdf
+	  -t html5 | wkhtmltopdf \
+	  --enable-local-file-access \
+	  -T 20 -R 10 -B 30 -L 10 \
+	  test.html --footer-center [page] --footer-font-name ETBembo --footer-spacing 10 \
+	  toc --xsl-style-sheet toc.xsl \
+	  mechelse-catechismus.pdf
 
 clean: 
 	rm -rf docs

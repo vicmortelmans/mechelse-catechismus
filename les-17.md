@@ -261,7 +261,5 @@ Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — H
 
 12. Wat is een bekoring? — Lokt God ons soms wezenlijk tot het kwaad aan? — In welke gevallen wordt God, volgens de Catechismus, gezegd ons in de bekoring te leiden? — Leg die gevallen uit. — Wat vragen wij dan als wij zeggen: *leid ons niet in bekoring?* — Welke plaats bekleedt deze vraag in de Onze Vader?
 
-13. Wat verzoeken wij, volgens de Catechismus, in de laatste vraag van de Onze Vader? — Leg de woorden van de Catechismus uit. — Geef de zin van het woordje maar van de laatste vraag. — Wat is er eigenlijk te verstaan door de woorden: *van de kwade?*
-
-Toon hoe de Onze Vader wezenlijk begrijpt al wat wij zouden kunnen begeren.
+13. Wat verzoeken wij, volgens de Catechismus, in de laatste vraag van de Onze Vader? — Leg de woorden van de Catechismus uit. — Geef de zin van het woordje maar van de laatste vraag. — Wat is er eigenlijk te verstaan door de woorden: *van de kwade?* — Toon hoe de Onze Vader wezenlijk begrijpt al wat wij zouden kunnen begeren.
 
