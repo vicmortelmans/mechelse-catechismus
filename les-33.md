@@ -49,6 +49,7 @@ subtitle: Van het Heilig Sacrificie van de Mis
 
 <span class=marginnote>
   <img src="resources/3300a.jpg">
+  <em></em>
   <img src="resources/3300b.jpg">
   <img src="resources/3300c.jpg">
   <img src="resources/3301a.jpg">
