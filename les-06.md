@@ -134,7 +134,7 @@ A. De Engelen hebben plichten jegens God en jegens de mensen:
 
 2° *Jegens de mensen:* zij moeten hun **behulpig wezen:** hun tot hun geluk dienst bewijzen met hen bij te staan in de gevaren van het lichaam en in de kwellingen van de ziel, met voor hen te bidden, met hen te vermanen.
 
-Beide soorten van plichten zijn nauw met elkander verbonden: God immers heeft de mensen tot zijn kinderen aangenomen en beraint ze als zulke; bijgevolg is het onmogelijk Hem te beminnen zonder ook liefde te hebben voor de mensen: wie immers een vader bemint, moet ook diens kinderen beminnen.
+Beide soorten van plichten zijn nauw met elkander verbonden: God immers heeft de mensen tot zijn kinderen aangenomen en bemint ze als zulke; bijgevolg is het onmogelijk Hem te beminnen zonder ook liefde te hebben voor de mensen: wie immers een vader bemint, moet ook diens kinderen beminnen.
 
 # Zijn er Engelen die ons bewaren?
 

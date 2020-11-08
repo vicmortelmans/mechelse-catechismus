@@ -56,7 +56,7 @@ Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten 
   <img src="resources/2302a.jpg">
   <em>Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven.</em>
   <img src="resources/2302b.jpg">
-  <em>Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te ge bruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
+  <em>Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te gebruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
 </span>
 V. **Blasphemie** betekent letterlijk *kwaadsprekerij;* **blasfemeren** is *kwaad van iemand zeggen.*
 

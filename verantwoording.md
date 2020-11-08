@@ -60,7 +60,21 @@ Het zijn twee kanten van de slinger. Het quasi-wetenchappelijke positivisme waar
 
 # Tips voor onderwijzers
 
-In zijn aantekeningen noteerde mijn grootvader tips die de docenten gaven voor de onderwijzers in spe. 
+In zijn aantekeningen noteerde mijn grootvader tips die de docenten gaven voor de onderwijzers in spe. Een bloemlezing:
+
+- Hoe zal de onderwijzer de godsvrucht tot Maria bij de kinderen inprenten? 1° Dikwijls de gebedsintentie tot Maria aanbevelen; 2° De devotie van de 3 weesgegroeten onder de kinderen verspreiden om de zuiverheid door Maria te bewaren of te bekomen. ([les 19](les-29.html))
+- Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven. ([les 23](les-23.html))
+- Wat vooral het werk van de opvoeder uitmaakt, is de kinderen vormen tot kuisheid. Dus positief werk leveren. Het kwaad van de onkuisheid voor ogen stellen met de schoonheid van de kuisheid te doen begrijpen. ([les 25](les-25.html))
+- [Over de biecht] Als onderwijzer moet g'ervoor zorgen dat de kinderen een volmaakt berouw kunnen verwekken. ([les 34](les-34.html))
+- Bid dikwijls met de kinderen voor de stervenden of berechten. ([les 35](les-35.html))
+- Welk geluk voor een onderwijzer het zijne te hebben bijgebracht tot het ontluiken of instandhouden van een priesterroeping. ([les 35](les-35.html))
+
+Anderzijds diende de onderwijzer ook in zijn persoonlijk leven het voorbeeld te vervullen:
+
+- Zo bedrijft ook de onderwijzer een zonde van onrechtvaardigheid, wanneer hij zijn ambtsplichten verwaarloost. ([les 26](les-26.html))
+- Liegen [is een] sociaal kwaad bij de onderwijzer. Als men hem eens betrapt op een leugen, dan liegt hij altijd. ([les 26](les-26.html))
+- Wij moeten immers de H. mis meeleven en beleven. [...] Wij houden eraan dit bijzonder voor te schrijven aan de opvoeder van onze jeugd en voor zijn eigen geestelijk leven en tot voorbeeld van diegenen die hem zullen toevertrouwd worden. ([les 27](les-27.html))
+- [Over deelname aan de eucharistie] Ja, praktisch leven van de onderwijzer meer dan van wie ook moet doordrongen zijn van die leer. Mocht hij zijn edel werk beginnen met Gods zegen afgesmeekt te hebben over hem en zijn kinderen. ([les 33](les-33.html))
 
 # Oecumene
 
