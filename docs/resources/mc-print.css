@@ -1,0 +1,47 @@
+body {
+  background-color: #ffffff;
+}
+section > h1, section > h2, header, footer, .searchbox {
+  width: 100%;
+}
+h1, h2 {
+  page-break-before: always;
+  width: 100%;
+}
+h4 {
+  font-size: 2rem;
+  font-style: italic;
+  letter-spacing: 0.03125em;
+  page-break-inside: avoid;
+}
+h4::after, h5::after { /* hack from https://stackoverflow.com/a/53742871/591336 */
+  content: "";
+  display: block;
+  height: 100px;
+  margin-bottom: -100px;
+}
+h5 {
+  font-size: 2rem;
+  font-style: normal;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  letter-spacing: 0.03125em;
+}
+h6 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.7rem;
+  margin-top: 2rem;
+  margin-bottom: 1.4rem;
+  line-height: 1;
+}
+td.accolade {
+  width: 0px; /* padding will fix it */
+  background-image: url(accolade.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+a:link, .tufte-underline, .hover-tufte-underline:hover {
+  background: none;
+  text-shadow: none;
+}
