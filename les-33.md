@@ -49,11 +49,15 @@ subtitle: Van het Heilig Sacrificie van de Mis
 
 <span class=marginnote>
   <img src="resources/3300a.jpg">
-  <em></em>
+  <em>Het offer in 't algemeen. De natuurwet leert, dat de mens aan ieder moet geven wat hem toekomt, door het geloof en de rede weten we dat de mens tegenover God staat als schepsel tegenover Schepper. En uit de geschiedenis van het menselijk geslacht weten we dat de mens tegeonver God staat als beledigende tegenover beledigde. Reeds uit die eerste betrekking vloeit de plicht van erkenning, m.a.w. de Gods-dienst, de eredienst. Welnu het uiterlijk en sociaal teken van de eredienst is het sacrificie, heilig offer.</em>
   <img src="resources/3300b.jpg">
+  <em>Gebed, onderricht, menselijk offer, goddelijk offer, Hemels gastmaal --- *mijn gave wordt Gods gave*</em>
   <img src="resources/3300c.jpg">
+  <em>Mis der gelovigen --- Mis der catechumenen</em>
   <img src="resources/3301a.jpg">
+  <em>De Heilige Mis is de hernieuwing van het sacrificie van Calvarie. Hoe? 1. De aard van de Heilige mis toont ons dat wij hier inderdaad staan voor het hernieuwde sacrificie. Het is zeker waar: het bloedig sacrificie greep maar éénmaal plaats en wel op Calvarie. Doch Christus blijft priester en offer in eeuwigheid. Door de consecratie van de Heilige mis wordt Christus op onze altaren gebracht in zijn hoedanigheid van eeuwige slachtofferande. In de mis gebeurt dus de opdracht aan God van die slachtofferande die eens, voor altijd en slechts eenmaal bloedig aan God werd opgedragen op Calvarieberg (5 wonden die Christus behouden heeft als slachtofferande). De mis is de sacramentele tegenwoordigstelling van het kruisoffer.<br/>2. Door de liturgie: wij zien inderdaad dat de liturgie van de Heilige mis ons gedurig naar Calvarie wijst, zie b.v. de bijzonderheden van het altaar, misgewaad, de Heilige handeling, andere ceremoniën en gebeden.<br/>De H. Mis houdt betrekking met het laatste avondmaal en Calvarie. Het altaar zou een tafel en een tombe moeten zijn.</em>
   <img src="resources/3301b.jpg">
+  <em>Wanneer wij Christus' sacrificie vergelijken in de Heilige Schrift, dan kunnen wij het voorstellen als een drama in meer dan één bedrijf. Het begint in het laatste avondmaal en als laatste bedrijf op Kalvarieberg. Uit de woorden van Christus blijkt dat dit alles een eenheid vormt. (bloed dat voor u *zal* vergoten worden). *Heel dit historisch gebeuren* wordt beleefd in de H. mis, zowel het laatste avondmaal als het heilig kruisoffer.<br/>De Heilige mis is het voornaamste sacrament, en dat blijkt door de volgende redenen: 1) innerlijke waarde: offerande en offeraar zijn oneindig, dus de eer aan God gebracht in de Heilige mis is allerhoogst en volmaakst. 2) De vier doeleinden van de offers zijn in één offer verenigd. 3) De vruchten van dit offer zijn oneindig, want het zijn de vruchten van het kruisoffer zelf.</em>
 </span>
 V. Door het woord *Mis* verstaat men gewoonlijk de hele godsdienstige oefening waarin, door de woorden van de Consecratie die de priester spreekt, het lichaam en bloed van Christus onder de gedaanten van brood en wijn tegenwoordig gesteld worden. Hier nu vraagt de Catechismus, waarin de Mis eigenlijk gelegen is: of zij alleen bestaat in de tegenwoordigstelling van het H. Sacrament, dan of zij tevens een bijzondere godsdienstige oefening bevat, zoals een gebed, een offerande, een sacrificie.
 
@@ -87,6 +91,7 @@ Het betaamde dat het Sacrificie van de Nieuwe Wet zo edel was, omdat het dienen 
 
 <span class=marginnote>
   <img src="resources/3303a.jpg">
+  <em>De Heilige Communie vraagt niet alleen voorbereiding en dankzegging, maar ze vraagt ook een goede benuttiging. Dit is dat wij gedurende de dag van en volgens onze Communie zouden leven, onze Heilige Communie zouden beleven.</em>
 </span>
 V. Welke zijn de delen van het Sacrificie van de Mis, zonder dewelke het niet zou bestaan, of ten minste niet meer volkomen zou wezen?
 
@@ -108,7 +113,9 @@ A. **Christus onze Zaligmaker** zelf, heeft ze eerst gedaan **in het Laatste Avo
 
 <span class=marginnote>
   <img src="resources/3305a.jpg">
+  <em>Drie evangelieën kunnen veel verschillen naar tijd en omstandigheden in de verschillende liturgieën, in het eigenlijk offer zijn de ceremoniën niet volstrekt nodig, in bijzondere omstandigheden wordt het toegelaten zonder ceremoniën. <br/>De offeraar van de Heilige Mis.<br/>Christus is de voornaamste offeraar. De priester is offeraar a) als dienaar van Christus, b) als afgevaardigde en bedienaar van de Heilige Kerk en als zodanig vertegenwoordigt hij ook de gelovigen, c) als primaat persoon.<br/>Het volk is medeofferaar; dit gebeurt op de volgende manier: a) op gewone wijze, d.i. in de mate dat zij verenigd zijn met de strijdende kerk, met het mystiek lichaam van Christus en dienvolgens met als de priesters die ergens op de wereld de Heilige mis opdragen, b) op bijzondere wijze: door het bijwonen van de Heilige mis, door te communiceren onder die Heilige mis, c) op gans bijzondere wijze, door de Heilige mis voor hun intenties op te dragen, door mee te helpen bij de Heilige mis of de mis te dienen.</em>
   <img src="resources/3305b.jpg">
+  <em>NOTA: de misdienaar staat de priester dichtst bij voor wat ook de algemene vruchten van de Heilige mis betreft, wij moeten het op hoge prijs stellen bij de Heilige mis te mogen helpen zo dicht bij God en de genade van de gedialogeerde Mis is een vorm van mis dienen.</em>
 </span>
 V. Van waar komen al de gebeden en godsdienstige tekenen die, boven de Consecratie en de Nutting, in de Mis gebruikt worden?
 
@@ -138,7 +145,9 @@ Behalve Christus en de priester zijn er nog offeraars, maar slechts in de oneige
 
 <span class=marginnote>
   <img src="resources/3308a.jpg">
+  <em>Het bijwonen van de Heilige mis.<br/>Verenig u met de priester. 1) Bid met hem de gebeden van Heilige mis, zo sluit ge aan met het gebed van Chritus de offeraar, met de hele Heilige Kerk, d.i. met gans de gemeenschap der heiligen. 2) Offer u op met hem te gaan, met Christus het Offerlam, d.i. onze plicht vermits Christus zich daar in onze plaats opoffert; het zal u tevens zijn een bron van genade en steun. Heel uw dag 's morgens op de pateen gelegd met al uw werk en [...] vreugde en verdriet, betekent dit het offer van uw dag, betekent dit de belofte God getrouw te blijven die dag. Zo gij dit beleeft, wordt het een steun om uw ridderlijk offer getrouw te blijven. 3) Voltrek met hem het Heilig Offer door de actieve deelname en door de Heilige communie of tenminsten geestelijke communie. <br/>Ja, praktisch leven van de onderwijzer meer dan van wie ook moet doordrongen zijn van die leer. Mocht hij zijn edel werk beginnen met Gods zegen afgesmeekt te hebben over hem en zijn kinderen.</em>
   <img src="resources/3308b.jpg">
+  <em>De mis mag niet geschieden vroeger dan een uur voor zonsopgang en ten laatste te twaalf uur. De kerk laat alleen bij grote uitzondering toe de Heilige mis 's namiddags te lezen. Te communie gaan mag men gedurende de ganse dag.</em>
 </span>
 V. De Catechismus spreekt van de vruchten van de Mis ten opzichte *van de mensen.* Ten opzichte *van God* bevat zij een allervolmaaktste aanbidding en een allerwaardigste dankzegging.
 
