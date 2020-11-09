@@ -15,7 +15,6 @@ echo '<!-- generator="Milkys Sitemap Generator, https://github.com/mcmilk/sitema
 echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 
 # print urls
-IFS=$'\r\n' GLOBIGNORE='*' command eval "OPTIONS=($(cat $0.options))"
 find . -type f -prune -name "*.md" -printf "%TY-%Tm-%Td%p\n" | \
 while read -r line; do
   DATE=${line:0:10}
