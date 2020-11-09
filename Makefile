@@ -3,7 +3,7 @@ SHELL := /bin/bash
 SOURCES = $(wildcard *.md)
 HTMLs = $(patsubst %.md,docs/%.html,$(SOURCES))
 
-all: mkdir copy_cname copy_resources copy_sitemap $(HTMLs)
+all: mkdir copy_cname copy_resources $(HTMLs) sitemap 
 
 mkdir:
 	mkdir -p docs
@@ -14,7 +14,8 @@ copy_resources:
 copy_cname:
 	cp CNAME docs
 
-copy_sitemap:
+sitemap:
+	./sitemap.sh
 	cp sitemap.xml robots.txt docs
 
 docs/%.html: %.md
