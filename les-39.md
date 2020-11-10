@@ -6,37 +6,63 @@ subtitle: Van de deugden en goede werken
 
 <table>
 <tr>
-  <td>
-
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Wat is de deugd?](#wat-is-de-deugd)
-  - [Een genegenheid van de ziel, door dewelke de mens weldoet](#een-genegenheid-van-de-ziel-door-dewelke-de-mens-weldoet)
-- [Welke heet gij goddelijke deugden?](#welke-heet-gij-goddelijke-deugden)
-  - [Deze drij: Geloof, Hoop en Liefde; zo genoemd, omdat zij van God alleen ingestort, en eigenlijk alleen met God bezig zijn](#deze-drij-geloof-hoop-en-liefde-zo-genoemd-omdat-zij-van-god-alleen-ingestort-en-eigenlijk-alleen-met-god-bezig-zijn)
-- [Wat zijn Evangelische Raden?](#wat-zijn-evangelische-raden)
-  - [Deugden, die niemand schuldig is te aanvaarden, maar die nochtans van Christus aangeprezen zijn; te weten: gewillige armoede, eeuwige zuiverheid en volkomene gehoorzaamheid](#deugden-die-niemand-schuldig-is-te-aanvaarden-maar-die-nochtans-van-christus-aangeprezen-zijn-te-weten-gewillige-armoede-eeuwige-zuiverheid-en-volkomene-gehoorzaamheid)
-- [Is het goed zichzelf tot Evangelische Raden te verbinden door beloften?](#is-het-goed-zichzelf-tot-evangelische-raden-te-verbinden-door-beloften)
-  - [Het is zeer goed, als het met rijpen raad en volle vrijheid geschiedt](#het-is-zeer-goed-als-het-met-rijpen-raad-en-volle-vrijheid-geschiedt)
-- [Welke noemt men de Acht Zaligheden?](#welke-noemt-men-de-acht-zaligheden)
-  - [Eenige goede werken, voor dewelke Christus de eeuwige zaligheid beloofd heeft](#eenige-goede-werken-voor-dewelke-christus-de-eeuwige-zaligheid-beloofd-heeft)
-- [Zeg de Acht Zaligheden](#zeg-de-acht-zaligheden)
-  - [1. Zalig zijn zij, die arm van geest zijn; want het rijk van de hemelen behoort hun toe. <br/>2. Zalig zijn de zachtmoedigen; want zij zullen de aarde bezitten. <br/>3. Zalig zijn zij, die droevig zijn; want zij zullen getroost worden. <br/>4. Zalig zijn zij, die honger en dorst hebben naar de rechtvaardigheid; want zij zullen verzadigd worden. <br/>5. Zalig zijn de barmhartigen; want zij zullen barmhartigheid verwerven. <br/>6. Zalig zijn zij, die zuiver van hart zijn; want zij zullen God zien. <br/>7. Zalig zijn de vreedzamen; want zij zullen kinderen Gods genoemd worden. <br/>8. Zalig zijn zij, die vervolging lijden om de rechtvaardigheid; want het rijk van de hemelen behoort hun toe.](#1-zalig-zijn-zij-die-arm-van-geest-zijn-want-het-rijk-van-de-hemelen-behoort-hun-toe-br2-zalig-zijn-de-zachtmoedigen-want-zij-zullen-de-aarde-bezitten-br3-zalig-zijn-zij-die-droevig-zijn-want-zij-zullen-getroost-worden-br4-zalig-zijn-zij-die-honger-en-dorst-hebben-naar-de-rechtvaardigheid-want-zij-zullen-verzadigd-worden-br5-zalig-zijn-de-barmhartigen-want-zij-zullen-barmhartigheid-verwerven-br6-zalig-zijn-zij-die-zuiver-van-hart-zijn-want-zij-zullen-god-zien-br7-zalig-zijn-de-vreedzamen-want-zij-zullen-kinderen-gods-genoemd-worden-br8-zalig-zijn-zij-die-vervolging-lijden-om-de-rechtvaardigheid-want-het-rijk-van-de-hemelen-behoort-hun-toe)
-- [Wat profijt doen ons de goede werken?](#wat-profijt-doen-ons-de-goede-werken)
-  - [Ten eerste, zij leggen de schulden of de penitentie af; ten tweede, zij verwerven vergiffenis van dagelijkse zonden; ten derde, zij verkrijgen de goddelijke genade; ten vierde, zij verdienen de eeuwigen loon](#ten-eerste-zij-leggen-de-schulden-of-de-penitentie-af-ten-tweede-zij-verwerven-vergiffenis-van-dagelijkse-zonden-ten-derde-zij-verkrijgen-de-goddelijke-genade-ten-vierde-zij-verdienen-de-eeuwigen-loon)
-- [Is God ons iets schuldig voor onze goede werken?](#is-god-ons-iets-schuldig-voor-onze-goede-werken)
-  - [Volgens zijn belofte is Hij ons schuldig de eeuwigen loon en de glorie van de hemel](#volgens-zijn-belofte-is-hij-ons-schuldig-de-eeuwigen-loon-en-de-glorie-van-de-hemel)
-- [Waaruit hebben onze werken de kracht om de hemel te verdienen?](#waaruit-hebben-onze-werken-de-kracht-om-de-hemel-te-verdienen)
-  - [Uit de verdiensten van Jezus Christus en de goddelijke beloften](#uit-de-verdiensten-van-jezus-christus-en-de-goddelijke-beloften)
-- [Welke zijn de Vruchten van de Heilige Geest?](#welke-zijn-de-vruchten-van-de-heilige-geest)
-  - [Deze twaalf, die de H. Geest, in ons komende, uitwerkt; te weten: liefde, blijdschap, vrede, verduldigheid, goedertierenheid, goedheid, lankmoedigheid, zachtmoedigheid, getrouwheid, zedigheid, eerbaarheid, zuiverheid](#deze-twaalf-die-de-h-geest-in-ons-komende-uitwerkt-te-weten-liefde-blijdschap-vrede-verduldigheid-goedertierenheid-goedheid-lankmoedigheid-zachtmoedigheid-getrouwheid-zedigheid-eerbaarheid-zuiverheid)
-    - [VRAGEN](#vragen)
+  <td rowspan=2 colspan=3>**De Deugd**</td>
+  <td rowspan=2 class=accolade></td>
+  <td colspan=2>Natuur</td>
+  <td>*[Wat is de deugd?](#wat-is-de-deugd)*</td>
+</tr>
+<tr>
+  <td colspan=2>Goddelijke deugden</td>
+  <td>*[Welke heet gij goddelijke deugden?](#welke-heet-gij-goddelijke-deugden)*</td>
+</tr>
+<tr>
+  <td rowspan=8>**Goede werken waartoe de deugd ons genegen maakt**</td>
+  <td rowspan=8 class=accolade></td>
+  <td rowspan=5>Bijzondere soorten van goede werken</td>
+  <td rowspan=5 class=accolade></td>
+  <td rowspan=2>De Evangelische Raden</td>
+  <td rowspan=2 class=accolade></td>
+  <td>*[Wat zijn Evangelische Raden?](#wat-zijn-evangelische-raden)*</td>
+</tr>
+<tr>
+  <td>*[Is het goed zichzelf tot Evangelische Raden te verbinden door beloften?](#is-het-goed-zichzelf-tot-evangelische-raden-te-verbinden-door-beloften)*</td>
+</tr>
+<tr>
+  <td rowspan=2>De Acht Zaligheden</td>
+  <td rowspan=2 class=accolade></td>
+  <td>*[Welke noemt men de Acht Zaligheden?](#welke-noemt-men-de-acht-zaligheden)*</td>
+</tr>
+<tr>
+  <td>*[Zeg de Acht Zaligheden](#zeg-de-acht-zaligheden)*</td>
+</tr>
+<tr>
+  <td colspan=2>De vruchten van de H. Geest</td>
+  <td>*[Welke zijn de Vruchten van de Heilige Geest?](#welke-zijn-de-vruchten-van-de-heilige-geest)*</td>
+</tr>
+<tr>
+  <td rowspan=3>Verdiensten van de goede werken</td>
+  <td rowspan=3 class=accolade></td>
+  <td colspan=2>Het profijt dat zij ons doen</td>
+  <td>*[Wat profijt doen ons de goede werken?](#wat-profijt-doen-ons-de-goede-werken)*</td>
+</tr>
+<tr>
+  <td colspan=2>Ons recht tot dat profijt</td>
+  <td>*[Is God ons iets schuldig voor onze goede werken?](#is-god-ons-iets-schuldig-voor-onze-goede-werken)*</td>
+</tr>
+<tr>
+  <td colspan=2>Oorsprong van de kracht van onze goede werken</td>
+  <td>*[Waaruit hebben onze werken de kracht om de hemel te verdienen?](#waaruit-hebben-onze-werken-de-kracht-om-de-hemel-te-verdienen)*</td>
+</tr>
+</table>
 
 # Wat is de deugd?
 
 ## Een genegenheid van de ziel, door dewelke de mens weldoet
 
+<span class=marginnote>
+  <img src="resources/3900a.jpg">
+  <img src="resources/3900b.jpg">
+</span>
 A. Tot een deugd zijn *drie* dingen vereist: 1° een *genegenheid,* 2° een genegenheid *van de ziel,* 3° een genegenheid van de ziel *door dewelke de mens weldoet.*
 
 De deugd is niet een daad noch een voorbijgaande gesteltenis, maar **een genegenheid:** een bijblijvende geschiktheid, niet van de ledematen van het lichaam, maar — **van de ziel:** van de vermogens van de ziel, namelijk, van het verstand, van de wil en ook van de begeerlijke zinnelijkheid voor zoveel deze aan het verstand en de wil moet onderworpen zijn ; — **door dewelke de mens,** niet enkel kan weldoen, maar — **weldoet:** wezenlijk genegen is en bereid om het goed te doen, als de gelegenheid zich aanbiedt.
@@ -51,6 +77,11 @@ De bovennatuurlijke of ingestorte deugden worden verdeeld in *goddelijke* en in 
 
 ## Deze drij: Geloof, Hoop en Liefde; zo genoemd, omdat zij van God alleen ingestort, en eigenlijk alleen met God bezig zijn
 
+<span class=marginnote>
+  <img src="resources/3902a.jpg">
+  <img src="resources/3902b.jpg">
+  <em>Wat het blijven van deze deugden betreft: geloof en hoop verdwijnen na dit leven, de liefde alleen blijft immer.</em>
+</span>
 A. **Deze drie** heet men goddelijke deugden: **Geloof, Hoop en Liefde, zo genoemd,** 1° **omdat zij,** door geen geschapene krachten aanwinlijk, **van God alleen ingestort zijn:** van God alleen kunnen ingestort worden en slechts als van Hem ingestort kunnen bestaan; God immers is er het voorwerp van, niet voor zoveel Hij door de rede, maar voor zoveel Hij door het Geloof gekend is, en zo veronderstellen zij een bovennatuurlijken oorsprong, — en 2° **omdat zij eigenlijk alleen met God bezig zijn:** omdat zij op God en op God alleen betrekking hebben; i.a.w. omdat de werken waartoe zij ons genegen maken, God in zichzelf beschouwd en God alleen voor *voorwerp* en voor *beweegreden* hebben. Het Geloof beweegt ons om in God te geloven, omdat Hij de opperste en onfaalbare waarheid is; de Hoop, om op God als op onze helper en loner te hopen, omdat Hij oneindig goed is, almachtig en getrouw in zijn beloften; de Liefde, om God en de naaste voor zoveel deze Gods schepsel en kind is, te beminnen, omdat Hij het opperste goed of de opperste volmaaktheid is. Deze drie deugden zijn dus goddelijk, zowel uit hoofde van hun voorwerp en hun beweegredenen als van hun oorsprong. Integendeel de godsdienstigheid b.v. is geen goddelijke deugd omdat zij, alhoewel God tot voorwerp hebbende, Hem toch niet in zichzelf alleen, maar in zijn betrekkingen van Schepper, Heer en Regeerder van de geschapene wezens aanschouwt. De verplichting van godsdienstig te zijn, rust niet op de natuur van God alleen, maar op de betrekkingen die tussen God en ons bestaan.
 
 *Zedelijke* deugden heet men die rechtstreeks, niet met God alleen, maar met onze *zeden* bezig zijn, of die dienen om ons gedrag jegens God, de naaste en ons zelf te regelen. Zij verschillen van de goddelijke deugden, behalve onder opzicht van hun voorwerp, ook hierin, dat zij, hoewel van God ingestort en van Hem alleen ingestort kunnende worden, toch ook op een natuurlijke wijze in de natuurlijke orde zouden kunnen bestaan, terwijl de goddelijke deugden, gelijk wij ze nu hebben, geenszins tot de natuurlijke orde kunnen behoren. Door de goddelijke deugden aanvaarden wij de dienst van God en blijven wij er in; door de zedelijke, volbrengen wij de plichten van die dienst.

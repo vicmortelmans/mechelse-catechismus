@@ -75,6 +75,7 @@ Anderzijds diende de onderwijzer ook in zijn persoonlijk leven het voorbeeld te 
 - Liegen [is een] sociaal kwaad bij de onderwijzer. Als men hem eens betrapt op een leugen, dan liegt hij altijd. ([les 26](les-26.html))
 - Wij moeten immers de H. mis meeleven en beleven. [...] Wij houden eraan dit bijzonder voor te schrijven aan de opvoeder van onze jeugd en voor zijn eigen geestelijk leven en tot voorbeeld van diegenen die hem zullen toevertrouwd worden. ([les 27](les-27.html))
 - [Over deelname aan de eucharistie] Ja, praktisch leven van de onderwijzer meer dan van wie ook moet doordrongen zijn van die leer. Mocht hij zijn edel werk beginnen met Gods zegen afgesmeekt te hebben over hem en zijn kinderen. ([les 33](les-33.html))
+- Ook de onderwijzer als opvoeder heeft grote verantwoordelijkheid tegenover de zielen die hem zijn toevertrouwd. ([les 40](les-40.html))
 
 # Oecumene
 
