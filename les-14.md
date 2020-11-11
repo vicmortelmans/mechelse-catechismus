@@ -65,13 +65,13 @@ A. **Van alle zonden,** zonder één uitzondering, **hoe groot of hoe zwaar die 
 
 ## Door het Doopsel
 
-A. De **erfzonde** ([37ᵉ les, 4ᵉ v.](TODO), [6ᵉ les, 3ᵉ v.](les-06.html#waarvan-heeft-god-de-mens-gemaakt) en [7ᵉ les, 3ᵉ v.](les-07.html#waarom-is-de-zoon-gods-mens-geworden)) wordt vergeven **door het Doopsel:** door het Sacrament van het Doopsel, dat soms kan vervangen worden door het doopsel van begeerte of door het doopsel van bloed ([30ᵉ les, 2ᵉ v.](TODO)).
+A. De **erfzonde** ([37ᵉ les, 4ᵉ v.](les-37.html#wat-is-de-erfzonde), [6ᵉ les, 3ᵉ v.](les-06.html#waarvan-heeft-god-de-mens-gemaakt) en [7ᵉ les, 3ᵉ v.](les-07.html#waarom-is-de-zoon-gods-mens-geworden)) wordt vergeven **door het Doopsel:** door het Sacrament van het Doopsel, dat soms kan vervangen worden door het doopsel van begeerte of door het doopsel van bloed ([30ᵉ les, 2ᵉ v.](les-30.html#aan-wie-is-het-doopsel-nodig)).
 
 # Hoe worden de dagelijkse zonden vergeven?
 
 ## Door leedwezen, gebeden en allerlei goede werken
 
-A. De **dagelijkse zonden** ([37ᵉ les, 6ᵉ v.](TODO)) worden vergeven door *drie* middelen:
+A. De **dagelijkse zonden** ([37ᵉ les, 6ᵉ v.](les-37.html#wat-is-de-dagelijkse-zonde)) worden vergeven door *drie* middelen:
 
 1° **Door leedwezen:** het leedwezen of het berouw bestaat in een spijt of een droefheid van God door onze zonden vergramd te hebben. Men bemerke dat het spijt *de zonden* als zonden moet betreffen en wel *onze* zonden, niet die van anderen.
 
@@ -79,7 +79,7 @@ Om tot de vergiffenis van de zonden te dienen, moet *alle* berouw A) *op een red
 
 B) *Bovennatuurlijk zijn:* door de gratie verwekt en door het Geloof verlicht zijn: bij de gelovigen wie ’t berouwt God door de zonde vergramd te hebben, is het leedwezen doorgaans door het Geloof verlicht, daar geheel hun kennis van God en van hun einde uit de Catechismus geput is; en, wanneer de mens volgens zijn Geloof handelt, dan vergunt God hem altijd de nodige dadelijke gratiën.
 
-Het berouw nu dat de twee vermelde conditiën vervult, is *onvolmaakt* of *onvolkomen,* als het op een reden van de onvolmaakte liefde, en *volmaakt* of *volkomen,* als het op de reden van de volmaakte liefde gegrond is ([20ᵉ les. v. 8.](TODO)).
+Het berouw nu dat de twee vermelde conditiën vervult, is *onvolmaakt* of *onvolkomen,* als het op een reden van de onvolmaakte liefde, en *volmaakt* of *volkomen,* als het op de reden van de volmaakte liefde gegrond is ([20ᵉ les, v. 8.](les-20.html#welk-is-het-kort-begrip-van-alles-wat-wij-om-de-liefde-te-onderhouden-moeten-doen)).
 
 Het onvolmaakt berouw is op zich zelf voldoende voor de vergiffenis van de dagelijkse zonden; het moet zich echter uitstrekken tot al de dagelijkse zonden die geheel van dezelfde soort zijn.
 
@@ -87,7 +87,7 @@ Het onvolmaakt berouw is op zich zelf voldoende voor de vergiffenis van de dagel
 
 3ᵉ **Door allerlei goede werken:** goede werken zijn: a) al de werken die wij doen om de geboden van God en van de H. Kerk te onderhouden: b) al de van God aangeprezene werken, die wij uit vrijen wil volbrengen, als bidden, vasten, almoezen doen; c) al onze dagelijkse werken, mits zij gedaan zijn om de wil of de raden Gods te volgen.
 
-De gebeden en goede werken verwerven ons vergiffenis van de dagelijkse zonden, 1° *onrechtstreeks,* met ons de gratie van een genoegzaam berouw te bekomen, en 2° *rechtstreeks,* ten minste waarschijnlijk, met ons, uit hoofde van de aangewonnen heiligmakende gratie, ([39ᵉ les, 7ᵉ v.](TODO)) te zuiveren van de dagelijkse zonden waarover wij wel eenig, doch uit zich zelf slechts onvoldoend leedwezen hebben; het is immers natuurlijk dat God, als Hij ons in inniger vriendschap aanneemt, ons die kleine zonden vergeeft, waarover wij eenig berouw gevoelen.
+De gebeden en goede werken verwerven ons vergiffenis van de dagelijkse zonden, 1° *onrechtstreeks,* met ons de gratie van een genoegzaam berouw te bekomen, en 2° *rechtstreeks,* ten minste waarschijnlijk, met ons, uit hoofde van de aangewonnen heiligmakende gratie, ([39ᵉ les, 7ᵉ v.](les-39.html#wat-profijt-doen-ons-de-goede-werken)) te zuiveren van de dagelijkse zonden waarover wij wel eenig, doch uit zich zelf slechts onvoldoend leedwezen hebben; het is immers natuurlijk dat God, als Hij ons in inniger vriendschap aanneemt, ons die kleine zonden vergeeft, waarover wij eenig berouw gevoelen.
 
 Het is klaarblijkend, dat de dagelijkse zonden nooit vergeven worden zonder de doodzonden waar men plichtig aan is, en dat de middelen, hieronder voor deze laatste zonden aangeduid, ook voor de eerste gelden.
 

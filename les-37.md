@@ -123,7 +123,7 @@ A. Zij doen ons een *drievoudig* kwaad:
 
 **Ten tweede, zij maken ons gereed tot meerderen val:** om menigvuldiger en groter zonden, zowel dodelijke als dagelijkse, te bedrijven, en dat evenzeer met de vurigheid van onze liefde te verminderen als met onze neiging tot het kwaad te vermeerderen.
 
-**Ten derde, zij verbinden ons tot tijdelijke straffen.** ([v. 6.](TODO)) Aan een volkomen zonde komt een volkomen straf, namelijk een eeuwige toe; aan een onvolkomen zonde past een onvolkomen straf, namelijk, een tijdelijke. Zulke straf ondergingen Mozes en de huisvrouw van Loth, alsook de Joden die te Bethsames de dood stierven om de ark aanschouwd te hebben.
+**Ten derde, zij verbinden ons tot tijdelijke straffen.** ([v. 6.](#wat-is-de-dagelijkse-zonde)) Aan een volkomen zonde komt een volkomen straf, namelijk een eeuwige toe; aan een onvolkomen zonde past een onvolkomen straf, namelijk, een tijdelijke. Zulke straf ondergingen Mozes en de huisvrouw van Loth, alsook de Joden die te Bethsames de dood stierven om de ark aanschouwd te hebben.
 
 # Wat zijn vreemde zonden?
 

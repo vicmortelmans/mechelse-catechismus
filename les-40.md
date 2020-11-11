@@ -164,6 +164,7 @@ Door het 2ᵉ en 4ᵉ werk helpen wij de naaste in de ellenden van het verstand;
 
 <span class=marginnote>
   <img src="resources/4008a.jpg">
+  <em>Ook de onderwijzer als opvoeder heeft grote verantwoordelijkheid tegenover de zielen die hem zijn toevertrouwd.</em>
 </span>
 V. Wie zijn eerst en vooral verplicht de zondaars te straffen en te onderwijzen?
 

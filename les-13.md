@@ -62,7 +62,7 @@ A. Het woord **mededeling** leert ons dat de gemeenschap van de Heiligen gelegen
 
 Wat hun *onderlinge gemeenschap* betreft, al de leden van de strijdende Kerk hebben met zekerheid deel in al het goed dat in die Kerk geschiedt, maar niet allen in dezelfde mate: ieder ontvangt er van volgens zijn gesteltenis.
 
-Over hun *gemeenschap met de lijdende Kerk* zal gesproken worden in de [15ᵉ les, 7ᵉ vraag](TODO), en over die met de *zegepralende Kerk,* in de volgende vraag.
+Over hun *gemeenschap met de lijdende Kerk* zal gesproken worden in de [15ᵉ les, 7ᵉ vraag](les-15.html#door-wat-middel-mogen-de-zielen-uit-het-vagevuur-verlost-of-haar-pijnen-verkort-worden), en over die met de *zegepralende Kerk,* in de volgende vraag.
 
 # Hebben wij in dit leven iets gemeens met de Heiligen in de hemel?
 

@@ -21,7 +21,7 @@ subtitle: Van het Huwelijk
   <td>*[Mag het Huwelijk van iedereen ontvangen worden en met alle mensen?](#mag-het-huwelijk-van-iedereen-ontvangen-worden-en-met-alle-mensen)*</td>
 </tr>
 <tr>
-  <td>*[Zou het Huwelijk, met deze aangegaan, immers goed wezen?](#zou-het-huwelijk-met-deze-aangegaan-immers-goed-wezen)*</td>
+  <td>*[Zou het Huwelijk, met deze aangegaan, immer goed wezen?](#zou-het-huwelijk-met-deze-aangegaan-immer-goed-wezen)*</td>
 </tr>
 <tr>
   <td>*[Wat is geestelijk maagschap?](#wat-is-geestelijk-maagschap)*</td>
@@ -104,15 +104,15 @@ A. **Neen,** het mag niet van iedereen noch met alle mensen aangegaan worden: **
 
 Onder de hier vermelde klassen van mensen met wie het Huwelijk niet mag aangegaan worden, zijn er twee die het volstrekt niet mogen aangaan, namelijk, degenen die belofte van zuiverheid gedaan hebben, en zekere geestelijke personen.
 
-Het *bloedverwantschap* bestaat tussen al degenen die door hun afkomst, hun geboorte of *bloed* verbonden zijn; het *aangetrouwd maagschap,* tussen elken echtgenoot en de bloedverwanten van zijn wederhelft. Wat het *geestelijk* maagschap is, wordt gezegd in [v. 5](TODO). Het *wettelijk* maagschap ontstaat uit het aannemen van eens anders kind tot het zijne. Daardoor wordt de aannemeling belet in huwelijk te treden, 1° met de persoon die hem heeft aangenomen, 2° met dezes echtgenoot, 3° met dezes kinderen die nog onder de vaderlijke macht staan. Insgelijks wordt de persoon die aanneemt onbekwaam het huwelijk aan te gaan 1° met de echtgenoot des aannemelings, 2° met dezes kinderen die nog aan het vaderlijk gezag onderhevig zijn.
+Het *bloedverwantschap* bestaat tussen al degenen die door hun afkomst, hun geboorte of *bloed* verbonden zijn; het *aangetrouwd maagschap,* tussen elken echtgenoot en de bloedverwanten van zijn wederhelft. Wat het *geestelijk* maagschap is, wordt gezegd in [v. 5](#zou-het-huwelijk-met-deze-aangegaan-immer-goed-wezen). Het *wettelijk* maagschap ontstaat uit het aannemen van eens anders kind tot het zijne. Daardoor wordt de aannemeling belet in huwelijk te treden, 1° met de persoon die hem heeft aangenomen, 2° met dezes echtgenoot, 3° met dezes kinderen die nog onder de vaderlijke macht staan. Insgelijks wordt de persoon die aanneemt onbekwaam het huwelijk aan te gaan 1° met de echtgenoot des aannemelings, 2° met dezes kinderen die nog aan het vaderlijk gezag onderhevig zijn.
 
-# Zou het Huwelijk, met deze aangegaan, immers goed wezen?
+# Zou het Huwelijk, met deze aangegaan, immer goed wezen?
 
 ## Met sommigen zou het van gener waarde wezen, als met geestelijke personen, of met lichamelijk maagschap tot de vierden graad, of ook met geestelijk maagschap
 
 V. **Zou het Huwelijk,** met de voornoemde klassen van personen **aangegaan, goed wezen:** geldig zijn of man en vrouw wezenlijk verbinden en genade geven?
 
-A. Niet met al die klassen, maar alleen **met sommige** daarvan — **zou het van gener waarde wezen:** zou het ongeldig zijn en bijgevolg niets teweegbrengen, **als,** onder anderen, **met geestelijke personen,** met degenen die een grote orde ontvangen hebben, **of met lichamelijk maagschap** of bloedverwantschap, *in rechte lijn*, tot alle graden en, *in de zijdelijke lijn* **tot de vierde graad;** met wettig aanverwantschap tot de vierde en met onwettig tot de tweede graad; (de Catechismus zegt enkel *tot de vierde graad,* omdat hij slechts het bijzonderste wil aanduiden), — **of ook met geestelijk maagschap.** ([v. 5.](TODO)) Het Huwelijk zou ook van gener waarde wezen met personen die in een door de H. Kerk goedgekeurde orde de plechtige belofte van zuiverheid gedaan hebben, of met ongedoopten; maar met Ketters of Schismatieken zou het geldig wezen.
+A. Niet met al die klassen, maar alleen **met sommige** daarvan — **zou het van gener waarde wezen:** zou het ongeldig zijn en bijgevolg niets teweegbrengen, **als,** onder anderen, **met geestelijke personen,** met degenen die een grote orde ontvangen hebben, **of met lichamelijk maagschap** of bloedverwantschap, *in rechte lijn*, tot alle graden en, *in de zijdelijke lijn* **tot de vierde graad;** met wettig aanverwantschap tot de vierde en met onwettig tot de tweede graad; (de Catechismus zegt enkel *tot de vierde graad,* omdat hij slechts het bijzonderste wil aanduiden), — **of ook met geestelijk maagschap.** ([v. 5.](#wat-is-geestelijk-maagschap)) Het Huwelijk zou ook van gener waarde wezen met personen die in een door de H. Kerk goedgekeurde orde de plechtige belofte van zuiverheid gedaan hebben, of met ongedoopten; maar met Ketters of Schismatieken zou het geldig wezen.
 
 Hieruit volgt dat er twee soorten van huwelijksbeletselen zijn: de ene, die het Huwelijk ongeldig, de andere, die het uitsluitend ongeoorloofd maken: zo is het Huwelijk met bloedverwanten tot de vierde graad ongeldig, terwijl dat van een Katholieke met een Ketter wel ongeoorloofd maar toch geldig is.
 

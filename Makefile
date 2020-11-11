@@ -31,19 +31,18 @@ docs/%.html: %.md
 	  -o $@ $<
 
 book:
-	awk -f merge.awk *.md | pandoc -s \
+	awk -f merge.awk index.md les*.md verantwoording.md | pandoc -s \
 	  -c resources/tufte.css \
 	  -c resources/mc.css \
 	  -c resources/mc-print.css \
 	  -f markdown \
 	  -t html5 > mechelse-catechismus.html
 	wkhtmltopdf \
-	  -T 20 -R 10 -B 30 -L 10 \
+	  -T 20 -R 10 -B 35 -L 10 \
 	  page mechelse-catechismus.html --footer-center [page] --footer-font-name ETBembo --footer-spacing 10 \
 	  --enable-local-file-access \
 	  toc --xsl-style-sheet toc.xsl \
 	  mechelse-catechismus.pdf
-	rm mechelse-catechismus.html
 
 clean: 
 	rm -rf docs

@@ -193,7 +193,7 @@ Er blijven nog drie zonden tegen het Eerste Gebod, waarvan de Catechismus geen u
 
 Behalve de ketterij, behoort nog tot de zonden van *ongelovigheid:* a) de volkomene ongelovigheid, die bestaat in het vrijwillig verwerpen van geheel de Openbaring; b) de gesprekken tegen het Geloof en het loochenen van het Geloof door handelwijze of tekenen, vanwege dezen die inwendig aan God geloven; en c) de verwaarloozing van de middelen die te gebruiken zijn om een voldoende kennis te bekomen van het Geloof dat men belijdt.
 
-De *wanhoop* bestaat in niet te willen van God verzoeken en verwachten het eeuwig leven en al wat ons daartoe helpen kan. Het tegenovergestelde van de wanhoop is de *vermetelheid,* die ons doet hopen *zonder reden,* zonder de daartoe nodige voorwaarden te willen volbrengen. ([38ᵉ les, v. 9.](TODO))
+De *wanhoop* bestaat in niet te willen van God verzoeken en verwachten het eeuwig leven en al wat ons daartoe helpen kan. Het tegenovergestelde van de wanhoop is de *vermetelheid,* die ons doet hopen *zonder reden,* zonder de daartoe nodige voorwaarden te willen volbrengen. ([38ᵉ les, v. 9.](les-38.html#welke-zijn-de-zonden-tegen-de-h-geest))
 
 De *haat van God* bestaat in Hem kwaad te willen. Deze haat is tweeërlei: de haat van *kwaadwilligheid* of van *vijandschap,* waardoor wij Hem kwaad willen, opdat Hij ongelukkig zou wezen; en de haat van *verfoeiing,* waardoor wij Hem kwaad willen, omdat wij Hem aanzien als kwaadwillig jegens ons en als daarom waardig door ons verfoeid te worden.
 

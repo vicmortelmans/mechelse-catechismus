@@ -57,11 +57,11 @@ A. Het antwoord leert ons kennen 1° de bedienaar van dit sacrament, 2° de pers
 
 1° *De bedienaar:* het vormsel is **een sacrament dat van de bisschop wordt gegeven:** de bisschoppen zijn de gewone bedienaars van het vormsel; doch ook enkele priesters kunnen en mogen het toedienen, als zij van de paus daartoe gemachtigd zijn. Christus heeft gewild dat het een zo edele bedienaar had, eensdeels, om zijn mindere noodzakelijkheid, andersdeels om de gewichtigheid van zijn uitwerksel, namelijk, van de volwassenheid in het geestelijk leven, beter te doen uitschijnen.
 
-2° *De personen voor wie het vormsel bestemd is:* het wordt gegeven **aan degenen die gedoopt zijn.** ([3ᵉ v.](TODO))
+2° *De personen voor wie het vormsel bestemd is:* het wordt gegeven **aan degenen die gedoopt zijn.** ([3ᵉ v.](#wat-is-er-van-node-tot-het-vormsel))
 
-3° *Zijn uitwendig teken:* **de zalving** die de bisschop op het voorhoofd van de vormeling doet, **en de heilige woorden** die hij ondertussen uitspreekt, te weten: « Ik teken u met het teken des H. Kruis en vorm u met het Chrisma van de zaligheid. In de naam van de Vader, en van de Zoon, en van de H. Geest. » ([5ᵉ v.](TODO))
+3° *Zijn uitwendig teken:* **de zalving** die de bisschop op het voorhoofd van de vormeling doet, **en de heilige woorden** die hij ondertussen uitspreekt, te weten: « Ik teken u met het teken des H. Kruis en vorm u met het Chrisma van de zaligheid. In de naam van de Vader, en van de Zoon, en van de H. Geest. » ([5ᵉ v.](#waarmee-bestrijkt-de-bisschop-het-voorhoofd-in-het-vormsel))
 
-4° *Zijn uitwerksel:* **genade en sterkte om het Geloof vast te belijden.** *Genade* en *sterkte* zijn hier geen twee verschillende zaken: die woorden betekenen *versterkende genade* of genade die bijzondere sterkte geeft. ([6ᵉ v.](TODO))
+4° *Zijn uitwerksel:* **genade en sterkte om het Geloof vast te belijden.** *Genade* en *sterkte* zijn hier geen twee verschillende zaken: die woorden betekenen *versterkende genade* of genade die bijzondere sterkte geeft. ([6ᵉ v.](#wat-verkrijgen-wij-door-het-vormsel))
 
 Het woord *vormsel* is zoveel als *vroomsel,* d.i. iets dat vroom, kloek of sterk maakt. Het Vormsel verdient deze naam, omdat het de mens die door het Doopsel in het geestelijk leven geboren is, tot de volwassenheid van dat leven brengt.
 

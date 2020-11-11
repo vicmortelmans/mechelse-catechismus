@@ -74,7 +74,7 @@ A. Zij is daar niet zo tegenwoordig: **in de kerken zijn maar — haar beelden:*
 
 A. De H. Maagd kan ons helpen, niet gelijk God, door eigen macht, maar op de *twee* volgende wijzen:
 
-1° **Door haar verdiensten:** door de verdienstelijke werken die zij *op deze wereld* volbracht heeft; want, sedert haar dood, kan zij niets meer verdienen. Uit die verdienstelijke werken kan ons enkel de vrucht van voldoening toegepast worden; de twee andere vruchten, namelijk die van smeeking en de vermeerdering van de heiligmakende gratie heeft de H. Maagd zelve genoten. Hare voldoeningen worden ons toegepast óf rechtstreeks op haar vraag, óf door de aflaten. ([13ᵉ les, v. 2, 3 en 4.](les-13.html#hebben-wij-in-dit-leven-iets-gemeens-met-de-heiligen-in-de-hemel) — [16ᵉ les, v. 2.](TODO))
+1° **Door haar verdiensten:** door de verdienstelijke werken die zij *op deze wereld* volbracht heeft; want, sedert haar dood, kan zij niets meer verdienen. Uit die verdienstelijke werken kan ons enkel de vrucht van voldoening toegepast worden; de twee andere vruchten, namelijk die van smeeking en de vermeerdering van de heiligmakende gratie heeft de H. Maagd zelve genoten. Hare voldoeningen worden ons toegepast óf rechtstreeks op haar vraag, óf door de aflaten. ([13ᵉ les, v. 2, 3 en 4.](les-13.html#hebben-wij-in-dit-leven-iets-gemeens-met-de-heiligen-in-de-hemel) — [16ᵉ les, v. 2.](les-16.html#welke-middelen-zijn-er-om-te-verkrijgen-hetgene-wij-hopen))
 
 2° **Door haar gebeden die zij God voor ons opdraagt:** door de samenspraken die zij met God in de hemel heeft, waarin zij van Hem allerhande gunsten voor ons vraagt. Ongetwijfeld wordt de H. Maagd veel zekerder verhoord dan al de andere Heiligen, om reden van haar bijzondere heiligheid alsmede van haar titel van Moeder Gods; haar voorspraak heeft zelfs zoveel kracht, dat zij uit die hoofde almachtig genoemd wordt.
 
@@ -124,7 +124,7 @@ De Catechismus spreekt hier uitsluitend van de ongewijde Rozenkransen, want de g
 
 ## Geenszins; maar het wordt uitsluitend genomen tot een geestelijke betekenis, en daarom mag het wel verminderd of vermeerderd worden
 
-V. Schrijven de gelovigen aan het getal gebeden ([6e v.](les-06.html)) waaruit de Rozenkrans bestaat, geen kracht toe, die het niet heeft noch van God, noch uit zich zelf, noch door de instelling van de H. Kerk? ([21ᵉ les, v. 6.](TODO))
+V. Schrijven de gelovigen aan het getal gebeden ([6e v.](les-06.html)) waaruit de Rozenkrans bestaat, geen kracht toe, die het niet heeft noch van God, noch uit zich zelf, noch door de instelling van de H. Kerk? ([21ᵉ les, v. 6.](les-21.html#wat-is-bijgeloof))
 
 A. **Geenszins:** het bevat geen superstitie, — **het wordt genomen,** niet als had het een bijzondere kracht, die het wezenlijk niet heeft, — **maar uitsluitend tot een geestelijke betekenis:** uitsluitend om ons een geestelijke, een godsdienstige zaak te herinneren, namelijk, de gewoonte, bij heilige eremijten en dienaren Gods uit vroegere tijden, van dagelijks de 150 psalmen van David te lozen; — **en daarom,** daar aan dit getal geen bijzondere kracht erkend wordt, — **mag het wel verminderd of vermeerderd worden,** zonder dat het gebed er zijn waarde en kracht door verliest. Nochtans moet men, om de aflaten te verdienen die de H. Kerk aan de Rozenkrans gehecht heeft, het getal gebeden zeggen door haar geëist. ([13ᵉ les, v. 6.](les-13.html#wat-moeten-wij-doen-om-de-aflaten-te-verdienen))
 

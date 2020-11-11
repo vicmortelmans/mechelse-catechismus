@@ -128,7 +128,7 @@ Nu kunnen wij gemakkelijk al het verschil tussen de dodelijke en de dagelijkse z
 
 ## Die gelijk oorsprongen zijn en beginselen van vele andere zonden
 
-A. Hoofdzonden heet men, niet de zonden die boven alle andere zwaar zijn: de godslastering b.v. en de vrijwillige doodslag zijn uit hun natuur erger dan de hoofdzonden; — noch die altijd dodelijk zijn: de hoofdzonden zijn nu dodelijke, dan dagelijkse zonden, volgens dat hun voorwerp in zichzelf groot of klein is; maar wel dezulke — **die gelijk oorsprongen en beginselen zijn van vele andere zonden:** die gelijk bronnen zijn waar vele andere zonden uit voortvloeien, of die ons tot vele andere zonden aanzetten of aandrijven. *Iedere* hoofdzonde is de bron van *vele* andere zonden; de *Zeven* Hoofdzonden zijn de bron van al de andere zonden. ([7ᵉ v.](TODO)) Zij veroorzaken en beheersea al de andere kwade werken, gelijk het hoofd al de andere ledematen beweegt en bestuurt: vandaar hun naam van *hoofdzonden.*
+A. Hoofdzonden heet men, niet de zonden die boven alle andere zwaar zijn: de godslastering b.v. en de vrijwillige doodslag zijn uit hun natuur erger dan de hoofdzonden; — noch die altijd dodelijk zijn: de hoofdzonden zijn nu dodelijke, dan dagelijkse zonden, volgens dat hun voorwerp in zichzelf groot of klein is; maar wel dezulke — **die gelijk oorsprongen en beginselen zijn van vele andere zonden:** die gelijk bronnen zijn waar vele andere zonden uit voortvloeien, of die ons tot vele andere zonden aanzetten of aandrijven. *Iedere* hoofdzonde is de bron van *vele* andere zonden; de *Zeven* Hoofdzonden zijn de bron van al de andere zonden. ([7ᵉ v.](#hoeveel-hoofdzonden-zijn-er)) Zij veroorzaken en beheersea al de andere kwade werken, gelijk het hoofd al de andere ledematen beweegt en bestuurt: vandaar hun naam van *hoofdzonden.*
 
 # Hoeveel hoofdzonden zijn er?
 
@@ -180,7 +180,7 @@ De zonden *tegen de H. Geest* worden zo genoemd, omdat de *goddelijke liefde* of
 
 <span class=marginnote>
   <img src="resources/3809a.jpg">
-  <em>Zij worden zeer zelden vergeven, omdat gij u zelf in de onmogelijkheid stelt, want wij weten de condities en die hebben wij niet. Waarom *tegen de Heilige Geest*? Omdat zij rechtstreeks strijden tegen de heiligheid, tegen de heiligmaking, overigens Christus zelf heeft er zo over gesproken ter gelegenheid van het feit: "De wlbekende waarheid bestrijden."</em>
+  <em>Zij worden zeer zelden vergeven, omdat gij u zelf in de onmogelijkheid stelt, want wij weten de condities en die hebben wij niet. Waarom *tegen de Heilige Geest*? Omdat zij rechtstreeks strijden tegen de heiligheid, tegen de heiligmaking, overigens Christus zelf heeft er zo over gesproken ter gelegenheid van het feit: "De welbekende waarheid bestrijden."</em>
 </span>
 A. De zonden tegen de H. Geest zijn **deze zes:**
 

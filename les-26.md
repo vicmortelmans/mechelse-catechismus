@@ -70,11 +70,11 @@ Dus, om schuldig te zijn aan een zonde tegen het Zevende of Tiende Gebod, moet m
 </span>
 A. **Eens anders goed stelen:** de evennaaste zijn tijdelijk goed tegen zijn redelijken wil ontnemen, of dit op die wijze wederhouden. Judas heeft zich aan diefte schuldig gemaakt, toen hij heimelijk de kas bestool van de liefdegiften, welke aan de Zaligmaker en aan zijn leerlingen tot hun onderhoud gedaan werden.
 
-**Tot stelen helpen:** in de diefte, die een ander bedrijft, medewerken, zoals door raden, beschermen, gebieden, prijzen, mededelen, enz. ([37ᵉ les, vr. 9.](TODO))
+**Tot stelen helpen:** in de diefte, die een ander bedrijft, medewerken, zoals door raden, beschermen, gebieden, prijzen, mededelen, enz. ([37ᵉ les, vr. 9.](les-37.html#hoe-geschieden-de-vreemde-zonden))
 
 **Gestolen goed kopen of bewaren:** enig goed kopen of in bewaring houden, dat men met zekerheid weet of met reden denkt gestolen te zijn; want daardoor eigent men zich toe of wederhoudt men, tet minste met de wil, een zaak die aan de bestolen persoon toebehoort.
 
-**Den loon van de arbeiders onthouden:** aan de dienstboden, de werk- en ambachtslieden de huurprijs of dagloon, waarop zij recht hebben, *niet* of slechts *ten dele* betalen: deze daad maakt een wraakroepende zonde uit. ([38ᵉ les, vr. 11.](TODO))
+**Den loon van de arbeiders onthouden:** aan de dienstboden, de werk- en ambachtslieden de huurprijs of dagloon, waarop zij recht hebben, *niet* of slechts *ten dele* betalen: deze daad maakt een wraakroepende zonde uit. ([38ᵉ les, vr. 11.](les-38.html#waarom-worden-sommige-zonden-genoemd-wraakroepende-zonden))
 
 **In processen enig bedrog of valsheid gebruiken:** degenen, die het proces aangaan, gebruiken bedrog en valsheid, b.v. met vals getuigen op te roepen, met de rechter om te kopen, met een vals zaak te vervol gen, enz.; — de getuigen, met een vals getuigenis te geven; — en de rechters, met een vals uitspraak te doen.
 

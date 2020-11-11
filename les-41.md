@@ -83,7 +83,7 @@ A. Er zijn *vier* Uitersten van de mens, te weten:
 
 3° **De Hel** of de plaats waar de verdoemden gestraft worden. Er zijn twee plaatsen in te onderscheiden: 1° de eigenlijke hel, waar de verdoemden het goddelijk aanschijn derven en daarenboven door het vuur gepijnigd worden; 2° het voorgeborchte van de hel, waar de kinderen die vóór de jaren van verstand zonder Doopsel sterven, enkel beroofd zijn van het goddelijk aanschijn. ([9ᵉ les, 2ᵉ v.](les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is))
 
-4. **De Hemelse Glorie:** de hemel of de plaats waar de gelakzaligen God zien. Onder dit Uiterste moet ook het *vagevuur* verstaan worden, dat een inleidingsplaats tot de Hemel is. Vóór Christus’ Hemelvaart kwam ook het *voorgeborchte van de Oudvaders* ([9ᵉ les, v. 2](les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is)), onder de naam van *Hemel.*
+4° **De Hemelse Glorie:** de hemel of de plaats waar de gelakzaligen God zien. Onder dit Uiterste moet ook het *vagevuur* verstaan worden, dat een inleidingsplaats tot de Hemel is. Vóór Christus’ Hemelvaart kwam ook het *voorgeborchte van de Oudvaders* ([9ᵉ les, v. 2](les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is)), onder de naam van *Hemel.*
 
 # Wien komen de vier uitersten toe?
 
@@ -101,7 +101,7 @@ V. Wat leert ons de goddelijke Openbaring nopens de Dood, en wat moeten wij dus 
 
 A. Wij hebben van de Dood *twee* dingen te geloven:
 
-1° **Dat niemand — die geboren is:** die op aarde leeft, **haar kan ontgaan;** want de Dood is een gevolg van de erfzonde, die alle mensen aangeboren wordt. ([A. 3.](TODO))
+1° **Dat niemand — die geboren is:** die op aarde leeft, **haar kan ontgaan;** want de Dood is een gevolg van de erfzonde, die alle mensen aangeboren wordt. ([A. 3.](#wat-is-er-van-de-dood-te-geloven))
 
 2° **Dat zij ons kan overkomen als wij het minst vrezen:** dat wij niet weten *wanneer,* noch *waar,* noch *hoe* wij zullen sterven. Christus heeft dikwijls gezegd dat de Dood zal komen gelijk een dief in de nacht, en de ondervinding leert dat vele mensen schielijk sterven, dat menigvuldige andere zich op hun sterfbed over het gevaar van hun staat bedriegen, en zo sterven zonder het te weten. God heeft gewild dat het uur van onze Dood ons onbekend zou blijven: 1° om van het leven een ware tijd van beproeving te maken: wisten de mensen wanneer zij zullen sterven, zij zouden zich zonder vrees aan alle buitensporigheden kunnen overleveren, in de verzekering van later toch tijd te hebben om boetvaardigheid te doen; — 2° om de orde in de samenleving te handhaven; want, kende iedereen het uur van zijn Dood, vele contracten waren onmogelijk en vele mensen lieten vóór hun einde allen moed vallen.
 
@@ -162,7 +162,7 @@ A. **Neen,** zij zullen niet allen even volmaakt het hemels geluk genieten; **ma
 
 ## Het schoon gezelschap van de Engelen, de gemeenschap van alle Heiligen, een blijde gedachtenis van de altijddurende zalige eeuwigheid
 
-V. **Het opperste goed** bestaat in het goddelijk aanschijn te aanschouwen en in God alle goed te genieten. ([V. 7.](TODO))
+V. **Het opperste goed** bestaat in het goddelijk aanschijn te aanschouwen en in God alle goed te genieten. ([V. 7.](#welk-is-de-meeste-blijdschap-van-de-hemel))
 
 A. Behalve het opperste goed zullen de Zaligen nog deze *drie* goederen hebben:
 

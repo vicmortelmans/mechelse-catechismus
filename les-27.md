@@ -113,7 +113,7 @@ Tot welke soort van Feestdagen al de Heiligdagen behoren, die wij te vieren hebb
 
 Om nu het volgend Gebod van de H. Kerk: *dan ook Mis horen met goede manieren,* volledig te verklaren, zal men zeggen wat te verstaan is: 1° door *Mis,* namelijk, of er spraak is van een hele of slechts een gedeeltelijke; 2° door Mis *horen* en 3° door *goede manieren.*
 
-1° Door *Mis:* de uitlegging hiervan wordt gegeven in het antwoord op de [7ᵉ vraag](TODO).
+1° Door *Mis:* de uitlegging hiervan wordt gegeven in het antwoord op de [7ᵉ vraag](#is-het-genoeg-een-deel-te-horen).
 
 2° Door Mis *horen:* tot het Mis-*horen* in zichzelf zijn deze *drie* dingen vereist: a) in de Mis tegenwoordig zijn, d.i. tot diegenen behoren die de Mis wezenlijk bijwonen; b) gedurende de Mis geen werk verrichten, zoals schilderen, schrijven, timmeren of ander diergelijk werk, dat met het opvolgen van de Mis niet kan samen gaan; c) in de Mis aanwezig zijn, met het uitdrukkelijk of ten minste ingesloten inzicht van God daardoor te vereren, en bijgevolg daar toch enigszins met God bezig zijn of op de Mis aandacht geven. Ziehier nu de reden daarvan: het Gebod van Mis te horen is gegeven aan *mensen;* deze bestaan uit *lichaam* en *ziel* en moeten dus a) in de Mis lichamelijk tegenwoordig zijn, en b) in staat zijn om met de geest de Mis te volgen; — het legt die mensen *een verering Gods* op; dus moeten zij de Mis bijwonen om God te eren, en ten minste enigszins de Mis volgen of daaronder op God denken. Wanneer één van de drie vermelde vereisten ontbreekt, dan *hoort* men geen Mis en voldoet dus niet aan de wet van de H. Kerk. — Het bijwonen van de H. Mis wordt Mis *horen* genoemd, omdat zij grotendeels gezongen of gelezen wordt, en men ze zo *horen* kan.
 

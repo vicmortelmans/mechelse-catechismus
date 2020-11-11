@@ -78,7 +78,7 @@ A. **Ja,** deze allen misdoen tegen dit Gebod; doch niet zij alleen; daartegen m
 
 **Kwaad wensen,** d.i. enkel begeren dat aan iemand kwaad overkome, voor zoveel het voor hem kwaad is, zonder daarbij God of de duivel te smeken dat die wens vervuld worde.
 
-**Gramschap,** d.i. een begeerte van wraak te nemen die ongeregeld is, 't zij omdat men geen macht heeft om een misdaad te straffen, of wil straffen zonder reden, of te veel wil straffen, of wil straffen niet met een goed, maar met een slecht inzicht; 't zij, omdat men door die begeerte op een onbehoorlijke wijze ontsteld is. (Zie [38ᵉ les, v. 7.](TODO))
+**Gramschap,** d.i. een begeerte van wraak te nemen die ongeregeld is, 't zij omdat men geen macht heeft om een misdaad te straffen, of wil straffen zonder reden, of te veel wil straffen, of wil straffen niet met een goed, maar met een slecht inzicht; 't zij, omdat men door die begeerte op een onbehoorlijke wijze ontsteld is. (Zie [38ᵉ les, v. 7.](les-38.html#hoeveel-hoofdzonden-zijn-er))
 
 **Haat,** d.i. de boze wil waardoor men iemand kwaad wil, 't zij opdat hij ongelukkig weze, of omdat wij hem aanzien als kwaadwillig jegens ons, en diensvolgens hem verfoeien.
 
@@ -165,7 +165,7 @@ Ook het overwegen van de schrikkelijke verdelging, waarmee God de onkuise steden
 </span>
 A. **Hij moet 1° verklaren, in wat manier hij door onkuisheid gezondigd heeft:** het is dan niet genoeg te zeggen: ik heb onkuisheid gedaan of slechte dingen; maar men moet uitdrukken, welke soort van onkuisheid men bedreven heeft; — 2° Hij moet dat verklaren, **met eerlijke woorden:** met die taal en met die woorden, welke de welopgevoede mensen gebruiken om de zonden van onzuiverheid te noemen, en welke eenieder bezigt, die daarover met deftige personen moet spreken.
 
-Men moet noodzakelijk verklaren, in wat manier men door onkuisheid gezondigd heeft, omdat men gehouden is alle doodzonden te biechten, daar bijvoegende al hetgene de zonde mag veranderen. (Zie [34ᵉ les, vr. 4.](TODO))
+Men moet noodzakelijk verklaren, in wat manier men door onkuisheid gezondigd heeft, omdat men gehouden is alle doodzonden te biechten, daar bijvoegende al hetgene de zonde mag veranderen. (Zie [34ᵉ les, vr. 4.](les-34.html#welke-zonden-moeten-wij-belijden))
 
 ### VRAGEN
 

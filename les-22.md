@@ -83,7 +83,7 @@ Dat de Heiligen voor ons bidden, is klaar bevestigd door de geschiedenis van Jud
 
 A. **Zij weten dit klaarlijk,** op een volmaakte wijze, — **door God,** niet met het door hun natuurlijke krachten te zien of te horen, maar door de tussenkomst van God, — **en zien het in de goddelijke natuur:** weten het door God, met de goddelijke natuur aanschijn aan aanschijn te aanschouwen.
 
-God aanschouwende, zien zij zijn oneindige kennissen, en in die kennissen treffen zij aan hetgene wij tot hun eer doen, ([41ᵉ les, v. 7.](TODO))
+God aanschouwende, zien zij zijn oneindige kennissen, en in die kennissen treffen zij aan hetgene wij tot hun eer doen, ([41ᵉ les, v. 7.](les-41.html#welk-is-de-meeste-blijdschap-van-de-hemel))
 
 # Misdoen de Katholieken tegen het Eerste Gebod, als zij beelden maken?
 
@@ -108,7 +108,7 @@ God de Vader wordt gewoonlijk voorgesteld onder de gedaante van een grijsaard, o
   <em>De oudste beelden die wij bezitten zijn die: Christus de Goede Herder (catacomben), later wordt vooral afgebeeld Christus tronend in zijn majesteit. De oudste beelden van O.L.V. en van de heiligen zijn gewoonlijk in de Orante-houding (catacomben).</em>
   <img src="resources/2205b.jpg">
 </span>
-V. Genomen gelijk in deze vraag, is **knielen** een natuurlijk teken van onderwerping en van eerbied; ook **licht ontsteken** is van natuur wel geschikt om de eer te erkennen waardoor iemand schittert, om ons Geloof te betekenen, dat een licht is voor ons verstand; onze Hoop. die ons als een licht in de duisternissen verheugt; onze Liefde, die als een vuur in onze harten brandt. Wat men door **bidden** betekent, moet niet gezegd worden. — De Catechismus vraagt of *knielen, licht ontsteken of bidden,* wanneer dit vóór de beelden geschiedt. niet in strijd is met het Eerste Gebod, dat verbiedt *beelden of gelijkenissen te aanbidden of godsdienstig te eren.* ([20ᵉ les, vr. 10.](TODO))
+V. Genomen gelijk in deze vraag, is **knielen** een natuurlijk teken van onderwerping en van eerbied; ook **licht ontsteken** is van natuur wel geschikt om de eer te erkennen waardoor iemand schittert, om ons Geloof te betekenen, dat een licht is voor ons verstand; onze Hoop. die ons als een licht in de duisternissen verheugt; onze Liefde, die als een vuur in onze harten brandt. Wat men door **bidden** betekent, moet niet gezegd worden. — De Catechismus vraagt of *knielen, licht ontsteken of bidden,* wanneer dit vóór de beelden geschiedt. niet in strijd is met het Eerste Gebod, dat verbiedt *beelden of gelijkenissen te aanbidden of godsdienstig te eren.* ([20ᵉ les, vr. 10.](les-20.html#zeg-de-tien-geboden-gods))
 
 A. **Neen,** dit strijdt tegen het Eerste Gebod niet; — **want deze eer geschiedt, niet aan de beelden:** deze eer wordt bewezen, niet aan de beelden, als waren zij God of de Heiligen zelf, en zoo, door hun eigen hoedanigheden,
 die eer waardig, — **maar aan God of zijn Heiligen, die wij ons voorstellen door het aanzien van de beelden,** maar aan God of zijn Heiligen, op wie wij denken met de beelden te aanschouwen.

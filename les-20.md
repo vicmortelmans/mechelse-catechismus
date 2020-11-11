@@ -70,7 +70,7 @@ V. Hier wederom geldt het niet enkel de *akte,* maar ook de *deugd.* ([3ᵉ les,
 
 A. De bepaling vermeldt onder andere 1° de oorsprong, 2° de akte en 3° het voorwerp van de deugd van Liefde.
 
-1° De *oorsprong:* de Liefde is **een gave Gods.** (3ᵉ en [16ᵉ les, 1ᵉ v.](TODO))
+1° De *oorsprong:* de Liefde is **een gave Gods.** ([3ᵉ](les-03.html#wat-is-het-geloof) en [16ᵉ les, 1ᵉ v.](les-16.html#wat-is-de-hoop))
 
 2° De *akte* of het werk tot hetwelk de deugd van Liefde ons genegen maakt, is — **beminnen:** iemand goed willen en bijgevolg zijn redelijke begeerte willen volbrengen, want hetgeen iemand met reden begeert of behoort te begeren, dat is zijn goed.
 
@@ -94,7 +94,7 @@ Als wij God om Hem zelf beminnen. dan is onze liefde volmaakt, daar wij Hem met 
 
 V. **Bovenal:** boven alle dingen (2e v.)
 
-A. God boven alle dingen beminnen, is Hem — **zó beminnen:** op die wijze goed willen en zó willen dienen, **dat men liever zou verlaten — alle dingen:** alle goederen buiten God, zoals rijkdommen, eer en faam, bloedverwanten en kennissen, — **ook het leven,** dat zou uit te zonderen zijn, ware er een uitzondering te maken: het leven immers is het voornaamste en edelste onder al de aardse goederen; — **dan God met één zonde te vergrammen:** dan één doodzonde te bedrijven: de dagelijkse zonden beletten of breken de Liefde niet, omdat zij geen volkomene of volmaakte overtredingen van Gods wet zijn ([37ᵉ les, 6ᵉ v.](TODO)). Om bovenal te zijn, moet dus onze Liefde tot God alle andere liefde tot enig wezen in *hoogachting* overtreffen, zodanig dat wij gesteld zijn om alles te verliezen, liever dan God door één zonde te vergrammen; zij moet echter niet vuriger, levendiger zijn, noch meer indruk op ons maken dan alle andere liefde, wie dus meer droefheid gevoelt, omdat hij, b.v. zijn vader of zijn moeder verloren heeft, dan omdat hij God door een zonde heeft vergramd, die moet daarom geenszins denken, dat hij geen voldoend berouw over zijn zonden heeft.
+A. God boven alle dingen beminnen, is Hem — **zó beminnen:** op die wijze goed willen en zó willen dienen, **dat men liever zou verlaten — alle dingen:** alle goederen buiten God, zoals rijkdommen, eer en faam, bloedverwanten en kennissen, — **ook het leven,** dat zou uit te zonderen zijn, ware er een uitzondering te maken: het leven immers is het voornaamste en edelste onder al de aardse goederen; — **dan God met één zonde te vergrammen:** dan één doodzonde te bedrijven: de dagelijkse zonden beletten of breken de Liefde niet, omdat zij geen volkomene of volmaakte overtredingen van Gods wet zijn ([37ᵉ les, 6ᵉ v.](les-37.html#wat-is-de-dagelijkse-zonde)). Om bovenal te zijn, moet dus onze Liefde tot God alle andere liefde tot enig wezen in *hoogachting* overtreffen, zodanig dat wij gesteld zijn om alles te verliezen, liever dan God door één zonde te vergrammen; zij moet echter niet vuriger, levendiger zijn, noch meer indruk op ons maken dan alle andere liefde, wie dus meer droefheid gevoelt, omdat hij, b.v. zijn vader of zijn moeder verloren heeft, dan omdat hij God door een zonde heeft vergramd, die moet daarom geenszins denken, dat hij geen voldoend berouw over zijn zonden heeft.
 
 Wij moeten, onder opzicht van *hoogachting,* God hovenal beminnen, omdat Hij metterdaad alle andere wezens in volmaaktheid overtreft.
 
