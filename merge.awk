@@ -42,10 +42,29 @@ BEGIN {
   }
   next
 }
-/^#/ {
-  print "###" $0
+/^# / {
+  question = $0  # store it for later
+  next
+}
+/^## / {
+  answer = $0  # store it for later
+  next
+}
+/^\s*$/ {
+  # reproduce blank lines
+  print $0
   next
 }
 {
+  # first check if question/answer is in store
+  if (question || answer) {
+    print "<div class=pagebreakcontrol>"
+    if (question) print "###" question
+    if (answer) print "###" answer
+    print "</div>"
+    question = ""
+    answer = ""
+  }
   print $0
+  next
 }
