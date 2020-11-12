@@ -43,7 +43,7 @@ subtitle: Van God de Heilige Geest
 
 <span class=marginnote>
   <img src="resources/1100a.jpg">
-  <em>De Kerk is de levende Christus onder ons, zij is het mystieke lichaam waarvan Christus het hoofd en wij de ledematen zijn, waartoe het Doopsel de inleiding betekent en de H. Eucharistie de krachtbron.</em>
+  <em>Heilige Geest maakt ons heilig in de kerk door de gemeenschap van de heiligen. Kennis van de Vader is intellectueel (Zoon) en volatief (Geest). Door de instelling van Christus geschiedt het heiligmakend werk van de Heilige Geest in de zichtbare en hiërarchisch ingerichte heilige Kerk die wij noemen de heilige Kerk. De Kerk is de levende Christus onder ons, zij is het mystieke lichaam waarvan Christus het hoofd en wij de ledematen zijn, waartoe het Doopsel de inleiding betekent en de H. Eucharistie de krachtbron.</em>
 </span>
 V. Wat verstaat gij door de H. Geest, als gij zegt: *« Ik geloof in de H. Geest »* of, welke natuur heeft Hij en welke Persoon is Hij?
 

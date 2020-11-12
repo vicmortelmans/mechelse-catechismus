@@ -52,11 +52,12 @@ Hoe dit tweede deel met het eerste verbonden is, hebben wij reeds gezegd in de [
 
 <span class=marginnote>
   <img src="resources/1600a.jpg">
-  <em>Het voorwerp van ons geloof is God, de opperste waarheid, het opperste goed; het voorwerp van onze hoop is God, ons goed. Daaruit volgt de beweegreden van onze hoop.</em>
+  <em>Overgang van het geloof naar de hoop.<br/>Geloofsleer<br/>Ik geloof in God. Ik geloof in zijn eigenschappen. Ik geloof in zijn eigenschappen: zijn goedheid. Ik geloof in Gods eigenschappen: zijn goedheid voor mij = *ik hoop.*<br/>
+Het voorwerp van ons geloof is God, de opperste waarheid, het opperste goed; het voorwerp van onze hoop is God, ons goed. Daaruit volgt de beweegreden van onze hoop.<br/>Verdeling van de akte van hoop. (Tot wie spreek ik) Mijn Heer, (wat doe ik) Ik hoop (Hoe) met een vast betrouwen (Wat hoop ik) vergiffenis ... eeuwig leven (Waarom) omdat gij tot ons ... (Van wie hoop ik) Gij ... (Door wat hoop ik) Door de verdienste van ... (Besluit) In deze hoop ...</em>
   <img src="resources/1601a.jpg">
-  <em>Een deugd hebt ge wel of niet. De akte van hoop kunt ge ook half en half hebben.</em>
+  <em>De deugd is een toestand, de akte is een daa. Een deugd hebt ge wel of niet. De akte van hoop kunt ge ook half en half hebben. Iets bovennatuurlijks komt altijd uit de genadeleer. Als we de hoop beschouwen als deugd dan komt ze voort van de genadeleer.</em>
   <img src="resources/1601b.jpg">
-  <em>Wij moeten de middelen die God ons tot bereiking van het einddoel gaf, ijverig en standvastig benutten.</em>
+  <em>Welke eigenschappen moet onze hoop hebben. 1) *Zij moet bovennatuurlijk zijn.* Onze hoop moet bovennatuurlijk zijn omdat wij streven naar iets bovennatuurlijks. 2) *Zij moet vast zijn.* 3) *Zij moet nederig zijn.* God weerstaat de hoovardige. 4) *Zij moet werkdadig zijn,* t.t.z wij moeten de middelen die God ons tot bereiking van het einddoel gaf, ijverig en standvastig benutten. Hoe zondigt men tegen de hoop? Door teveel of door te weinig. 1) Te weinig: wanhoop. 2) Teveel: vermetel betrouwen.</em>
 </span>
 V. Het geldt hier de *deugd* en niet enkel de *akte* van Hoop; de redenen zijn gegeven bij de [1ᵉ vraag van de 3ᵉ les](les-03.html#wat-is-het-geloof).
 
@@ -95,7 +96,7 @@ A. De Catechismus duidt *drie* middelen aan:
 
 <span class=marginnote>
   <img src="resources/1603a.jpg">
-  <em>Wij onderscheiden het inwendig gebed alleen ook nog genoemd meditatie. Het uitwendig gebed alleen bestaat niet.</em>
+  <em>Wij onderscheiden het inwendig gebed alleen ook nog genoemd meditatie. Het uitwendig gebed alleen bestaat niet. Een meditatie bestaat in de ernstige overdenking van Godsdienstige waarden of feiten, om daardoor God te vereren en de eigen heiligheid te bevorderen. Het wordt met smeekgebeden doorweven en met en praktisch en goed voornemen en een dankzegging gesloten (het is een van de beste uitdrukkingen van gebed). <br/>Een gans bijzondere plaats verdient liturgisch gebed, d.i. het kerkelijk gebed zoals wij dit aantreffen in de mis en het brevier. De waarde van het gebed hangt samen met de waarden van de heilige Kerk, die genoemd wordt Christus' bruid. Het is de wens van de kerk dat de gelovige ziel zich zoveel mogelijk zou verenigen met het liturgisch gebed.</em>
 </span>
 A. Een gebed, in 't algemeen, is een samenspraak waardoor wij iemand te kennen geven, wat wij van hem begeren.
 
@@ -145,9 +146,9 @@ A. Dat velen bidden en niet verkrijgen wat zij vragen, dit kan uit *twee* oorzak
 
 <span class=marginnote>
   <img src="resources/1607a.jpg">
-  <em>Voor wie moeten wij bidden? Voor alle mensen die tot de zaligheid kunnen geraken. Nochtans wij kunnen onderscheid maken en eerst en vooral bidden - voor onszelf, voor onze ouders, voor onze verwanten en vrienden, - voor de noden en de belangen van de heilige Kerk (het gebed voor de katholieke actie, missie-actie), - voor de belngen van eigen land en eigen volk.</em>
+  <em>Het antwoord op de 1ᵉ vraag volgt uit de bepaling zelf van het gebed (samenspraak met God), dus zal het gebed moeten geschieden met grote *eerbied, met aandacht, met nederigheid* en met *volhardend* betrouwen. God zelf heeft gezegd of aangetoond dat hij in die omstandigheden het gebed wil zien voltrekken.<br/>Wanneer moeten wij bidden?<br/>Christus zegt dat wij altijd moeten bidden. Het spreekt vanzelf dat sommige ogenblikken in de dag of in ons leven speciaal geschikt zijn voor het gebed. Maar als Christus zegt dat wij altijd moeten bidden, dan is dat geen ijdel woord. Immers wanneer wij dikwijls al onze werken aan God opdragen, dan is dat als een gedurig voortgezet gebed.<br/>Voor wie moeten wij bidden?<br/>Voor alle mensen die tot de zaligheid kunnen geraken. Nochtans wij kunnen onderscheid maken en eerst en vooral bidden - voor onszelf, voor onze ouders, voor onze verwanten en vrienden, - voor de noden en de belangen van de heilige Kerk (het gebed voor de katholieke actie, missie-actie), - voor de belngen van eigen land en eigen volk. Men kan soms ook gehouden zijn te bidden uit rechtvaardigheid, 't zij volgens de bepaling van het testament of restitutie.</em>
   <img src="resources/1607b.jpg">
-  <em>Het gebed is noodzakelijk, want Jezus heeft het zelf bevolen.</em>
+  <em>1) Het gebed is noodzakelijk, want Jezus heeft het zelf bevolen. 2) Omdat het gebed onze natuurlijke verhouding is tot God (zie 4 soorten gebed). 3) Omdat het gebed het gewone middel is om de genade te verkrijgen die nodig zijn om zalig te worden. Wie bidt, wordt zalig, wie niet bidt, gaat verloren.</em>
 </span>
 A. Wij moeten bidden:
 

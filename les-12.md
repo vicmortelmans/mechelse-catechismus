@@ -60,7 +60,9 @@ subtitle: De Heilige Katholieke Kerk
 
 <span class=marginnote>
   <img src="resources/1200a.jpg">
-  <em>De Kerk is de 1ᵉ vergadering van genade, liefde en rechtvaardigheid.</em>
+  <em>De bepaling van het boek is eenzijdig (sociale en apologetisch - protestants) alleen de geloochende punten zijn opgenomen. Goddelijke, morele, mystieke natuur van de kerk. De Kerk is de 1ᵉ vergadering van genade, liefde en rechtvaardigheid. Vergadering: buiten geroepen (buiten joden en heidenen vergaderen). <br/>Maatschappij: gezag, leden, doel, middelen: kerk heelt ze. De kerk is een volmaakte maatschappij door de vier delen volmaakt zijn. Gezag: Chritus - paus (onfeilbaar). Doel: Christus kennen en belofte van eeuwig leven. Middelen: sacramenten van Christus goed toegepast bereikt men zeker het doel.</em>
+  <img src="resources/1206a.jpg">
+  <em>Leden: sommige zijn volmaakt. Op de akker is onkruid tot bij de oogst. In feite zijn ze slecht, in recht zijn ze alle volmaakt door het doopsel, niet *omwille* van de kerk, maar *niet tegenstaande* de kerk. <br/>Sommige principes van het protestantisme moeten leiden tot het omverwerpen van het hele christendom: vrij onderzoek, alleen bijbel, onzichtbare kerk.</em>
 </span>
 V. Waarin bestaat de H. Katholieke Kerk, die wij geloven de ware Kerk van Christus te zijn; of, welke kerk verstaat men door de *H. Kerk?*
 
@@ -152,10 +154,6 @@ A. Uit de woorden: **onder andere deze vier** volgt, dat er nog andere zulke ken
 
 ## Ten eerste, omdat haar hoofd Christus heilig is; ten tweede, omdat in haar alleen te vinden is het waarachtig gebruik van de Heilige Sacramenten, die ons heilig maken; ten derde, omdat haar beste deel, haar roep en haar leer heilig is
 
-<span class=marginnote>
-  <img src="resources/1206a.jpg">
-  <em>Sommige principes van het protestantisme moeten leiden tot het omverwerpen van het hele christendom.</em>
-</span>
 V. De zin is: waarin is de Rooms-Katholieke Kerk heilig.
 
 A. Zij is heilig om *drie* redenen:
@@ -188,7 +186,7 @@ Deze dubbele eenheid moet noodzakelijk in de ware Kerk van Christus te vinden zi
 
 <span class=marginnote>
   <img src="resources/1208a.jpg">
-  <em>De heiligheid bevat ook de ware mirakelen.</em>
+  <em>De heiligheid bevat ook de ware mirakelen. Apostolisch en katholiek zijn twee *gans* verschillende kentekenen.</em>
 </span>
 V. **Algemeen** of **katholiek** betekent *onbeperkt.*
 
@@ -232,7 +230,7 @@ Men bemerke, dat wij al deze eigendommen van de H. Kerk zo gemakkelijk kennen al
 
 <span class=marginnote>
   <img src="resources/1299a.jpg">
-  <em>Hoe beter men zijn katholicisme beleeft, hoe heiliger men wordt. Hoe beter men het protestantisme beleeft, hoe meer men ervan afwijkt.</em>
+  <em>Het kenteken: dat de kerk ware mirakelen bezit, ware op zichzelf voldoende om de waarheid de Kerk te bewijzen. É[én], H[eilig], K[atholiek], A[postolisch], alle 4 bijeen zijn als bewijs. Hoe beter men zijn katholicisme beleeft, hoe heiliger men wordt. Hoe beter men het protestantisme beleeft, hoe meer men ervan afwijkt.</em>
 </span>
 Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Catechismus over ieder deel?
 

@@ -92,7 +92,7 @@ Het eerste moet de Christen mens op zonde doen; het tweede, uitsluitend om tot d
 
 <span class=marginnote>
   <img src="resources/0203a.jpg">
-  <em>Het echte teken van de Christen mens is nochtans naar Christus' woord de liefde: "Hieraan zullen de mensen zien dat ge mijn leerlingen zijt: 't is dat ge elkaar bemint."</em>
+  <em>Het teken is iets uitwendigs waaraan wij iets kunnen kennen. Voor een christen mens is dit het kruisteken sinds Christus' dood. Voor de kerk is het officieel van na de bekering van keizer Konstantijn. Het echte teken van de Christen mens is nochtans naar Christus' woord de liefde: "Hieraan zullen de mensen zien dat ge mijn leerlingen zijt: 't is dat ge elkaar bemint."</em>
 </span>
 V. Een *teken* is iets dat ons tot de kennis brengt van een andere zaak: zo is het kniebuigen een teken, vermits het ons de inwendigen eerbied van het hart te kennen geeft.
 
@@ -154,7 +154,7 @@ Het *tweede deel,* te weten, onze verlossing uit de slavernij van de duivel, wor
 
 <span class=marginnote>
   <img src="resources/0209a.jpg">
-  <em>Naar oud Vlaams gebruik vragen de kinderen thuis een kruiske.</em>
+  <em>Voor de heidenen was het kruis een ergernis, voor de christenen is het kruis een ereteken. Nooit mag een christen beschaamd zijn zijn kruisteken te maken, noch thuis, noch op de vreemde. "Die over mij beschaamd is in dit leven, voorwaar ik zal over hem beschaamd zijn in het oordeel bij de Vader." Zo mogelijk maken wij het kruisteken met wijwater. Naar oud Vlaams gebruik vragen de kinderen thuis een kruiske. Ook voor het kruisbeeld eist de kerk die christelijke fierheid op bij haar leden: bij een christen hangt het kruis in huis op de ereplaats (ook in het salon). Roep de aandacht van de kinderen dikwijls op het kruis in de klas. Wil in uw huis aan Christus' kruis de plaats van eer geven, en uit uw huis wordt menig kruis door Christus gedreven.</em>
 </span>
 A. Wij hebben het Kruisteken **van onze voorvaders tot de Apostelen toe:** wij vinden het bij al de Christenen van de voorgaande eeuwen tot aan de tijd toe van de Apostelen, die, na Christus, het Geloof alom verkondigd hebben. Het komt ons van hooger nog, **ja van Christus zelven, die door het Kruis de wereld verlost heeft:** die, door zijn dood op het kruis de wereld van de slavernij van de duivel vrijgekocht, en zo het kruis tot het natuurlijk teken van zijn discipelen achtergelaten heeft.
 

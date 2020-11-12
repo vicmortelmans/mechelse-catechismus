@@ -48,11 +48,11 @@ subtitle: Van de Schepping van de wereld
 
 <span class=marginnote>
   <img src="resources/0600a.jpg">
-  <em>Bij Scheppen is alles aanwezig, behalve de stof. In God is de essentie van alles aanwezig, dus haalt God alle dingen uit zich.</em>
+  <em>KENNIS - WIL<br/>De eerste eigenschap van zijn Wil is zijn Almachtigheid. Hieruit Schepping.<br/>*Scheppen:* Scheppen is iets van niets maken. Is iets tot stand brengen zonder stofoorzaak, zonder voorbestaande stof, doch al de andere oorzaken zijn er: Werkende oorzaak (Hij), Formele (gedacht), Eindoorzaak (doel). Bij Scheppen is alles aanwezig, behalve de stof. In God is de essentie van alles aanwezig, dus haalt God alle dingen uit zich.<br/>Al wat bestaat buiten God is voortgebracht door een werking van God, en dit op een gans andere wijze. Van de werking van de 2ᵉ oorzaak. De 2ᵉ oorzaken kunnen de vorm veranderen, doch de essentie blijft dezelfde.</em>
   <img src="resources/0600b.jpg">
-  <em>God heeft een zekere wereld gekozen en hierin laat hij de 2ᵉ oorzaken hun gang gaan; houdt Hij dit voor een speciaal geval tegen, dan doet hij een mirakel.</em>
+  <em>Barak is het begrip Scheppen in de Schrift, en zij bedoelt er altijd een werking van God door, zonder voorbestaande stof. <br/>*Gods wereldplan*<br/>God heeft een zekere wereld gekozen en hierin laat hij de 2ᵉ oorzaken hun gang gaan; houdt Hij dit voor een speciaal geval tegen, dan doet hij een mirakel. B.v. kletskop: voor het haar zijn er bepaalde wetten, zijn die wetten niet voldaan, het haar valt uit, moest het dan blijven, 't ware God die tussenkwam in de natuurlijke wetten.<br/>Wij eten onze voorvaderen op.<br/>De strijd om het leven heeft als kwaad (zegt men) dat het één dier leeft op het andere. Dat is echter de orde van de natuur, het komt te goed aan het geheel, b.v. geen insecteneters, hoeveel vliegen dan). In het menselijk lichaam: microbes en witte bloedkorrels strijden voor het evenwicht van het geheel. Het kleinere voor het grotere opofferen, dit voor het algemeen welzijn. Dat fysiek kwaad moet er dus zijn.</em>
   <img src="resources/0600c.jpg">
-  <em>De mens is door God uit het niet-zijn getrokken en gaat hoger en hoger op in het zijn en in de Hemel wordt hij gestabiliseerd in het ZIJN. Een zondaar kan niet volledig in het niets terugzakken: de HEL is de limiet van het niet-zijn.</em>
+  <em>Het staat nergens geschreven dat God een volmaakte wereld geschapen heeft. Een mens wordt dikwijls meer mens omdat hij veel te strijden heeft - het fysiek kwaad, b.v. warme streken en koude streken, alle grote cultuurvolkeren  hebben een grote strijd moeten voeren - fysiek kwaad.<br/>God laat de mens vrij beslissen, hij kan dus doen wat hij wil. God eert de menselijke wil zo dat hij zelfs toelaat dat de mens die wil. *Fysieke daad* (ook voor het denken), ze is in zichzelf niet slecht, ze heeft een graad van zijn en daardoor is ze goed. *Morele afwijking*, de morele afwijking is een graad van niets zijn en dat is daardoor een onvolmaaktheid. De mens is door God uit het niet-zijn getrokken en gaat hoger en hoger op in het zijn en in de Hemel wordt hij gestabiliseerd in het ZIJN. Een zondaar kan niet volledig in het niets terugzakken: de HEL is de limiet van het *niet-zijn*.</em>
 </span>
 A. Er zijn dus drie dingen vereist om almachtig te zijn:
 
@@ -80,7 +80,7 @@ God heeft zijn almachtigheid in het scheppen van hemel en aarde waarlijk getoond
 
 <span class=marginnote>
   <img src="resources/0603a.jpg">
-  <em>Ethnologie: studie over voor-historische volkeren en de thans nog bestaande primitieven. Hoe primitiever de materiële beschaving, hoe zuiverder de godsgedachten, hoe zuiverder de zeden. Uitzonderingen op die regel worden gewoonlijk verklaard door contact met zogezegd meer beschaafde volkeren.</em>
+  <em>Ontstaan van het lichaam? 1) Bijbel: schijnt te bevoordeligen rechtstreeks uit de aarde. 2) Wijsbegeerte: geen principiële opwerking tegen de stelling van de evolutie van het menselijk lichaam uit een dierlijk lichaam. 3) Wetenschap: eerst stof, daarna het leven, maar hoe die overgan??? Nu de verschillende overgangen van planten en dieren, eindelijk het menselijk lichaam, hoe gekomen, waar naartoe?<br/>Ethnologie: studie over voor-historische volkeren en de thans nog bestaande primitieven. Hoe primitiever de materiële beschaving, hoe zuiverder de godsgedachten, hoe zuiverder de zeden. Uitzonderingen op die regel worden gewoonlijk verklaard door contact met zogezegd meer beschaafde volkeren.</em>
 </span>
 V. De zin is: waaruit heeft God de eerste mensen gemaakt, van welke het hele mensdom voortkomt: heeft Hij ze onmiddellijk van niet gemaakt, ofwel uit een reeds geschapene stof, en, zo ja, uit welke stof? — Men bemerke hier wel dat de mens gemaakt is door God, die hemel en aarde geschapen heeft met al wat er in is; dat hij bijgevolg noch uit zijn eigen bestaat, noch van eenig ander schepsel van de aarde of van de hemel voortkomt.
 
@@ -102,9 +102,9 @@ Deze buitengewone gaven ontvingen zij niet alleen voor zich zelven, maar voor ge
 
 <span class=marginnote>
   <img src="resources/0604a.jpg">
-  <em>Door de rede alleen kennen wij het bestaan van mineralen, planten, dieren, mens, God. Volgens de Schrift is er nog een schakel tekort, d.i. de engelen. Dit is ook volgens ons verstand juist. God enkel geest (geen stof, geen potentie). Mens geest + stof (akt en potentie). De ontbrekende sport: geen stof, maar akt en potentie.</em>
+  <em>Door de rede alleen kennen wij het bestaan van mineralen, planten, dieren, mens, God. Volgens de Schrift is er nog een schakel tekort, d.i. de engelen. Dit is ook volgens ons verstand juist. God enkel geest (geen stof, geen potentie). Mens geest + stof (akt en potentie). De ontbrekende sport: geen stof, maar akt en potentie.<br/>God is zo klaar in Zichzelf dat hij, als hij God volkomen kent, zijn vrijheid eigenlijk verliest, hij *MOET* God bovendien beminnen, en dit is zijn geluk. Dus kan de engel niet uit de hemel verdreven worden, dus een tid van beproeving, buiten de hemel. </em>
   <img src="resources/0604b.jpg">
-  <em>De engelen zouden het raadsbesluit van God willen kennen over de menswording van Christus.</em>
+  <em>*Gefixeerd zijn in God*<br/>Een engel en een mens in de zaligheid hebben toekomst, dit omdat ze een begin hebben gehad. Zijn kennis, idee en vreugde aan het Godschap vernieuwt gedurigaan. Menselijke voorstelling: rijstpap, eeuwig Walhalla, eeuwige jachtvelden.<br/>*Uit de hemel komt niemand*<br/>Het geluk is volmaakt in de hemel, daar ge telkens zoveel hebt als ge kunt vatten. Alle mensen vormen toch maar de éne mensheid. Mensen verschillen in HOE ze zijn en engelen in WAT ze zijn. Omdat bij ons het verschil valt in accidenten en bij de engelen in de essentie. De engelen zouden het raadsbesluit van God willen kennen over de menswording van Christus. Alle gevallen van bezetenheid zijn geen zenuwzieken, nu zijn er ook nog.</em>
 </span>
 V. De Engelen hebben geen lichaam, maar zijn *enkele geesten* met rede en verstand begaafd. Het woord *engel* betekent eigenlijk *bode, afgezant.*
 
@@ -118,7 +118,7 @@ Het *getal* van de Engelen is zeer groot. Zij worden gewoonlijk verdeeld in *neg
 
 <span class=marginnote>
   <img src="resources/0605a.jpg">
-  <em>God heeft de mens geschapen, de ziel rechtstreeks, het lichaam onrechtstreeks. De Bijbel verzet zich uitdrukkelijk tegen de dierlijke afstamming van de ziel, dit mogen we echter niet zeggen van het lichaam.</em>
+  <em>De twee hoogten van de satan zijn paradijszonde en antichrist en hiertussen heeft hij een beperkte macht. De mens is een redelijk schepsel van God met sterfelijk lichaam en onsterfelijke ziel. Verschil tussen mens en dier: het instinct is niet blind, doch is bepaald tot enkele levensfuncties, en komt daar niet bovenuit. De dieren deden nooit vooruitgang - wel op de aanpassing - en het dier heeft tijd genoeg van ons af te kijken. God heeft de mens geschapen, de ziel rechtstreeks, het lichaam onrechtstreeks. De Bijbel verzet zich uitdrukkelijk tegen de dierlijke afstamming van de ziel, dit mogen we echter niet zeggen van het lichaam.</em>
 </span>
 A. **De ongehoorzame en hoogmoedige:** de Engelen die, gedurende hunn proeftijd, met zich aan God niet te willen onderwerpen, in hoogmoedigheid, en van daar in ongehoorzaamheid vielen, **zijn daaruit gedreven in de afgrond van de hel:** zijn, tot straf van hun zonde uit de hemel gejaagd, en in de afgrond geworpen van de plaats, waar God de verdoemden eeuwig straft. Van toen af genieten de getrouwe Engelen, tot loon van hun deugd, het geluk van God voor eeuwig te mogen aanschouwen.
 

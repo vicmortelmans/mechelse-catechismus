@@ -72,7 +72,7 @@ Na van het gebed in ’t algemeen gesproken te hebben, zal de Catechismus, in de
 V. **Het allerbeste gebed:** het volmaaktste of volkomenste; **het allerwaardigste:** het gebed dat hoven alle andere onze achting verdient.
 <span class=marginnote>
   <img src="resources/1701a.jpg">
-  <em>In zijn bergrede had Jezus zijn leerlingen gewaarschuwd tegen het huichelachtig bidden van de farizeeërs, hij had hen doen inzien hoe dwaas de heidenen handelen die de kracht van het gebed zochten in lange, nietszeggende woorden. Terwijl Jezus zich nu in gebed bevond, sprak een van zijn leerlingen: "Heer leer ons bidden, gelijk ook Johannes dat aan zijn leerlingen heeft geleerd. Hij nu zei hun: "Zo zult ge bidden, Onze Vader,..." Matth. VI, 9.</em>
+  <em>Het onze vader is A) ten opzichte van de deugd van hoop het kort begrip van hetgeen wij te hopen hebben, B) op zichzelf: 1ᵉ het allerbeste gebed: immers kort en klaar bevat het al wat wij mogen verlangen; 2ᵉ het allerwaardigste: gemaakt door Christus zelf, daarom gebed des Heeren. <br/>Geschiedkundige omstandigheden van het ontstaan van het onze vader.<br/>In zijn bergrede had Jezus zijn leerlingen gewaarschuwd tegen het huichelachtig bidden van de farizeeërs, hij had hen doen inzien hoe dwaas de heidenen handelen die de kracht van het gebed zochten in lange, nietszeggende woorden. Terwijl Jezus zich nu in gebed bevond, sprak een van zijn leerlingen: "Heer leer ons bidden, gelijk ook Johannes dat aan zijn leerlingen heeft geleerd. Hij nu zei hun: "Zo zult ge bidden, Onze Vader,..." Matth. VI, 9.</em>
 </span>
 
 A. Het allerbeste en allerwaardigste gebed is **het Gebed des Heren of de Pater noster,** in ’t Vlaams ook *Onze Vader* genoemd. Het heet: *Gebed des Heren,* omdat het gemaakt is van Christus zelf, wie op een bijzondere wijze de naam *onze Heer* gegeven wordt ([7ᵉ les, 7ᵉ v.](les-07.html#waarom-wordt-de-zoon-meer-onze-heer-genoemd-dan-god-de-vader)); *Pater noster* (letterlijk Vader Onze), omdat het in 't Latijn, en *Onze Vader,* omdat het in 't Vlaams met die woorden begint.
@@ -100,7 +100,7 @@ A. De *Onze Vader* bevat vooreerst een korte voorrede of voorbereiding, bestaand
 
 <span class=marginnote>
   <img src="resources/1703a.jpg">
-  <em>Dit algemeen vaderschap van God over alle mensen heeft als rechtstreeks gevolg de algemene broederschap van de mensen onderling. Zodus het woord *Onze Vader* bepaalt niet alleen onze plichten tegenover God, maar zelfs tegenover onze evenmens, een fundament voor de christelijke maatschappij.</em>
+  <em>De heidenen hielden de naam van hun godheden zorgvuldig verborgen. Bij de joden zelfs durfde men de naam van God Jahwe nauwelijks uitspreken. Maar nu in het Nieuwe Testament leert Christus ons dat wij God moeten vader noemen. Welke reden zal het voor ons zijn om een groot *betrouwen* te hebben op God en een bijzondere *liefde* voor hem te koesteren. Dit algemeen vaderschap van God over alle mensen heeft als rechtstreeks gevolg de algemene broederschap van de mensen onderling. Zodus het woord *Onze Vader* bepaalt niet alleen onze plichten tegenover God, maar zelfs tegenover onze evenmens, een fundament voor de christelijke maatschappij. <br/>Waar de vader verblijft, hoeft ook het kind te kunnen komen, dus in de voorrede van het onze vader ligt ook onze stemming besloten.</em>
 </span>
 V. **God** betekent hier, niet alleen God de Vader, maar de goddelijke natuur in de drie goddelijke Personen bestaande.
 
@@ -138,9 +138,9 @@ A. **God zelf:** de goddelijke natuur in de drie goddelijke Personen bestaande, 
 
 <span class=marginnote>
   <img src="resources/1706a.jpg">
-  <em>Het rijk Gods betekent hier vooral de H. Kerk en het genadeleven in de Kerk. Christus heeft dit rijk gesticht en zijn Apostelen, missionarissen en priesters, bijgestaan door de gelovigen, breiden dit rijk alom uit. Welnu, dit rijk op aarde wordt in het hiernamaals het rijk der hemelen genoemd.</em>
+  <em>Wij vragen dus in deze eerste vraag opdat God zou verheerlijkt worden zoals het behoort. God moet openbaar gehuldigd worden door heel de schepping: door de redeloze natuur, die het verplicht doet, en door de redelijke natuur, die het uit vrije wil doet. <br/>In de echte tekst staat er: "Toekome uw rijk". Adveniat regnum tuum, d.i. ook een der hoofdgedachten van het heilige Evangelie: de komst van het rijk Gods. Het rijk Gods betekent hier vooral de H. Kerk en het genadeleven in de Kerk. Christus heeft dit rijk gesticht en zijn Apostelen, missionarissen en priesters, bijgestaan door de gelovigen, breiden dit rijk alom uit. Welnu, dit rijk op aarde wordt in het hiernamaals het rijk der hemelen genoemd. Zodus wij bidden opdat het rijk Gods meer en meer worde uitgebreid (toekome uw rijk) en dat het dus vooreerst in onze ziel moge gevestigd worden door de heiligmakende genade opdat wij dan ook eens zouden kunnen opgaan naar het rijk der hemelen (ons toekome uw rijk).</em>
   <img src="resources/1706b.jpg">
-  <em>In de derde vraag van het Onze Vader vragen wij dat idereen God verheerlijkt door Gods wil bereidwillig te aanvaarden. De volmaaktheid hirin - een voorbeeld voor de wereld - wordt slechts gevonden in de hemel.</em>
+  <em>Dus in de eerste betekenis is die kreet een missiegebed, een gebed van de katholieke actie. <br/>In de derde vraag van het Onze Vader vragen wij dat idereen God verheerlijkt door Gods wil bereidwillig te aanvaarden. De volmaaktheid hirin - een voorbeeld voor de wereld - wordt slechts gevonden in de hemel.</em>
 </span>
 A. Zeggende **geheiligd zij uw naam,** drukken wij de begeerte uit, niet dat God heilig of heiliger worde, maar wel **dat God van ons en van alle mensen:** van de gelovigen en ook van al de andere mensen van deze aarde — **moge gekend:** door de rede en het Geloof als de enige ware God moge gekend en erkend, — **gediend:** met ware onderwerping van de wil aan de rede en de Openbaring moge erkend, — en door het dadelijk erkennen van zijn opperste majesteit moge **geëerd worden.** De woorden *gediend* en *geëerd* komen dus het voorgaande *gekend* bepalen.
 
@@ -170,7 +170,7 @@ Deze derde vraag is innig met de twee eerste verbonden: het derde dat wij van no
 
 <span class=marginnote>
   <img src="resources/1709a.jpg">
-  <em>Benevens het stoffelijk brood mogen wij hier ook denken aan het geestelijk brood van de ziel. Heel juist dus komt het pater noster voor de H. Communie in de misgebeden.</em>
+  <em>Zonder werkdadige angst voor de toekomst, zal het kind opzien tot zijn vader, vandaar deze betrouwvolle dagen. Benevens het stoffelijk brood mogen wij hier ook denken aan het geestelijk brood van de ziel. Heel juist dus komt het pater noster voor de H. Communie in de misgebeden.</em>
 </span>
 A. **Al hetgeen wij van node hebben tot kost:** om ons lichaam te spijzen, **kleren:** om ons lichaam te dekken, **gezondheid:** om deze te bewaren, als wij in goeden staat, en ze te herstellen, als wij ziek of zwak zijn, **en al andere dingen die het lichaam,** b.v. de fortuin en de voorspoed op deze wereld, **of de ziel aangaan,** zoals de heiligmakende en de dadelijke gratie, de HH. Sacramenten, de vergiffenis van de zonden, het woord Gods, enz; het tijdelijk goed nochtans alleen voor zoveel het dient tot profijt van onze zielen. Dit alles komt onder het woord *dagelijks brood,* aangezien dat wij daardoor gewoonlijk betekenen al hetgene wij meest nodig hebben.
 

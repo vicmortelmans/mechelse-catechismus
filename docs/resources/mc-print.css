@@ -24,7 +24,6 @@ h4 {
   font-size: 2rem;
   font-style: italic;
   letter-spacing: 0.03125em;
-  page-break-inside: avoid;
 }
 h5 {
   font-size: 2rem;
@@ -32,13 +31,15 @@ h5 {
   margin-top: 1rem;
   margin-bottom: 2rem;
   letter-spacing: 0.03125em;
+}
+.pagebreakcontrol {
   page-break-inside: avoid;
 }
-h4::after, h5::after { /* hack from https://stackoverflow.com/a/53742871/591336 */
+.pagebreakcontrol::after { /* hack from https://stackoverflow.com/a/53742871/591336 */
   content: "";
   display: block;
-  height: 1rem;
-  margin-bottom: -1rem;
+  height: 4em;
+  margin-bottom: -4em;
 }
 h6 {
   font-style: italic;
@@ -57,4 +58,8 @@ td.accolade {
 a:link, .tufte-underline, .hover-tufte-underline:hover {
   background: none;
   text-shadow: none;
+}
+p {
+  orphans: 2;
+  widows: 2;
 }
