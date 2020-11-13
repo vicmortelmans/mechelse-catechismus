@@ -190,7 +190,7 @@ Deze vraag ook komt op haar plaats: nadat wij van God de nodige middelen gevraag
 
 <span class=marginnote>
   <img src="resources/1711a.jpg">
-  <em>Het is mogelijk dat wij zwakke mensen nog geen vergiffenis geschonken hebben, maar dan vragen wij in het Onze Vader dat wij de kracht zouden hebben om vergiffenis te kunnen schenken. Zie parabel van de onbarmhartige dienstknecht, Matth. XVIII, 23-35.</em>
+  <em>Vergiffenis voor de zondeschuld, sterkte in en tegen de bekoring, verlossing van alle kwaad, dit zijn de laatste vragen van het onze vader. <br/>Deze tussenzin komt de tweede vraag scherper omlijnen. Wij zeggen tegen God: "Wij willen u door ons eigen gedrag bewijzen dat wij waardig willen zijn van uw vergiffenis. Die dus het onze vader bidden en die nog immer vastbesloten zijn geen vergiffenis te schenken, veroordelen zichzelf. Het is mogelijk dat wij zwakke mensen nog geen vergiffenis geschonken hebben, maar dan vragen wij in het Onze Vader dat wij de kracht zouden hebben om vergiffenis te kunnen schenken. Zie parabel van de onbarmhartige dienstknecht, Matth. XVIII, 23-35. Daar leert Jezus hoe wij vergiffenis moeten schenken: "Vergeef en u zal vergeven worden, want met de maat waarmee gij meet, zult gij ook gemeten worden."</em>
 </span>
 V. **Onze schuldenaren:** degenen die ons beleedigd, of ons hetzij in ons lichaam, hetzij in onze fortuin, hetzij in onze eer, hetzij in onze geestelijke goederen enig ongelijk aangedaan hebben.
 
@@ -204,7 +204,7 @@ Willen wij van God vergiffenis van onze schulden bekomen, dan moeten wij noodzak
 
 <span class=marginnote>
   <img src="resources/1712a.jpg">
-  <em>De bekoring is een noodzakelijke proef op onze getrouwheid. Telkens zelfs wanneer wij tegenover de plicht staan, is de bekoring daar, voor of tegen te kiezen.</em>
+  <em>Leidt ons niet in bekoring: Laat niet toe dat wij bezwijken onder de bekoring: geef sterkte, genade. Wij vragen niet: nooit bekoring, want dat ware een mirakel vragen, dat ware een engelennatuur vragen zonder erfzonde. De bekoring is een noodzakelijke proef op onze getrouwheid. Telkens zelfs wanneer wij tegenover de plicht staan, is de bekoring daar, voor of tegen te kiezen.</em>
 </span>
 V. Een **bekoring** is een uitwendige of inwendige zaak die ons tot zonde beweegt of aanlokt.
 
@@ -224,7 +224,7 @@ De 6ᵉ vraag staat in nauw verband met de 5ᵉ; de bekoringen, die ons tot zond
 
 <span class=marginnote>
   <img src="resources/1713a.jpg">
-  <em>Amen: het liturgische slotwoord, door de H. Kerk toegevoegd aan de gebeden, is een Hebreeuws woord, dat kan vertaald worden: het zij zo: ainsi-soit-il.</em>
+  <em>Door kwaad wordt hier verstaan: a) de kwade: duivel, b) het kwaad: lichamelijk kwaad (ziekte, ellende), zedelijk kwaad (de zonde).<br/>Amen: het liturgische slotwoord, door de H. Kerk toegevoegd aan de gebeden, is een Hebreeuws woord, dat kan vertaald worden: het zij zo: ainsi-soit-il.</em>
 </span>
 A. **Van alle kwaad,** zonder uitzondering, — **dat ons naar ziel of lichaam mag hinderen** ([9ᵉ v.](#wat-is-het-dagelijks-brood-dat-wij-begeren)), en zo de tijdelijke of de eeuwige welvaart beletten: wij vragen dus in 't algemeen, verlost te zijn van al hetgeen enigszins onze zaligheid zou kunnen schaden; van hetgeen ze *rechtstreeks* zou schaden met de ziel te hinderen, of *onrechtstreeks* met het lichaam te hinderen in die zaken welke de ziel aangaan. Strikt genomen, betekent **van de kwade,** in de laatste vraag van de Onze Vader, enkel *van de duivel;* doch, aangezien dat de duivel de eerste oorsprong is van alle kwaad, zo is de bovenstaande uitlegging voor volkomen goed te houden. De hele vraag: *maar verlos ons van de kwade,* komt dus hier op uit: in plaats dat Gij, o Vader, ons in bekoring zoudt leiden, verlos ons liever van alle kwaad.
 
@@ -234,6 +234,7 @@ Thans blijkt het klaar, hoe wij in de Onze Vader wezenlijk alles vragen wat wij 
 
 <span class=marginnote>
   <img src="resources/1799a.jpg">
+  <em>Indeling van het onze vader volgens de akten van geloof, hoop en liefde. Aanspraak: Onze (liefde) Vader (geloof) Die in de hemelen zijt (hoop).<br/>1ᵉ De dienst van God in zichzelf A) geloof: geheiligd zij uw naam, B) hoop: ons toekome uw rijk, C) liefde: uw wil geschiede. 2ᵉ Middelen die wij nodig hebben naar ziel en lichaam D) geef ons heden ons dagelijks brood. 3ᵉ Beletselen verwijderen E) zonden en schulden: en vergeef..., F) bekoring: en leid ons niet..., G) alle kwaad: maar verlos ons... Amen.</em>
 </span>
 Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — Hoe wordt zij verdeeld?
 

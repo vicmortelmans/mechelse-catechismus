@@ -50,7 +50,7 @@ subtitle: Van de Begroeting van de Engel of het Wees Gegroet
 
 <span class=marginnote>
   <img src="resources/1800a.jpg">
-  <em>Onze hoop uitgedrukt door het gebed gaat rechtstreeks naar de Schepper, de bron van alle goed: God. En dit zoveel te meer nu Christus ons geleerd heeft dat God voor ons een liefdevolle vader is: Onze Vader. Nochtans ons gebed mag ook gericht worden tot diegenen die innigst zijn verenigd met God. De vrienen van God. De zaligen in de hemel: door hen zullen wij van God verkrijgen wat wij hopen. Tussen al die vrienden van God is er niemand God zo innig lief als Maria, moeder van zijn Zoon. Daarom moet het gebed tot haar het bijzonderste gebed zijn na het Onze Vader.</em>
+  <em>Onze hoop uitgedrukt door het gebed gaat rechtstreeks naar de Schepper, de bron van alle goed: God. En dit zoveel te meer nu Christus ons geleerd heeft dat God voor ons een liefdevolle vader is: Onze Vader. Nochtans ons gebed mag ook gericht worden tot diegenen die innigst zijn verenigd met God. De vrienen van God. De zaligen in de hemel: door hen zullen wij van God verkrijgen wat wij hopen. Tussen al die vrienden van God is er niemand God zo innig lief als Maria, moeder van zijn Zoon. Daarom moet het gebed tot haar het bijzonderste gebed zijn na het Onze Vader.<br/>Wij zullen tot God gaan (onze vader) door Maria (wees gegroet) of zoals de catechismus zegt: ons gebed (onze vader) opdragen door Maria (wees gegroet).</em>
 </span>
 V. **Gemeenlijk:** meest altijd, volgens een algemeen gebruik.
 
@@ -73,11 +73,11 @@ A. De Wees Gegroet is niet, gelijk de Onze Vader, rechtstreeks tot God gericht, 
 <span class=marginnote>
   <img src="resources/1803a.jpg">
   <img src="resources/1803b.jpg">
-  <em>De christenen hebben het onze vader en de geloofsbelijdenis als gebed gebruikt lang vóór het weesgegroet. Van in de eerste eeuwen van de kerk had men reeds woorden uit het eerste deel van het weesgegroet gebruikt als aanroeping (schietgebed). Sedert de XIᵉ eeuw werd het bidden van het weesgegroet algemeen onder de gelovigen. Bemerk echter wel dat slechts het eerste deel van het weesgegroet toen gebeden werd. Langzamerhand kwam ook het kerkelijk smeekgebed bij het bijbels gedeelte van het weesgegroet.</em>
+  <em>Geschiedkundige omstandigheden van het ontstaan van het weesgegroet: 1) Hoe ontstond het weesgegroet in de heilige Schrift (evangelie Lucas 1:26-28, 1:39-55).<br/>De christenen hebben het onze vader en de geloofsbelijdenis als gebed gebruikt lang vóór het weesgegroet. Van in de eerste eeuwen van de kerk had men reeds woorden uit het eerste deel van het weesgegroet gebruikt als aanroeping (schietgebed). Sedert de XIᵉ eeuw werd het bidden van het weesgegroet algemeen onder de gelovigen. Bemerk echter wel dat slechts het eerste deel van het weesgegroet toen gebeden werd. Langzamerhand kwam ook het kerkelijk smeekgebed bij het bijbels gedeelte van het weesgegroet. In zijn tegenwoordige vorm werd het weesgegroet in onze streken gebeden sedert het midden van de XVIᵉ eeuw.<</em>
   <img src="resources/1803c.jpg">
-  <em>God is meer met Maria dan met andere mensen, doch dit heeft niet belet dat zij veel geleden heeft. O.L.V. had de erfzonde niet en moest derhalve niet lijden. Nochtans in het plan van de goddelijke voorzienigheid, wsa zij voorbeschikt om de medeverlosseres te zijn. Maria zou dus het lijden aanvaarden in vereniging met de Zoon van God, de grote lijder.</em>
+  <em>In de oorspronkelijke tekst van het weesgegroet klinken de woorden *vol van genade* als Maria's naam. Vol van genade kan absoluut gesproken slecht van Maria gezegd worden, inderdaad, geen enkel ogenblik van haar bestaan is zij onder de macht van de duivel geweest, geen enkel ogenblik was zi besmet met de erfzonde (onbevlekte ontvangenis).<br/>God is meer met Maria dan met andere mensen, doch dit heeft niet belet dat zij veel geleden heeft. O.L.V. had de erfzonde niet en moest derhalve niet lijden. Nochtans in het plan van de goddelijke voorzienigheid, wsa zij voorbeschikt om de medeverlosseres te zijn. Maria zou dus het lijden aanvaarden in vereniging met de Zoon van God, de grote lijder.</em>
   <img src="resources/1803d.jpg">
-  <em>Ook van Maria kunnen wij zeggen: 1° zij wil ons helpen, omdat zij onze moeer is, 2° zij kan ons helpen, 3° zij zal ons helpen. Liefde en trouw, nu in het leven en in het stervensuur.</em>
+  <em>Daarom noemen wij Maria de eerste christen. Gezegend zij de naam van Maria, maagd en moeder. Dit is ook reeds voorspeld in de vermaarde profesie van Jesaja "Over de maagd". Ook van Maria kunnen wij zeggen: 1° zij wil ons helpen, omdat zij onze moeer is, 2° zij kan ons helpen, 3° zij zal ons helpen. Liefde en trouw, nu in het leven en in het stervensuur (de bijstand van de stervenden, in de nood).</em>
 </span>
 De Begroeting van de Engel is gemaakt, niet door Christus zelf, gelijk de Onze Vader; maar deels door de Engel Gabriël; deels door Elizabeth, de nicht van Maria, en deels door Onze Moeder, de H. Kerk.
 
@@ -125,7 +125,7 @@ A. **Ten eerste, dat zij onder alle andere verkoren is om de Moeder Gods te zijn
 
 <span class=marginnote>
   <img src="resources/1807a.jpg">
-  <em>Zoals door Maria Jezus tot ons gekomen is, Jezus die de grootste genade is die er bestaat, zo wil nu ook Jezus dat de genade van zijn verlossing door Maria worden uitgedeeld.</em>
+  <em>Maria is de moeder van Jezus de verlosser. Door Jezus werden wij verlost en door Maria kwam Jezus ter wereld. Nu wij allen zijn in Jezus besloten (volgens het bovennatuurlijk leven). Wij kunnen dus zeggen dat Maria niete alleen de moeder is van de verlosser, maar ook de moeder van de verlosten (medeverlosseres). Een bijkomstige reden voor het moederschap van Maria over ons: "Vrouw, ziedaar uw zoon, zoon, ziedaar uw moeder." Wij aanzien Johannes als staande in onze plaats. <br/>Zoals door Maria Jezus tot ons gekomen is, Jezus die de grootste genade is die er bestaat, zo wil nu ook Jezus dat de genade van zijn verlossing door Maria worden uitgedeeld.</em>
 </span>
 A. De H. Maagd helpt ons 1° geheel ons leven dóór; maar 2° in het bijzonder in de uur van de dood.
 
