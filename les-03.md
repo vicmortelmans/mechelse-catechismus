@@ -48,14 +48,14 @@ subtitle: Van het Geloof
 
 <span class=marginnote>
   <img src="resources/0300a.jpg">
-  <em>Dat deze openbaring haar hoogtepunt bereikt heeft in Christus, die Godgezant bij uitstek en zonder twijfel God was.</em>
+  <em>De voornaamste waarheden die voorkomen in het katholieke geloof, m.a.w. de grondslagen van het katholieke geloof zijn: 1) Dat er *één God* bestaat. 2) Dat deze God zich heeft *veropenbaard*. 3) Dat deze openbaring haar hoogtepunt bereikt heeft in *Christus,* die Godgezant bij uitstek en zonder twijfel God was. 4) Dat hij voor zijn heengaan van de aarde een *kerk stichtte.* 5) Dat deze kerk uitsluitend de *Katholieke Kerk* is. 6) Dat deze Kerk tot hoofd heeft Petrus en zijn opvolgers *de Pausen.*</em>
   <img src="resources/0301a.jpg">
   <img src="resources/0301b.jpg">
   <em>Jezus Christus bestuderen wij in de evangeliën als historische documenten.</em>
   <img src="resources/0301c.jpg">
   <em>Vrij zijn: de mens is zedelijk verplicht te geloven, nochtans om verdiensten te kunnen hebben, moet hij vrij zijn, t.t.z. het moet altijd mogelijk zijn de openbaring te aanvaarden.</em>
   <img src="resources/0301d.jpg">
-  <em>Het geloof nochtans blijft en is redelijk, want de rede stelt vast dat de geloofspunten overeenkomen met de gegevens die toelaten iets voor redelijk te verklaren.</em>
+  <em>Omdat de schriftuur de innerlijke klaarblijkelijkheid van het geloofspunt [de 7 sacramenten] nergens aantoont. Nergens wordt de rede gedwongen het geloofspunt te aanvaarden. Het geloof nochtans blijft en is redelijk, want de rede stelt vast dat de geloofspunten overeenkomen met de gegevens die toelaten iets voor redelijk te verklaren. volgens de normen waarmee het verstand werkt, dus iets contradictorisch kan nooit geloofspunt zijn. Het geloof steunt vooral op de Godheid van Christus en de zending van de Heilige Kerk. </em>
 </span>
 V. De Catechismus spreekt hier van de *deugd,* en niet enkel van de *akte* van Geloof, om reden dat, alle deugd een genegenheid zijnde van de ziel tot een zeker goed werk, de beschrijving van een deugd noodzakelijk ook die bevat van de akte of het werk, waartoe zij ons genegen maakt, en het overigens, om God te behagen, niet voldoende is, Hem met eenige akten van Geloof te vereeren, maar daartoe de deugd zelve in ons vereist wordt; immers, een bovennatuurlijk einde, zoals de Hemel die God alleen toebehoort, kan niemand bereiken zonder bovennatuurlijke krachten, en deze bestaan hoofdzakelijk in de heiligmakende gratie en in de bovennatuurlijke deugden. De deugden zijn de bijzonderste middelen tot het goed; zonder deze kunnen wij wel het goed doen maar slechts onvolmaaktelijk en met moeite.
 
@@ -129,12 +129,12 @@ De onfeilbaarheid in de H. Kerk, behoort toe 1° aan de Paus van Rome, als Paus 
 
 <span class=marginnote>
   <img src="resources/0307a.jpg">
-  <em>De oudste geloofsbelijdenis komt voor in de Schrift, b.v. Handelingen 8:37. Wij onderscheiden de korte Romeinse geloofsbelijdenis en de lange geloofsbelijdenis. Deze laatste is nu nog in voegen en klimt op tot de helft van de IIᵉ eeuw. Lange geloofsbelijdenis, omdat ze christologische ontwikkeling vertoont.</em>
+  <em>Geloofsformulieren.<br/>1) Eenvoudigste: de 4 punten die wij moeten kennen uit noodzakelijkheid des middens, het 1ᵉ en 4ᵉ expliciet en het 2ᵉ en 3ᵉ impliciet (het bestaan van een opperwezen, belonen van het goede). 2ᵉ en 3ᵉ zijn ingesloten in het 1ᵉ; wij moeten God aanvaarden zoals Hij is (bi de meeste volkeren behoort dit tot de oerschat van de godsdienst, vooral het 3ᵉ - verlossing). <br/>2) Het symbolum. Het oudste symbolum komt voor in de Schrift, b.v. Handelingen 8:37. Wij onderscheiden de korte Romeinse symbolum en de lange symbolum. Deze laatste is nu nog in voegen en klimt op tot de helft van de IIᵉ eeuw. Lange symbolum, omdat ze christologische ontwikkeling vertoont. Het symbolum kent verder verschillende redacties volgens de noodwendigheden van die tijd, naargelang de ketterijen die dienden bestreden.</em>
   <img src="resources/0307b.jpg">
   <img src="resources/0307c.jpg">
-  <em>Bij de intellectuelen stijgt de kennis voortdurend, terwijl het geloof in de kinderschoenen blijft.</em>
+  <em>Oorzaken waardoor het geloof verloren wordt. Onwetendheid: fout niet te overdreven aan de school, maar verwaarlozing van de na-schoolse opleiding (Katholieke Actie). Bij de intellectuelen stijgt de kennis voortdurend, terwijl het geloof in de kinderschoenen blijft. Uitingen van het moderne leven die slecht aangewend worden: pers, dagbladen, boeken, cinema, radio, die ongeloof of twijfelzucht aankleven, die het geloof bestrijden of bespotten.</em>
   <img src="resources/0307d.jpg">
-  <em>Het geloof moet ons sociaal leven beinvloeden, d.w.z. wij zijn niet alleen gelovigen in huis, maar ook daarbuiten; vandaar dat een gelovige de strenge plicht heeft volgens zijn geloof te leven in bedrijf, ambt, intellectueel, economisch en politiek leven.</em>
+  <em>Noteer het is niet genoeg dat wij van het geloof niet afwijken, wij moeten ons geloof belijden en leven van ons geloof: 1) Het geloof moet ons individueel leven beïnvloeden (geen stuk apart van het leven). Ons geloof is niet alleen een kwestie van een heilige Mis 's zondags, maar eist a) daden van geloof: gebed, sacramenten, plichten van staat; b) geloofsgeest in al ons doen en laten, in voorspoed en beproeving; c) eist soms heldhaftigheid. 2) Het geloof moet ons sociaal leven beinvloeden, d.w.z. wij zijn niet alleen gelovigen in huis, maar ook daarbuiten; vandaar dat een gelovige de strenge plicht heeft volgens zijn geloof te leven in bedrijf, ambt, intellectueel, economisch en politiek leven. Daaruit vloeit dat we door ons geloof het katholieke midden moeten beïnvloeden (katholieke pers, boycot van slechte film, slechte radio), door ons geloof het ongelovige midden beïnvloeden. Hier is bijzonder het goed voorbeeld en de naastenliefde (plicht van apostolaat).</em>
 </span>
 V. De zin van de woorden **meest geloven** is hier niet *vaster geloven,* maar *uitdrukkelijker kennen en geloven.*
 

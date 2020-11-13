@@ -51,9 +51,9 @@ subtitle: Van de H. Schrift en van de Traditiën
 
 <span class=marginnote>
   <img src="resources/0401a.jpg">
-  <em>De Schrift is Gods woord en alsdusdanig is zij de waardigste bron, maar de voornaamste bron is de kerk, omdat het de kerk is die in laatste instantie de verklaring moet geven van de Schrift.</em>
+  <em>Wat gelooft men? (formulieren) Waaruit haalt ge dat? - uit de bronnen, d.i. praktisch voor de mensen: het onderwijs van de kerk; deze haalt het uit de heilige Schrift en traditie. Een dode en een levende bron, d.i. heilige Schrift en Traditie (dood) en Kerk (levend). Traditie is reeds een geschreven document en ook nog het geweten van de heilige Schrift.<br/>Bronnen: De Schrift is Gods woord en alsdusdanig is zij de waardigste bron, maar de voornaamste bron is de kerk, omdat het de kerk is die in laatste instantie de verklaring moet geven van de Schrift. (geschilpunt vooral tussen katholieken en protestantisme. <br/>Canon van 72 boeken: ingegeven door de Heilige Geest. Waarom zoveel? Hoe weet ge dat de Heilige Geest geïnspireerd heeft?</em>
   <img src="resources/0401b.jpg">
-  <em>De kerk heeft de canon samengebracht en had dit niet geweest, de protestanten hadden waarschijnlijk heel andere boeken genomen.</em>
+  <em>Wij omdat de kerk het ons zegt. De kerk heeft de canon samengebracht en had dit niet geweest, de protestanten hadden waarschijnlijk heel andere boeken genomen. Het criterium van een protestant is heel subjectief. Men heeft revelatie binnen en buiten de heilige Schrift, b.v. Heilige Drievuldigheid, O.L.Vrouw van Lourdes. Openbaring en ingeving; geheel de Schrift is geïnspireerd en buiten de Schrift zijn er ook zaken geïnspireerd, maar zijn geen dogma's, hierdoor wordt de heilige Kerk bijzonder verlicht. Geïnspireerde revelatie alleen in de heilige Schrift en gaat praktisch tot aan de dood van de laaatste apostel.</em>
 </span>
 V. De zin is: waaruit neemt de H. Kerk de leer, die zij ons als de goddelijke Openbaring voorhoudt: is het uit nieuwe goddelijke openbaringen, ofwel uit eenige bewijs of bewaarstukken van de gedane Openbaring?
 
@@ -102,7 +102,7 @@ Hier nochtans is een uitzondering te maken voor die overzettingen van de Bijbel 
 
 <span class=marginnote>
   <img src="resources/0406a.jpg">
-  <em>Gods woord moet de klaarheid zelf wezen. Rechtstreeks wel, maar onrechtstreeks heeft God gewerkt door mensen en deze waren soms heel onvolmaakt.</em>
+  <em>Gods woord moet de klaarheid zelf wezen. Rechtstreeks wel, maar onrechtstreeks heeft God gewerkt door mensen en deze waren soms heel onvolmaakt (kerkgemeenschap om te verklaren). De protestanten trekken hun grachten stilaan achteruig, van de Middeleeuwen tot de apostelen (dit merkt men door de toegevendheid aan de traditie). Sommigen zeggen zelfs dat Christus niet bestaan heeft; christendom zonder Christus. Le tour de force d' expliquer le chirstianisme sans le Christ. De traditie: ze is voor een groot deel geschreven, doch niet in de heilige Schrift.</em>
 </span>
 A. **Neen; maar zij is zeer duister,** zeer moeilijk om verstaan in **vele plaatsen,** en de oorzaak daarvan ligt in de verhevene waarheden die zij bevat, alsmede in onze onvolmaakte kennis van de talen, waar de Bijbel in geschreven is, en van de oude gebruiken die daarin vermeld worden; **en daarom is het zeer zorglijk,** zeer gevaarlijk **die te lezen voor ongeleerde mensen:** voor personen die in het Geloof, in de geschiedenis en in de taalkunde weinig ervaren zijn. 't Is om reden van de duisterheid van de H. Schrift en het daaruit voortvloeiend gevaar, dat de H. Kerk aan de gemeene lieden verboden heeft ze te lezen in de moederlijke taal.
 

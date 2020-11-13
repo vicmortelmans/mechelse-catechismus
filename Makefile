@@ -36,13 +36,17 @@ book:
 	  -c resources/mc.css \
 	  -c resources/mc-print.css \
 	  -f markdown \
-	  -t html5 > mechelse-catechismus.html
+	  -t html5 > body.html
 	wkhtmltopdf \
 	  -T 20 -R 10 -B 35 -L 10 \
-	  page mechelse-catechismus.html --footer-center [page] --footer-font-name ETBembo --footer-spacing 10 \
+	  page body.html --footer-center [page] --footer-font-name ETBembo --footer-spacing 10 \
 	  --enable-local-file-access \
 	  toc --xsl-style-sheet toc.xsl \
-	  mechelse-catechismus.pdf
+	  body.pdf
+	pdftk \
+	  mc-cover.pdf blank.pdf body.pdf blank.pdf blank.pdf \
+	  cat output mechelse-catechismus-1623.pdf
+	rm body.html body.pdf
 
 clean: 
 	rm -rf docs
