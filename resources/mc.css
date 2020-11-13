@@ -80,7 +80,8 @@ h2 {
   letter-spacing: 0.03125em;
 }
 strong {
-  -webkit-text-stroke: thin;
+  -webkit-text-stroke-width: 0.0625rem;
+  text-stroke-width: 0.0625rem;
   letter-spacing: 0.0625em;
 }
 p > em {
