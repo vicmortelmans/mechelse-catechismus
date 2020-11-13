@@ -40,6 +40,7 @@ subtitle: Van de eer en aanroeping van de H. Maagd Maria
 
 <span class=marginnote>
   <img src="resources/1900a.jpg">
+  <em>Sprekende over het weesgegroet en over O.L.V. wil de catechismus nu nog meer zeggen over de voorrechten van Maria. Ongetwijfeld ligt hier ook een apologetische bezorgdheid aan de grondslag van deze verhandeling. Deze les over de eredienst van O.L.V. zou even goed passen in het kader van de les over het eerste gebod.</em>
 </span>
 In de voorgaande les heeft de Catechismus gesproken van een bijzonder gebed tot Maria, te weten, van de Wees Gegroet; nu handelt hij van de eer en aanroeping van Maria in ’t algemeen, en wel omdat haar vereering een grote middel is ter zaligheid.
 
@@ -49,10 +50,11 @@ In de voorgaande les heeft de Catechismus gesproken van een bijzonder gebed tot 
 
 <span class=marginnote>
   <img src="resources/1901a.jpg">
-  <em>Als medeverlosseres heeft Maria moeten deelnemen ook in Christus' volkomen zegepraal over de dood. Ook hierin, de opstanding uit de dood en de daaropvolgende verheerlijking, is het lot van de zoon en dit van de moeder, van de verlosser en van de medeverlosseres, van de nieuwe Adam en van de nieuwe Eva, onafscheidbaar geweest.</em>
+  <em>De dood is een van de gevolgen van de erfzonde. Maria de onbevlekte ontvangenis moest dus niet sterven. Doch om gelijkvormig te worden aan haar zoon, heeft zij de dood ondergaan (dus niet als straf voor de zonden). Omdat Maria aanstonds overging tot het Leven, noemt men haar dood dikwijls een ontslapen, een overgang, een eengang. Voor de hemelvaart van Maria gelden de volgende redenen: 1ᵉ Als *medeverlosseres* heeft Maria moeten deelnemen ook in Christus' volkomen zegepraal over de dood. Ook hierin de opstanding uit de dood en de daaropvolgende verheerlijking is het lot van de zoon en dit van de moeder van de verlosser en van de medeverlosseres, van de nieuwe Adam en van de nieuwe Eva, onafscheidbaar geweest.<br/>Merk ook op dat het *lichaam* van Maria dat nooit de zonde had gekend aan het bederf niet mocht worden prijsgegeven, daarom werd ook Maria's lichaam met ziel verenigd aanstonds ten hemel opgenomen.</em>
   <img src="resources/1901b.jpg">
-  <em>Maria was ongeveer 72 jaar. Maria's lichaam werd begraven, het graf werd leeg gevonden als men het opende met een sterke rozengeur.</em>
+  <em>De geschiedkundige bewijzen voor Maria's hemelvaart zijn een derde reden. Nochtans omowille van het gebrek aan totale overeenstemming in de geschiedkundige bronnen, steunen wij op deze reden het minst. Maria's hemelvaart staat niet in de heilige Schrift. Wel in de Traditie. Verschil: sommigen zeggen dat Maria gestorven is te Efese (om dat daar Johannes woonde) of te Jeruzalem (de Apostelen waren aanwezig, Thomas afwezig?). Maria was ongeveer 72 jaar. Maria's lichaam werd begraven, het graf werd leeg gevonden als men het opende met een sterke rozengeur. Ten Hemel *Opname.*<br/>I. Beelden van Maria<br/>Het oudste beeld van Maria is het Orantebeeld. Het 2ᵉ beeld Maria zittende in haar hart een ronde en daarin het kindje Jezus. Dan het Byzantijnse beeld. Romaanse beelden. Gotische beelden.</em>
   <img src="resources/1901c.jpg">
+  <em>Renaissance (zwieren-zwaaien). Moderne (Lourdesstijl) dan van Maria Laach (Beuron). Laatste moderne beelden.<br/>II. Reliquieën. Geen rechtstreekst, wel onrechtstreekse. De meeste zijn totaal onrechtstreeks, t.t.z. van de plaats waar wij gewoond heeft of waar zij verschenen is.<br/>Maria's eredienst<br/>I. Gebeden tot Maria: 1) Weesgegroet. 2) Angelus. 3) Rozenhoedje, -krans. 4) Litanie van O.L.V. 5) Liturgische gebeden: a) getijden, b) magnificat, c) liturgische gezangen aangepast aan de tijd: 1) van de Advent tot Lichtmis: Alma Redemptoris, 2) van Lichtmis tot Pasen: Ave Regina, 3) Paastijd: Regina Cœli, 4) H. Drievuldigheid tot Advent: Salve Regina. Speciale zangen tot Maria: Ave Maris Stella, Stabat Mater.<br/>II. Heilige Missen en Novenen ter ere van Maria om Maria's voorspraak te gebeden.</em> 
 </span>
 V. Waar is Maria, de Moeder van Christus, sedert haar dood?
 
@@ -84,6 +86,7 @@ A. De H. Maagd kan ons helpen, niet gelijk God, door eigen macht, maar op de *tw
 
 <span class=marginnote>
   <img src="resources/1904a.jpg">
+  <em>3) De dag, de maand, de feestdagen vieren. 4) De beelden, medailles, reliquieën van O.L.Vrouw vieren. 5) Het schapulier of kleed van Maria dragen. 6) Bedevaarten ondernemen naar Maria's genadeoord. 7) De congregaties, broederschappen van Maria steunen, verspreiden (benevens de congregaties nog de broederschappen van Maria's eer). 8) De bijzondere godsvrucht tot Maria nog genoemd De Ware Godsvrucht, volgens de zalige Grignion de Montfort.</em> 
 </span>
 A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben, is **haar te aanroepen:** haar te erkennen als verheven zijnde boven alle schepselen, diensvolgens als koningin van hemel en aarde, en haar te smeken om voor óns te willen bidden, Om door dit aanroepen van Maria veel vrucht te bekomen, is het niet genoeg het van tijd tot tijd eens te doen; wij moeten het — **dikwijls:** dagelijks en zelfs meermaals daags, en **godvruchtig:** met bereidwilligheid en derhalve met eerbiedigheid en aandachtigheid doen, **zeggende de Wees Gegroet:** dit gebed is, onder opzicht van oorsprong zowel als van inhoud, het volmaaktste *om Maria te aanroepen:* zijn edele oorsprong hebben wij reeds in de 3ᵉ vraag van de voorgaande les leren kennen, en, wat de inhoud aangaat, het drukt de grootste eretitels van Maria uit, en vraagt dat zij ons nu en in het uur van de dood zou bijstaan; — **en andere gebeden,** Maria bijzonder aangenaam, zoals bare litanie en haar kerkelijk officie.
 
@@ -93,8 +96,9 @@ A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben,
 
 <span class=marginnote>
   <img src="resources/1905a.jpg">
-  <em>Wat zijn bedevaarten</em>
+  <em>Wat zijn bedevaarten<br/>Het zijn Godvruchtige bezoeken naar (verwijderde) geheiligde plaatsen ofwel om van God of van een daar vereerde heilige gunsten af te smeken, ofwel om dank te zeggen, ofwel uit geest van boete.<br/>Waarom is de bedevaart verdienstelijk. De grote moeite uit liefde tot God. Een akte van gebed en betrouwen. Het is een akte van groot geloof, geen menselijke opzicht in de bedevaartplaats. Vele van de plaatsen zin met grote aflaten verrijkt. Niettegenstaande dit alles kunnen sommige bedevaarten ontaarden tot misdaden. <br/>Enige voorname bedevaarten.<br/>De oudste bedevaarten zijn die naar het Heilig Land, naar het graf van Jezus Christus, Petrus en Paulus te Rome, naar Sint Jacob van Compostella in Spanje, naar de Heilige Driekoningen te Keulen, naar het Heilig Bloed te Brugge, naar Sint Martinus te Tours. Beroemd zijn de volgende Mariabedevaarten: O.L.V. Kevelaar in Duitsland, O.L.V. Einsiedeln in Zwitserland, O.L.V. Mariazell in Oostenrijk, Loreto in Italië, Montserrat in Spanje, Notre Dame de la Salette in Frankrijk, Lourdes in Frankrijk, Notre Dame de la Garde in Marseille.</em>
   <img src="resources/1905b.jpg">
+  <em>Sittard in Nederland. O.L.V. van Kazan in Rusland. O.L.V. van Częstochowa in Polen. O.L.V. van Guadalupe in Mexico. O.L.V. van Fatima in Portugal. O.L.V. van Luján in Argentinië. Oostakker, Halle, Scherpenheuvel, Dadizele, Bauraing, Banneux.</em>
 </span>
 A. **Voegende bij het gebed enige goede werken — tot haar eer,** dat is, tot voldoening van haar begeerte, de enige die zij heeft, van de geboden en raden Gods te zien volgen; dit inzicht immers strekt tot haar eer, daar men daardoor haar heiligheid en verhevenheid erkent en zich aan haar onderwerpt. Goede werken die men ter ere van de H. Maagd kan doen, zijn b.v. **vasten,** waaronder men niet uitsluitend het eigenlijk vasten, gelijk de H. Kerk het voorschrijft, maar ook alle versterving te verstaan heeft die men zich vrijwillig oplegt, of ten minste goedwillig aanvaardt; — **bedevaarten:** heilige reizen tot afgelegen plaatsen, waar God, de H. Maagd of de Heiligen op een bijzondere wijze geëerd worden; — **en andere diergelijke,** zoals te biechten gaan, ter ere van de H. Maagd licht ontsteken, en zelfs al onze goede en betamelijke werken, als wij ze doen met het inzicht van de wil Gods te volbrengen.
 
@@ -132,8 +136,7 @@ A. **Geenszins:** het bevat geen superstitie, — **het wordt genomen,** niet al
 
 <span class=marginnote>
   <img src="resources/1999a.jpg">
-  <em>Een heel bijzondere godsvrucht die in de laatste jaren meer om meer verspreid werd, is *De Ware Godsvrucht* volgens de zalige Grignion de Montfort. Hij is het die in belangrijke schriften vooral de volgende leer heeft verspreid: alles komt ons van Jezus door Maria, dus hoeven wij naar Jezus te gaan door Maria.</em>
-  <em>Hoe zal de onderwijzer de godsvrucht tot Maria bij de kinderen inprenten? 1° Dikwijls de gebedsintentie tot Maria aanbevelen; 2° De devotie van de 3 weesgegroeten onder de kinderen verspreiden om de zuiverheid door Maria te bewaren of te bekomen.</em>
+  <em>Een heel bijzondere godsvrucht die in de laatste jaren meer om meer verspreid werd, is *De Ware Godsvrucht* volgens de zalige Grignion de Montfort. Hij is het die in belangrijke schriften vooral de volgende leer heeft verspreid: alles komt ons van Jezus door Maria, dus hoeven wij naar Jezus te gaan door Maria. Deze theorie heeft deze zalige praktisch uitgewerkt. Iemand die leeft volgens die opvattingen moet van zijn leven een offerleven maken met, door en in Maria, die moet zijn al verdiensten heel belangeloos afstaan en in Maria's handen geven. Die devotie werd genoemd door de zalige zelf: "De Liefdeslavernij", voor verdere uitleg, zie de boeken van Grignion de Montfort. <br/>Hoe zal de onderwijzer de Godsvrucht tot Maria bij de kinderen inprenten? 1) Dikwijls de gebedsintentie tot Maria aanbevelen, trek dan bijzonder de aandacht op de zaterdag voor of op een feest van O.L.V. in mei en oktober. 2) De devotie van de drie weesgegroeten onder de kinderen verspreiden om de zuiverheid door Maria te bewaren of te bekomen.</em>
 </span>
 Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Wat onderzoekt de Catechismus in ieder van die delen ?
 
