@@ -46,7 +46,6 @@ book:
 	pdftk \
 	  mc-cover.pdf blank.pdf body.pdf blank.pdf blank.pdf \
 	  cat output mechelse-catechismus-1623.pdf
-	rm body.html body.pdf
 
 clean: 
 	rm -rf docs
