@@ -1,5 +1,6 @@
 body {
   background-color: #ffffff;
+  color: #000000;
 }
 section > h1, section > h2, header, footer, .searchbox {
   width: 100%;
@@ -62,4 +63,8 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
 p {
   orphans: 2;
   widows: 2;
+}
+strong {
+  -webkit-text-stroke-width: 0.01072rem;
+  text-stroke-width: 0.01072rem;
 }

@@ -42,7 +42,7 @@ subtitle: Van het Tweede Gebod
 
 <span class=marginnote>
   <img src="resources/2301a.jpg">
-  <em>Merk op dat de echte blasfemie gewoonlijk niet in de volkvloekwoorden te vinden is. De godslastering inderdaad komt veel meer voor in gesprekken en nog veel meer in slechte boeken en dagbladen. Soms wel in heel beschaafde vorm, zijn die woorden in elk geval wel verdacht, soms goed voorgedragen en stichten zo een geweldig kwaad. Meestal komt het neer op twijfel, spot, laster tegen God, Christus, de heiligen, de sacramenten, de kerk.</em>
+  <em>Het tweede gebod verbiedt de ongodsdienstigheid. De ongodsdienstigheid is een miskenning van Gods eer en recht, zij geschiedt ofwel:<br/>I. Rechtstreeks: 1) door 't breken van beloften, 2) door slechte eed, 3) door ontering van Gods naam; die ontering geschiedt A) door oneerbiedigheid (ijdel gebruik, ruwe woorden), B) door vervloeken (van God), kwaad afroepen, C) door de eigenlijke Godslastering of blasfemeren. <br/>II. Onrechtstreeks: 1) heiligschennis, 2) simonie. <br/>Merk op dat de echte blasfemie gewoonlijk niet in de volkvloekwoorden te vinden is. De godslastering inderdaad komt veel meer voor in gesprekken en nog veel meer in slechte boeken en dagbladen. Soms wel in heel beschaafde vorm, zijn die woorden in elk geval wel verdacht, soms goed voorgedragen en stichten zo een geweldig kwaad. Meestal komt het neer op twijfel, spot, laster tegen God, Christus, de heiligen, de sacramenten, de kerk.</em>
 </span>
 A. In het Tweede Gebod verbiedt God *in 't algemeen,* **alle oneer:** alle verachting en minachting, — **die de goddelijken naam aangedaan wordt,** waarmee God zelf of de goddelijke volmaaktheid (zie [17ᵉ les, vr. 5](les-17.html#wat-verstaat-gij-door-de-naam-gods)) beledigd worden; — oneer welke geschiedt: 1° **door blasfemeren,** 2° **door lichtvaardig zweren** of 3° **door breken van belofte.**
 
@@ -54,9 +54,9 @@ Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten 
 
 <span class=marginnote>
   <img src="resources/2302a.jpg">
-  <em>Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven.</em>
+  <em>De Volksvloekwoorden<br/>1) Op zichzelf hebben meestal die woorden geen Godslasterende betekenis en hun oorsprong was ook helemaal anders, b.v. God doeme mij: ik wil verdoemd zijn als ik dit of dat niet doe. De oorsprong is soms ook de eedformule: Par le sacré nom de Dieu je jure. <br/>2) Het is dus nodig dat men wel die echte betekenis inziet. Een juist geweten dient hierin gevormd. Op zichzelf is dus het volksvloekwoord dagelijkse zonde.<br/>3) Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven. Vergeet echter niet: veredel eerst uzelf!</em>
   <img src="resources/2302b.jpg">
-  <em>Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te gebruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
+  <em>4) Degene die uit loutere gewoonte dikwijls die vloekwoorden gebruiken, zijn op zonde verplicht die slechte gewoonte tegen te werken.<br/>5) Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te gebruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
 </span>
 V. **Blasphemie** betekent letterlijk *kwaadsprekerij;* **blasfemeren** is *kwaad van iemand zeggen.*
 
@@ -82,7 +82,7 @@ De H. Geschiedenis leert ons met welke schrikkelijke straffen God in het Oud Tes
 
 <span class=marginnote>
   <img src="resources/2303a.jpg">
-  <em>De eed zoals wij hem hier beschouwen is een Godsdienstige daad. Wanneer de eed alleen geschiedt bv. op de eer, op de grondwet, zonder de aanroeping of de getuigenis van God erbij te brengen, verliest de eed elke godsdienstige waarde en dan verplicht die eed nog doch slechts in de menselijke orde der dingen.</em>
+  <em>De eed zoals wij hem hier beschouwen is een Godsdienstige daad. Wanneer de eed alleen geschiedt bv. op de eer, op de grondwet, zonder de aanroeping of de getuigenis van God erbij te brengen, verliest de eed elke godsdienstige waarde en dan verplicht die eed nog doch slechts in de menselijke orde der dingen. <br/>De Godsdienstige eedformule luidt: "Bij God (en zijn heiligen), zo helpe mij God, zo waarlijk helpe mij God Almachtig." In een plechtige eed voor de kerk zegt men: "Zo helpe mij God en dit zijn heilig Evangelie (raak het Evangelie)".</em>
 </span>
 A. *Eed doen* of *zweren* is — **God of iets dat God merkelijk aangaat:** God zelf of alle andere zaken, die met God in een bijzonder innige verbintenis staan, zoals de Engelen en Heiligen, die zijn beste vrienden zijn: de H. Schrift en de HH. Sacramenten, die tot zijn kostelijkste gaven behoren: de hemel, de aarde, de zee, die zijn grootste natuurlijke werken uitmaken, — **nemen tot getuige van hetgene men zegt,** d.i. vragen om verslag te doen over hetgene wij bevestigen, opdat wij zouden kunnen bewijzen dat, hetgene wij zeggen, zeker en onbetwistelijk waar is.
 
@@ -114,7 +114,7 @@ De eed van Esaü, waardoor hij, om een spijs, zijn recht verkocht van eerstgebor
 
 <span class=marginnote>
   <img src="resources/2306a.jpg">
-  <em>Hieruit volgt dat bv. een fiscale eed waardoor een gelovige meer verplicht zou zijn dan een ongelovige, feitelijk onrechtvaardig is.</em>
+  <em>Hieruit volgt dat bv. een fiscale eed waardoor een gelovige meer verplicht zou zijn dan een ongelovige, feitelijk onrechtvaardig is. Verwar de eed niet met volksuitdrukkingen die dienen voor sterke bevestiging.</em>
 </span>
 A. **Die met eed bevestigen te doen,** d. i, die God tot getuige roepende van hun getrouwheid in het uitvoeren van hun voornemen of van hun belofte, verzekeren dat zij iets, door hen besloten of beloofd, zullen doen, — **dat kwaad en verboden is:** hetgene zonde is, of zelfs, wanneer er spraak is van iets te doen voor God, dat beter niet gedaan dan gedaan wordt; — en deze eed mag niet gehouden worden: en men mag zich niet aanzien als door deze eed verplicht zijnde. Zo b.v. doet men eed tegen de rechtvaardigheid, als men zweert dat men zijn vijand zal haten, want de haat is zonde; — of als men zweert, dat men maar juist ééns ’s jaars zal te biecht gaan; want dit is een zaak die God rechtstreeks aangaat en beter niet gedaan dan gedaan wordt.
 

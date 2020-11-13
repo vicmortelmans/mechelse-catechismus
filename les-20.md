@@ -53,7 +53,7 @@ subtitle: Van de Liefde
 
 <span class=marginnote>
   <img src="resources/2001a.jpg">
-  <em>De H. Paulus verklaart dat al zou men zelfs de gaven van wonderen en profecieën hebben, dit alles niets is zo men de liefde niet heeft. Daarbij zegt hij dat de liefde de uitmuntendste is van alle deugden, zij alleen blijft eeuwig. I Cor XIII.</em>
+  <em>Waaruit weten wij dat de liefde de voornaamste deugd is. 1ᵉ Uit de rede voorgelicht door het geloof. De liefde doet een beroep op mijn wil. Het geloof op het verstand. De wil is het grootste wat de mens heeft, de koninklijke wil van de mens. Geen enkel mens kan in mijn wil, alleen God en die wil niet. 2ᵉ uit de heilige Schrift. a) Het antwoord van Christus zelf: "Gij zult de Heer uw God beminnen met geheel uw hart, met geheel uw ziel en met geheel uw verstand, dit is het grootste en het eerste gebod, het tweede is daaraan gelijk, ge zult uw naaste beminnen gelijk uzelf, aan deze geboden hangt heel de Wet en de profeten." (Mt 12:47-40) b) De H. Paulus verklaart dat al zou men zelfs de gaven van wonderen en profecieën hebben, dit alles niets is zo men de liefde niet heeft. Daarbij zegt hij dat de liefde de uitmuntendste is van alle deugden, zij alleen blijft eeuwig. I Cor XIII.</em>
 </span>
 V. **Welke is de meeste:** tot het meeste en bijzonderste goed genegen makende, — **en de waardigste:** de meest achting verdienende, — **onder alle** goddelijke en zedelijke **deugden?** Daar alle deugd een genegenheid is van de ziel tot een zeker goed, moet die deugd de meeste en ook de waardigste zijn, die ons tot het meeste goed genegen maakt.
 
@@ -155,7 +155,7 @@ Opzichtens de *wijze* waarop zij gebeurden, verschillen deze drie bekendmakingen
 
 <span class=marginnote>
   <img src="resources/2010a.jpg">
-  <em>Men heeft de tien geboden veranderd. Van de twee eerste geboden heeft men er één gemaakt, en het laatste heeft men in twee delen gesplitst, wat nu het 9ᵉ en het 10ᵉ gebod is. Door die twee veranderingen heeft men er toch nog tien behouden.</em>
+  <em>Men heeft de tien geboden veranderd. Van de twee eerste geboden heeft men er één gemaakt, en het laatste heeft men in twee delen gesplitst, wat nu het 9ᵉ en het 10ᵉ gebod is. Door die twee veranderingen heeft men er toch nog tien behouden. <br/>Eert uw vader en uw moeder, opdat gij lang moogt leven op aarde. Het laatste deel van dit gebod heeft men weggelaten. Men heeft de geboden ook nog vereenvoudigd.</em>
   <img src="resources/2010b.jpg">
   <em>Wat moet ons bijzonder aansporen tot volmaakte getrouwheid aan de geboden? 1) Eerbied voor God: Hij is de Meester, wat de redeloze niet willoos doet, doen wij uit vrie wil. 2) Liefde tot God, Schepper, Verlosser, Einddoel. 3) Dankbaarheid. 4) Ons eigen belang: Natuurlijk voor de goede gang op de wereld.</em>
 </span>

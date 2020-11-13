@@ -84,7 +84,7 @@ A. **De afgoderij, de bijgeloof en de tooverij** strijden tegen het tweede deel 
 
 <span class=marginnote>
   <img src="resources/2103a.jpg">
-  <em>Vergeten wij niet dat 1° miljoenen mensen in de missielanden nog in afgoderij leven, 2° dat wij zonder er iets voor gedaan te hebben het geloof hebben gekregen en dus onze dankbaarheid moeten betuigen door offers en gebed voor de heidenen.</em>
+  <em>Vergeten wij niet dat 1° miljoenen mensen in de missielanden nog in afgoderij leven, 2° dat wij zonder er iets voor gedaan te hebben het geloof hebben gekregen en dus onze dankbaarheid moeten betuigen door offers en gebed voor de heidenen: Missieactie.</em>
 </span>
 A. **Beelden:** standbeelden of zelfs schilderijen, die ons een geest, een mens of iets anders voorstellen, — **of andere dingen:** alle andere geschapene wezens, zoals geesten, mensen, dieren, planten, de aarde, de zon, de maan, de sterren, enz., — **die gehouden worden voor God:** die door sommige mensen aanzien worden als waren zij goden, — **daar zij nochtans maar schepselen zijn:** alhoewel zij enkel schepselen Gods zijn.
 
@@ -112,7 +112,7 @@ Men bemerke hier, dat de duivel, als enkele geest, meer verstand en op de gescha
 
 <span class=marginnote>
   <img src="resources/2105a.jpg">
-  <em>Het raadplegen van waarzeggers kan grote zonde zijn, zo men inderdaad een bovennatuurlijk geloof aan die dingen hecht.</em>
+  <em>Het raadplegen van waarzeggers kan grote A) zonde zijn, zo men inderdaad een bovennatuurlijk geloof aan die dingen hecht, B) gedaan uit nieuwsgierigheid is het ook zonde, gewoon dagelijkse, C) gedaan uit [??] is het geen zonde. Doch in elk geval moet men opletten 1ᵉ voor ergernis, 2ᵉ voor een zekere natuurlijke aanleg tot lichtgelovigheid aan voorspellingen en wondergebeuren.</em>
 </span>
 V. **Tovenaars** zijn al degenen, die de duivel aanroepen, om door zijn hulp iets wonderbaars te kunnen verrichten of te weten, en **waarzeggers,** zijn die tovenaars, welke zich bijzonder toeleggen om, met de medewerking van de duivel, het verborgene of het toekomende te leren kennen.
 
@@ -164,6 +164,7 @@ Bij deze gewijde voorwerpen is nog het gewijd water te voegen, dat van in het be
 
 <span class=marginnote>
   <img src="resources/2108a.jpg">
+  <em>Materieel: ketter, hetgeen hij aanneemt wat in strijd is met de waarheid. Formeel: niet alleen di aanneemt, maar die aan zijn geloof twijfelt en het tegenovergestelde als waarheid kennen.</em>
 </span>
 V. **Hoe misdoen de Ketters,** die met hardnekkigheid de vervalste leer van Christus volgen, **tegen het Eerste Gebod?**
 
@@ -177,9 +178,9 @@ Als men als vals of ten minste als twijfelachtig, aanziet hetgeen een mens ons b
 
 <span class=marginnote>
   <img src="resources/2199a.jpg">
-  <em>De Vrijmetselarij en de Theosofie</em>
+  <em>De Vrijmetselarij.<br/>Oorspronkelijk aanvaarde de vrijmetselarij een soort deïsme of natuurlijke Godsleer (de Grote Architect). Zo bestaat het nu nog in de Engelse vrijmetselarij. De Europese-vastelandvrijmetselarij heeft echter elke band met de God verbroken en bestrijdt met alle mogelijke middelen, vooral met geheime middelen, elke geopenbaarde Godsdienst, doch vooral de Rooms-Katholieke Godsdienst. Alle anti-kerkelijke wetten welke in de landen werden gestemd, werden eerst besproken in de loge. In de laatste jaren is de invloed van de joden en het marxisme zeer groot geworden. De loge heeft geen geheimen omdat ze niets heeft.<br/>De Theosofie is veel verspreid in Nederland en een weinig in België. De Theosofen geloven aan de zielsverhuizing en zij verspreiden een gedacht over God dat in strijd is met de veropenbaring (Al-God).</em>
   <img src="resources/2199b.jpg">
-  <em>Het laatste en gevaarlijkste zijn de Atheïstenbonden of bonden der godloochenaars in den schoot van de communistische partij en min of meer bedekt in de schoot van de socialistische partij. Dezen hebben een grote organisatie voor de jeugd om tegen de godsdienst te staan.</em>
+  <em>Antroposofie.<br/>Dikwijls gaat Theosofie en spiritisme te samen.<br/>Krishnamurti.<br/>In de Walen is er uit het spiritisme en de Theosofie een nieuw geloof uitgebroken: het Antoinisme. 45 Tempels in ons land. Zij trachten door allerlei gebeden en bewegingen genezingen te bekomen. <br/>Het laatste en gevaarlijkste zijn de Atheïstenbonden of bonden der godloochenaars in den schoot van de communistische partij en min of meer bedekt in de schoot van de socialistische partij. Dezen hebben een grote organisatie voor de jeugd om tegen de godsdienst te staan.</em>
 </span>
 V. **Hoe moeten wij ons tot de Ketters gedragen,** om ons aan hun zonde niet schuldig te maken?
 

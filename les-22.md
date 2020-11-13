@@ -53,11 +53,11 @@ subtitle: Van het vereren van de Heiligen, van de heilige beelden en van de reli
 
 <span class=marginnote>
   <img src="resources/2200a.jpg">
-  <em>Deze les toont nog eens te meer dat onze catechismus gemaakt werd met een Apologetisch doel (geloofsverdediging). De ketters van de 16ᵉ eeuw bestreden geweldig de katholieke beelden en heiligenverering. Tegen de valse begrippen en vooroordelen van de ketters werd deze les opgesteld.</em>
+  <em>Deze les toont nog eens te meer dat onze catechismus gemaakt werd met een Apologetisch doel (geloofsverdediging). De ketters van de 16ᵉ eeuw bestreden geweldig de katholieke beelden en heiligenverering. Tegen de valse begrippen en vooroordelen van de ketters werd deze les opgesteld. De katholieken weten zo wel als iedereen dat Christus "Onze enige Middelaar" is. Doch zij weten ook dat Christus vrienden heeft: door en in hen vereren wij Christus God.</em>
   <img src="resources/2201a.jpg">
-  <em>Het vereren van de heiligen is zeker iets heel natuurlijks: wij trachten immers voorsprekers te hebben onder digenen die zeker reeds de vrienden van God zijn.</em>
+  <em>Wat is een heilige, hoe wordt iemand eerbiedwaardig, zalig, heilig verklaard, wat gevolg heeft dat voor de eredienst. <br/>Het vereren van de heiligen is zeker iets heel natuurlijks: wij trachten immers voorsprekers te hebben onder digenen die zeker reeds de vrienden van God zijn.<br/>De verering van de heiligen kan naar de wijze waarop die verering geschiedt onderscheiden worden in: a) private verering, naar ieders goedvinden; b) openbare verering, d.i. volgens de schikking van de heilige Kerk 1) voor een bepaalde streek, 2) voor de algemene kerk.</em>
   <img src="resources/2201b.jpg">
-  <em>Sommige heiligen worden bijzonder vereerd door een persoon, kerk, gemeente, stad, streek, land en bedevaartsoord.</em>
+  <em>Sommige heiligen worden bijzonder vereerd door een persoon, kerk, gemeente, stad, streek, land en bedevaartsoord.<br/>Men moet immer onderscheid maken tussen de patroon van een plaats en de titularis van de kerk. </em>
 </span>
 V. Het Eerste Gebod belast ons één God alleen te erkennen, te aanroepen en te dienen; nu, **is het tegen de eer Gods,** of strijdt het met dit Kerste Gebod: **dat wij de Heiligen,** de Engelen en de Gelukzaligen, — **eren,** over hun verhevenheid loven, — **of aanroepen:** hun bijstand of hun hulp afsmeken?
 
@@ -105,8 +105,9 @@ God de Vader wordt gewoonlijk voorgesteld onder de gedaante van een grijsaard, o
 
 <span class=marginnote>
   <img src="resources/2205a.jpg">
-  <em>De oudste beelden die wij bezitten zijn die: Christus de Goede Herder (catacomben), later wordt vooral afgebeeld Christus tronend in zijn majesteit. De oudste beelden van O.L.V. en van de heiligen zijn gewoonlijk in de Orante-houding (catacomben).</em>
+  <em>De oudste beelden die wij bezitten zijn die: Christus de Goede Herder (catacomben), later wordt vooral afgebeeld Christus tronend in zijn majesteit. De oudste beelden van O.L.V. en van de heiligen zijn gewoonlijk in de Orante-houding (catacomben). 1ᵉ De beelden van de primitieve christelijke kunst. 2ᵉ De Byzantijnse kunst, Romaanse, Gotische, Renaissance, Moderne. <br/>Ronde beelden zet me gewoonlijk in een nimbus of aureool. gewoonlijk dragen de beelden een eigen symboliek in de voorstelling, b.v. het marteltuig, de lelie, kerk of toren, boek, staf, palmtak, een remonstrans. Men onderscheidt in de beelden ook een orde. Het bijzonderste is het kruisbeeld, dan de andere afbeeldingen van Christus, van Maria, van de heiligen. Men onderscheidt nog een andere orde: gewone beelden, gewijde beelden, gekroonde, mirkuleuze beelden.</em>
   <img src="resources/2205b.jpg">
+  <em>De liturgische symboliek in de voorstelling van Maria en de heiligen.</em>
 </span>
 V. Genomen gelijk in deze vraag, is **knielen** een natuurlijk teken van onderwerping en van eerbied; ook **licht ontsteken** is van natuur wel geschikt om de eer te erkennen waardoor iemand schittert, om ons Geloof te betekenen, dat een licht is voor ons verstand; onze Hoop. die ons als een licht in de duisternissen verheugt; onze Liefde, die als een vuur in onze harten brandt. Wat men door **bidden** betekent, moet niet gezegd worden. — De Catechismus vraagt of *knielen, licht ontsteken of bidden,* wanneer dit vóór de beelden geschiedt. niet in strijd is met het Eerste Gebod, dat verbiedt *beelden of gelijkenissen te aanbidden of godsdienstig te eren.* ([20ᵉ les, vr. 10.](les-20.html#zeg-de-tien-geboden-gods))
 
@@ -137,9 +138,9 @@ Men bemerke, dat geheel deze leer over de verering van de beelden ook geldt voor
 
 <span class=marginnote>
   <img src="resources/2207a.jpg">
-  <em>De bijzonderste reliquieën zijn dezen die van Christus zelf zijn: het H. Bloed en het H. Kruis, de H. Rok van Trier en de H. Lijkwade van urijn, het bovenkleed van Jezus te Argenteuil.</em>
+  <em>De bijzonderste reliquieën zijn dezen die 1) van Christus zelf zijn: het H. Bloed en het H. Kruis, de H. Rok van Trier en de H. Lijkwade van urijn, het bovenkleed van Jezus te Argenteuil. 2) Die betrekking hebben met O.L.V. 3) Die betrekking hebben met de heiligen. <br/>De zakelijke waarde<br/>De rechtstreekse reliquieën: het lichaam. De onrechtstreekse a) die in nauw verband gestaan hebben met de heilige (kleren, boeken), b) voorwerpen die slechts weinig betrekking hadden met de heilige (vloer). Tegenwoordig is men heel streng voor het authenticeren (recht verklaren) van de reliquieën. Zo was het niet immer in de oudheid. Nu is er echter schriftelijke toelating van de bisschop vereist om een reliquie openbaar te laten vereren. <br/>Kunnen wij met vertrouwen reliquieën vereren aangezien er valse zijn?</em>
   <img src="resources/2207b.jpg">
-  <em>Trouwens wij vereren de reliquieën van de heiligen niet omdat zij innerlijk iets heiligs zijn, maar omdat zij toebehoren aan personen die om hun heiligheid vererenswaardig zijn. Het is dan ook van minder belang dat sommige reliquieën vals zijn. Immers de verering van de reliquie is een relatieve en gaat eigenlijk naar de persoon van de heilige.</em>
+  <em>1) Het aantal van die valse reliquieën is ontzachelijk verminderd. 2) De reliquieën van het heilig Kruis zijn speciaal onderzocht. Voor de overigen, zie hoger. 3) Trouwens wij vereren de reliquieën van de heiligen niet omdat zij innerlijk iets heiligs zijn, maar omdat zij toebehoren aan personen die om hun heiligheid vererenswaardig zijn. Het is dan ook van minder belang dat sommige reliquieën vals zijn. Immers de verering van de reliquie is een relatieve en gaat eigenlijk naar de persoon van de heilige.</em>
 </span>
 V. **Reliquieën,** betekent letterlijk *overblijfsels.*
 
