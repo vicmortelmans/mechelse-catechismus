@@ -55,7 +55,7 @@ subtitle: Van het Derde, Vierde en Vijfde Gebod van de H. Kerk
 
 <span class=marginnote>
   <img src="resources/2800a.jpg">
-  <em>Het derde gebod van de kerk spreekt over de kerkelijke boetewet.</em>
+  <em>Het derde gebod van de kerk spreekt over de kerkelijke boetewet. Hij bevat 1ᵉ de wet van vlees derven, 2ᵉ de vastenwet, 3ᵉ wij mogen daaraan toevoegen volgens de geest van die wet, de wet van versterving.<br/>Wie? begin zeven jaar tot †. Wat? hetgeen komt van de dieren (uitgezonderd waterdieren). Oxo is vlees. Wanneer? dagen door de kerk bepaald.<br/>II. Wie? 21 – 60. Wat? eensdaags volle goesting eten. Toegelaten 's morgens een weinig, bv. 2 boterhammen, 's avonds een collatie. Wanneer? Vasten, quatertemperdagen, vigiliedagen, Goede Zaterdag: er is een positieve wet die zegt tot 's middags geen vlees – nooit vasten.</em>
   <img src="resources/2800b.jpg">
   <em>Dranken breekt het vasten niet, dan alleen wanneer het waarlijk veel voedsel bevat (bier niet).</em>
 </span>
@@ -115,7 +115,7 @@ Verders gebiedt de H. Kerk ons nog, wekelijks twee dagen vlees te derven: nameli
 
 <span class=marginnote>
   <img src="resources/2804a.jpg">
-  <em>Zie prefatie van de vasten</em>
+  <em>Zie prefatie van de vasten. Het kwaad bedwingen, de geest verheffen, de ziel versterken, het eeuwig geluk.<br/>Wie niet behoeft te vasten moet dispensatie. 1ᵉ doen wat hem de dispensatie oplegt (nog vlees derven). Hij is absoluut niet ontslagen van de versterving: inwendige (moeilijkste), uitwendige (ook nuttig) uit liefde tot God.</em>
 </span>
 A. Wij trekken uit het vasten een *driedubbel* profijt:
 
@@ -133,7 +133,7 @@ David, Tobias, Judith, Esther, Daniël, het joodse volk, de Ninivieten en de Mac
 
 <span class=marginnote>
   <img src="resources/2805a.jpg">
-  <em>Keuze van een biechtvader</em>
+  <em>Priesters: macht tot biecht horen, wijding, geldig gebruik ervan. a) doodsgevaar - priester, b) gewoon geval - door jurisdictie van hun ambt, door gedelegeerde jurisdictie.<br/>Keuze van een biechtvader: 1ᵉ het grote voordeel voor de zieleleider en vruchtbare biecht van een gewoon biechtvader, 2ᵉ de absolute vrijheid in de keuze van gelijk welke biechtvader.</em>
 </span>
 V. **Aan wien:** aan welke priester, **zijn wij schuldig te biechten** volgens het Gebod van de H. Kerk, dat ons zegt: *gij zult uwen priester, ten minste ééns ’s jaars, uwe biecht spreken?*
 
@@ -151,7 +151,7 @@ Hier is ook aan te stippen, dat de pastoors hun macht van jurisdictie te deleger
 
 <span class=marginnote>
   <img src="resources/2806a.jpg">
-  <em>In doodzonde blijven leven is: a) onbetamelijk: het blijvende vijandschap tussen schepper en schepsel, weldoener en welged[ane], vader en kind; b) schadelijk: uw goede werken zijn zonder verdiensten; c) gevaarlijk: de dood komt als een dief in de nacht.</em>
+  <em>In doodzonde blijven leven is: a) onbetamelijk: het blijvende vijandschap tussen schepper en schepsel, weldoener en welged[ane], vader en kind; b) schadelijk: uw goede werken zijn zonder verdiensten; c) gevaarlijk: de dood komt als een dief in de nacht.<br/>Hoe dikwijls: 1. Volgens het Goddelijk gebod: a) na doodzonde en in gevaar van sterven, b) meermaals in 't leven. 2) Volgens het gebod van de heilige Kerk: a) als men in doodzonde gevallen is, b) ten minste alle jaren eens, geen bepaalde tijd, doch best voor de verplichte paascommunie, c) dikwijls in het leven (raad) ook voor dagelijkse zonden en onvolmaaktheden.</em>
   <img src="resources/2806b.jpg">
   <em>In het IVᵉ Concilie van Lateranen (1215) heeft de H. Kerk ter oorzake van de geestelijke verslapping van een groot aantal christenen, het nodig geacht de jaarlijkse biecht en communie voor te schrijven.</em>
 </span>
@@ -201,7 +201,7 @@ Men merke nog aan: 1° dat het Vijfde Gebod van de H. Kerk wederom niets anders 
   <img src="resources/2808a.jpg">
   <em>Pasen is de verjaartijd van de instelling. Pasen is de verrijzenis, en zoals Christus verrezen is, moeten ook de gelovigen verrijzen. Door welke woorden heeft Christus geboden ten minste van tijd tot tijd in zijn leven ... "Als gij het vlees van de Mensenzoon niet eet en zijn bloed niet drinkt, zult gij het leven niet hebben." Hoe heeft de H. Kerk dit bepaald: a) door de jaarlijkse paasplicht, b) zijne heiligheid Pius X in 't decreet *Quam Singulari*, 1910, heeft Christus' bevel verklaard in de zin van de veelvuldige en dagelijkse communie (niet als gebod, maar als een raad).</em>
   <img src="resources/2808b.jpg">
-  <em>De paus steunt op het parallellisme tussen de natuurlijke dagelijkse behoefte aan voedsel en de bovennatuurlijke dagelijkse behoefte aan voedsel --- Geef ons heden ons dagelijks brood.<br/>Het is af te keuren dat, zo iemand veelvuldig te communie gaat, dat hij lang zou wachten om te biechten te gaan, zelfs ook dan wanneer hij geen grote zonde bedrijft. Wij mogen immers niet vergeten dat het sacrament van de biecht op zichzelf sacramenteel vermeerdering van genade is.<br/>Het is zeker, biecht en H. sacrament van het Altaar zijn twee sacramenten die niet noodzakelijk met elkaar verbonden moeten zijn, maar het is toch normaal dat veelvuldige communie vergezeld zou gaan van een wel onderhouden biechtpraktijk.</em>
+  <em>De paus steunt op het parallellisme tussen de natuurlijke dagelijkse behoefte aan voedsel en de bovennatuurlijke dagelijkse behoefte aan voedsel --- Geef ons heden ons dagelijks brood.<br/>Het is af te keuren dat, zo iemand veelvuldig te communie gaat, dat hij lang zou wachten om te biechten te gaan, zelfs ook dan wanneer hij geen grote zonde bedrijft. Wij mogen immers niet vergeten dat het sacrament van de biecht op zichzelf sacramenteel vermeerdering van genade is.<br/>Het is zeker, biecht en H. sacrament van het Altaar zijn twee sacramenten die niet noodzakelijk met elkaar verbonden moeten zijn, maar het is toch normaal dat veelvuldige communie vergezeld zou gaan van een wel onderhouden biechtpraktijk.<br/>Men is niet meer nuchter wanneer men 1ᵉ na 12 uur 's nachts (zonneuur: 12 winter, 12¾ zomer), 2ᵉ iets van buiten de mond, 3ᵉ in de maag gebracht heeft, 4ᵉ dat verteerbaar is.</em>
 </span>
 V. **Wat is er van node — om wel te communiceren:** om wel het lichaam des Heren te nutten, wat *communiceren* (letterlijk, in gemeenschap komen) genoemd wordt, omdat de gelovigen, met het lichaam des Heren te nutten, allernauwst met Christus en met elkander verbonden worden?
 
@@ -219,9 +219,9 @@ Degenen, die in staat van doodzonde zijn, voldoen niet aan de vereisten om de H.
 
 <span class=marginnote>
   <img src="resources/2809a.jpg">
-  <em>Voor de eerste communie wordt door de kerk slechts vereist dat het kind het onderscheid weet tussen gewoon brood en de H. hostie en dat het onderwezen is in de bijzonderste waarheden van de Kerk. Ouders die zonder geldige reden hun kinderen van de eerste H. communie verwijderd houden, zondigen zwaar.</em>
+  <em>*Communiceren*<br/>Strikt noodzakelijke: 1) geloof (zonder uitzondering), 2) staat van genade (zonder uitzondering), ten minste niet bewust van doodzonde, 3) nuchter (uitzonderingen), 4) goed inzicht, ten minste impliciet (ingesloten).<br/>Wens: goede voorbereiding, goede dankzegging.<br/>Een priester die mis doet om 12 uur of ½ uur, moet nuchter zijn van 's nachts 12 uur.<br/>Een priester in Frankrijk die tuiniert, mag een weinig versterkende drank nemen tussen de missen in.<br/>Voor de eerste communie wordt door de kerk slechts vereist dat het kind het onderscheid weet tussen gewoon brood en de H. hostie en dat het onderwezen is in de bijzonderste waarheden van de Kerk. Ouders die zonder geldige reden hun kinderen van de eerste H. communie verwijderd houden, zondigen zwaar.</em>
   <img src="resources/2809b.jpg">
-  <em>Zijne heiligheid de Paus zegt dat zij die moeten oordelen over de bekwaamheid van het kind om te kunnen te communie gaan: of de pastoor, of de biechtbader, of de ouders (onderwijzers). Als de ouders denken dat hun kind genoeg onderwezen is, mag het kind te communie gaan.</em>
+  <em>Zijne heiligheid de Paus zegt dat zij die moeten oordelen over de bekwaamheid van het kind om te kunnen te communie gaan: of de pastoor, of de biechtbader, of de ouders (onderwijzers). Als de ouders denken dat hun kind genoeg onderwezen is, mag het kind te communie gaan.<br/>Er zijn vele slechte boeken die op de index niet staan met hun naarm, b.v. Paul de Kock (voor nr. 9 algemene wetten).</em>
 </span>
 V. In wat ouderdom begint het Gebod van ééns 's jaars het lichaam des Heren te nutten, voor de gelovigen verplichtend te worden?
 

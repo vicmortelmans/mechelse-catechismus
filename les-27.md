@@ -80,7 +80,7 @@ De H. Kerk wordt in de algemene wetten, die zij aan geheel de katholieke wereld 
 
 <span class=marginnote>
   <img src="resources/2704a.jpg">
-  <em>De kerk heeft van haar stichter de wetgevende macht ontvangen (Math 18:18). Al wat gij zult binden... Wie u aanhoort, aanhoort mij... Leert hen, onderwijst hen... Wie naar de kerk niet luistert, hij zij u als een heiden of tollenaar.</em>
+  <em>Heeft de kerk het recht geboden op te leggen.<br/>1ᵉ reden, 2ᵉ schrift: de kerk heeft van haar stichter de wetgevende macht ontvangen (Math 18:18). Al wat gij zult binden... Wie u aanhoort, aanhoort mij... Leert hen, onderwijst hen... Wie naar de kerk niet luistert, hij zij u als een heiden of tollenaar.</em>
 </span>
 V. **Zijn wij,** die door het Doopsel aan de H. Kerk toebehoren, en tot de jaren van verstand gekomen zijn, — **schuldig:** op zonde verplicht, — **de Geboden van de H. Kerk te onderhouden?**
 
@@ -125,9 +125,9 @@ Om nu het volgend Gebod van de H. Kerk: *dan ook Mis horen met goede manieren,* 
 
 <span class=marginnote>
   <img src="resources/2706a.jpg">
-  <em>Onmogelijk mis te horen met de radio, alhoewel we dat heel goed vinden voor mensen die niet anders kunnen.<br/>Eerbied en aandachtigheid zullen zoveel te gemakkelijker verwezenlijkt worden wanneer wij de H. mis begrijpen. Wij moeten immers de H. mis meeleven en beleven. *Meeleven:* 1ᵉ meebidden met de priester, 2ᵉ mee offeren met de priester, 3ᵉ deelname door communie (geestelijke of werkelijke). *Beleven:* de genaden van de H. mis vruchtbaar maken gedurende de dag.</em>
+  <em>Onmogelijk mis te horen met de radio, alhoewel we dat heel goed vinden voor mensen die niet anders kunnen.<br/>Pater Coughlin is na Roosevelt wel de machtigste van de Verenigde Staten door zijn radio (autokapel).<br/>In open lucht: ge hoort mis zolang ge met de massa één blok vormt (b.v. bij congressen, ge moet het altaar daarom niet zien of horen.<br/>Hoort ge mis in 't sacristie (soms dat hangt af naar de bouw); in 't portaal: ja, normaal gesproken wel (ze zullen gewoonlijk geen mis horen door de geestelijke afsluiting)<br/>Eerbied en aandachtigheid zullen zoveel te gemakkelijker verwezenlijkt worden wanneer wij de H. mis begrijpen. Wij moeten immers de H. mis meeleven en beleven. *Meeleven:* 1ᵉ meebidden met de priester, 2ᵉ mee offeren met de priester, 3ᵉ deelname door communie (geestelijke of werkelijke). *Beleven:* de genaden van de H. mis vruchtbaar maken gedurende de dag (hulp in de bekoring, sterkte om het goede te doen, levensblijheid).</em>
   <img src="resources/2706b.jpg">
-  <em>Wij houden eraan dit bijzonder voor te schrijven aan de opvoeder van onze jeugd en voor zijn eigen geestelijk leven en tot voorbeeld van diegenen die hem zullen toevertrouwd worden.</em>
+  <em>Wij houden eraan dit bijzonder voor te schrijven aan de opvoeder van onze jeugd en voor zijn eigen geestelijk leven en tot voorbeeld van diegenen die hem zullen toevertrouwd worden.<br/>Men moet aanwezig zijn als de priester de pateen opheft (suscipe sancte pater).<br/>De heilige Kerk heeft een grote voorliefde voor de hoogmis in de parochiekerk. Zij zet ons aan die mis te horen. 1ᵉ Omdat die speciaal gedaan wordt voor de parochianen. 2ᵉ Omdat in die mis geschiedt de homilie of preek op het heilig Evangelie en aangepast op de parochie. 3ᵉ Omdat de aanwezigheid in die mis, beter dan waar ook, een openbare belijdenis is van geloof, de parochiale geest en parochiale samenhorigheid bevordert. 4ᵉ Omdat er telkens een aflaat van 7 jaar en 7 quadragenen aan de hoogmis verbonden is. Op de grote feestdagen een volle aflaat.</em>
 </span>
 V. **Hoe moeten wij Mis horen,** of wat is er te verstaan door de woorden: *goede manieren* in het Gebod van de H. Kerk dat zegt: *dan ook Mis horen met goede manieren?*
 

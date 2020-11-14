@@ -64,9 +64,9 @@ Dus, om schuldig te zijn aan een zonde tegen het Zevende of Tiende Gebod, moet m
 
 <span class=marginnote>
   <img src="resources/2602a.jpg">
-  <em>De rechtvaardigheid eist dat in normale omstandigheden de patroon aan een normale werkman of bediende zulkdanig loon uitkeert dat het volstaat om hem en hun huisgezin volgens hun sociale stand te onderhouden, d.i. wat wij noemen het familieloon. Bemerken wij nochtans dat kindertoeslag geen strikt recht is, maar een eis is die door elke gezonde sociale wetgeving gesteld wordt. Van zijn kant komt de werkman of dienstbode aan de rechtvaardigheid te kort, wanneer hij zijn werk niet behorlijk of ten volle verricht na een vrij aangegaan verdrag --- dagdieverij. Zo bedrijft ook de onderwijzer een zonde van onrechtvaardigheid, wanneer hij zijn ambtsplichten verwaarloost.</em>
+  <em>Rechtvaardigheid in het loon.<br/>1) De rechtvaardigheid eist dat in normale omstandigheden de patroon aan een normale werkman of bediende zulkdanig loon uitkeert dat het volstaat om hem en hun huisgezin volgens hun sociale stand te onderhouden, d.i. wat wij noemen het familieloon. Bemerken wij nochtans dat kindertoeslag geen strikt recht is, maar een eis is die door elke gezonde sociale wetgeving gesteld wordt. 2) Van zijn kant komt de werkman of dienstbode aan de rechtvaardigheid te kort, wanneer hij zijn werk niet behorlijk of ten volle verricht na een vrij aangegaan verdrag --- dagdieverij. Zo bedrijft ook de onderwijzer een zonde van onrechtvaardigheid, wanneer hij zijn ambtsplichten verwaarloost, d.i. dat door zijn schuld het onderwijs slecht, slordig en onbetamelijk gegeven wordt --- strenge gewetensplicht.</em>
   <img src="resources/2602b.jpg">
-  <em>Manchesterianisme (liberalen), d.i. theorie van de vrije vraag en aanbod. Op de 100 jaar 12 jaar meer vraag dan aanbod naar werklieden. Tegen het Manchesterianisme hebben de werklieden zich gesyndiceerd. Ook de patronen hebben zich gesyndiceerd.</em>
+  <em>Manchesterianisme (liberalen), d.i. theorie van de vrije vraag en aanbod. Op de 100 jaar 12 jaar meer vraag dan aanbod naar werklieden. Tegen het Manchesterianisme hebben de werklieden zich gesyndiceerd. Ook de patronen hebben zich gesyndiceerd.<br/>1) Schat vinden, zomaar opeens (voor u). 2) Gevonden en dan gekocht (niet voor u). 3) Werken bij iemand anders en vinden (ieder de helft).<br/>1) Schilderij (25 fr.) privaat huis; hij ontdekt na afwassen dat het 2500 fr. waard is (tenminsten 500 fr. teruggeven). 2) Op een verkoopdag --- niets teruggeven. Woeker, en iemand die door zijn eigen fout zijn schulden niet kan betalen. Geld was vroeger een ruilmiddel, nu is het kapitaal.</em>
 </span>
 A. **Eens anders goed stelen:** de evennaaste zijn tijdelijk goed tegen zijn redelijken wil ontnemen, of dit op die wijze wederhouden. Judas heeft zich aan diefte schuldig gemaakt, toen hij heimelijk de kas bestool van de liefdegiften, welke aan de Zaligmaker en aan zijn leerlingen tot hun onderhoud gedaan werden.
 
@@ -100,7 +100,7 @@ Met uitsluitend om het lenen meer wederom te eisen dan men geleend had, zondigt 
 
 <span class=marginnote>
   <img src="resources/2604a.jpg">
-  <em>Simonie gebeurde in de middeleeuwen op grote schaal; en dit voor het verkopen van kerkelijke ambten. Nu gebeurt er haast geen simonie meer.</em>
+  <em>Simonie gebeurde in de middeleeuwen op grote schaal; en dit voor het verkopen van kerkelijke ambten. Nu gebeurt er haast geen simonie meer. <br/>Administratiekosten mag tot geen simonie gerekend worden (als men dispensaties aanvraagt).<br/>Simonie is een zonde die eerst en vooral strijd tegen het 2ᵉ gebod (tegen alle ongodsdienstigheid).</em>
 </span>
 V. Door **geestelijke zaken** moet hier verstaan worden: a) al hetgeen door zichzelf of door de instelling van God of van de H. Kerk tot zaligmaking van onze zielen en tot de dienst Gods bestemd is; b) ook nog al hetgeen innig met zulke voorwerpen verbonden is. — Tot de eerste soort van geestelijke zaken behoren, 1° Gods gratie, het merkteken van de HH. Sacramenten, enz.; 2° de HH. Sacramenten en de wijdingen van de H. Kerk, de aflaten, de geestelijke ambten en de gebeden; 3° de bediening van de HH. Sacramenten en van de geestelijke ambten. — In de tweede soort vinden wij: 1° stoffelijke voorwerpen, zoals kerken, kelken, kerkgewaden, medailles, rozenkransen; 2° de arbeid die de heilige bedieningen vereisen, en 3° de tijdelijke goederen welke aan een geestelijk ambt vastgehecht zijn.
 
@@ -128,7 +128,7 @@ Het Vijfde Gebod spreekt van het *leven* van de naaste; het Zesde, van het *huis
 
 <span class=marginnote>
   <img src="resources/2606a.jpg">
-  <em>Bij n°1 sluit aan het beroepsgeheim, d.i. waardoor iemand uit hoofde van zijn beroep moet zwijgen, zelfs voor de rechter. De bijzonderste zijn: een notaris, geneesheer, advokaat en een priester.</em>
+  <em>De waarheid verzwijgen is zonde in de volgende omstandigheden.<br/>Bij n°1 sluit aan het beroepsgeheim, d.i. waardoor iemand uit hoofde van zijn beroep moet zwijgen, zelfs voor de rechter. De bijzonderste zijn: een notaris, geneesheer, advokaat en een priester. Priester (geen uitzondering), advokaat (misschien na de dood), geneesheer (zeer streng: tering, trouwen), notaris (familiezaken, moet zwijgen).</em>
 </span>
 A. Men misdoet, **in het recht,** vóór de rechtbanken, op *twee manieren* tegen het achtste Gebod:
 
@@ -144,7 +144,7 @@ Valse getuigenissen in het recht gaven: de vrouw van Putiphar, die de kuisen Joz
 
 <span class=marginnote>
   <img src="resources/2607a.jpg">
-  <em>De leugen. Hier hebben we te doen met zonden die feitelijk tegen de rechtvaardigheid ingaan. Het is onrechtvaardig de eer en de faam te ontnemen. Dit achtste gebod verbiedt ons niet alleen die faam te ontnemen van anderen, maar ook zorg te dragen voor onze eigen goede naam.</em>
+  <em>In het gewone leven wordt er op de volgende manier gezondigd tegen het 5ᵉ: 1) belediging, achterklap, 2) laster, 3) kwaadspreken, 4) kwaad vermoeden, 5) lichtvaardig oordelen, 6) leugentaal.<br/>NOTA: De leugen. Hier hebben we te doen met zonden die feitelijk tegen de rechtvaardigheid ingaan. Het is onrechtvaardig de eer en de faam te ontnemen. Dit achtste gebod verbiedt ons niet alleen die faam te ontnemen van anderen, maar ook zorg te dragen voor onze eigen goede naam. Hier sluit bij aan: het schenden van geheimen.</em>
 </span>
 A. Men misdoet **meest** (ten grofste) **buiten het recht:** buiten de wettige rechtbanken, op *vier* manieren tegen het Achtste Gebod:
 

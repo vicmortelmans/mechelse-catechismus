@@ -49,7 +49,7 @@ subtitle: Van het Heilig Sacrificie van de Mis
 
 <span class=marginnote>
   <img src="resources/3300a.jpg">
-  <em>Het offer in 't algemeen. De natuurwet leert, dat de mens aan ieder moet geven wat hem toekomt, door het geloof en de rede weten we dat de mens tegenover God staat als schepsel tegenover Schepper. En uit de geschiedenis van het menselijk geslacht weten we dat de mens tegeonver God staat als beledigende tegenover beledigde. Reeds uit die eerste betrekking vloeit de plicht van erkenning, m.a.w. de Gods-dienst, de eredienst. Welnu het uiterlijk en sociaal teken van de eredienst is het sacrificie, heilig offer.</em>
+  <em>Het offer in 't algemeen. <br/>De natuurwet leert, dat de mens aan ieder moet geven wat hem toekomt, door het geloof en de rede weten we dat de mens tegenover God staat als schepsel tegenover Schepper. En uit de geschiedenis van het menselijk geslacht weten we dat de mens tegeonver God staat als beledigende tegenover beledigde. Reeds uit die eerste betrekking vloeit de plicht van erkenning, m.a.w. de Gods-dienst, de eredienst. Welnu het uiterlijk en sociaal teken van de eredienst is het sacrificie, heilig offer.<br/>Missio – wegzending, dat woordje zou ingedrongen zijn omdat er vroeger twee keer ite missa est gezegd werd (offerande, gelijk nu). Twee oudere woorden zijn: *de synaxis* = de heilige handelingen, *de liturgie* = nu nog bij de Grieken.</em>
   <img src="resources/3300b.jpg">
   <em>Gebed, onderricht, menselijk offer, goddelijk offer, Hemels gastmaal --- *mijn gave wordt Gods gave*</em>
   <img src="resources/3300c.jpg">
@@ -91,7 +91,7 @@ Het betaamde dat het Sacrificie van de Nieuwe Wet zo edel was, omdat het dienen 
 
 <span class=marginnote>
   <img src="resources/3303a.jpg">
-  <em>De Heilige Communie vraagt niet alleen voorbereiding en dankzegging, maar ze vraagt ook een goede benuttiging. Dit is dat wij gedurende de dag van en volgens onze Communie zouden leven, onze Heilige Communie zouden beleven.</em>
+  <em>Communie-gemeenschap<br/>1) moreel: de vriendschap, gastvrijheid, 2) fysiek: gewoon: een deel van het heilige gaat over in al degenen die deelnemen aan de dis, speciaal: dat sacrum is de gastheer zelf.<br/>De Heilige Communie vraagt niet alleen voorbereiding en dankzegging, maar ze vraagt ook een goede benuttiging. Dit is dat wij gedurende de dag van en volgens onze Communie zouden leven, onze Heilige Communie zouden beleven.<br/>Dwaling van Jan Hus (concilie van Trente 1563): Christus niet volledig onder de gedaante van brood.</em>
 </span>
 V. Welke zijn de delen van het Sacrificie van de Mis, zonder dewelke het niet zou bestaan, of ten minste niet meer volkomen zou wezen?
 
