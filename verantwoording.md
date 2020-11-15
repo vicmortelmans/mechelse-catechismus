@@ -12,7 +12,7 @@ Het boek lag al jarenlang in een antieke koffer, gevuld met oude missaals en and
 
 Het is een catechismus en heet voluit *Beknopte verklaring van den Mechelse Catechismus ten gebruike van het middelbaar onderwijs, *uitgegeven in bisdom Gent in 1932. Mijn grootvader, Cyriel Houben (1918-1984) gebruikte dit boek tijdens zijn opleiding aan de normaalschool van Sint-Niklaas van 1933 tot 1937, de hoogtijdagen van het katholiek militantisme. 
 
-De uitgavedatum betreft vooral de verklarende teksten. De eigenlijke catechismus, samengesteld uit vragen en antwoorden, gaat terug tot 1623. Toen schreef Guilielmus de Pretere sj zijn *Catechismus oft christelijcke leeringe ghedeyldt in viif deelen ende een-en-veertich lessen, voor de catholijcke ionckheydt van het artschbischdom ende alle de andere bischdommen der Provincie van Mechelen*. In de online publicatie zijn ook afbeeldingen uit de oorspronkelijke cathismus opgenomen.
+De uitgavedatum betreft vooral de verklarende teksten. De eigenlijke catechismus, samengesteld uit vragen en antwoorden, gaat terug tot 1623. Toen schreef Guilielmus de Pretere sj zijn *Catechismus oft christelijcke leeringe ghedeyldt in viif deelen ende een-en-veertich lessen, voor de catholijcke ionckheydt van het artschbischdom ende alle de andere bischdommen der Provincie van Mechelen*. In de online publicatie zijn ook afbeeldingen uit de oorspronkelijke catechismus opgenomen.
 
 # Normaalschool
 
