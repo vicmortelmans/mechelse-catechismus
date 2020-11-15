@@ -97,6 +97,11 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
+ <loc>https://mechelse.gelovenleren.net/backcover.html</loc>
+ <lastmod>2020-11-15</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
  <loc>https://mechelse.gelovenleren.net/les-38.html</loc>
  <lastmod>2020-11-11</lastmod>
  <changefreq>weekly</changefreq>
@@ -162,6 +167,11 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
+ <loc>https://mechelse.gelovenleren.net/boek.html</loc>
+ <lastmod>2020-11-15</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
  <loc>https://mechelse.gelovenleren.net/les-01.html</loc>
  <lastmod>2020-11-11</lastmod>
  <changefreq>weekly</changefreq>
@@ -173,7 +183,7 @@
 </url>
 <url>
  <loc>https://mechelse.gelovenleren.net/verantwoording.html</loc>
- <lastmod>2020-11-11</lastmod>
+ <lastmod>2020-11-15</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>

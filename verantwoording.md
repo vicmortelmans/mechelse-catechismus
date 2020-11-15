@@ -52,6 +52,8 @@ De catechismus op zich is *droge kost*, maar als je daarnaast wat grasduint in d
 
 Als deze publicatie iets mag verwezenlijken, hoop ik dat ze het verlangen doet groeien naar een levenspraktijk die even vol is van geloof als die werd voorgehouden aan de studenten van de normaalschool. Even vol, maar wellicht op een andere manier.
 
+De website bevat de integrale versie van de catechismus, inclusief de ingescande aantekeningen, met transscriptie. De catechismus is ook [beschikbaar als PDF of in boekvorm](boek.html).
+
 # Volksveredeling vs. Emancipatie
 
 Preuts en patriarchaal zijn termen die niet misstaan bij sommige aantekeningen over seksuele moraal, huwelijk en opvoeding. De stereotypen worden bevestigd (neem b.v. dit citaat uit [les 36 over het Huwelijk](les-36.html), over de keuze van een huwelijkspartner: *"Bekwaamheid: de vrouw moet kuiselijk zijn (pas op met sportvrouwen!); de man moet de geldverdiener zijn."*). Voor de postmoderne, geëmancipeerde lezer is dat reden genoeg om het hele boeltje naar de prullenmand te verwijzen, maar ik durf er wel de kanttekening bij maken dat deze ingesteldheden zich meer baseren op een spiritueel gefundeerd maatschappelijk verantwoordelijkheidsgevoel dan op bekrompen ideeën van gefrustreerde priesters. In die tijd heette dat *volksveredeling*. Ik vraag me soms af of dit streven niet te gemakkelijk samen met de toepassingsmethodes is opgegeven.
