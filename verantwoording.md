@@ -26,8 +26,6 @@ De opleiding tot onderwijzer voor de lagere school voltrok zich in de normaalsch
 </span>
 Als handboek van de katholieke geloofsleer voert dit boek ons terug naar de omwentelingen van de reformatie en de nieuwe consolidatie van de katholieke leer na het concilie van Trente (1545-1563). De catechismus die in 1623 werd opgesteld door De Pretere sj was een herwerking van een eerste versie uit 1609, opgesteld door Lodewijk Makeblijde sj. Hoewel andere bisdommen in de loop der eeuwen met hun eigen adaptaties op de markt kwamen, bleef bisdom Gent tot in het midden van de twintigste eeuw trouw aan het oorspronkelijke werk. 
 
-De digitale publicatie van dit onvergankelijke werk kan niet anders dan een meerwaarde betekenen, want het blikveld op de katholieke traditie is wel erg eng geworden met dat grote zwarte gat tussen de canonisatie van de Bijbel en Vaticanum II...
-
 Wie meer wil leren over de geschiedenis van de catechismussen uitgegeven in het Nederlandse taalgebied, kan verder lezen in dit [oude artikel uit 1937 van kan. J. Jacobs](https://www.dbnl.org/tekst/_ver025193701_01/_ver025193701_01_0039.php), dat eigenlijk een aanklacht is tegen het verouderde taalgebruik uit de onderhavige catechismus (dat ik voor een deel heb proberen rechtzetten) en in dit [recentere artikel van dr. Marcel Gielis](resources/artikel-dr-marcel-gielis.pdf).
 
 # De kleine catechismus
@@ -43,6 +41,16 @@ Deze catechismus is de grote broer van de *"kleine catechismus",* die gebruikt w
 Het catechismusboek werd uitgegeven als een werkboek. Het is ingebonden met afwisselend bedrukte en lege pagina's, bedoeld om aantekeningen te maken tijdens de lessen, wat mijn grootvader nauwgezet heeft gedaan. De meer dan 200 bladzijdes aantekeningen voeg ik ook toe aan de publicatie. Zij illustreren de ernst en de geestelijke diepgang waarmee de geloofsleer werd bestudeerd aan de normaalscholen. Zij bevatten ook talrijke uitwijdingen die de docenten in de lessen behandelden en die een beeld geven van het katholicisme in het interbellum. 
 
 De ernst van de studie kan voor ons verrassend zijn, want wij menen dat de catechismus er enkel was "om van buiten te leren". De leerstof moest wel degelijk begrepen worden en om de omvang van de leerstof uit de normaalschool te evenaren, moet je vandaag al theologie gaan studeren. De uitwijdingen bevestigen dan weer het beeld dat we hebben van het rijke roomse leven met zijn gesloten sameleving en strenge moraal. Het concilie is nog veraf in 1937!
+
+# Het belang van deze publicatie
+
+De digitale publicatie van dit boek, inclusief de aantekeningen, kan niet anders dan een meerwaarde betekenen, want het blikveld op de katholieke traditie is wel erg eng geworden met dat grote zwarte gat tussen de canonisatie van de Bijbel en Vaticanum II...
+
+Als catechetisch hulpmiddel is het boek in onze tijd niet meer bruikbaar, maar dat wil niet zeggen dat het slechts vanuit geschiedkundig oogpunt interessant zou kunnen zijn. 
+
+De catechismus op zich is *droge kost*, maar als je daarnaast wat grasduint in de aantekeningen, leer je niet allen *wat* er geloofd werd, maar ook *hoe* er geloofd werd. *Wat* we geloven is (in principe) onveranderd gebleven, maar *hoe* we geloven is onherkenbaar geworden. Ik sta er *niet* van versteld hoeveel nadruk er werd gelegd op regeltjes en formaliteiten, want dat is het beeld dat ons wordt ingelepeld van het "rijke Roomse leven". Ik sta er wel van versteld dat achter elk van die regeltjes en formaliteiten ook een bewust element van geloof schuilgaat. De regeltjes en formaliteiten hebben we nu afgeworpen, en daarmee ook veel geloofsbewustzijn.
+
+Als deze publicatie iets mag verwezenlijken, hoop ik dat ze het verlangen doet groeien naar een levenspraktijk die even vol is van geloof als die werd voorgehouden aan de studenten van de normaalschool. Even vol, maar wellicht op een andere manier.
 
 # Volksveredeling vs. Emancipatie
 
@@ -97,3 +105,5 @@ Persoonlijke aantekeningen zijn er nauwelijks te vinden. Dat is wel jammer, want
 A. M. D. G.
 
 [info@gelovenleren.net](mailto:info@gelovenleren.net)
+
+[www.gelovenleren.net](https://gelovenleren.net/)

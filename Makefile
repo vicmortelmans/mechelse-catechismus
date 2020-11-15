@@ -31,7 +31,7 @@ docs/%.html: %.md
 	  -o $@ $<
 
 book:
-	awk -f merge.awk index.md les*.md verantwoording.md | pandoc -s \
+	awk -f merge.awk backcover.md les*.md verantwoording.md | pandoc -s \
 	  -c resources/tufte.css \
 	  -c resources/mc.css \
 	  -c resources/mc-print.css \
@@ -46,6 +46,7 @@ book:
 	pdftk \
 	  mc-cover.pdf blank.pdf body.pdf blank.pdf blank.pdf \
 	  cat output mechelse-catechismus-1623.pdf
+	cp mechelse-catechismus-1623.pdf docs
 
 clean: 
 	rm -rf docs
