@@ -34,7 +34,7 @@ subtitle: Van de eer en aanroeping van de H. Maagd Maria
   <td>*[Wat kracht is er in de tekenen of kralen van het Rozenhoedje?](#wat-kracht-is-er-in-de-tekenen-of-kralen-van-het-rozenhoedje)*</td>
 </tr>
 <tr>
-  <td>*[Is er superstitie gelegen in het getal van het Rozenhoedje?](#is-er-superstitie-gelegen-in-het-getal-van-het-rozenhoedje)*</td>
+  <td>*[Is er bijgeloof gelegen in het getal van het Rozenhoedje?](#is-er-bijgeloof-gelegen-in-het-getal-van-het-rozenhoedje)*</td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@ subtitle: Van de eer en aanroeping van de H. Maagd Maria
   <img src="resources/1900a.jpg">
   <em>Sprekende over het weesgegroet en over O.L.V. wil de catechismus nu nog meer zeggen over de voorrechten van Maria. Ongetwijfeld ligt hier ook een apologetische bezorgdheid aan de grondslag van deze verhandeling. Deze les over de eredienst van O.L.V. zou even goed passen in het kader van de les over het eerste gebod.</em>
 </span>
-In de voorgaande les heeft de Catechismus gesproken van een bijzonder gebed tot Maria, te weten, van de Wees Gegroet; nu handelt hij van de eer en aanroeping van Maria in ’t algemeen, en wel omdat haar vereering een grote middel is ter zaligheid.
+In de voorgaande les heeft de Catechismus gesproken van een bijzonder gebed tot Maria, te weten, van het Wees Gegroet; nu handelt hij van de eer en aanroeping van Maria in ’t algemeen, en wel omdat haar verering een grote middel is ter zaligheid.
 
 # Waar is Onze Lieve Vrouw nu?
 
@@ -76,7 +76,7 @@ A. Zij is daar niet zo tegenwoordig: **in de kerken zijn maar — haar beelden:*
 
 A. De H. Maagd kan ons helpen, niet gelijk God, door eigen macht, maar op de *twee* volgende wijzen:
 
-1° **Door haar verdiensten:** door de verdienstelijke werken die zij *op deze wereld* volbracht heeft; want, sedert haar dood, kan zij niets meer verdienen. Uit die verdienstelijke werken kan ons enkel de vrucht van voldoening toegepast worden; de twee andere vruchten, namelijk die van smeeking en de vermeerdering van de heiligmakende gratie heeft de H. Maagd zelve genoten. Hare voldoeningen worden ons toegepast óf rechtstreeks op haar vraag, óf door de aflaten. ([13ᵉ les, v. 2, 3 en 4.](les-13.html#hebben-wij-in-dit-leven-iets-gemeens-met-de-heiligen-in-de-hemel) — [16ᵉ les, v. 2.](les-16.html#welke-middelen-zijn-er-om-te-verkrijgen-hetgene-wij-hopen))
+1° **Door haar verdiensten:** door de verdienstelijke werken die zij *op deze wereld* volbracht heeft; want, sedert haar dood, kan zij niets meer verdienen. Uit die verdienstelijke werken kan ons enkel de vrucht van voldoening toegepast worden; de twee andere vruchten, namelijk die van smeeking en de vermeerdering van de heiligmakende genade heeft de H. Maagd zelve genoten. Hare voldoeningen worden ons toegepast óf rechtstreeks op haar vraag, óf door de aflaten. ([13ᵉ les, v. 2, 3 en 4.](les-13.html#hebben-wij-in-dit-leven-iets-gemeens-met-de-heiligen-in-de-hemel) — [16ᵉ les, v. 2.](les-16.html#welke-middelen-zijn-er-om-te-verkrijgen-hetgene-wij-hopen))
 
 2° **Door haar gebeden die zij God voor ons opdraagt:** door de samenspraken die zij met God in de hemel heeft, waarin zij van Hem allerhande gunsten voor ons vraagt. Ongetwijfeld wordt de H. Maagd veel zekerder verhoord dan al de andere Heiligen, om reden van haar bijzondere heiligheid alsmede van haar titel van Moeder Gods; haar voorspraak heeft zelfs zoveel kracht, dat zij uit die hoofde almachtig genoemd wordt.
 
@@ -88,7 +88,7 @@ A. De H. Maagd kan ons helpen, niet gelijk God, door eigen macht, maar op de *tw
   <img src="resources/1904a.jpg">
   <em>3) De dag, de maand, de feestdagen vieren. 4) De beelden, medailles, reliquieën van O.L.Vrouw vieren. 5) Het schapulier of kleed van Maria dragen. 6) Bedevaarten ondernemen naar Maria's genadeoord. 7) De congregaties, broederschappen van Maria steunen, verspreiden (benevens de congregaties nog de broederschappen van Maria's eer). 8) De bijzondere godsvrucht tot Maria nog genoemd De Ware Godsvrucht, volgens de zalige Grignion de Montfort.</em> 
 </span>
-A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben, is **haar te aanroepen:** haar te erkennen als verheven zijnde boven alle schepselen, diensvolgens als koningin van hemel en aarde, en haar te smeken om voor óns te willen bidden, Om door dit aanroepen van Maria veel vrucht te bekomen, is het niet genoeg het van tijd tot tijd eens te doen; wij moeten het — **dikwijls:** dagelijks en zelfs meermaals daags, en **godvruchtig:** met bereidwilligheid en derhalve met eerbiedigheid en aandachtigheid doen, **zeggende de Wees Gegroet:** dit gebed is, onder opzicht van oorsprong zowel als van inhoud, het volmaaktste *om Maria te aanroepen:* zijn edele oorsprong hebben wij reeds in de 3ᵉ vraag van de voorgaande les leren kennen, en, wat de inhoud aangaat, het drukt de grootste eretitels van Maria uit, en vraagt dat zij ons nu en in het uur van de dood zou bijstaan; — **en andere gebeden,** Maria bijzonder aangenaam, zoals bare litanie en haar kerkelijk officie.
+A. De middel om door Onze Lieve Vrouw te verkrijgen hetgene wij van doen hebben, is **haar te aanroepen:** haar te erkennen als verheven zijnde boven alle schepselen, diensvolgens als koningin van hemel en aarde, en haar te smeken om voor óns te willen bidden, Om door dit aanroepen van Maria veel vrucht te bekomen, is het niet genoeg het van tijd tot tijd eens te doen; wij moeten het — **dikwijls:** dagelijks en zelfs meermaals daags, en **godvruchtig:** met bereidwilligheid en derhalve met eerbiedigheid en aandachtigheid doen, **zeggende het Wees Gegroet:** dit gebed is, onder opzicht van oorsprong zowel als van inhoud, het volmaaktste *om Maria te aanroepen:* zijn edele oorsprong hebben wij reeds in de 3ᵉ vraag van de voorgaande les leren kennen, en, wat de inhoud aangaat, het drukt de grootste eretitels van Maria uit, en vraagt dat zij ons nu en in het uur van de dood zou bijstaan; — **en andere gebeden,** Maria bijzonder aangenaam, zoals bare litanie en haar kerkelijk officie.
 
 # Hoe zal ik mijn gebed allerbest aangenaam maken aan de Heilige Maagd?
 
@@ -124,13 +124,13 @@ A. **De tekenen:** de kralen — **hebben** uit hun natuur hoegenaamd **geen kra
 
 De Catechismus spreekt hier uitsluitend van de ongewijde Rozenkransen, want de gewijde dienen, uit hoofde van hun wijding, om aflaten alsook om van God hulp en bijstand te bekomen. De H. Kerk kan zowel een Rozenkrans wijden als een gebouw, een plaats, een kerk of andere zaak.
 
-# Is er superstitie gelegen in het getal van het Rozenhoedje?
+# Is er bijgeloof gelegen in het getal van het Rozenhoedje?
 
 ## Geenszins; maar het wordt uitsluitend genomen tot een geestelijke betekenis, en daarom mag het wel verminderd of vermeerderd worden
 
-V. Schrijven de gelovigen aan het getal gebeden ([6e v.](les-06.html)) waaruit de Rozenkrans bestaat, geen kracht toe, die het niet heeft noch van God, noch uit zich zelf, noch door de instelling van de H. Kerk? ([21ᵉ les, v. 6.](les-21.html#wat-is-bijgeloof))
+V. Schrijven de gelovigen aan het getal gebeden ([6e v.](les-06.html)) waaruit de Rozenkrans bestaat, geen kracht toe, die het niet heeft noch van God, noch uit zichzelf, noch door de instelling van de H. Kerk? ([21ᵉ les, v. 6.](les-21.html#wat-is-bijgeloof))
 
-A. **Geenszins:** het bevat geen superstitie, — **het wordt genomen,** niet als had het een bijzondere kracht, die het wezenlijk niet heeft, — **maar uitsluitend tot een geestelijke betekenis:** uitsluitend om ons een geestelijke, een godsdienstige zaak te herinneren, namelijk, de gewoonte, bij heilige eremijten en dienaren Gods uit vroegere tijden, van dagelijks de 150 psalmen van David te lozen; — **en daarom,** daar aan dit getal geen bijzondere kracht erkend wordt, — **mag het wel verminderd of vermeerderd worden,** zonder dat het gebed er zijn waarde en kracht door verliest. Nochtans moet men, om de aflaten te verdienen die de H. Kerk aan de Rozenkrans gehecht heeft, het getal gebeden zeggen door haar geëist. ([13ᵉ les, v. 6.](les-13.html#wat-moeten-wij-doen-om-de-aflaten-te-verdienen))
+A. **Geenszins:** het bevat geen bijgeloof, — **het wordt genomen,** niet als had het een bijzondere kracht, die het wezenlijk niet heeft, — **maar uitsluitend tot een geestelijke betekenis:** uitsluitend om ons een geestelijke, een godsdienstige zaak te herinneren, namelijk, de gewoonte, bij heilige eremijten en dienaren Gods uit vroegere tijden, van dagelijks de 150 psalmen van David te lozen; — **en daarom,** daar aan dit getal geen bijzondere kracht erkend wordt, — **mag het wel verminderd of vermeerderd worden,** zonder dat het gebed er zijn waarde en kracht door verliest. Nochtans moet men, om de aflaten te verdienen die de H. Kerk aan de Rozenkrans gehecht heeft, het getal gebeden zeggen door haar geëist. ([13ᵉ les, v. 6.](les-13.html#wat-moeten-wij-doen-om-de-aflaten-te-verdienen))
 
 ### VRAGEN
 
@@ -154,5 +154,5 @@ Hoe is deze les met de voorgaande verbonden? — Waarvan spreekt deze les? — H
 
 7. Geef de zin van de vraag: *Wat kracht is er in de tekenen of kralen van het Rozenhoedje?* — Wat kracht hebben nu deze kralen of tekenen? — Zeg, met de woorden van de Catechismus, waartoe zij dienen. — Leg die woorden uit. — Van welke Rozenkransen spreekt hier de Catechismus? — Hebben de gewijde Rozenkransen ook geen kracht? — Welk is hun kracht en waaruit hebben zij deze?
 
-8. Wat vraagt de Catechismus als hij zegt: *Is er superstitie gelegen in het getal van het Rozenhoedje?* — Welk is dat getal? — Zeg, met de woorden van de Catechismus, waarom er geen superstitie in dit getal is. — Waartoe wordt het gebruikt? — Wat betekent de Catechismus, als hij zegt: *en daarom mag het wel verminderd of vermeerderd worden?* — Is er een zeker getal vereist om de aflaten van een gewijden paternoster te verdienen, en waarom ?
+8. Wat vraagt de Catechismus als hij zegt: *Is er bijgeloof gelegen in het getal van het Rozenhoedje?* — Welk is dat getal? — Zeg, met de woorden van de Catechismus, waarom er geen bijgeloof in dit getal is. — Waartoe wordt het gebruikt? — Wat betekent de Catechismus, als hij zegt: *en daarom mag het wel verminderd of vermeerderd worden?* — Is er een zeker getal vereist om de aflaten van een gewijden paternoster te verdienen, en waarom ?
 

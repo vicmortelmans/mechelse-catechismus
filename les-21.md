@@ -62,7 +62,7 @@ subtitle: Van het Eerste Gebod
 </span>
 A. Er wordt ons in het Eerste Gebod belast, **dat wij — één God alleen:** de enige ware God, of de enige ware Schepper, Heer en Regeerder van hemel en aarde, **zullen bekennen,** als God erkennen, met zijn Openbaring door het Geloof aan te nemen, — **aanroepen,** als God aanroepen, met op Hem als op het Opperwezen te hopen, — **en dienen,** als God eren en dienen, met Hem boven alle dingen te beminnen.
 
-*Twee* dingen dus worden ons hier belast: a) ons aan God als aan God te onderwerpen met in Hem te geloven, of, i. a. w. met de Openbaring van Hem gedaan door het Geloof aan te nemen, met op Hem te hopen, en met Hem te beminnen; b) dit alleen te doen voor de enige waren God, voor het enig waar Opperwezen.
+*Twee* dingen dus worden ons hier belast: a) ons aan God als aan God te onderwerpen met in Hem te geloven, of, i.a.w. met de Openbaring van Hem gedaan door het Geloof aan te nemen, met op Hem te hopen, en met Hem te beminnen; b) dit alleen te doen voor de enige waren God, voor het enig waar Opperwezen.
 
 De woorden: *« bovenal bemint één God, »* uit onze gewone manier van de Tien Geboden op te zeggen, hebben dezelfde betekenis, aangezien dat wij onmogelijk God kunnen beminnen zonder in Hem te geloven en op Hem te hopen.
 
@@ -94,11 +94,11 @@ De *afgoderij* bestaat dus in beelden of andere dingen te houden voor God, daar 
 
 # Wat kwaad doen de tovenaars?
 
-## In plaats van God, nemen zij de duivel tot hun Heer, aan dewelke zij zich zelf verbonden hebben
+## In plaats van God, nemen zij de duivel tot hun Heer, aan dewelke zij zichzelf verbonden hebben
 
 V. De zin van de vraag is: hoe zondigen de tovenaars tegen het Eerste Gebod?
 
-A. **In plaats van God,** van de enige waren God als hun Oppermeester te erkennen, te aanroepen en te dienen, — **nemen zij de duivel,** de aartsvijand van God, — **tot hun Heer:** tot hun Oppermeester en God, — **aan dewelke zij zich zelf verbonden hebben:** met dewelke zij een uitdrukkelijk of bedekt verbond hebben aangegaan: de tovenaars, van hun kant, hebben zich verbonden de duivel als hun Heer te erkennen en hem te gehoorzamen; de duivel, van zijn kant, heeft zich verbonden, op zekere tekenen of woorden, die de tovenaar gebruiken zal, wonderbare dingen door zijn macht uit te werken.
+A. **In plaats van God,** van de enige waren God als hun Oppermeester te erkennen, te aanroepen en te dienen, — **nemen zij de duivel,** de aartsvijand van God, — **tot hun Heer:** tot hun Oppermeester en God, — **aan dewelke zij zichzelf verbonden hebben:** met dewelke zij een uitdrukkelijk of bedekt verbond hebben aangegaan: de tovenaars, van hun kant, hebben zich verbonden de duivel als hun Heer te erkennen en hem te gehoorzamen; de duivel, van zijn kant, heeft zich verbonden, op zekere tekenen of woorden, die de tovenaar gebruiken zal, wonderbare dingen door zijn macht uit te werken.
 
 De H. Schrift spreekt van tovenaars die, met de hulp van de duivelen, enige van Mozes’ wonderen nadeden; — van Simon de tovenaar, — en van de Antichrist die in de laatste tijden de tooverkunst zal gebruiken om de mensen te verleiden.
 
@@ -108,7 +108,7 @@ Men bemerke hier, dat de duivel, als enkele geest, meer verstand en op de gescha
 
 # Mag men wel bij tovenaars of waarzeggers te rade gaan?
 
-## Geenszins; want dit is God afgegaan en de duivel aangehangen, van dewelke dezen weten hetgeen zij zeggen
+## Geenszins; want dit is God afgegaan en de duivel aangehangen, van dewelke deze weten hetgeen zij zeggen
 
 <span class=marginnote>
   <img src="resources/2105a.jpg">
@@ -128,7 +128,7 @@ Koning Saül maakte zich aan deze zonde schuldig, als hij, in de oorlog tegen de
 
 ## Het ongoddelijk gebruik van enige woorden of tekenen tot een zeker werk, tot hetwelk deze geen kracht hebben, noch uit de natuur, noch van God, noch door de instelling van de H. Kerk
 
-A. **Het ongoddelijk** of het tegen God strijdende **gebruik,** — **van enige woorden,** zoals: « in de naam van de Almachtige, genees ik u, » en andere dergelijke, — **of tekenen,** zoals afwasschingen, kaarttrekkingen, kruistekenen, — **tot een zeker werk,** tot een zeker uitwerksel, zoals tot het bekomen van een genezing. het eindigen van een kwaal, — **tot hetwelk deze geen kracht hebben noch uit de natuur:** tot welk uitwerksel die woorden of tekenen geen kracht hebben, noch door hun natuurlijke eigenschappen, gelijk b.v. een medecijn, die uit haar natuur kracht heeft om deze of gene ziekte te genezen, — **noch van God:** noch door een goddelijke instelling of medewerking, gelijk b.v. de HH. Sacramenten, die ook uitwendige tekenen zijn, door Christus’ instelling kracht hebben om Gods gratie in te storten, of gelijk de tekenen welke gebruikt worden door degenen, die van God de macht ontvangen hebben om míirakelen te doen, — **noch door de instelling van de H. Kerk,** noch door de wijding van de H. Kerk, gelijk b.v. het gewijd water, de gewijde palmen, as, enz, die door de gebeden van de H. Kerk kracht hebben om verscheidene gunsten van God te bekomen.
+A. **Het ongoddelijk** of het tegen God strijdende **gebruik,** — **van enige woorden,** zoals: « in de naam van de Almachtige, genees ik u, » en andere dergelijke, — **of tekenen,** zoals reinigingen, kaarttrekkingen, kruistekenen, — **tot een zeker werk,** tot een zeker uitwerksel, zoals tot het bekomen van een genezing. het eindigen van een kwaal, — **tot hetwelk deze geen kracht hebben noch uit de natuur:** tot welk uitwerksel die woorden of tekenen geen kracht hebben, noch door hun natuurlijke eigenschappen, gelijk b.v. een medecijn, die uit haar natuur kracht heeft om deze of gene ziekte te genezen, — **noch van God:** noch door een goddelijke instelling of medewerking, gelijk b.v. de HH. Sacramenten, die ook uitwendige tekenen zijn, door Christus’ instelling kracht hebben om Gods genade in te storten, of gelijk de tekenen welke gebruikt worden door degenen, die van God de macht ontvangen hebben om míirakelen te doen, — **noch door de instelling van de H. Kerk,** noch door de wijding van de H. Kerk, gelijk b.v. het gewijd water, de gewijde palmen, as, enz, die door de gebeden van de H. Kerk kracht hebben om verscheidene gunsten van God te bekomen.
 
 De bijgeloof bestaat in woorden of tekenen te gebruiken tot een uitwerksel, waartoe deze geenszins kracht hebben uit een van de drie oorzaken van alle kracht, namelijk de natuur, God en de H. Kerk; en dit gebruik is *ongoddelijk* of het maakt een zonde uit tegen het Eerste Gebod, omdat men, met zo te handelen, een uitwerksel van de duivel verwacht, en zo God verlaat en de duivel tot Heer aanneemt.
 
@@ -140,23 +140,23 @@ Ochozias, Koning van Israël, maakte zich, tijdens zijn ziekte, aan bijgeloof sc
 
 ## Geenszins, want deze dingen hebben kracht door het gebed, dat naar de instelling van de H. Kerk, daarover gesproken is
 
-V. Het *Agnus Dei* is, een witte, wassen medalie waarin het beeld geprent staat van een lam, dat Jezus Christus voorstelt, en daarom *Agnus Dei,* Lam Gods genoemd wordt. Deze medalie wordt door de Paus alleen gewijd, en dit op bepaalde tijdstippen, t. w. het eerste jaar van zijn regeering en daarna alle zeven jaren. **Keersen** worden gewijd op *Lichtmis* de 2ᵉ februari, ook op de feestdag van de H. Blasius en op alle andere tijden; **palmen,** op Palmzondag; **as,** op Aswoensdag; **vruchten,** brooden of andere spijzen, in sommige plaatsen op bepaalde dagen.
+V. Het *Agnus Dei* is, een witte, wassen medalie waarin het beeld geprent staat van een lam, dat Jezus Christus voorstelt, en daarom *Agnus Dei,* Lam Gods genoemd wordt. Deze medalie wordt door de Paus alleen gewijd, en dit op bepaalde tijdstippen, t. w. het eerste jaar van zijn regering en daarna alle zeven jaren. **Keersen** worden gewijd op *Lichtmis* de 2ᵉ februari, ook op de feestdag van de H. Blasius en op alle andere tijden; **palmen,** op Palmzondag; **as,** op Aswoensdag; **vruchten,** brooden of andere spijzen, in sommige plaatsen op bepaalde dagen.
 
 De Catechismus vraagt of het bijgeloof is die verschillende dingen te gebruiken, om daardoor goddelijke gunsten te verkrijgen.
 
 A. **Geenszins** is dat bijgeloof; — **want deze dingen hebben kracht,** om de goddelijke gunsten te bekomen, wij zeggen niet uit hun natuur, of van God, maar — **door het gebed, dat naar de instelling van de H. Kerk, daarover gesproken is:** door het gebed, dat de H. Kerk, onder hun wijding, uitgesproken heeft, en dat door God, uit hoofde van de heiligheid van de H. Kerk, is verhoord geworden en bij Hem als opgeschreven blijft. — Doch deze dingen hebben slechts kracht tot die uitwerksels, waartoe de H. Kerk ze gewijd heeft, en bijgevolg, moest men ze tot iets anders gebruiken, waartoe zij geenszins kracht hebben, men zou zich aan bijgeloof schuldig maken.
 
-Het *Agnus Dei* dient om de gratie van boetvaardigheid te verkrijgen en beschermt ons tegen de duivel, tegen onweder, ziekten, vuur, water en schielijke dood.
+Het *Agnus Dei* dient om de genade van boetvaardigheid te verkrijgen en beschermt ons tegen de duivel, tegen onweder, ziekten, vuur, water en schielijke dood.
 
 De *gewijde kaarsen* van Lichtmis hebben voor bijzonder uitwerksel ons verlichting van het verstand te bekomen; die van de H. Blasius beschermen ons tegen de keelpijn; de andere, tegen de duivel.
 
 De *gewijde palmen* beschermen ons tegen alle ongelukken en verkrijgen allerhande zegeningen over de huizen en de velden, waar zij gestoken zijn, en over de mensen die ze gebruiken.
 
-De *gewijde as* dient bijzonder tot het bekomen van de gratie van boetvaardigheid.
+De *gewijde as* dient bijzonder tot het bekomen van de genade van boetvaardigheid.
 
-De *gewijde vruchten* beschermen ons tegen alle ongelukken en bekomen ons de gratie, om de aardse zaken zó te gebruiken, dat wij er de eeuwige zaligheid niet door verliezen.
+De *gewijde vruchten* beschermen ons tegen alle ongelukken en bekomen ons de genade, om de aardse zaken zó te gebruiken, dat wij er de eeuwige zaligheid niet door verliezen.
 
-Bij deze gewijde voorwerpen is nog het gewijd water te voegen, dat van in het begin van de H. Kerk in gebruik is geweest. Het verschaft ons gratie om wel te leven, hulp om wel te bidden, de geest van boetvaardigheid; het verwijdert de duivel, verdrijft ziekten en kwade lucht. bevrijdt van ongelukken en strekt tot behoudenis van de gezondheid.
+Bij deze gewijde voorwerpen is nog het gewijd water te voegen, dat van in het begin van de H. Kerk in gebruik is geweest. Het verschaft ons genade om wel te leven, hulp om wel te bidden, de geest van boetvaardigheid; het verwijdert de duivel, verdrijft ziekten en kwade lucht. bevrijdt van ongelukken en strekt tot behoudenis van de gezondheid.
 
 # Hoe misdoen de Ketters tegen het Eerste Gebod?
 
@@ -174,25 +174,25 @@ Als men als vals of ten minste als twijfelachtig, aanziet hetgeen een mens ons b
 
 # Hoe moeten wij ons tot de Ketters gedragen?
 
-## Wij moeten hun verkeering altijd neerstiglijk schuwen, maar allermeest in kerkelijke en geestelijke zaken.
+## Wij moeten hun verkeering altijd naarstiglijk schuwen, maar allermeest in kerkelijke en geestelijke zaken.
 
 <span class=marginnote>
   <img src="resources/2199a.jpg">
   <em>De Vrijmetselarij.<br/>Oorspronkelijk aanvaarde de vrijmetselarij een soort deïsme of natuurlijke Godsleer (de Grote Architect). Zo bestaat het nu nog in de Engelse vrijmetselarij. De Europese-vastelandvrijmetselarij heeft echter elke band met de God verbroken en bestrijdt met alle mogelijke middelen, vooral met geheime middelen, elke geopenbaarde Godsdienst, doch vooral de Rooms-Katholieke Godsdienst. Alle anti-kerkelijke wetten welke in de landen werden gestemd, werden eerst besproken in de loge. In de laatste jaren is de invloed van de joden en het marxisme zeer groot geworden. De loge heeft geen geheimen omdat ze niets heeft.<br/>De Theosofie is veel verspreid in Nederland en een weinig in België. De Theosofen geloven aan de zielsverhuizing en zij verspreiden een gedacht over God dat in strijd is met de veropenbaring (Al-God).</em>
   <img src="resources/2199b.jpg">
-  <em>Antroposofie.<br/>Dikwijls gaat Theosofie en spiritisme te samen.<br/>Krishnamurti.<br/>In de Walen is er uit het spiritisme en de Theosofie een nieuw geloof uitgebroken: het Antoinisme. 45 Tempels in ons land. Zij trachten door allerlei gebeden en bewegingen genezingen te bekomen. <br/>Het laatste en gevaarlijkste zijn de Atheïstenbonden of bonden der godloochenaars in den schoot van de communistische partij en min of meer bedekt in de schoot van de socialistische partij. Dezen hebben een grote organisatie voor de jeugd om tegen de godsdienst te staan.</em>
+  <em>Antroposofie.<br/>Dikwijls gaat Theosofie en spiritisme te samen.<br/>Krishnamurti.<br/>In de Walen is er uit het spiritisme en de Theosofie een nieuw geloof uitgebroken: het Antoinisme. 45 Tempels in ons land. Zij trachten door allerlei gebeden en bewegingen genezingen te bekomen. <br/>Het laatste en gevaarlijkste zijn de Atheïstenbonden of bonden van de godloochenaars in de schoot van de communistische partij en minder of meer bedekt in de schoot van de socialistische partij. Dezen hebben een grote organisatie voor de jeugd om tegen de godsdienst te staan.</em>
 </span>
 V. **Hoe moeten wij ons tot de Ketters gedragen,** om ons aan hun zonde niet schuldig te maken?
 
 A. De Catechismus leert ons hierover *twee* dingen:
 
-1° **Wij moeten hun verkeering altijd neerstiglijk schuwen,** d. i, wij moeten in alle omstandigheden met grote zorg, voor zoveel wij kunnen, vermijden met hen te handelen, in hun gezelschap te zijn, hun boeken of schriften te lezen.
+1° **Wij moeten hun verkeering altijd naarstiglijk schuwen,** d. i, wij moeten in alle omstandigheden met grote zorg, voor zoveel wij kunnen, vermijden met hen te handelen, in hun gezelschap te zijn, hun boeken of schriften te lezen.
 
 2° Wij moeten hun verkeering schuwen **allermeest in kerkelijke en geestelijke zaken,** d.i. wij moeten in het bijzonder vermijden met hen gemeenschap te hebben in godsdienstige zaken, zoals door tegenwoordig te zijn in hun kerkelijke diensten, door hun boeken van godsdienstleer te lezen, en door met hen te redetwisten. De H. Kerk verbiedt aan haar gelovigen de godsdienstige plechtigheden van de Ketters bij te wonen, hun boeken die de godsdienst aangaan, te lezen, en, zonder oorlof, openbare en plechtige redetwisten met de Ketters aan te gaan.
 
 Er blijven nog drie zonden tegen het Eerste Gebod, waarvan de Catechismus geen uitlegging geeft: 1° *alle andere ongelovigheid,* 2° *wanhoop en* 3° *haat van God.*
 
-Behalve de ketterij, behoort nog tot de zonden van *ongelovigheid:* a) de volkomene ongelovigheid, die bestaat in het vrijwillig verwerpen van geheel de Openbaring; b) de gesprekken tegen het Geloof en het loochenen van het Geloof door handelwijze of tekenen, vanwege dezen die inwendig aan God geloven; en c) de verwaarloozing van de middelen die te gebruiken zijn om een voldoende kennis te bekomen van het Geloof dat men belijdt.
+Behalve de ketterij, behoort nog tot de zonden van *ongelovigheid:* a) de volkomene ongelovigheid, die bestaat in het vrijwillig verwerpen van geheel de Openbaring; b) de gesprekken tegen het Geloof en het loochenen van het Geloof door handelwijze of tekenen, vanwege deze die inwendig aan God geloven; en c) de verwaarloozing van de middelen die te gebruiken zijn om een voldoende kennis te bekomen van het Geloof dat men belijdt.
 
 De *wanhoop* bestaat in niet te willen van God verzoeken en verwachten het eeuwig leven en al wat ons daartoe helpen kan. Het tegenovergestelde van de wanhoop is de *vermetelheid,* die ons doet hopen *zonder reden,* zonder de daartoe nodige voorwaarden te willen volbrengen. ([38ᵉ les, v. 9.](les-38.html#welke-zijn-de-zonden-tegen-de-h-geest))
 

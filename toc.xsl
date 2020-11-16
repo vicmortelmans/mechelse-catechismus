@@ -67,7 +67,14 @@
                 <xsl:if test="@backLink">
                   <xsl:attribute name="name"><xsl:value-of select="@backLink"/></xsl:attribute>
                 </xsl:if>
-                <xsl:value-of select="concat(parent::outline:item/@title,'. ',@title)" /> 
+                <xsl:choose>
+                  <xsl:when test="contains(parent::outline:item/@title,'Verantwoording')">
+                    <xsl:value-of select="parent::outline:item/@title" /> 
+                  </xsl:when>
+                  <xsl:otherwise>
+                    <xsl:value-of select="concat(parent::outline:item/@title,'. ',@title)" /> 
+                  </xsl:otherwise>
+                </xsl:choose>
               </a>
               <span> <xsl:value-of select="@page" /> </span>
             </xsl:when>

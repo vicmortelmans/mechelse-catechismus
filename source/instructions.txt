@@ -1,8 +1,8 @@
 "run inside vim with ':source instructions.txt'
 ":g/^[\w]*$/d "delete all lines that contain only whitespace
 :%s/^\s\+$//g "empty lines that only contain whitespace
-:%s/-\n\(\w\)/\1/g "join all lines ending with word-break
-:%s/\(\w\)\n\(\w\)/\1 \2/g "join all lines that continue on the next line
+":%s/-\n\(\w\)/\1/g "join all lines ending with word-break
+":%s/\(\w\)\n\(\w\)/\1 \2/g "join all lines that continue on the next line
 :%s/ zijner / van zijn /g 
 :%s/wezentlijk/wezenlijk/g
 :%s/zijne /zijn /g
@@ -20,7 +20,6 @@
 :%s/des vleesches/van het lichaam/g
 :%s/vleeschel/vlesel/g
 :%s/vleesch/vlees/g
-"
 :%s/ den / de /g
 :%s/alleenlijk/uitsluitend/g
 :%s/ :/:/g

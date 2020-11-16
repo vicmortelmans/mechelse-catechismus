@@ -70,7 +70,7 @@ Om Christus’ discipel of om Christen te wezen, zijn er drie dingen vereist:
 
 3° Dat men de zalige wet van Christus geloove en belijde **in de waarachtige Kerk tegen alle sekten:** deelmakende van die vergadering van gelovigen, welke door Christus ingesteld is, te weten, de *Rooms-Katholieke Kerk*, en afgescheiden zijnde van al de vals kerken, zoals de Protestantse kerkgemeenten, de Anglikaanse kerk, enz. die *sekten* genoemd worden.
 
-De noodzakelijkheid van deze drie vereisten vloeit uit de natuur van de zaak zelve: niemand kan immers Christus’ discipel zijn zonder het Doopsel ontvangen te hebben, daar Christus dit Sacrament heeft ingesteld als de deur en de ingang van het leven, dat Hij kwam voorschrijven; noch zonder zijn leer te geloven en te belijden, vermits de discipel van een goddelijken meester diens leer noodzakelijk in- en uitwendig moet aannemen; noch zonder lid te wezen van de waarachtige Kerk en afgescheiden te zijn van alle sekten, aangezien de Kerk, en zij alleen, ons in Christus’ naam onderwijst en bestiert,
+De noodzakelijkheid van deze drie vereisten vloeit uit de natuur van de zaak zelve: niemand kan immers Christus’ discipel zijn zonder het Doopsel ontvangen te hebben, daar Christus dit Sacrament heeft ingesteld als de deur en de ingang van het leven, dat Hij kwam voorschrijven; noch zonder zijn leer te geloven en te belijden, vermits de discipel van een goddelijken meester diens leer noodzakelijk in- en uitwendig moet aannemen; noch zonder lid te wezen van de waarachtige Kerk en afgescheiden te zijn van alle sekten, aangezien de Kerk, en zij alleen, ons in Christus’ naam onderwijst en bestuurt,
 
 # Wat betaamt een Christen mens?
 
@@ -114,7 +114,7 @@ A. Er zijn dus *twee* manieren om het Kruisteken te maken.
 
 ## Ik zeg: *In de naam van de Vader, en van de Zoon en van de Heilige Geest, Amen*
 
-A. De zin van de woorden die men, bij het maken van het Kruisteken uitspreekt, is de volgende: *ik maak dit teken ter eere en aanroeping van God de Vader, van God de Zoon en van God de H. Geest.* Inderdaad, als ik zeg: in de naam van de Vader, en van de Zoon en van de H. Geest, dan moet daarbij verstaan worden: *ik maak dit teken,* daar de woorden, die men hier uitspreekt, ongetwijfeld tot verklaring van het trekken van de hand dienen. Dan het woord *naam* wijst hier op de goddelijke natuur of God zelf met al zijn volmaaktheden, en iets doen in de naam van God is dat doen óf op Gods bevel óf ter eere en aanroeping van God; hier nu is voorzeker geen spraak van het Kruisteken te maken op Gods bevel. Blijft het woord *Amen*, dat op het einde een zinsnede altijd wil zeggen: *dat het zo geschiede, dat het zo weze.*
+A. De zin van de woorden die men, bij het maken van het Kruisteken uitspreekt, is de volgende: *ik maak dit teken ter ere en aanroeping van God de Vader, van God de Zoon en van God de H. Geest.* Inderdaad, als ik zeg: in de naam van de Vader, en van de Zoon en van de H. Geest, dan moet daarbij verstaan worden: *ik maak dit teken,* daar de woorden, die men hier uitspreekt, ongetwijfeld tot verklaring van het trekken van de hand dienen. Dan het woord *naam* wijst hier op de goddelijke natuur of God zelf met al zijn volmaaktheden, en iets doen in de naam van God is dat doen óf op Gods bevel óf ter ere en aanroeping van God; hier nu is voorzeker geen spraak van het Kruisteken te maken op Gods bevel. Blijft het woord *Amen*, dat op het einde een zinsnede altijd wil zeggen: *dat het zo geschiede, dat het zo weze.*
 
 # Wat betekenen wij door het maken vas het Heilig Kruis?
 
@@ -150,23 +150,23 @@ Het *tweede deel,* te weten, onze verlossing uit de slavernij van de duivel, wor
 
 # Van wie hebben de Christenen dit teken?
 
-## Van onze voorvaders tot de Apostelen toe; ja van Christus zelven, die door het Kruis de wereld verlost heeft
+## Van onze voorvaders tot de Apostelen toe; ja van Christus zelf, die door het Kruis de wereld verlost heeft
 
 <span class=marginnote>
   <img src="resources/0209a.jpg">
   <em>Voor de heidenen was het kruis een ergernis, voor de christenen is het kruis een ereteken. Nooit mag een christen beschaamd zijn zijn kruisteken te maken, noch thuis, noch op de vreemde. "Die over mij beschaamd is in dit leven, voorwaar ik zal over hem beschaamd zijn in het oordeel bij de Vader." Zo mogelijk maken wij het kruisteken met wijwater. Naar oud Vlaams gebruik vragen de kinderen thuis een kruiske. Ook voor het kruisbeeld eist de kerk die christelijke fierheid op bij haar leden: bij een christen hangt het kruis in huis op de ereplaats (ook in het salon). Roep de aandacht van de kinderen dikwijls op het kruis in de klas. Wil in uw huis aan Christus' kruis de plaats van eer geven, en uit uw huis wordt menig kruis door Christus gedreven.</em>
 </span>
-A. Wij hebben het Kruisteken **van onze voorvaders tot de Apostelen toe:** wij vinden het bij al de Christenen van de voorgaande eeuwen tot aan de tijd toe van de Apostelen, die, na Christus, het Geloof alom verkondigd hebben. Het komt ons van hooger nog, **ja van Christus zelven, die door het Kruis de wereld verlost heeft:** die, door zijn dood op het kruis de wereld van de slavernij van de duivel vrijgekocht, en zo het kruis tot het natuurlijk teken van zijn discipelen achtergelaten heeft.
+A. Wij hebben het Kruisteken **van onze voorvaders tot de Apostelen toe:** wij vinden het bij al de Christenen van de voorgaande eeuwen tot aan de tijd toe van de Apostelen, die, na Christus, het Geloof alom verkondigd hebben. Het komt ons van hoger nog, **ja van Christus zelf, die door het Kruis de wereld verlost heeft:** die, door zijn dood op het kruis de wereld van de slavernij van de duivel vrijgekocht, en zo het kruis tot het natuurlijk teken van zijn discipelen achtergelaten heeft.
 
 # Wanneer behoort men meest het Kruisteken te maken?
 
-## Vóór het opstaan, eten, slapen gaan en alle andere werken; maar meest als men eenige kwelling of bekoring heeft of gevoelt
+## Vóór het opstaan, eten, slapen gaan en alle andere werken; maar meest als men enige kwelling of bekoring heeft of gevoelt
 
-A. Wij behooren dus het Kruisteken te maken in twee soorten van gevallen:
+A. Wij behoren dus het Kruisteken te maken in twee soorten van gevallen:
 
-1° **Vóór het opstaan, eten, slapen gaan en alle andere werken:** in ’t begin van al onze werken, waaronder de Catechismus het opstaan, eten en slapen gaan noemt, omâat die werken, onder alle andere, een bijzondere plaats bekleeden, en, als zij wel gedaan worden, op geheel onze handelwijze een bijzonderen invloed hebben;
+1° **Vóór het opstaan, eten, slapen gaan en alle andere werken:** in ’t begin van al onze werken, waaronder de Catechismus het opstaan, eten en slapen gaan noemt, omâat die werken, onder alle andere, een bijzondere plaats bekleden, en, als zij wel gedaan worden, op geheel onze handelwijze een bijzonderen invloed hebben;
 
-2° **Maar meest als men eenige kwelling of bekoring heeft of gevoelt:** maar in het bijzonder als men pijn of smart heeft, zich in ziekte of gevaar bevindt; of, als men in- of uitwendig tot kwaad aangelokt wordt, omdat er dan bijzonder gevaar is van in zonde te vallen en men de zonde eerst en vooral te vluchten heeft.
+2° **Maar meest als men enige kwelling of bekoring heeft of gevoelt:** maar in het bijzonder als men pijn of smart heeft, zich in ziekte of gevaar bevindt; of, als men in- of uitwendig tot kwaad aangelokt wordt, omdat er dan bijzonder gevaar is van in zonde te vallen en men de zonde eerst en vooral te vluchten heeft.
 
 # Wat profijt krijgen wij door het maken van het Heilig Kruis?
 
@@ -176,7 +176,7 @@ A. Door het maken van het Kruisteken verkrijgen wij *drie* profijten:
 
 **Ten eerste, het Kruis dient ons tot een openbare belijdenis van ons Geloof:** om uitwendig te bekennen, dat wij in Christus’ leer geloven; want wij drukken er door uit, dat wij Christenen zijn, en betekenen twee grote mysteriën van ons Geloof;
 
-**Ten tweede, het Kruis is een kort gebed tot God door het lijden en de verdiensten van Christus:** het Kruis maakt een kort gebed uit, waarin wij, door Christus’ lijden en door zijn verdiensten in dat lijden verworven, allerhande gunsten van God vragen; want, met dat teken te gebruiken, geven wij te kennen, dat geheel onze hoop op Christus’ lijden en verdiensten steunt, en smeeken zo de toepassing van dit lijden, van die verdiensten af;
+**Ten tweede, het Kruis is een kort gebed tot God door het lijden en de verdiensten van Christus:** het Kruis maakt een kort gebed uit, waarin wij, door Christus’ lijden en door zijn verdiensten in dat lijden verworven, allerhande gunsten van God vragen; want, met dat teken te gebruiken, geven wij te kennen, dat geheel onze hoop op Christus’ lijden en verdiensten steunt, en smeken zo de toepassing van dit lijden, van die verdiensten af;
 
 **Ten derde, het Kruis jaagt van ons de duivel met al zijn bedrijf:** met al hetgeen hij doet om ons tot zonde te brengen. De reden van deze kracht is, dat het Kruis en de dood van Christus de bron zijn van alle zaligheid, en dat degenen, die zich met een waar Geloof tot die heilbron wenden, van de vijand van hun zaligheid bevrijd worden, gelijk de Joden, met de koperen slang van Mozes te aanschouwen, van hun ziekten genezen werden.
 
@@ -184,13 +184,13 @@ Behalve deze drie voordelen hekomen wij door het Kruisteken 50 *dagen aflaat,* t
 
 Aanmerking.
 
-De twee eerste lessen zijn als een inleiding tot de Christelijke Leer: zij doen ons deze kennen vooreerst in 't algemeen, stellen ons dan eenige hoofdwaarheden voor nopens de *mens,* voor wie de Christelijke Leer bestemd is, en nopens de *Christen mens,* die deze Leer volgt. Nu gaat de Catechismus over tot het eerste van zijn vijf voorname delen, te weten, tot het Geloof.
+De twee eerste lessen zijn als een inleiding tot de Christelijke Leer: zij doen ons deze kennen vooreerst in 't algemeen, stellen ons dan enige hoofdwaarheden voor nopens de *mens,* voor wie de Christelijke Leer bestemd is, en nopens de *Christen mens,* die deze Leer volgt. Nu gaat de Catechismus over tot het eerste van zijn vijf voorname delen, te weten, tot het Geloof.
 
 ### VRAGEN.
 
 Welke zijn de hoofdpunten van deze les? — Wat wordt er in het bijzonder over ieder van deze hoofdpunten voorgesteld?
 
-1. Wat betekent het woord *Christen* mens? — Wat betekent *discipel* van Jezus Christus? — Waar en wanneer hebben Christus' discipelen eerst de naam van Christenen ontvangen? — Hoeveel dingen zijn er vereist om Christen mens te zijn? — Noem ze met de woorden van de Catechismus. — Verklaar eenigszins die vereisten. — Waaruit volgt het, dat die vereisten nodig zijn, opdat iemand Christen zou wezen?
+1. Wat betekent het woord *Christen* mens? — Wat betekent *discipel* van Jezus Christus? — Waar en wanneer hebben Christus' discipelen eerst de naam van Christenen ontvangen? — Hoeveel dingen zijn er vereist om Christen mens te zijn? — Noem ze met de woorden van de Catechismus. — Verklaar enigszins die vereisten. — Waaruit volgt het, dat die vereisten nodig zijn, opdat iemand Christen zou wezen?
 
 2. Welk is de zin van de vraag: *wat betaamt een Christen mens?* — Hoeveel en welke dingen betamen er hem? — Leg die in’t kort uit. — Zeg hoe de Christen tot ieder van deze zaken verplicht is. — Wie zijn *slechte*, wie zijn *goede* doch *onvolmaakte,* wie *volmaakte* Christenen?
 
@@ -202,12 +202,12 @@ Welke zijn de hoofdpunten van deze les? — Wat wordt er in het bijzonder over i
 
 6. Wat is een *mysterie?* — Wat wordt hier uitgedrukt door het woord *Geloof?* — Hoeveel en welke mysteriën van ons Geloof betekenen wij door het maken van het H. Kruis? — Waarin bestaan deze mysteriën? — Hoe zijn zij *grote* mysteriën?
 
-7. Wat betekenen wij door de woorden van het Kruisteken? — Wat is er te betekenen om het mysterie van de H. Drievuldigheid uit te drukken? — Door welke woorden betekenen wij ieder van die punten, welke tot het mysterie van de H. Drievuldigheid behooren? — Hoe worden zij door die woorden betekend?
+7. Wat betekenen wij door de woorden van het Kruisteken? — Wat is er te betekenen om het mysterie van de H. Drievuldigheid uit te drukken? — Door welke woorden betekenen wij ieder van die punten, welke tot het mysterie van de H. Drievuldigheid behoren? — Hoe worden zij door die woorden betekend?
 
 8. Wat betekenen wij door de gebaren in het Kruisteken? — Wat is er te betekenen om het mysterie van de Menswording uit te drukken? — Door welke gebaren wordt ieder van die punten betekend? — Hoe hebben die gebaren zulke betekenissen?
 
 9. Is het Kruisteken in onze dagen ingesteld, of bestaat het reeds sedert lang? — Wat verstaat men in dit antwoord door voorvaders? — Sedert wanneer bestaat het Kruisteken in de H. Kerk?  — Welk is de eerste oorsprong van dit teken?
 
-10. In hoeveel soorten van gevallen behoort men meest het Kruisteken te maken? — Waarom meldt hier de Catechismus op een bijzondere wijze: het *opstaan, eten, slapen gaan?* — Wat verstaat men door *kwelling* en *bekoring?* — Waarom moet men in het bijzonder het Kruisteken maken, als men *eenige kwelling of bekoring heeft of gevoelt?*
+10. In hoeveel soorten van gevallen behoort men meest het Kruisteken te maken? — Waarom meldt hier de Catechismus op een bijzondere wijze: het *opstaan, eten, slapen gaan?* — Wat verstaat men door *kwelling* en *bekoring?* — Waarom moet men in het bijzonder het Kruisteken maken, als men *enige kwelling of bekoring heeft of gevoelt?*
 
 1. Welk is het eerste, het tweede en derde profijt van het Kruisteken? — Waarin bestaat ieder van die profijten? — Hoe zijn zij allen aan het Kruisteken eigen?

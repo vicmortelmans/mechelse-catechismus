@@ -50,6 +50,10 @@ BEGIN {
   answer = $0  # store it for later
   next
 }
+/^### / {
+  print "###" $0
+  next
+}
 /^\s*$/ {
   # reproduce blank lines
   print $0

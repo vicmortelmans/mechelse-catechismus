@@ -71,11 +71,11 @@ A. De reden van dit antwoord is, dat de drie goddelijke Personen maar één en d
 
 V. Door **eer** verstaan wij het uit- of inwendig erkennen van iemands uitmuntendheid.
 
-A. Wij zijn de H. Geest schuldig **de goddelijke en opperste eer:** wij moeten Hem erkennen als God en Opperste Wezen. De reden daarvan is, dat de eer, gelijk wij gezegd hebben, in het erkennen van iemands uitmuntendheid bestaat ; nu, de H. Geest is wezenlijk God en het Opperste Wezen; dus moet Hij, wanneer wij Hem vereeren, als God en Opperste Wezen erkend worden,
+A. Wij zijn de H. Geest schuldig **de goddelijke en opperste eer:** wij moeten Hem erkennen als God en Opperste Wezen. De reden daarvan is, dat de eer, gelijk wij gezegd hebben, in het erkennen van iemands uitmuntendheid bestaat ; nu, de H. Geest is wezenlijk God en het Opperste Wezen; dus moet Hij, wanneer wij Hem vereren, als God en Opperste Wezen erkend worden,
 
 # Hoe heeft zich de Heilige Geest vertoond?
 
-## In de gedaante van een duif in het doopsel van Christus, en in de gedaante van vurige tongen op de Sinksendag
+## In de gedaante van een duif in het doopsel van Christus, en in de gedaante van vurige tongen op de Pinksterendag
 
 V. **Hoe heeft zich de H. Geest,** die uit zijn natuur onzichtbaar is, aan de mensen op een zichtbare wijze **vertoond?**
 
@@ -83,7 +83,7 @@ A. Hij heeft zich *tweemaal* vertoond:
 
 1° **In het doopsel van Christus:** wanneer de H. Joannes Baptista in de Jordaan het doopsel van boetvaardigheid aan Christus bediende, **in de gedaante:** in de uitwendigen vorm **van een duif** en dat om, onder het zinnebeeld van die vogel, hijzonderlijk de onschuld en de zachtmoedigheid van Christus te kennen te geven;
 
-2° **Op de Sinksendag** van de Joden, tien dagen na Christus’ Hemelvaart, **in de gedaante van vurige tongen,** en wel om, door dat zinnebeeld, de verlichting van het verstand uit te drukken, alsmede de vlam van de liefde, de zuivering van de ziel, de bekwaamheid om het Geloof te prediken en de gave van de talen, wat alles de Apostelen dan ontvingen.
+2° **Op de Pinksterendag** van de Joden, tien dagen na Christus’ Hemelvaart, **in de gedaante van vurige tongen,** en wel om, door dat zinnebeeld, de verlichting van het verstand uit te drukken, alsmede de vlam van de liefde, de zuivering van de ziel, de bekwaamheid om het Geloof te prediken en de gave van de talen, wat alles de Apostelen dan ontvingen.
 
 # Wanneer komt de Heilige Geest tot ons?
 
@@ -91,19 +91,19 @@ A. Hij heeft zich *tweemaal* vertoond:
 
 V. Wanneer zegt men dat de H. Geest, die overal tegenwoordig is met zijn wezen, zijn alziende oog en zijn macht, tot ons *komt?*
 
-A. Hij *komt* tot ons, **als Hij,** buiten de gewone en natuurlijke manier van in ons te werken, d.i. buiten het algemeen goddelijk werk van ons te bewaren en ons hulp te geven om dit alles te doen waartoe wij uit onze natuur bestemd zijn, ineen woord buiten het bestieren en bewaren, dat Hij voor ons gedurig doet, **op een nieuwe,** d.i. buitengewone en bovennatuurlijke **manier in ons *begint* te werken;** niet als Hij in ons zulk werk *voortzet.* Ziehier waarom men terecht leert, dat de H. Geest tot ons komt, als Hij in ons een bovennatuurlijk werk begint: men zegt gemeenlijk, dat iemand in een plaats komt, als hij er op een nieuwe manier begint tegenwoordig te zijn, 't zij met zijn wezen, ’t zij met zijn oog, 't zij met zijn macht; welnu, als de H. Geest, buiten zijn gewoon en aloud werk van bestieren en bewaren, in ons een bovennatuurlijk werk aanvangt, dan begint Hij op een nieuwe manier in ons tegenwoordig te zijn, niet met zijn wezen noch met zijn kennis, maar met zijn macht; en daarom zeggen wij terecht, dat Hij dan tot ons komt.
+A. Hij *komt* tot ons, **als Hij,** buiten de gewone en natuurlijke manier van in ons te werken, d.i. buiten het algemeen goddelijk werk van ons te bewaren en ons hulp te geven om dit alles te doen waartoe wij uit onze natuur bestemd zijn, ineen woord buiten het besturen en bewaren, dat Hij voor ons gedurig doet, **op een nieuwe,** d.i. buitengewone en bovennatuurlijke **manier in ons *begint* te werken;** niet als Hij in ons zulk werk *voortzet.* Ziehier waarom men terecht leert, dat de H. Geest tot ons komt, als Hij in ons een bovennatuurlijk werk begint: men zegt gewoonlijk, dat iemand in een plaats komt, als hij er op een nieuwe manier begint tegenwoordig te zijn, 't zij met zijn wezen, ’t zij met zijn oog, 't zij met zijn macht; welnu, als de H. Geest, buiten zijn gewoon en aloud werk van besturen en bewaren, in ons een bovennatuurlijk werk aanvangt, dan begint Hij op een nieuwe manier in ons tegenwoordig te zijn, niet met zijn wezen noch met zijn kennis, maar met zijn macht; en daarom zeggen wij terecht, dat Hij dan tot ons komt.
 
-De bovennatuurlijke werken die de H. Geest, buiten onze bewaring en natuurlijke ondersteuning, in ons komende verricht, zijn: de heiligmakende gratie en de dadelijke gratie verleenen, alsmede de gave van mirakelen of voorzeggingen te doen; de H. Schrift ingeven: de Kerk bestieren en zó bijstaan, dat zij noch in haar leer fale, noch door haar vijanden overweldigd worde; de gemeenschap onder de Heiligen teweegbrengen; de Heiligen glorieus doen verrijzen en hun de Hemel geven.
+De bovennatuurlijke werken die de H. Geest, buiten onze bewaring en natuurlijke ondersteuning, in ons komende verricht, zijn: de heiligmakende genade en de dadelijke genade verlenen, alsmede de gave van mirakelen of voorzeggingen te doen; de H. Schrift ingeven: de Kerk besturen en zó bijstaan, dat zij noch in haar leer fale, noch door haar vijanden overweldigd worde; de gemeenschap onder de Heiligen teweegbrengen; de Heiligen glorieus doen verrijzen en hun de Hemel geven.
 
-Gelijk de H. Geest tot ons *komt,* als Hij in ons een bovennatuurlijk werk begint, zo *woont* Hij in ons, als Hij, door een bijblijvende bovennatuurlijke gave, namelijk, door de heiligmakende gratie, in ons is.
+Gelijk de H. Geest tot ons *komt,* als Hij in ons een bovennatuurlijk werk begint, zo *woont* Hij in ons, als Hij, door een bijblijvende bovennatuurlijke gave, namelijk, door de heiligmakende genade, in ons is.
 
 # Welk is het meeste werk van de Heilige Geest?
 
-## De leden van de waarachtige Kerk van Christus door het uitdelen van zijn gratiën heilig te maken
+## De leden van de waarachtige Kerk van Christus door het uitdelen van zijn genaden heilig te maken
 
 V. **Welk is,** onder al de bovennatuurlijke werken die in de uitlegging van de voorgaande vraag genoemd worden, **het meeste:** het bijzonderste **werk van de H. Geest?**
 
-A. **De leden van de waarachtige Kerk van Christus:** al degenen die door het doopsel in de ware Kerk van Christus, namelijk, in de Rooms-Katholieke Kerk getreden zijn, of er, ten minste met de wil, 't zij deze uitdrukkelijk weze of in een andere begeerte besloten ligge, aan toebehooren, **heilig te maken:** te zuiveren van de zonden en in die gesteltenis te brengen, welke vereist is om vrienden Gods en erfgenamen van de hemel te wezen; *heilig* immers is hetzelfde als *God toegewijd, God aangenaam;* **door het uitdelen van zijn gratiën:** a) van de heiligmakende gratie, door dewelke wij heilig en de vrienden Gods zijn; b) van de bovennatuurlijke deugden en van de Zeven Gaven van de H. Geest, die de heiligmakende gratie aitoos vergezellen, en er als ‘t ware de vermogens van zijn, gelijk het verstand en de wil de vermogens zijn van de ziel; c) van de dadelijke gratiën, door dewelke de H. Geest de zondaars tot bekeering, en de rechtvaardigen tot volharding in het goed opwekt en hulp verleent.
+A. **De leden van de waarachtige Kerk van Christus:** al degenen die door het doopsel in de ware Kerk van Christus, namelijk, in de Rooms-Katholieke Kerk getreden zijn, of er, ten minste met de wil, 't zij deze uitdrukkelijk weze of in een andere begeerte besloten ligge, aan toebehoren, **heilig te maken:** te zuiveren van de zonden en in die gesteltenis te brengen, welke vereist is om vrienden Gods en erfgenamen van de hemel te wezen; *heilig* immers is hetzelfde als *God toegewijd, God aangenaam;* **door het uitdelen van zijn genaden:** a) van de heiligmakende genade, door dewelke wij heilig en de vrienden Gods zijn; b) van de bovennatuurlijke deugden en van de Zeven Gaven van de H. Geest, die de heiligmakende genade aitoos vergezellen, en er als ‘t ware de vermogens van zijn, gelijk het verstand en de wil de vermogens zijn van de ziel; c) van de dadelijke genaden, door dewelke de H. Geest de zondaars tot bekering, en de rechtvaardigen tot volharding in het goed opwekt en hulp verleent.
 
 Onder al de bovennatuurlijke werken van de H. Geest is dat het bijzonderste, aangezien al de andere slechts dienen als middelen tot de heiligmaking of tot de voltrekking daarvan.
 
@@ -111,11 +111,11 @@ Onder al de bovennatuurlijke werken van de H. Geest is dat het bijzonderste, aan
 
 ## Omdat Hij is de liefde van de Vader en van de Zoon, en uit Gods liefde ons alle heiligheid komt
 
-V. De Catechismus vraagt, waarom het werk van onze heiligmaking de H. Geest bijzonder wordt *toegeschreven,* en geenszins, waarom Hem dit werk wordt *toegeëigend* alsof het Hem alleen en niet evenwel de Vader en de Zoon toebehoorde; immers, al de werken die God huiten zich zelf doet, zijn de drie goddelijke Personen gemeen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
+V. De Catechismus vraagt, waarom het werk van onze heiligmaking de H. Geest bijzonder wordt *toegeschreven,* en geenszins, waarom Hem dit werk wordt *toegeëigend* alsof het Hem alleen en niet evenwel de Vader en de Zoon toebehoorde; immers, al de werken die God huiten zichzelf doet, zijn de drie goddelijke Personen gemeen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
 
-A. **Omdat Hij is de liefde van de Vader en van de Zoon:** omdat Hij de eeuwige en oneindige liefde ís die God de Vader en God de Zoon tot elkander hebben, gelijk de Zoon het eeuwig en oneindig volmaakt denkbeeld is dat God de Vader van zich zelf heeft, en **uit Gods liefde ons alle heilig heid komt:** en omdat die liefde van de Vader en van de Zoon, of de liefde die God tot zich zelven, tot zijn oneindige goedheid heeft, de oorsprong is van al de goddelijke werken waardoor wij tot de heiligheid komen. Deze reden is klaarblijkend: onze heiligheid spruit uit de liefde Gods voort, en de liefde van de Vader en van de Zoon is de Persoon van de H. Geest; dus wordt die heiligmaking natuurlijk de H. Geest toegeschreven.
+A. **Omdat Hij is de liefde van de Vader en van de Zoon:** omdat Hij de eeuwige en oneindige liefde ís die God de Vader en God de Zoon tot elkander hebben, gelijk de Zoon het eeuwig en oneindig volmaakt denkbeeld is dat God de Vader van zichzelf heeft, en **uit Gods liefde ons alle heilig heid komt:** en omdat die liefde van de Vader en van de Zoon, of de liefde die God tot zichzelf, tot zijn oneindige goedheid heeft, de oorsprong is van al de goddelijke werken waardoor wij tot de heiligheid komen. Deze reden is klaarblijkend: onze heiligheid spruit uit de liefde Gods voort, en de liefde van de Vader en van de Zoon is de Persoon van de H. Geest; dus wordt die heiligmaking natuurlijk de H. Geest toegeschreven.
 
-De hoedanigheden en werken die de goddelijke Personen toegeschreven worden, dienen rechtstreeks om hunn oorsprong te doen uitschijnen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
+De hoedanigheden en werken die de goddelijke Personen toegeschreven worden, dienen rechtstreeks om hun oorsprong te doen uitschijnen. (Zie [5ᵉ les, 8ᵉ v.](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd))
 
 ### VRAGEN
 
@@ -133,7 +133,7 @@ Welk artikel van het Symbolum wordt hier uitgelegd? — Welke zijn de hoofdpunte
 
 6. Geef de zin van de vraag: *Wanneer homt de H. Geest tot ons.* — Wat betekenen de woorden: *op een nieuwe manier?* — Wat is er op te merken in de woorden: *begint te werken?* — Hoe zegt men met reden, dat de H. Geest tot ons komt, *als Hij op enige nieuwe manier in ons begint te werken?* — Noem enige bovennatuurlijke werken van de H. Geest. — Wanneer zegt men dat de H. Geest in ons woont?
 
-7. Wat betekenen in de vraag: *Welk is het meeste werk van de H. Geest,* de woorden: *het meeste werk?* — Wat is er te verstaan door *de leden van de waarachtige Kerk van Christus,* door *heilig maken,* door *het uitdelen van zijn gratiën?* — Waarom is het werk van onze heiligmaking het meeste?
+7. Wat betekenen in de vraag: *Welk is het meeste werk van de H. Geest,* de woorden: *het meeste werk?* — Wat is er te verstaan door *de leden van de waarachtige Kerk van Christus,* door *heilig maken,* door *het uitdelen van zijn genaden?* — Waarom is het werk van onze heiligmaking het meeste?
 
 8. Wat is er hier te verstaan door *onze heiligmaking?* — Behoort deze aan de H. Geest alleen? — Waarom wordt zij Hem toegeschreven? — Is die reden geldig? — Wat betekenen de woorden: *omdat Hij is de liefde van de Vader en van de Zoon?* — Wat beduidt men door: *en uit Gods liefde ons alle heiligheid komt?*
 

@@ -41,7 +41,7 @@ subtitle: Van de H. Schrift en van de Traditiën
 </tr>
 <tr>
   <td colspan=2>Enkele punten enkel hierin bewaard</td>
-  <td>*[Noem eenige stukken die geloofd moeten worden en nochtans in de Heilige Schrift niet slaan](#noem-eenige-stukken-die-geloofd-moeten-worden-en-nochtans-in-de-heilige-schrift-niet-slaan)*</td>
+  <td>*[Noem enige stukken die geloofd moeten worden en nochtans in de Heilige Schrift niet slaan](#noem-enige-stukken-die-geloofd-moeten-worden-en-nochtans-in-de-heilige-schrift-niet-slaan)*</td>
 </tr>
 </table>
 
@@ -51,11 +51,11 @@ subtitle: Van de H. Schrift en van de Traditiën
 
 <span class=marginnote>
   <img src="resources/0401a.jpg">
-  <em>Wat gelooft men? (formulieren) Waaruit haalt ge dat? - uit de bronnen, d.i. praktisch voor de mensen: het onderwijs van de kerk; deze haalt het uit de heilige Schrift en traditie. Een dode en een levende bron, d.i. heilige Schrift en Traditie (dood) en Kerk (levend). Traditie is reeds een geschreven document en ook nog het geweten van de heilige Schrift.<br/>Bronnen: De Schrift is Gods woord en alsdusdanig is zij de waardigste bron, maar de voornaamste bron is de kerk, omdat het de kerk is die in laatste instantie de verklaring moet geven van de Schrift. (geschilpunt vooral tussen katholieken en protestantisme. <br/>Canon van 72 boeken: ingegeven door de Heilige Geest. Waarom zoveel? Hoe weet ge dat de Heilige Geest geïnspireerd heeft?</em>
+  <em>Wat gelooft men? (formulieren) Waaruit haalt ge dat? – uit de bronnen, d.i. praktisch voor de mensen: het onderwijs van de kerk; deze haalt het uit de heilige Schrift en traditie. Een dode en een levende bron, d.i. heilige Schrift en Traditie (dood) en Kerk (levend). Traditie is reeds een geschreven document en ook nog het geweten van de heilige Schrift.<br/>Bronnen: De Schrift is Gods woord en alsdusdanig is zij de waardigste bron, maar de voornaamste bron is de kerk, omdat het de kerk is die in laatste instantie de verklaring moet geven van de Schrift. (geschilpunt vooral tussen katholieken en protestantisme. <br/>Canon van 72 boeken: ingegeven door de Heilige Geest. Waarom zoveel? Hoe weet ge dat de Heilige Geest geïnspireerd heeft?</em>
   <img src="resources/0401b.jpg">
   <em>Wij omdat de kerk het ons zegt. De kerk heeft de canon samengebracht en had dit niet geweest, de protestanten hadden waarschijnlijk heel andere boeken genomen. Het criterium van een protestant is heel subjectief. Men heeft revelatie binnen en buiten de heilige Schrift, b.v. Heilige Drievuldigheid, O.L.Vrouw van Lourdes. Openbaring en ingeving; geheel de Schrift is geïnspireerd en buiten de Schrift zijn er ook zaken geïnspireerd, maar zijn geen dogma's, hierdoor wordt de heilige Kerk bijzonder verlicht. Geïnspireerde revelatie alleen in de heilige Schrift en gaat praktisch tot aan de dood van de laaatste apostel.</em>
 </span>
-V. De zin is: waaruit neemt de H. Kerk de leer, die zij ons als de goddelijke Openbaring voorhoudt: is het uit nieuwe goddelijke openbaringen, ofwel uit eenige bewijs of bewaarstukken van de gedane Openbaring?
+V. De zin is: waaruit neemt de H. Kerk de leer, die zij ons als de goddelijke Openbaring voorhoudt: is het uit nieuwe goddelijke openbaringen, ofwel uit enige bewijs of bewaarstukken van de gedane Openbaring?
 
 A. Zij neemt de leer, die zij voorhoudt **uit de schatten,** de bewaarstukken, **die God,** na daarin zijn Openbaring besloten te hebben, **haar achtergelaten heeft,** opdat zij er haar leer zou uit putten. Die bewaarstukken, hier *schatten* genoemd om hun allerkostbaarste inhoud, zijn ten getalle van twee, **te weten: de Heilige Schrift en de Apostelijke Traditiën of Overleveringen.**
 
@@ -63,7 +63,7 @@ A. Zij neemt de leer, die zij voorhoudt **uit de schatten,** de bewaarstukken, *
 
 ## Boeken, die zowel in het Oud als in het Nieuw Testament, van heilige mannen, door het ingeven en de bijzondere bijstand van de Heilige Geest, geschreven zijn
 
-A. De H. Schrift bestaat niet uit mondelinge leer, maar, gelijk het woord *schrift* of *schrift* genoegzaam aanduidt, uit **boeken,** en uit boeken, **die geschreven zijn zowel in het Oud als in het Nieuw Testament,** deze woorden leren ons, *wanneer* de H. Schrift opgesteld werd, namelijk, onder de Oude Wet van Mozes zowel als onder de Nieuwe Wet van Christus: *testament* is hier immers hetzelfde als getuigenis, veropenbaring, verbond, *wet.* De boeken van het Nieuw Testament zijn allen geschreven in de eerste eeuw na Christus. — Om Schriftboeken te zijn, moeten de boeken van het Oud en van het Nieuw Testament geschreven zijn, niet, gelijk de stenen tafelen van Mozes, rechtstreeks door God zelven, maar 1° **van heilige mannen:** van personen door God zelf uitgekozen en Hem bijzonder toegewijd; 2° door het ingeven van de H. Geest, zowel wat aangaat de gedachten die geschreven moeten worden, als de wil van die te schrijven; en, na die ingeving, 3° **door de bijzondere, buitengewone, bovennatuurlijke bijstand van de H. Geest,** om in 't uitdrukken van de gedachten niet te falen. Deze twee werken zijn, gelijk al hetgeen God buiten zich zelf doet, de drie goddelijke Personen gemeen, maar worden de *H. Geest* bijzonder toegeschreven omdat het werken van liefde zijn. De reden waarom beide hier vereist worden, is gemakkelijk om begrijpen: om een boek op te stellen, moet men gedachten hebben, deze willen schrijven, en nauwkeurig uitdrukken; welnu, het Geloof leert ons, dat God de H. Schrift heeft opgesteld door tussenkomst van heilige mannen, van Hem daartoe verkozen; dus moet God hun de gedachten, die in de H. Schriftboeken uitgedrukt zijn, alsook de wil van ze daarin uit te drukken, ingegeven, en hun daarenboven in het schrijven hulp verleend hebben,
+A. De H. Schrift bestaat niet uit mondelinge leer, maar, gelijk het woord *schrift* of *schrift* genoegzaam aanduidt, uit **boeken,** en uit boeken, **die geschreven zijn zowel in het Oud als in het Nieuw Testament,** deze woorden leren ons, *wanneer* de H. Schrift opgesteld werd, namelijk, onder de Oude Wet van Mozes zowel als onder de Nieuwe Wet van Christus: *testament* is hier immers hetzelfde als getuigenis, veropenbaring, verbond, *wet.* De boeken van het Nieuw Testament zijn allen geschreven in de eerste eeuw na Christus. — Om Schriftboeken te zijn, moeten de boeken van het Oud en van het Nieuw Testament geschreven zijn, niet, gelijk de stenen tafelen van Mozes, rechtstreeks door God zelf, maar 1° **van heilige mannen:** van personen door God zelf uitgekozen en Hem bijzonder toegewijd; 2° door het ingeven van de H. Geest, zowel wat aangaat de gedachten die geschreven moeten worden, als de wil van die te schrijven; en, na die ingeving, 3° **door de bijzondere, buitengewone, bovennatuurlijke bijstand van de H. Geest,** om in 't uitdrukken van de gedachten niet te falen. Deze twee werken zijn, gelijk al hetgeen God buiten zichzelf doet, de drie goddelijke Personen gemeen, maar worden de *H. Geest* bijzonder toegeschreven omdat het werken van liefde zijn. De reden waarom beide hier vereist worden, is gemakkelijk om begrijpen: om een boek op te stellen, moet men gedachten hebben, deze willen schrijven, en nauwkeurig uitdrukken; welnu, het Geloof leert ons, dat God de H. Schrift heeft opgesteld door tussenkomst van heilige mannen, van Hem daartoe verkozen; dus moet God hun de gedachten, die in de H. Schriftboeken uitgedrukt zijn, alsook de wil van ze daarin uit te drukken, ingegeven, en hun daarenboven in het schrijven hulp verleend hebben,
 
 Hieruit blijkt, hoe de geloofsverklaringen van de H. Kerk geen H. Schrift zijn: wel zijn zij gedaan onder de bijzondere bijstand van de H. Geest, maar door Hem niet onmiddelijk ingegeven, daar zij uit de schatten van de Openbaring genomen zijn.
 
@@ -83,17 +83,17 @@ A. Wij weten dat met zekerheid **uit de leer van de H. Kerk:** van de kerkelijke
 
 V. De ketterse bijbels zijn die ook ware Schriftboeken, gelijk die welke de H. Kerk ons voor zulke voorhoudt? *Bijbel* betekent eigenlijk *boek,* maar wordt algemeen gebruikt om de uitmuntendste boeken, te weten, de verzameling van de Schriftboeken aan te duiden.
 
-A. De ketterse bijbels zijn **geenszins H. Schrift,** de reden volgt; **want zij zijn vervalst op vele plaatsen;** de ketters immers houden wel eenige stukken voor goed, maar verachten de andere; vandaar komt dat hun bijbels, deels ongeschonden gebleven, op vele plaatsen vervalst zijn, 't zij door nieuwe dingen die er bijgevoegd, ’t zij door andere die weggelaten of van zin veranderd werden; daarom ook kuuanen die bijhels, daar ten minste waar zij vervalst zijn, geenszins H. Schrift wezen.
+A. De ketterse bijbels zijn **geenszins H. Schrift,** de reden volgt; **want zij zijn vervalst op vele plaatsen;** de ketters immers houden wel enige stukken voor goed, maar verachten de andere; vandaar komt dat hun bijbels, deels ongeschonden gebleven, op vele plaatsen vervalst zijn, 't zij door nieuwe dingen die er bijgevoegd, ’t zij door andere die weggelaten of van zin veranderd werden; daarom ook kuuanen die bijhels, daar ten minste waar zij vervalst zijn, geenszins H. Schrift wezen.
 
 Het is streng verboden ketterse bijbels te bewaren of te lezen.
 
 # Is het iemand verboden de Bijbel te lezen?
 
-## Ja, het is aan gemeene lieden verboden zonder oorlof die te lezen in de moederlijke taal
+## Ja, het is aan gemene lieden verboden zonder oorlof die te lezen in de moederlijke taal
 
-A. **Ja, het is verboden,** niet rechtstreeks door God maar door de H. Kerk, **aan gemeene lieden:** aan al degenen die niet voor ambt hebben, als dienaars van de H. Kerk, de Christenen in het Geloof te onderwijzen, noch zich daartoe bereiden: *gemeene lieden* immers is hier het tegenovergestelde van *aanzienlijke beambten;* **die te lezen zonder oorlof,** zonder toelating van de geestelijke overheid, van de Paus namelijk, óf van de bisschop, óf van een door hen daartoe gemachtigden pastoor of biechtvader, **in de moederlijke taal:** in een taal die hedendaags nog gesproken, en daarom *moedertaal* (taal die wij van onze moeder leren) of *levende taal* genoemd wordt. Zulke taal is b.v. het Vlaams, het Frans, het Engels, het Duits. Het tegenovergestelde van de levende talen zijn de *dode talen*, die men niet meer spreekt, zoals het Latijn, het Grieks, het Hebreeuws.
+A. **Ja, het is verboden,** niet rechtstreeks door God maar door de H. Kerk, **aan gemene lieden:** aan al degenen die niet voor ambt hebben, als dienaars van de H. Kerk, de Christenen in het Geloof te onderwijzen, noch zich daartoe bereiden: *gemene lieden* immers is hier het tegenovergestelde van *aanzichtbaare beambten;* **die te lezen zonder oorlof,** zonder toelating van de geestelijke overheid, van de Paus namelijk, óf van de bisschop, óf van een door hen daartoe gemachtigden pastoor of biechtvader, **in de moederlijke taal:** in een taal die hedendaags nog gesproken, en daarom *moedertaal* (taal die wij van onze moeder leren) of *levende taal* genoemd wordt. Zulke taal is b.v. het Vlaams, het Frans, het Engels, het Duits. Het tegenovergestelde van de levende talen zijn de *dode talen*, die men niet meer spreekt, zoals het Latijn, het Grieks, het Hebreeuws.
 
-Hieruit volgt, 1° dat het aan niemand verboden is de Bijbel te lezen in de dode talen; 2° dat het maar aan gemeene lieden verboden is die zonder oorlof in de moederlijke taal te lezen.
+Hieruit volgt, 1° dat het aan niemand verboden is de Bijbel te lezen in de dode talen; 2° dat het maar aan gemene lieden verboden is die zonder oorlof in de moederlijke taal te lezen.
 Hier nochtans is een uitzondering te maken voor die overzettingen van de Bijbel in de moederlijke talen, welke van de Paus goedgekeurd zijn, of welke vergezeld gaan van verklaringen uit de HH. Vaders of uit katholieke schrijvers, en tevens de goedkeuring van de bisschop dragen: deze mag iedereen lezen.
 
 # Is de Schrift heel klaar, en kan ze iedereen wel verstaan?
@@ -102,15 +102,15 @@ Hier nochtans is een uitzondering te maken voor die overzettingen van de Bijbel 
 
 <span class=marginnote>
   <img src="resources/0406a.jpg">
-  <em>Gods woord moet de klaarheid zelf wezen. Rechtstreeks wel, maar onrechtstreeks heeft God gewerkt door mensen en deze waren soms heel onvolmaakt (kerkgemeenschap om te verklaren). De protestanten trekken hun grachten stilaan achteruig, van de Middeleeuwen tot de apostelen (dit merkt men door de toegevendheid aan de traditie). Sommigen zeggen zelfs dat Christus niet bestaan heeft; christendom zonder Christus. Le tour de force d' expliquer le chirstianisme sans le Christ. De traditie: ze is voor een groot deel geschreven, doch niet in de heilige Schrift.</em>
+  <em>Gods woord moet de klaarheid zelf wezen. Rechtstreeks wel, maar onrechtstreeks heeft God gewerkt door mensen en deze waren soms heel onvolmaakt (kerkgemeenschap om te verklaren). De protestanten trekken hun grachten stilaan achteruig, van de Middeleeuwen tot de apostelen (dit merkt men door de toegevendheid aan de traditie). Sommigen zeggen zelfs dat Christus niet bestaan heeft; christendom zonder Christus. Le tour de force d' expliquer 1° chirstianisme sans 1° Christ. De traditie: ze is voor een groot deel geschreven, doch niet in de heilige Schrift.</em>
 </span>
-A. **Neen; maar zij is zeer duister,** zeer moeilijk om verstaan in **vele plaatsen,** en de oorzaak daarvan ligt in de verhevene waarheden die zij bevat, alsmede in onze onvolmaakte kennis van de talen, waar de Bijbel in geschreven is, en van de oude gebruiken die daarin vermeld worden; **en daarom is het zeer zorglijk,** zeer gevaarlijk **die te lezen voor ongeleerde mensen:** voor personen die in het Geloof, in de geschiedenis en in de taalkunde weinig ervaren zijn. 't Is om reden van de duisterheid van de H. Schrift en het daaruit voortvloeiend gevaar, dat de H. Kerk aan de gemeene lieden verboden heeft ze te lezen in de moederlijke taal.
+A. **Neen; maar zij is zeer duister,** zeer moeilijk om verstaan in **vele plaatsen,** en de oorzaak daarvan ligt in de verhevene waarheden die zij bevat, alsmede in onze onvolmaakte kennis van de talen, waar de Bijbel in geschreven is, en van de oude gebruiken die daarin vermeld worden; **en daarom is het zeer zorglijk,** zeer gevaarlijk **die te lezen voor ongeleerde mensen:** voor personen die in het Geloof, in de geschiedenis en in de taalkunde weinig ervaren zijn. 't Is om reden van de duisterheid van de H. Schrift en het daaruit voortvloeiend gevaar, dat de H. Kerk aan de gemene lieden verboden heeft ze te lezen in de moederlijke taal.
 
 # Moeten wij iets geloven, dat in de Bijbel niet geschreven is?
 
 ## Ja, ook de Apostelijke Traditiën
 
-A. Uit dit antwoord blijkt, dat de Bijbel niet alles behelst wat wij moeten geloven; dat hij bijgevolg de eenige schat niet is, waar de goddelijke Openbaring in besloten ligt. Behalve de Bijbel bestaat nog een tweede schat, te weten: **de Apostelijke Traditiën** of Overleveringen. De verklaring van hunn aard en naam wordt gegeven in de volgende vraag.
+A. Uit dit antwoord blijkt, dat de Bijbel niet alles behelst wat wij moeten geloven; dat hij bijgevolg de enige schat niet is, waar de goddelijke Openbaring in besloten ligt. Behalve de Bijbel bestaat nog een tweede schat, te weten: **de Apostelijke Traditiën** of Overleveringen. De verklaring van hun aard en naam wordt gegeven in de volgende vraag.
 
 # Wat zijn Apostelijke Traditiën?
 
@@ -124,7 +124,7 @@ Evenwel verschillen de Overleveringen van de voorhouding van de H. Kerk: deze is
 
 De H. Schrift en de Overlevering zijn dus twee *dode* bronnen van de goddelijke Openbaring, terwijl de H. Kerk, die de Openbaring er uit put en voorhoudt, de levende bron van de Openbaring is.
 
-# Noem eenige stukken die geloofd moeten worden en nochtans in de Heilige Schrift niet slaan
+# Noem enige stukken die geloofd moeten worden en nochtans in de Heilige Schrift niet slaan
 
 ## Dat er maar vier Heilige Evangelisten zijn; dat de H. Moeder Gods altijd maagd gebleven is, enz.
 
@@ -139,13 +139,13 @@ Het grootste getal van de geloofspunten zijn tevens in de H. Schrift en in de Ov
 
 ### VRAGEN.
 
-Wat leren wij kennen in deze les? — Geef de hoofdverdeeling van deze les, — Zeg wat de Catechismus nopens ieder deel onderzoekt.
+Wat leren wij kennen in deze les? — Geef de hoofdverdeling van deze les, — Zeg wat de Catechismus nopens ieder deel onderzoekt.
 
 1. Welk is de zin van de vraag: *Waaruit heeft de H. Kerk al wat zij ons voorhoudt te geloven?* — Wat betekenen de woorden: *de schatten die God haar achtergelaten heeft?* — Hoeveel schatten zijn er, waaruit de H. Kerk haar leer neemt, en hoe noemt men ze?
 
 2. Wat wordt er door de naam zelf *Schrift* nopens de H. Schrift aangeduid? — Wanneer zijn de schriftboeken geschreven? — Wat verstaat men door *Oud en Nieuw Testament?*  — Leg het woord *Testament* uit. — Door wie is de H. Schrirtuur geschreven; leg het antwoord uit. — Wat is er vereist, opdat een boek H. Schrift weze? — Wat verstaat men hier door *het ingeven* van de H. Geest? — Wat verstaat men door *de bijzondere bijstand* van de H. Geest, waaronder de H. Schrift geschreven is? — Komt dat ingeven en die bijzondere bijstand alleen van de H. Geest; leg het antwoord uit. — Waarom zijn de bovengenoemde vereisten nodig opdat een boek H. Schrift zou wezen? — Van waar komt de naam *Heilige* Schrift?
 
-3. Welk is de zin van de derde vraag: *Waaruit mogen wij weten, welke boeken stukken van de H. Schrift zijn?* — Welken middel hebben wij dan om de boeken, die wezenlijk tot de H. Schrift behooren, te kennen? — Wat verstaat men hier door de H. Kerk?  — Bewijs dat die genoemde middel de ware is om de schriftboeken te kennen.
+3. Welk is de zin van de derde vraag: *Waaruit mogen wij weten, welke boeken stukken van de H. Schrift zijn?* — Welken middel hebben wij dan om de boeken, die wezenlijk tot de H. Schrift behoren, te kennen? — Wat verstaat men hier door de H. Kerk?  — Bewijs dat die genoemde middel de ware is om de schriftboeken te kennen.
 
 4. Wat betekent hier het woord *Bijbel?* — Wat wordt hier nopens de ketterse bijbels gevraagd? — Waarom zijn zij geen H. Schrift? — Mogen wij die bewaren of gebruiken?
 
@@ -153,9 +153,9 @@ Wat leren wij kennen in deze les? — Geef de hoofdverdeeling van deze les, — 
 
 6. Wat ís er op te merken nopens de klaarheid of de duisterheid van de H. Schrift? — Wat volgt er daaruit voor het lezen van de H. Schrift? — Welke wet heeft de H. Kerk daarom nopens het lezen van de H. Schrift gemaakt?
 
-7. Vinden wij alles, wat mij moeten geloven, in de H. Schrift? — In welken schat vinden wij de andere geloofspunten? — Leg de naam van die tweeden schat uit.
+7. Vinden wij alles, wat mij moeten geloven, in de H. Schrift? — In welke schat vinden wij de andere geloofspunten? — Leg de naam van die tweeden schat uit.
 
 8. Welke *leren* zijn de Apostelijke Traditiën? — Van wie zijn zij eerst overgeleverd? — Hoe zijn zij tot ons gekomen? — Wat is er gemeen tussen de H. Schrift en de Overlevering, en waarin verschillen deze twee schatten? — Hoe verschilt de Overlevering van de levende leer van de H. Kerk, die ons voorhoudt hetgeen wij moeten geloven?
 
-9. Wat leren wij in de 9ᵉ vraag: *Noem eenige stukken, die geloofd moeten worden en nochtans in de H. Schrift niet staan?* — Wat verstaat men door *Evangelisten* en door *Evangelie?* — Wie is de Moeder Gods, en waarom draagt zij dezen naam? — Hoelang is de Moeder Gods maagd gebleven? — Noem nog twee andere punten, die wij alleen door de Overlevering kennen.
+9. Wat leren wij in de 9ᵉ vraag: *Noem enige stukken, die geloofd moeten worden en nochtans in de H. Schrift niet staan?* — Wat verstaat men door *Evangelisten* en door *Evangelie?* — Wie is de Moeder Gods, en waarom draagt zij deze naam? — Hoelang is de Moeder Gods maagd gebleven? — Noem nog twee andere punten, die wij alleen door de Overlevering kennen.
 

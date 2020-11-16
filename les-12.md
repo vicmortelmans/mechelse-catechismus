@@ -60,7 +60,7 @@ subtitle: De Heilige Katholieke Kerk
 
 <span class=marginnote>
   <img src="resources/1200a.jpg">
-  <em>De bepaling van het boek is eenzijdig (sociale en apologetisch - protestants) alleen de geloochende punten zijn opgenomen. Goddelijke, morele, mystieke natuur van de kerk. De Kerk is de 1ᵉ vergadering van genade, liefde en rechtvaardigheid. Vergadering: buiten geroepen (buiten joden en heidenen vergaderen). <br/>Maatschappij: gezag, leden, doel, middelen: kerk heelt ze. De kerk is een volmaakte maatschappij door de vier delen volmaakt zijn. Gezag: Chritus - paus (onfeilbaar). Doel: Christus kennen en belofte van eeuwig leven. Middelen: sacramenten van Christus goed toegepast bereikt men zeker het doel.</em>
+  <em>De bepaling van het boek is eenzijdig (sociale en apologetisch – protestants) alleen de geloochende punten zijn opgenomen. Goddelijke, morele, mystieke natuur van de kerk. De Kerk is de 1ᵉ vergadering van genade, liefde en rechtvaardigheid. Vergadering: buiten geroepen (buiten joden en heidenen vergaderen). <br/>Maatschappij: gezag, leden, doel, middelen: kerk heelt ze. De kerk is een volmaakte maatschappij door de vier delen volmaakt zijn. Gezag: Chritus – paus (onfeilbaar). Doel: Christus kennen en belofte van eeuwig leven. Middelen: sacramenten van Christus goed toegepast bereikt men zeker het doel.</em>
   <img src="resources/1206a.jpg">
   <em>Leden: sommige zijn volmaakt. Op de akker is onkruid tot bij de oogst. In feite zijn ze slecht, in recht zijn ze alle volmaakt door het doopsel, niet *omwille* van de kerk, maar *niet tegenstaande* de kerk. <br/>Sommige principes van het protestantisme moeten leiden tot het omverwerpen van het hele christendom: vrij onderzoek, alleen bijbel, onzichtbare kerk.</em>
 </span>
@@ -80,11 +80,11 @@ De vergadering nu, die men de H. Kerk noemt, bestaat uit **alle gelovige christe
 
 ## Het onzichtbaar en opperste hoofd is Christus; maar het zichtbaar hoofd is zijn stadhouder op de aarde, de Paus van Rome
 
-V. **Wie is het hoofd,** de opperbestierder **van de H. Kerk?**
+V. **Wie is het hoofd,** de opperbestuurder **van de H. Kerk?**
 
-A. De opperbestierder van de H. Kerk is **Christus** als mens, en — de **Paus van Rome,** d.i. de bisschìp van Rome; want, die bisschop is van Rome, is ook Paus. Het woord *Paus* betekent eigenlijk *vader.* Het opperbestier behoort hun beiden toe als volgt: Christus is het onzichtbaar en opperste hoofd; de Paus van Rome, het zichtbaar hoofd en de stadhouder van Christus op de aarde.
+A. De opperbestuurder van de H. Kerk is **Christus** als mens, en — de **Paus van Rome,** d.i. de bisschìp van Rome; want, die bisschop is van Rome, is ook Paus. Het woord *Paus* betekent eigenlijk *vader.* Het opperbestuur behoort hun beiden toe als volgt: Christus is het onzichtbaar en opperste hoofd; de Paus van Rome, het zichtbaar hoofd en de stadhouder van Christus op de aarde.
 
-Christus als mens wordt het *onzichtbaar* hoofd van de H. Kerk genoemd, omdat Hij hier op aarde niet zichtbaar met ons leeft; het *opperste* hoofd. omdat Hij rechtstreeks van God alle macht over de gelovigen ontvangen heeft, en niemand in de H. Kerk enige macht hezit, die niet van Hem voortkomt. De Paus van Rome integendeel is het *zichtbaar* hootd van de H. Kerk, omdat hij hier zichtbaar met ons leeft; de *stadhouder* (plaatsvervanger) *van Christus* op de aarde, omdat hij in Christus’ naam en plaats de gelovigen bestiert.
+Christus als mens wordt het *onzichtbaar* hoofd van de H. Kerk genoemd, omdat Hij hier op aarde niet zichtbaar met ons leeft; het *opperste* hoofd. omdat Hij rechtstreeks van God alle macht over de gelovigen ontvangen heeft, en niemand in de H. Kerk enige macht hezit, die niet van Hem voortkomt. De Paus van Rome integendeel is het *zichtbaar* hootd van de H. Kerk, omdat hij hier zichtbaar met ons leeft; de *stadhouder* (plaatsvervanger) *van Christus* op de aarde, omdat hij in Christus’ naam en plaats de gelovigen bestuurt.
 
 # Wat is de Paus van Rome?
 
@@ -106,9 +106,9 @@ Deze leer, nader bepaald, komt op het volgende uit: de Paus heeft over geheel de
 
 A. Het ambt of de macht van de bisschoppen is hier ook op twee manieren voorgesteld: zij zijn:
 
-1° **De prinsen van de H. Kerk:** zij bestieren onmiddellijk, onder het oppergezag van de Paus, een deel van de H. Kerk, namelijk een bisdom, gelijk in vroegere tijden, de prinsen, onder het oppergezag van de koning, onmiddellijk een deel van het rijk bestierden;
+1° **De prinsen van de H. Kerk:** zij besturen onmiddellijk, onder het oppergezag van de Paus, een deel van de H. Kerk, namelijk een bisdom, gelijk in vroegere tijden, de prinsen, onder het oppergezag van de koning, onmiddellijk een deel van het rijk bestuurden;
 
-2° **Zij bedienen de plaatsen van de Heilige Apostelen:** zij hebben hetzelfde ambt of dezelfde macht als de Apostelen, met uitzondering echter van de voorrechten die deze hadden als stichters van de H. Kerk, namelijk: de onfeilbaarheid in het voorhouden van Christus’ leer en het recht van door zich zelven, zonder iemands tussenkomst, bisschoppelijke zetels in te richten, overal het Geloof te prediken en de gelovigen te bestieren.
+2° **Zij bedienen de plaatsen van de Heilige Apostelen:** zij hebben hetzelfde ambt of dezelfde macht als de Apostelen, met uitzondering echter van de voorrechten die deze hadden als stichters van de H. Kerk, namelijk: de onfeilbaarheid in het voorhouden van Christus’ leer en het recht van door zichzelf, zonder iemands tussenkomst, bisschoppelijke zetels in te richten, overal het Geloof te prediken en de gelovigen te besturen.
 
 De bisschoppen hebben, in het bisdom hun door de Paus toevertrouwd, de macht van, als Christus’ gezanten, het Geloof voor te houden, van wetten te maken, te oordelen, te straffen en de HH. Sacramenten te bedienen: zij hebben recht van in een algemeen Concilie deel te nemen; doch blijven in alles aan het gezag van de Paus onderworpen.
 
@@ -116,13 +116,13 @@ De bisschoppen hebben, in het bisdom hun door de Paus toevertrouwd, de macht van
 
 ## De pastoors en priesters zijn wettige navolgers van de twee en zeventig discipelen van Christus
 
-V. **Pastoors** heet men de geestelijke oversten van de parochiën, die deeltjes zijn van een bisdom, en een zeker getal gelovigen bevatten. Door **priesters** duidt men hier de priesters aan, die geen pastoors zijn, maar eenig ander ambt in het bisdom bekleeden.
+V. **Pastoors** heet men de geestelijke oversten van de parochiën, die deeltjes zijn van een bisdom, en een zeker getal gelovigen bevatten. Door **priesters** duidt men hier de priesters aan, die geen pastoors zijn, maar enig ander ambt in het bisdom bekleden.
 
 A. **De pastoors en priesters zijn wettige** (ware) **navolgers van de twee en zeventig discipelen** (leerlingen) **van Christus:** die Christus uit zijn volgelingen gekozen, en als voorloopers van zijn prediking rondgezonden heeft. Zij worden *navolgers* van die discipelen genoemd, niet omdat Christus ze als hun opvolgers heeft ingesteld, maar omdat zij, door de overheid van de H. Kerk tot medehelpers van de bisschoppen zijn aangenomen, gelijk de twee en zeventig diseipelen door Christus tot zijn medehelpers uitgekozen werden.
 
-De pastoors hebhen de macht van, in de naam van hunn bisschop, het Geloof aan hun onderdanen te verkondigen, hun de Sacramenten te bedienen, alsook hen in de weg van de zaligheid te leiden met hun de wetten van de H. Kerk voor te houden en goeden raad te geven. De andere priesters hebben de macht die zij van de H. Kerk of van de bisschop ontvangen hebben.
+De pastoors hebhen de macht van, in de naam van hun bisschop, het Geloof aan hun onderdanen te verkondigen, hun de Sacramenten te bedienen, alsook hen in de weg van de zaligheid te leiden met hun de wetten van de H. Kerk voor te houden en goeden raad te geven. De andere priesters hebben de macht die zij van de H. Kerk of van de bisschop ontvangen hebben.
 
-Men bemerke wel, dat er in deze les spraak is van de *rangorde van de bestier- of rechtsambten* in de H. Kerk, In de [35ᵉ les](les-35.html) zal er gehandeld worden van de *rangorde van de priesterlijke macht,* die door het Sacrament van het Priesterschap gegeven wordt.
+Men bemerke wel, dat er in deze les spraak is van de *rangorde van de bestuur- of rechtsambten* in de H. Kerk, In de [35ᵉ les](les-35.html) zal er gehandeld worden van de *rangorde van de priesterlijke macht,* die door het Sacrament van het Priesterschap gegeven wordt.
 
 # Welke zijn de leden van de Heilige Kerk?
 
@@ -134,7 +134,7 @@ A. Er zijn drie klassen van leden:
 
 1° **Al degenen, die hier op de aarde onder de gehoorzaamheid van de Paus van Rome het waarachtig Geloof belijden:** de gelovigen hier op de aarde.
 
-2° **Die in het vagevuur gezuiverd worden:** de zielen dergenen die, in Gods liefde gestorven zijnde, in het vagevuur gezuiverd worden van de nog overblijvenden last van penitentie.
+2° **Die in het vagevuur gezuiverd worden:** de zielen van degenen die, in Gods liefde gestorven zijnde, in het vagevuur gezuiverd worden van de nog overblijvenden last van penitentie.
 
 3° **Die nu met Christus in de hemel leven:** de Heiligen van de hemel.
 
@@ -214,15 +214,15 @@ V. Waarin bestaan de mirakelen die in de H. Kerk geschieden, en kentekens van ha
 
 A. Tot een mirakel zijn *drie* dingen vereist:
 
-1° Er moet een **wonderlijk teken** zijn: door *teken* verstaat men hier een uitwendig werk, ofeen werk dat niet, gelijk b.v. de Consecratie van de Mis, onzichtbaar is, maar dat, zoals de verrijzenis van een dode, onder de zinnen valt. Een *wonderlijk* teken is een buitengewoon teken, of een teken dat buiten de gewonen loop van de zaken, buiten de gewone orde geschiedt, zoals hef plotseling genezen, op één woord, van allerhande ziekten. De mirakelen worden *tekenen* genoemd, omdat zij ons de waarheid doen kennen van de leer of van de Kerk, ofwel de heiligheid van de persoon, te welker voordeele zij gedaan zijn.
+1° Er moet een **wonderlijk teken** zijn: door *teken* verstaat men hier een uitwendig werk, ofeen werk dat niet, gelijk b.v. de Consecratie van de Mis, onzichtbaar is, maar dat, zoals de verrijzenis van een dode, onder de zinnen valt. Een *wonderlijk* teken is een buitengewoon teken, of een teken dat buiten de gewonen loop van de zaken, buiten de gewone orde geschiedt, zoals hef plotseling genezen, op één woord, van allerhande ziekten. De mirakelen worden *tekenen* genoemd, omdat zij ons de waarheid doen kennen van de leer of van de Kerk, ofwel de heiligheid van de persoon, te welker voordele zij gedaan zijn.
 
-2° Dat teken of werk moet **al de krachten van de schepselen te boven gaan:** boven de macht zijn van de redelooze natuur, van de mensen en van de engelen, boven de macht van alle wezens, behalve van God.
+2° Dat teken of werk moet **al de krachten van de schepselen te boven gaan:** boven de macht zijn van de redeloze natuur, van de mensen en van de engelen, boven de macht van alle wezens, behalve van God.
 
-3° Het moet **gedaan worden,** niet door een gewone werking Gods d. í. een die tot de natuurlijke orde behoort, gelijk die b.v., waardoor Hij de wereld bestiert en bewaart, maar **door de bijzondere hulp Gods:** door een buitengewone goddelijke werking of zulk een die geenszins van de natuurlijke orde deel maakt. Door zulke huip geschiedt b.v. de verrijzenis van een dode, de genezing, op één woord, van allerlei ziekten; deze werken immers kunnen alleen door God gedaan worden en behooren op geener wijze tot de natuurlijke orde van de wereld.
+3° Het moet **gedaan worden,** niet door een gewone werking Gods d. í. een die tot de natuurlijke orde behoort, gelijk die b.v., waardoor Hij de wereld bestuurt en bewaart, maar **door de bijzondere hulp Gods:** door een buitengewone goddelijke werking of zulk een die geenszins van de natuurlijke orde deel maakt. Door zulke huip geschiedt b.v. de verrijzenis van een dode, de genezing, op één woord, van allerlei ziekten; deze werken immers kunnen alleen door God gedaan worden en behoren op gener wijze tot de natuurlijke orde van de wereld.
 
 Er moeten in de ware Kerk van Christus mirakelen geschieden, omdat Christus dit duidelijk aan zijn Apostelen beloofd heeft.
 
-De mirakelen zijn, uit hun natuur, een *stellig* en *onwederlegbaar bewijs* van de waarheid van de Kerk, voor dewelke zij geschieden, want zij kunnen alleen door de bijzondere hulp Gods gedaan worden. Wat de eenheid, de heiligheid, de katholiciteit en apostoliciteit betreft, deze zijn, *afzonderlijk genomen,* enkel *kentekens* die moeten aanwezig zijn, opdat een kerk als de ware Kerk van Christus zou kunnen aanzien worden; maar, *samengenomen,* maken zij ook een *stellig bewijs* uit van de waarheid van de Kerk waar zij aan behooren. De ondervinding immers getuigt, dat een op valsheid en bedrog gesteunde kerk onmogelijk al die eigendommen kan bezitten. Waar bedrog en valsheid bestaat, daar is geen eenheid, maar verdeeldheid; geen heiligheid, maar ondeugd en boosheid, en, waar eenheid onthreekt, kan noch algemeenheid noch apostoliciteit gevonden worden.
+De mirakelen zijn, uit hun natuur, een *stellig* en *onwederlegbaar bewijs* van de waarheid van de Kerk, voor dewelke zij geschieden, want zij kunnen alleen door de bijzondere hulp Gods gedaan worden. Wat de eenheid, de heiligheid, de katholiciteit en apostoliciteit betreft, deze zijn, *afzonderlijk genomen,* enkel *kentekens* die moeten aanwezig zijn, opdat een kerk als de ware Kerk van Christus zou kunnen aanzien worden; maar, *samengenomen,* maken zij ook een *stellig bewijs* uit van de waarheid van de Kerk waar zij aan behoren. De ondervinding immers getuigt, dat een op valsheid en bedrog gesteunde kerk onmogelijk al die eigendommen kan bezitten. Waar bedrog en valsheid bestaat, daar is geen eenheid, maar verdeeldheid; geen heiligheid, maar ondeugd en boosheid, en, waar eenheid onthreekt, kan noch algemeenheid noch apostoliciteit gevonden worden.
 
 Men bemerke, dat wij al deze eigendommen van de H. Kerk zo gemakkelijk kennen als de geschiedenis, de uitgestrekt heid, de oorsprong en de wonderheden van ous tand, en dat deels door hetgene wij met onze zinnen opmerken, deels door het verhaal of de getuigenis van anderen.
 
@@ -236,7 +236,7 @@ Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Ca
 
 1. Wat vraagt de Catechismus als hij zegt: *Wat is de H. Kerk?*  — Wat verstaat men hier door het woord *Kerk?* — Welke Kerk is de ware Kerk van Christus? — Wat iser aan deze Kerk hoofdzakelijk eigen? — Welke zijn de bestanddelen van de H. Kerk? — Wat is er vereist om wezenlijk lid te zijn van de H. Kerk?
 
-2. Zeg in andere woorden: *Wie is het hoofd van de H. Kerk.* — Welke personen hebben het opperbestier van de H. Kerk; en leg uit, wie zij zijn. — Zeg, met de woorden van de Catechismus, hoe Christus en de Paus van Rome samen het hoofd van de H. Kerk zijn; en leg die woorden uit.
+2. Zeg in andere woorden: *Wie is het hoofd van de H. Kerk.* — Welke personen hebben het opperbestuur van de H. Kerk; en leg uit, wie zij zijn. — Zeg, met de woorden van de Catechismus, hoe Christus en de Paus van Rome samen het hoofd van de H. Kerk zijn; en leg die woorden uit.
 
 3. Wat betekenen de woorden: *Wat is de Paus van Rome?* — Op hoeveel en op welke manieren stelt de Catechismus ons hetambt en de macht van de Paus van Rome voor? — Wat betekenen de woorden: *de eigen Stadhouder van Christus op de aarde;* — *de wettige navolger van de H. Petrus;* — op wie Christus zijn Kerk getimmerd heeft? — Welke is specifiek de macht van de Paus van Rome?
 
@@ -244,7 +244,7 @@ Waarover handelt de 12ᵉ les? — Hoe is zij verdeeld? — Wat onderzoekt de Ca
 
 5. Wat verstaat men hier door *pastoors,* en wat door *priesters?* — Hoe stelt de Catechismus ons hun ambt en hun macht voor? — Wie zijn de *twee en zeventig discipelen van Christus?* — Hoe zijn de pastoors en priesters hun wettige navolgers? — Welke macht hebben zij?
 
-6. Wat komt de vraag: *Welke zijn de leden van de H. Kerk* in deze les doen? — Hoeveel klassen van leden behooren er tot de H. Kerk? — Stel ze voor met de woorden van de Catechismus, en verklaar eenigszins die woorden. — Welke bijzonderen naam heeft iedere klasse van leden; en waarom? — Hoe behooren de zielen van het vagevuur en de Heiligen van de hemel nog tot de H. Kerk?
+6. Wat komt de vraag: *Welke zijn de leden van de H. Kerk* in deze les doen? — Hoeveel klassen van leden behoren er tot de H. Kerk? — Stel ze voor met de woorden van de Catechismus, en verklaar enigszins die woorden. — Welke bijzonderen naam heeft iedere klasse van leden; en waarom? — Hoe behoren de zielen van het vagevuur en de Heiligen van de hemel nog tot de H. Kerk?
 
 7. Wat verstaat men door een *eigendom* en door *een teken?* — Van welke eigendommen en tekenen van de waarachtige Kerk is er hier spraak? — Wat betekent de Catechismus als hij zegt: *Onder andere deze vier?* — Noem de vier bijzonderste tekenen van de waarachtige Kerk van Christus.
 

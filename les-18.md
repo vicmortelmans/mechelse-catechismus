@@ -10,7 +10,7 @@ subtitle: Van de Begroeting van de Engel of het Wees Gegroet
   <td rowspan=7 class=accolade></td>
   <td colspan=3>**1° Gebruik en reden daarvan**</td>
   <td></td>
-  <td>*[Waarom voegt men gemeenlijk de Begroeting van de Engel na het Gebed des Heren?](#waarom-voegt-men-gemeenlijk-de-begroeting-van-de-engel-na-het-gebed-des-heren)*</td>
+  <td>*[Waarom voegt men gewoonlijk de Begroeting van de Engel na het Gebed des Heren?](#waarom-voegt-men-gewoonlijk-de-begroeting-van-de-engel-na-het-gebed-des-heren)*</td>
 </tr>
 <tr>
   <td rowspan=2 colspan=3>**2° Woorden**</td>
@@ -23,9 +23,9 @@ subtitle: Van de Begroeting van de Engel of het Wees Gegroet
 <tr>
   <td rowspan=4>**3° Uitleg**</td>
   <td rowspan=4 class=accolade></td>
-  <td>Wees gegroet, Maria, vol van gratie</td>
+  <td>Wees gegroet, Maria, vol van genade</td>
   <td></td>
-  <td>*[Waarom noemt gij Onze Lieve Vrouw *vol van gratie?*](#waarom-noemt-gij-onze-lieve-vrouw-vol-van-gratie)*</td>
+  <td>*[Waarom noemt gij Onze Lieve Vrouw *vol van genade?*](#waarom-noemt-gij-onze-lieve-vrouw-vol-van-genade)*</td>
 </tr>
 <tr>
   <td>De Heer is met u</td>
@@ -44,7 +44,7 @@ subtitle: Van de Begroeting van de Engel of het Wees Gegroet
 </tr>
 </table>
 
-# Waarom voegt men gemeenlijk de Begroeting van de Engel na het Gebed des Heren?
+# Waarom voegt men gewoonlijk de Begroeting van de Engel na het Gebed des Heren?
 
 ## Om door de H. Maagd ons gebed aan God op te dragen
 
@@ -54,13 +54,13 @@ subtitle: Van de Begroeting van de Engel of het Wees Gegroet
 </span>
 V. **Gemeenlijk:** meest altijd, volgens een algemeen gebruik.
 
-A. Men voegt gemeenlijk de Begroeting van de Engel na het Gebed des Heren — **om door de H. Maagd:** om door Maria, de Moeder van Jezus Christus, die bij uitmuntendheid de *H. Maagd* genoemd wordt, omdat zij al de andere heilige maagden ver overtreft, — **ons gebed:** de Onze Vader die wij gebeden hebben, — **aan God op te dragen,** en zo door haar voorspraak te verkrijgen, dat God dit gebed verhore.
+A. Men voegt gewoonlijk de Begroeting van de Engel na het Gebed des Heren — **om door de H. Maagd:** om door Maria, de Moeder van Jezus Christus, die bij uitmuntendheid de *H. Maagd* genoemd wordt, omdat zij al de andere heilige maagden ver overtreft, — **ons gebed:** de Onze Vader die wij gebeden hebben, — **aan God op te dragen,** en zo door haar voorspraak te verkrijgen, dat God dit gebed verhore.
 
 Het is zeer natuurlijk dat wij ons gebed tot God, door de H. Maagd aan God doen opdragen, daar wij gewoon zijn voorsprekers te zoeken bij de personen van welke wij iets vragen. Het is even natuurlijk dat wij het eerst en vooral de H. Maagd aanbevelen, daar zij de bijzonderste en machtigste voorspreekster is van geheel de hemel.
 
 # Hoe zegt gij de Begroeting van de Engel?
 
-## Wees gegroet, Maria, vol van gratie; de Heer is met u; gebenedijd zijt gij boven alle vrouwen, en gebenedijd is de vrucht van uw lichaams, Jezus. H. Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in de uur van onze dood. Amen.
+## Wees gegroet, Maria, vol van genade; de Heer is met u; gebenedijd zijt gij boven alle vrouwen, en gebenedijd is de vrucht van uw lichaams, Jezus. H. Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in de uur van onze dood. Amen.
 
 V. Dit gebed wordt **Begroeting van de Engel** genoemd, omdat het eerste deel ervan bestaat uit de woorden, waarmee de *Engel Gabriël* de H. Maagd *gegroet* heeft. Het draagt ook de naam *Wees Gegroet,* omdat het met deze woorden begint.
 
@@ -81,21 +81,21 @@ A. De Wees Gegroet is niet, gelijk de Onze Vader, rechtstreeks tot God gericht, 
 </span>
 De Begroeting van de Engel is gemaakt, niet door Christus zelf, gelijk de Onze Vader; maar deels door de Engel Gabriël; deels door Elizabeth, de nicht van Maria, en deels door Onze Moeder, de H. Kerk.
 
-**De Engel Gabriël, van God gezonden, heeft het eerste deel uitgesproken,** als hij aan Maria is komen aankondigen, dat zij de Moeder van de Zaligmaker ging worden, zeggende: *« Wees gegroet, vol van gratie, de Heer is met u, gebenedijd zijt gij boven alle vrouwen. »* De Engel heeft haar gegroet, niet met haar naam, maat enkel met haar eretitels.
+**De Engel Gabriël, van God gezonden, heeft het eerste deel uitgesproken,** als hij aan Maria is komen aankondigen, dat zij de Moeder van de Zaligmaker ging worden, zeggende: *« Wees gegroet, vol van genade, de Heer is met u, gebenedijd zijt gij boven alle vrouwen. »* De Engel heeft haar gegroet, niet met haar naam, maat enkel met haar eretitels.
 
 **Het tweede** deel, **Elizabeth, de nicht van Maria,** als zij, na de boodschap van de Engel, de H. Maagd die haar kwam bezoeken, gegroet heeft met de woorden: *« gebenedijd zijt gij boven alle vrouwen en gebenedijd is de vrucht van uw lichaams. »* Zij heeft dan de laatste woorden van de Engel herhaald en daarbij gevoegd: *« en gebenedijd is de vrucht van uw lichaams. »*
 
-**Het derde** deel **heeft daarbij gevoegd onze Moeder de H. Kerk:** deze heeft tussen de woorden van de Engel de naam *« Maria »* ingelast, bij die van Elizabeth de naam *« Jezus »* gevoegd, en, na de begroeting van beiden, de bede gesteld: *« H. Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in de uur van onze dood. Amen.»* De H. Kerk hier is de hoge overheid van de H. Kerk, te weten, de Paus en de bisschoppen; zij wordt onze *Moeder* genoemd, omdat zij voor ons geestelijk leven doet, wat onze natuurlijke moeder doet voor ons lichamelijk leven: zij geeft ons het geestelijk leven van de ziel, te weten, het leven van de gratie dour de HH. Sacramenten; zij voedt ons in dat leven op door haar leer en haar bestuur.
+**Het derde** deel **heeft daarbij gevoegd onze Moeder de H. Kerk:** deze heeft tussen de woorden van de Engel de naam *« Maria »* ingelast, bij die van Elizabeth de naam *« Jezus »* gevoegd, en, na de begroeting van beiden, de bede gesteld: *« H. Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in de uur van onze dood. Amen.»* De H. Kerk hier is de hoge overheid van de H. Kerk, te weten, de Paus en de bisschoppen; zij wordt onze *Moeder* genoemd, omdat zij voor ons geestelijk leven doet, wat onze natuurlijke moeder doet voor ons lichamelijk leven: zij geeft ons het geestelijk leven van de ziel, te weten, het leven van de genade dour de HH. Sacramenten; zij voedt ons in dat leven op door haar leer en haar bestuur.
 
-# Waarom noemt gij Onze Lieve Vrouw *vol van gratie?*
+# Waarom noemt gij Onze Lieve Vrouw *vol van genade?*
 
-## Omdat zij overvloediger gratie van God heeft ontvangen dan enig ander schepsel, dewelke zij ook nooit door enige zonde verloren, maar altijd vermeerderd heeft.
+## Omdat zij overvloediger genade van God heeft ontvangen dan enig ander schepsel, dewelke zij ook nooit door enige zonde verloren, maar altijd vermeerderd heeft.
 
-A. Onze Lieve Vrouw wordt genoemd **vol van gratie,** niet omdat zij de goddelijke gratie in de hoogste graad genoten heeft, maar, van de een kant, **omdat zij,** tot de waardigheid van Moeder Gods bestemd zijnde, **overvloediger** (meer) **gratie heeft ontvangen dan enig ander schepsel,** hetzij Engel of mens (de menselijke natuur van Christus uitgenomen), en zo alle Engelen en mensen in gratie overtreft; van de anderen kant, **omdat zij die gratie nooit door enige zonde verloren, maar altijd vermeerderd heeft.**
+A. Onze Lieve Vrouw wordt genoemd **vol van genade,** niet omdat zij de goddelijke genade in de hoogste graad genoten heeft, maar, van de een kant, **omdat zij,** tot de waardigheid van Moeder Gods bestemd zijnde, **overvloediger** (meer) **genade heeft ontvangen dan enig ander schepsel,** hetzij Engel of mens (de menselijke natuur van Christus uitgenomen), en zo alle Engelen en mensen in genade overtreft; van de anderen kant, **omdat zij die genade nooit door enige zonde verloren, maar altijd vermeerderd heeft.**
 
-De *gratie* waarvan hier gesproken wordt, is a) de heiligmakende gratie met al de bovennatuurlijke deugden en de gaven van de H. Geest, waardoor wij kinderen en vrienden Gods zijn; b) de dadelijke gratien, die de heiligmakende werkend maken.
+De *genade* waarvan hier gesproken wordt, is a) de heiligmakende genade met al de bovennatuurlijke deugden en de gaven van de H. Geest, waardoor wij kinderen en vrienden Gods zijn; b) de dadelijke genaden, die de heiligmakende werkend maken.
 
-De H. Maagd heeft meer gratie ontvangen dan enig ander schepsel 1° onder opzicht van tijd, daar zij, van de erfzonde vrij zijnde, de gratie van in het begin van haar bestaan genoten heeft; 2° onder opzicht van hoeveelheid of van de graad van de gratie haar van God geschonken. — Zij heeft die gratie *nooit door enige zonden verloren,* want zij heeft nooit noch dodelijke, noch dagelijkse zonde bedreven; nu de heiligmakende gratie kan alleen door de doodzonde verloren, en de dadelijke, slechts tot straf van enige zonde, ‘t zij dodelijke of dagelijkse, in mindere maat gegeven worden. — Zij heeft de gratie, van God bekomen, *altijd vermeerderd* door de verdienstelijke werken die zij gedurig volbracht, en door de HH. Sacramenten die zij, na hun instelling, ontvangen heeft.
+De H. Maagd heeft meer genade ontvangen dan enig ander schepsel 1° onder opzicht van tijd, daar zij, van de erfzonde vrij zijnde, de genade van in het begin van haar bestaan genoten heeft; 2° onder opzicht van hoeveelheid of van de graad van de genade haar van God geschonken. — Zij heeft die genade *nooit door enige zonden verloren,* want zij heeft nooit noch dodelijke, noch dagelijkse zonde bedreven; nu de heiligmakende genade kan alleen door de doodzonde verloren, en de dadelijke, slechts tot straf van enige zonde, ‘t zij dodelijke of dagelijkse, in mindere maat gegeven worden. — Zij heeft de genade, van God bekomen, *altijd vermeerderd* door de verdienstelijke werken die zij gedurig volbracht, en door de HH. Sacramenten die zij, na hun instelling, ontvangen heeft.
 
 # Is God meer met Maria dan met andere mensen?
 
@@ -105,7 +105,7 @@ A. **Ten eerste, omdat Hij in bijzondere manieren haar altijd bewaard en geholpe
 
 **Ten tweede, omdat de H. Drievuldigheid — in haar gewrocht heeft het werk van de Menswording van Christus:** haar gekozen heeft om de Moeder te zijn van Christus, en haar door een mirakel tot die waardigheid verheven heeft. Dit werk van de Menswording, dat hier aan geheel de H. Drievuldigheid toegeëigend wordt en wezenlijk toebehoort, wordt, in de [7ᵉ les](les-07.html), een werk van de H. Geest genoemd, omdat het een werk van liefde is en daarom de H. Geest bijzonder is toe te schrijven.
 
-**Ten derde, omdat zij nu, in de glorie, God de allernaaste is:** omdat zij, sedert haar dood, boven alle Engelen en mensen (Christus als mens uitgezonderd) in de hemelse glorie verheven is: zij heeft in haar leven meer gratie genoten dan enig Engel of mens, en daarom moet zij ook alle Engelen en mensen in het geluk en de eer van de hemel overtreffen.
+**Ten derde, omdat zij nu, in de glorie, God de allernaaste is:** omdat zij, sedert haar dood, boven alle Engelen en mensen (Christus als mens uitgezonderd) in de hemelse glorie verheven is: zij heeft in haar leven meer genade genoten dan enig Engel of mens, en daarom moet zij ook alle Engelen en mensen in het geluk en de eer van de hemel overtreffen.
 
 # Waarin is Maria gebenedijd boven alle vrouwen?
 
@@ -131,7 +131,7 @@ A. De H. Maagd helpt ons 1° geheel ons leven dóór; maar 2° in het bijzonder 
 
 1° **In het leven helpt zij ons,** door haar voorspraak bij God, — **in alles wat profijtig is:** in al hetgene dient tot zaligmaking van onze ziel en tot geluk van ons lichaam, voor zoveel dit tijdelijk geluk niet schadelijk noch minder profijtig is voor het eeuwig geluk van de ziel;
 
-2° **In het uiterste:** in het uur van de dood doet zij voor ons *vier* dingen: a) **zij vertroost de kranken,** namelijk, met hun de gratie te verkrijgen van verduldig en onderworpen te zijn, van de wereld te verachten en met vast betrouwen op God te hopen; b) **zij verlicht de zieken,** met hun troost te geven en zelfs, met hun, als het zalig is, van God verzachting in hun lijden te bekomen; c) **zij belet de bekoringen:** verwijdert, door haar voorspraak, van de zieken de grote bekoringen, die de mens dikwijls in de uur van de dood aanvallen; d) **zij helpt ons,** door nog veel andere middelen — **tot de eeuwige zaligheid:** om ons geheel en gans tot God te bekeren en in het goed te volharden.
+2° **In het uiterste:** in het uur van de dood doet zij voor ons *vier* dingen: a) **zij vertroost de kranken,** namelijk, met hun de genade te verkrijgen van verduldig en onderworpen te zijn, van de wereld te verachten en met vast betrouwen op God te hopen; b) **zij verlicht de zieken,** met hun troost te geven en zelfs, met hun, als het zalig is, van God verzachting in hun lijden te bekomen; c) **zij belet de bekoringen:** verwijdert, door haar voorspraak, van de zieken de grote bekoringen, die de mens dikwijls in de uur van de dood aanvallen; d) **zij helpt ons,** door nog veel andere middelen — **tot de eeuwige zaligheid:** om ons geheel en gans tot God te bekeren en in het goed te volharden.
 
 ### VRAGEN
 
@@ -143,7 +143,7 @@ Waarvan spreekt deze les? — Hoe wordt zij verdeeld? — Wat bevat ieder van ha
 
 3. Is de Begroeting van de Engel van Christus zelf gemaakt, gelijk het Gebed des Heren? — Uit hoeveel delen bestaat zij, onder opzicht van haar oorsprong? — Door wie is ieder deel gemaakt, en wat bevat het? — Wie verstaat men hier door de H. Kerk? — Waarom noemen wij de H. Kerk *onze Moeder?*
 
-4. Noemen wij Onze Lieve Vrouw *vol van gratie,* omdat zij de hoogste graad van gratie mogelijk bezeten heeft? — Om welke reden is het? — Wat verstaat men hier door *enig ander schepsel?* — Hoe bezit Maria wezenlijk meer gratie dan enig ander schepsel? — Van welke gratie is er hier spraak? — Onder welk opzicht heeft Maria meer gratie ontvangen dan enig ander schepsel? — Hoe wordt de gratie verloren of verminderd? — Hoe heeft Maria haar gratie nooit verloren noch verminderd? — Hoe heeft zij de gratie, van Ged ontvangen, altijd vermeerderd? — Waarom heeft zij meer gratie dan enig ander schepsel ontvangen?
+4. Noemen wij Onze Lieve Vrouw *vol van genade,* omdat zij de hoogste graad van genade mogelijk bezeten heeft? — Om welke reden is het? — Wat verstaat men hier door *enig ander schepsel?* — Hoe bezit Maria wezenlijk meer genade dan enig ander schepsel? — Van welke genade is er hier spraak? — Onder welk opzicht heeft Maria meer genade ontvangen dan enig ander schepsel? — Hoe wordt de genade verloren of verminderd? — Hoe heeft Maria haar genade nooit verloren noch verminderd? — Hoe heeft zij de genade, van Ged ontvangen, altijd vermeerderd? — Waarom heeft zij meer genade dan enig ander schepsel ontvangen?
 
 5. Om hoeveel redenen zeggen wij met recht, dat God meer met Maria is dan met andere mensen? — Geef de redenen met de woorden van de Catechismus. — Hoe heeft God op bijzondere manieren Maria altijd bewaard en geholpen? — Hoe wordt de Menswording hier voorgesteld als een werk van de H. Drijvuidigheid, terwijl zij, in de 7ᵉ les, een bijzonder werk van de H. Geest genoemd wordt? — Wat betekenen de woorden: *omdat zij nu, in de glorie, God de allernaaste is?* — Waarom is Maria in de hemel boven al de Heiligen en de Engelen verheven?
 

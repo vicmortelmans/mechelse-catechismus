@@ -68,9 +68,9 @@ Dus, om schuldig te zijn aan een zonde tegen het Zevende of Tiende Gebod, moet m
   <img src="resources/2602b.jpg">
   <em>Manchesterianisme (liberalen), d.i. theorie van de vrije vraag en aanbod. Op de 100 jaar 12 jaar meer vraag dan aanbod naar werklieden. Tegen het Manchesterianisme hebben de werklieden zich gesyndiceerd. Ook de patronen hebben zich gesyndiceerd.<br/>1) Schat vinden, zomaar opeens (voor u). 2) Gevonden en dan gekocht (niet voor u). 3) Werken bij iemand anders en vinden (ieder de helft).<br/>1) Schilderij (25 fr.) privaat huis; hij ontdekt na afwassen dat het 2500 fr. waard is (tenminsten 500 fr. teruggeven). 2) Op een verkoopdag --- niets teruggeven. Woeker, en iemand die door zijn eigen fout zijn schulden niet kan betalen. Geld was vroeger een ruilmiddel, nu is het kapitaal.</em>
 </span>
-A. **Eens anders goed stelen:** de evennaaste zijn tijdelijk goed tegen zijn redelijken wil ontnemen, of dit op die wijze wederhouden. Judas heeft zich aan diefte schuldig gemaakt, toen hij heimelijk de kas bestool van de liefdegiften, welke aan de Zaligmaker en aan zijn leerlingen tot hun onderhoud gedaan werden.
+A. **Eens anders goed stelen:** de evennaaste zijn tijdelijk goed tegen zijn redelijken wil ontnemen, of dit op die wijze weerhouden. Judas heeft zich aan diefstal schuldig gemaakt, toen hij heimelijk de kas bestool van de liefdegiften, welke aan de Zaligmaker en aan zijn leerlingen tot hun onderhoud gedaan werden.
 
-**Tot stelen helpen:** in de diefte, die een ander bedrijft, medewerken, zoals door raden, beschermen, gebieden, prijzen, mededelen, enz. ([37ᵉ les, vr. 9.](les-37.html#hoe-geschieden-de-vreemde-zonden))
+**Tot stelen helpen:** in de diefstal, die een ander bedrijft, medewerken, zoals door raden, beschermen, gebieden, prijzen, mededelen, enz. ([37ᵉ les, vr. 9.](les-37.html#hoe-geschieden-de-vreemde-zonden))
 
 **Gestolen goed kopen of bewaren:** enig goed kopen of in bewaring houden, dat men met zekerheid weet of met reden denkt gestolen te zijn; want daardoor eigent men zich toe of wederhoudt men, tet minste met de wil, een zaak die aan de bestolen persoon toebehoort.
 
@@ -82,7 +82,7 @@ A. **Eens anders goed stelen:** de evennaaste zijn tijdelijk goed tegen zijn red
 
 Al deze zonden strijden tegen het Zevende Gebod, als zij metterdaad, en tegen het Tiende, als zij slechts met de wil geschieden, omdat zij alle de voorwaarden vervullen, die tot zulke zonden vereist zijn: door die werken beschadigt men immers de naaste in zijn tijdelijke goederen, en men beschadigt hem onrechtvaardig, daar men hem goederen ontneemt of helpt ontnemen, die hem wezenlijk toebehoren.
 
-Wat het gevonden goed betreft, dat moet men aan de eigenaar wedergeven, als men hem kent; kent men hem niet, dan is men verplicht, zo neerstig als de rede het vereist, te zoeken om hem te ontdekken. Wordt de eigenaar niet ontdekt, dan mag de vinder het gevonden goed houden; doch het is geraadzaam, dit aan de arme te geven.
+Wat het gevonden goed betreft, dat moet men aan de eigenaar wedergeven, als men hem kent; kent men hem niet, dan is men verplicht, zo naarstig als de rede het vereist, te zoeken om hem te ontdekken. Wordt de eigenaar niet ontdekt, dan mag de vinder het gevonden goed houden; doch het is geraadzaam, dit aan de arme te geven.
 
 # Zondigt men tegen het Zevende Gebod met het lenen van geld?
 
@@ -102,7 +102,7 @@ Met uitsluitend om het lenen meer wederom te eisen dan men geleend had, zondigt 
   <img src="resources/2604a.jpg">
   <em>Simonie gebeurde in de middeleeuwen op grote schaal; en dit voor het verkopen van kerkelijke ambten. Nu gebeurt er haast geen simonie meer. <br/>Administratiekosten mag tot geen simonie gerekend worden (als men dispensaties aanvraagt).<br/>Simonie is een zonde die eerst en vooral strijd tegen het 2ᵉ gebod (tegen alle ongodsdienstigheid).</em>
 </span>
-V. Door **geestelijke zaken** moet hier verstaan worden: a) al hetgeen door zichzelf of door de instelling van God of van de H. Kerk tot zaligmaking van onze zielen en tot de dienst Gods bestemd is; b) ook nog al hetgeen innig met zulke voorwerpen verbonden is. — Tot de eerste soort van geestelijke zaken behoren, 1° Gods gratie, het merkteken van de HH. Sacramenten, enz.; 2° de HH. Sacramenten en de wijdingen van de H. Kerk, de aflaten, de geestelijke ambten en de gebeden; 3° de bediening van de HH. Sacramenten en van de geestelijke ambten. — In de tweede soort vinden wij: 1° stoffelijke voorwerpen, zoals kerken, kelken, kerkgewaden, medailles, rozenkransen; 2° de arbeid die de heilige bedieningen vereisen, en 3° de tijdelijke goederen welke aan een geestelijk ambt vastgehecht zijn.
+V. Door **geestelijke zaken** moet hier verstaan worden: a) al hetgeen door zichzelf of door de instelling van God of van de H. Kerk tot zaligmaking van onze zielen en tot de dienst Gods bestemd is; b) ook nog al hetgeen innig met zulke voorwerpen verbonden is. — Tot de eerste soort van geestelijke zaken behoren, 1° Gods genade, het merkteken van de HH. Sacramenten, enz.; 2° de HH. Sacramenten en de wijdingen van de H. Kerk, de aflaten, de geestelijke ambten en de gebeden; 3° de bediening van de HH. Sacramenten en van de geestelijke ambten. — In de tweede soort vinden wij: 1° stoffelijke voorwerpen, zoals kerken, kelken, kerkgewaden, medailles, rozenkransen; 2° de arbeid die de heilige bedieningen vereisen, en 3° de tijdelijke goederen welke aan een geestelijk ambt vastgehecht zijn.
 
 **Verkopen** betekent hier geld of enig ander goed eisen, 't zij als prijs, 't zij als vergelding, 't zij als voorwaarde om iets te geven.
 
@@ -202,7 +202,7 @@ Welk is het voorwerp van deze les? — Hoe wordt zij verdeeld? — Wat onderzoek
 
 6. Op hoeveel wijzen zondigt men tegen het Achtste Gebod *binnen het recht?* — Duid ze aan met de woorden van de Catechismus. — Verklaar deze woorden.
 
-7. Wat betekent het woord *meest* in de vraag: *hoe misdoet men meest buiten het recht tegen dit Gebod?* — Op hoeveel wijzen misdoet men meest tegen dit Gebod *buiten het recht?* — Noem ze met de woorden van de Catechismus. — Leg deze woorden uit. — Hoe noemt men gemeenlijk deze zonden?
+7. Wat betekent het woord *meest* in de vraag: *hoe misdoet men meest buiten het recht tegen dit Gebod?* — Op hoeveel wijzen misdoet men meest tegen dit Gebod *buiten het recht?* — Noem ze met de woorden van de Catechismus. — Leg deze woorden uit. — Hoe noemt men gewoonlijk deze zonden?
 
 8. Wat is leugentaal? — Als men iets zegt dat in de letterlijke zin niet waar is, maakt dit altijd een leugen uit? — Waarom is leugentaal altijd zonde? — Hoe is zij een zonde tegen het Achtste Gebod? — Zeg, met de Catechismus, wanneer zij doodzonde is. — Leg die woorden van de Catechismus uit. — Hoe noemt men de leugens die geschieden zonder de naaste in zijn goederen te beschadigen? — Is de leugen *om te lachen* altijd zonde? — Geef er de reden van.
 

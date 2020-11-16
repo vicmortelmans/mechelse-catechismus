@@ -54,15 +54,15 @@ Dit Gebod volgt allerbest op het Eerste. daar de bijzonderste van onze plichten 
 
 <span class=marginnote>
   <img src="resources/2302a.jpg">
-  <em>De Volksvloekwoorden<br/>1) Op zichzelf hebben meestal die woorden geen Godslasterende betekenis en hun oorsprong was ook helemaal anders, b.v. God doeme mij: ik wil verdoemd zijn als ik dit of dat niet doe. De oorsprong is soms ook de eedformule: Par le sacré nom de Dieu je jure. <br/>2) Het is dus nodig dat men wel die echte betekenis inziet. Een juist geweten dient hierin gevormd. Op zichzelf is dus het volksvloekwoord dagelijkse zonde.<br/>3) Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven. Vergeet echter niet: veredel eerst uzelf!</em>
+  <em>De Volksvloekwoorden<br/>1) Op zichzelf hebben meestal die woorden geen Godslasterende betekenis en hun oorsprong was ook helemaal anders, b.v. God doeme mij: ik wil verdoemd zijn als ik dit of dat niet doe. De oorsprong is soms ook de eedformule: Par 1° sacré nom de Dieu je jure. <br/>2) Het is dus nodig dat men wel die echte betekenis inziet. Een juist geweten dient hierin gevormd. Op zichzelf is dus het volksvloekwoord dagelijkse zonde.<br/>3) Die volksvloekwoorden zijn niet alleen af te keuren omdat zij zonde zijn, maar ook omdat zij ons volk zo ruw maken. Van de Vlaming wordt dikwijls gezegd dat hij een vloeker is. Een onderwijzer hoeft dus alles in te spannen om mee te werken met de priester aan het uitroeien van die slechte gewoonten, m.a.w. ons volk te veredelen en te beschaven. Vergeet echter niet: veredel eerst uzelf!</em>
   <img src="resources/2302b.jpg">
-  <em>4) Degene die uit loutere gewoonte dikwijls die vloekwoorden gebruiken, zijn op zonde verplicht die slechte gewoonte tegen te werken.<br/>5) Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te gebruiken in 't bijzijn van kinderen grotelijks zondigen.</em>
+  <em>4) Degene die uit loutere gewoonte dikwijls die vloekwoorden gebruiken, zijn op zonde verplicht die slechte gewoonte tegen te werken.<br/>5) Bij uitzondering kunnen die vloekwoorden grote zonde zijn, wanneer zij gezegd worden met het inzicht God te lasteren. Als zij bedacht zijn om spot, bv. om wille van een priester. Zo ook kunnen ouders en opvoeders met die woorden te gebruiken in 't bijzijn van kinderen ernstig zondigen.</em>
 </span>
 V. **Blasphemie** betekent letterlijk *kwaadsprekerij;* **blasfemeren** is *kwaad van iemand zeggen.*
 
 A. De blasfemie geschiedt op deze *drie* manieren:
 
-1° **Als men God of zijn Heiligen — iets toeschrijft dat tegen hun eer is:** een hoedanigheid of een werk toekent dat strijdt met hun volmaaktheden, of iets wenscht dat met hun volmaaktheden niet overeenstemt. Op deze wijze blasfemeert men met b.v. te zeggen, dat God te veel straft, dat de H. Maagd kan zondigen, of met te wensen, dat God niet zou bestaan, dat de Heiligen de hemel zouden verliezen. — Men bemerke dat er hier spraak is van de oneer aan de Heiligen aangedaan, alhoewel het Tweede Gebod slechts handelt over onze plichten jegens God. De reden daarvan is, dat men, met de Heiligen oneer aan te doen, God zelf onteert, vermits zij zijn vrienden en hovelingen zijn.
+1° **Als men God of zijn Heiligen — iets toeschrijft dat tegen hun eer is:** een hoedanigheid of een werk toekent dat strijdt met hun volmaaktheden, of iets wenst dat met hun volmaaktheden niet overeenstemt. Op deze wijze blasfemeert men met b.v. te zeggen, dat God te veel straft, dat de H. Maagd kan zondigen, of met te wensen, dat God niet zou bestaan, dat de Heiligen de hemel zouden verliezen. — Men bemerke dat er hier spraak is van de oneer aan de Heiligen aangedaan, alhoewel het Tweede Gebod slechts handelt over onze plichten jegens God. De reden daarvan is, dat men, met de Heiligen oneer aan te doen, God zelf onteert, vermits zij zijn vrienden en hovelingen zijn.
 
 2° **Of iets loochent dat hun toekomt:** als men aan God of aan zijn Heiligen een hoedanigheid of een daad ontkent, die hun waarlijk toebehoort. Op deze wijze blasfemeert men met b. v‚ te zeggen dat God niet almachtig is, of dat Hij de wereld niet geschapen heeft, dat de Heiligen op ons niet denken.
 
@@ -82,7 +82,7 @@ De H. Geschiedenis leert ons met welke schrikkelijke straffen God in het Oud Tes
 
 <span class=marginnote>
   <img src="resources/2303a.jpg">
-  <em>De eed zoals wij hem hier beschouwen is een Godsdienstige daad. Wanneer de eed alleen geschiedt bv. op de eer, op de grondwet, zonder de aanroeping of de getuigenis van God erbij te brengen, verliest de eed elke godsdienstige waarde en dan verplicht die eed nog doch slechts in de menselijke orde der dingen. <br/>De Godsdienstige eedformule luidt: "Bij God (en zijn heiligen), zo helpe mij God, zo waarlijk helpe mij God Almachtig." In een plechtige eed voor de kerk zegt men: "Zo helpe mij God en dit zijn heilig Evangelie (raak het Evangelie)".</em>
+  <em>De eed zoals wij hem hier beschouwen is een Godsdienstige daad. Wanneer de eed alleen geschiedt bv. op de eer, op de grondwet, zonder de aanroeping of de getuigenis van God erbij te brengen, verliest de eed elke godsdienstige waarde en dan verplicht die eed nog doch slechts in de menselijke orde van de dingen. <br/>De Godsdienstige eedformule luidt: "Bij God (en zijn heiligen), zo helpe mij God, zo waarlijk helpe mij God Almachtig." In een plechtige eed voor de kerk zegt men: "Zo helpe mij God en dit zijn heilig Evangelie (raak het Evangelie)".</em>
 </span>
 A. *Eed doen* of *zweren* is — **God of iets dat God merkelijk aangaat:** God zelf of alle andere zaken, die met God in een bijzonder innige verbintenis staan, zoals de Engelen en Heiligen, die zijn beste vrienden zijn: de H. Schrift en de HH. Sacramenten, die tot zijn kostelijkste gaven behoren: de hemel, de aarde, de zee, die zijn grootste natuurlijke werken uitmaken, — **nemen tot getuige van hetgene men zegt,** d.i. vragen om verslag te doen over hetgene wij bevestigen, opdat wij zouden kunnen bewijzen dat, hetgene wij zeggen, zeker en onbetwistelijk waar is.
 
@@ -138,7 +138,7 @@ Iedereen begrijpt dat een eed tegen de waarheid noodzakelijk zonde is en zelfs d
 
 # Is het ook goed en deugdelijk God of zijn Heiligen iets te beloven?
 
-## Ja, als hetgene men belooft uit zich zelf goed is, en als men van zin is het te volbrengen
+## Ja, als hetgene men belooft uit zichzelf goed is, en als men van zin is het te volbrengen
 
 <span class=marginnote>
   <img src="resources/2308a.jpg">
@@ -148,7 +148,7 @@ V. **Is het goed en deugdelijk — God of zijn Heiligen,** d. i, aan God alleen,
 
 Hier kan geen spraak zijn van beloften, die niet aan God geschieden; want het breken van zulke beloften kan geen zonde zijn tegen het Tweede Gebod, dat enkel van de eer Gods handelt.
 
-A. **Ja,** dit is goed en deugdelijk, als deze *twee* voorwaarden vervuld zijn: a) **als hetgene men belooft uit zich zelf goed is,** d.i. als hetgene men belooft te doen, geen zonde uitmaakt, mogelijk is en beter gedaan dan niet gedaan wordt; want ware het anders, God zou die belofte niet aannemen; — en b) **als men van zin is het te volbrengen,** d. í. als men wezenlijk de wil heeft van de belofte uit te voeren; want anders zou men met God de spot drijven.
+A. **Ja,** dit is goed en deugdelijk, als deze *twee* voorwaarden vervuld zijn: a) **als hetgene men belooft uit zichzelf goed is,** d.i. als hetgene men belooft te doen, geen zonde uitmaakt, mogelijk is en beter gedaan dan niet gedaan wordt; want ware het anders, God zou die belofte niet aannemen; — en b) **als men van zin is het te volbrengen,** d. í. als men wezenlijk de wil heeft van de belofte uit te voeren; want anders zou men met God de spot drijven.
 
 Als deze beide voorwaarden vervuld zijn, is de belofte een godsdienstig werk, aangezien dat men aan God een bijzonder teken van onderwerping geeft, met zich vrijwillig een nieuwe plicht jegens Hem op te leggen.
 

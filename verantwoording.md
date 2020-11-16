@@ -1,4 +1,5 @@
 ---
+part: VERANTWOORDING
 title: Verantwoording bij de publicatie
 ---
 
