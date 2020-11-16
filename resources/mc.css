@@ -1,4 +1,4 @@
-header, footer, .searchbox, .gcse-searchbox-only {
+header, footer, .searchbox, #___gcse_0 {
   text-align: center;
   width: 55%;
 }
@@ -123,3 +123,25 @@ span img + em {
     width: 100%;
   }
 }
+
+/* Google Search */
+.gsc-control-cse {
+  padding: 0 !important;
+  border: 0 !important;
+}
+.gsc-url-top {
+  display: none !important;
+}
+.gcsc-more-maybe-branding-root {
+  display: none;
+}
+a.gs-title {
+  font-size: 21px !important;
+}
+div.gs-title {
+  margin-bottom: 0.5rem !important;
+}
+.gsc-thumbnail-inside {
+  text-align: left;
+}
+
