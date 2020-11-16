@@ -75,7 +75,7 @@ A. Wij zijn de H. Geest schuldig **de goddelijke en opperste eer:** wij moeten H
 
 # Hoe heeft zich de Heilige Geest vertoond?
 
-## In de gedaante van een duif in het doopsel van Christus, en in de gedaante van vurige tongen op de Pinksterendag
+## In de gedaante van een duif in het doopsel van Christus, en in de gedaante van vurige tongen op Pinksteren
 
 V. **Hoe heeft zich de H. Geest,** die uit zijn natuur onzichtbaar is, aan de mensen op een zichtbare wijze **vertoond?**
 
@@ -83,7 +83,7 @@ A. Hij heeft zich *tweemaal* vertoond:
 
 1° **In het doopsel van Christus:** wanneer de H. Joannes Baptista in de Jordaan het doopsel van boetvaardigheid aan Christus bediende, **in de gedaante:** in de uitwendigen vorm **van een duif** en dat om, onder het zinnebeeld van die vogel, hijzonderlijk de onschuld en de zachtmoedigheid van Christus te kennen te geven;
 
-2° **Op de Pinksterendag** van de Joden, tien dagen na Christus’ Hemelvaart, **in de gedaante van vurige tongen,** en wel om, door dat zinnebeeld, de verlichting van het verstand uit te drukken, alsmede de vlam van de liefde, de zuivering van de ziel, de bekwaamheid om het Geloof te prediken en de gave van de talen, wat alles de Apostelen dan ontvingen.
+2° **Op Pinksteren** van de Joden, tien dagen na Christus’ Hemelvaart, **in de gedaante van vurige tongen,** en wel om, door dat zinnebeeld, de verlichting van het verstand uit te drukken, alsmede de vlam van de liefde, de zuivering van de ziel, de bekwaamheid om het Geloof te prediken en de gave van de talen, wat alles de Apostelen dan ontvingen.
 
 # Wanneer komt de Heilige Geest tot ons?
 

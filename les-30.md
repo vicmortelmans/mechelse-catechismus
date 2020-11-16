@@ -25,7 +25,7 @@ subtitle: Van het Doopsel
 <tr>
   <td rowspan=2>Uitwendig teken</td>
   <td rowspan=2 class=accolade></td>
-  <td>*[Waarmede moet men dopen?](#waarmee-moet-men-dopen)*</td>
+  <td>*[Waarmee moet men dopen?](#waarmee-moet-men-dopen)*</td>
 </tr>
 <tr>
   <td>*[Welke woorden moet men spreken in het Doopsel?](#welke-woorden-moet-men-spreken-in-het-doopsel)*</td>
@@ -91,11 +91,11 @@ A. **'t Is het ambt van de priester:** de priester is de gewone bedienaar van he
 
 De Catechismus zegt: in de nood nochtans *mag,* en niet *kan* iedereen dopen, omdat elkeen in alle omstandigheden het Doopsel geldig *kan,* maar alleen in de nood wezenlijk *mag* toedienen.
 
-# Waarmede moet men dopen?
+# Waarmee moet men dopen?
 
 ## Met waarachtig en natuurlijk water, als met putwater, regenwater, fonteinwater, zeewater
 
-V. Waarmede moet de reiniging in het Doopsel geschieden?
+V. Waarmee moet de reiniging in het Doopsel geschieden?
 
 A. Zij moet geschieden **met water,** en dat water moet zijn 1° **waarachtig** d.i. echt; dus is speeksel en sap van planten en vruchten geen waarachtig water, daar deze stoffen enkel op water trekken; 2° **natuurlijk:** overal voor streng genomen water aanzien worden; bijgevolg is ongesmolten sneeuw en vast ijs, hoewel uit water samengesteld, toch geen natuurlijk water, daar geen van beide stoffen ergens onder de eigenlijken naam van water komt. Zulk waarachtig en natuurlijk water is **putwater, regenwater, fonteinwater, zeewater.**
 

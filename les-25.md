@@ -161,7 +161,7 @@ Ook het overwegen van de schrikkelijke verdelging, waarmee God de onkuise steden
 
 <span class=marginnote>
   <img src="resources/2508a.jpg">
-  <em>Tegenover de onkuisheid staat de deugd van zuiverheid, d.i. de deugd die de ongeregelde geneigdheid naar ongeoorloofde voldoening van het vlees bedwingt. "Zalig de zuiveren van hart, want ze zullen God zien." Beoefen de kuisheid door u te sterken door het voorbeel van hen die kuis leven te midden van de grootste gevaren. Wees voorvechters en verdedigers van de kuisheid. Daarom weg met de vuile praat, met schunige tekeningen, slechte cinema, enz. Zie het tijdschrift *Zedenadel*.</em>
+  <em>Tegenover de onkuisheid staat de deugd van zuiverheid, d.i. de deugd die de ongeregelde geneigdheid naar ongeoorloofde voldoening van het vlees bedwingt. "Zalig de zuiveren van hart, want ze zullen God zien." Beoefen de kuisheid door u te sterken door het voorbeel van hen die kuis leven te midden van de grootste gevaren. Wees voorvechters en verdedigers van de kuisheid. Daarom weg met de vuile praat, met schunnige tekeningen, slechte cinema, enz. Zie het tijdschrift *Zedenadel*.</em>
 </span>
 A. **Hij moet 1° verklaren, in wat manier hij door onkuisheid gezondigd heeft:** het is dan niet genoeg te zeggen: ik heb onkuisheid gedaan of slechte dingen; maar men moet uitdrukken, welke soort van onkuisheid men bedreven heeft; — 2° Hij moet dat verklaren, **met eerlijke woorden:** met die taal en met die woorden, welke de welopgevoede mensen gebruiken om de zonden van onzuiverheid te noemen, en welke eenieder bezigt, die daarover met deftige personen moet spreken.
 
