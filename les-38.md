@@ -41,11 +41,11 @@ subtitle: Van de doodzonde
   <td rowspan=2>**Zonden tegen de H. Geest**</td>
   <td rowspan=2 class=accolade></td>
   <td colspan=2>Natuur</td>
-  <td>*[Welke noemt men zonden tegen de H. Geest?](#welke-noemt-men-zonden-tegen-de-h-geest)*</td>
+  <td>*[Welke noemt men zonden tegen de H. Geest?](#welke-noemt-men-zonden-tegen-de-heilige-geest)*</td>
 </tr>
 <tr>
   <td colspan=2>Getal en naam</td>
-  <td>*[Welke zijn de zonden tegen de H. Geest?](#welke-zijn-de-zonden-tegen-de-h-geest)*</td>
+  <td>*[Welke zijn de zonden tegen de H. Geest?](#welke-zijn-de-zonden-tegen-de-heilige-geest)*</td>
 </tr>
 <tr>
   <td rowspan=2>**Wraakroepende zonden**</td>
@@ -162,7 +162,7 @@ A. **Hoovaardigheid** is ongeregelde begeerte van eigen uitmuntendheid en van de
 
 Men zal reeds opgemerkt hebben 1° dat de hoofdzonden niet enkel als slechte *daden* of akten, maar dikwijls als kwade *genegenheden* van de ziel of als *ondeugden* genomen worden; 2° dat iedere hoofdzonde tot die andere zonden aanzet, waar zij een middel vindt om haar einde te bereiken, of waar zij de naaste gelegenheid toe biedt. Hoe nu de Zeven Hoofdzonden de bron zijn van alle andere, zal duidelijk uit het volgende blijken. Alle zonde bestaat in iets dat ons aangenaam is (een goed) ongeregeld te begeren, of in iets dat ons onaangenaam voorkomt (een kwaad) ongeregeld te vluchten. Welnu er zijn maar *drie* hoofdsoorten van goederen die wij ongeregeld kunnen begeren, namelijk, onze uitmuntendheid boven anderen, allerlei tijdelijke bezittingen, het zingenot dat dubbel is: het smaakgenot en de lichamelijke wellusten, en *drie* kwaden, aan die drie goederen tegenovergesteld, waar wij ongeregelden afkeer van hebben: de uitmuntendheid van anderen die de onze belet, de schade in onze tijdelijke bezittingen, en de arbeid en last die tegenover de lichamelijke lusten staan; dus zijn er ook maar zeven hoofdzonden. namelijk vier ongeregelde begeerten: van eigen uitmuntendheid, van allerlei aardse goederen, van het smaakgenot en van de lichamelijke wellusten, of de hoogmoedigheid, de gierigheid, de gulzigheid en de onkuisheid; — en *drie* ongeregelde afgekeerdheden: van eens anders uitmuntendheid, van de schade in de tijdelijke bezittingen en van de arbeid en last aan 't vervullen van de plichten verbonden, of de nijd, de gramschap en de traagheid 
 
-# Welke noemt men zonden tegen de H. Geest?
+# Welke noemt men zonden tegen de Heilige Geest?
 
 ## Die uit enkele boosheid geschieden en strijden tegen de goddelijke barmhartigheid, en daarom zeer zelden vergeven worden
 
@@ -174,7 +174,7 @@ A. Men noemt zonden tegen de H. Geest dezulke die de *twee* volgende voorwaarden
 
 De zonden *tegen de H. Geest* worden zo genoemd, omdat de *goddelijke liefde* of heiligheid, waartegen zij rechtstreeks strijden daar zij uit enkele boosheid geschieden, en de *goddelijke barmhartigheid,* die zij verwerpen, hoewel de drie goddelijke personen evenzeer toekomende, nochtans de H. Geest bijzonder worden toegeschreven ([11ᵉ les, v. 8](les-11.html#waarom-wordt-onze-heiligmaking-de-heilige-geest-toegeschreven) en [5ᵉ les, v. 8](les-05.html#waarom-wordt-god-de-vader-meer-dan-de-zoon-almachtig-genoemd)).
 
-# Welke zijn de zonden tegen de H. Geest?
+# Welke zijn de zonden tegen de Heilige Geest?
 
 ## Deze zes: 1. Van Gods genade wanhopen. 2. Op Gods barmhartigheid zonder deugden zich beroemen. 3. De welbekende waarheid bestrijden. 4. De broederlijke liefde benijden. 5. Hardnekkig zijn in de boosheid. 6. Verachten het berouw of de penitentie
 
