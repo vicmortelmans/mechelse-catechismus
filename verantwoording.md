@@ -30,12 +30,12 @@ title: Verantwoording bij de publicatie
   <td>*[Theologie tussen Rede en Liefde](#theologie-tussen-rede-en-liefde)*</td>
 </tr>
 <tr>
-  <td rowspan=3>1937</td>
-  <td rowspan=3 class=accolade></td>
+  <td rowspan=5>1937</td>
+  <td rowspan=5 class=accolade></td>
   <td>*[De aantekeningen](#de-aantekeningen)*</td>
 </tr>
 <tr>
-  <td>*[Volksveredeling vs. Emancipatie](#volksveredeling-vs-emancipatie)*</td>
+  <td>*[Volksveredeling vs. Emancipatie](#volksveredeling-versus-emancipatie)*</td>
 </tr>
 <tr>
   <td>*[Tips voor onderwijzers](#tips-voor-onderwijzers)*</td>
@@ -105,7 +105,7 @@ Als deze publicatie iets mag verwezenlijken, hoop ik dat ze het verlangen doet g
 
 De website bevat de integrale versie van de catechismus, inclusief de ingescande aantekeningen, met transscriptie. De catechismus is ook [beschikbaar als PDF of in boekvorm](boek.html).
 
-# Volksveredeling vs. Emancipatie
+# Volksveredeling versus Emancipatie
 
 Preuts en patriarchaal zijn termen die niet misstaan bij sommige aantekeningen over seksuele moraal, huwelijk en opvoeding. De stereotypen worden bevestigd (neem b.v. dit citaat uit [les 36 over het Huwelijk](les-36.html), over de keuze van een huwelijkspartner: *"Bekwaamheid: de vrouw moet kuiselijk zijn (pas op met sportvrouwen!); de man moet de geldverdiener zijn."*). Voor de postmoderne, geëmancipeerde lezer is dat reden genoeg om het hele boeltje naar de prullenmand te verwijzen, maar ik durf er wel de kanttekening bij maken dat deze ingesteldheden zich meer baseren op een spiritueel gefundeerd maatschappelijk verantwoordelijkheidsgevoel dan op bekrompen ideeën van gefrustreerde priesters. In die tijd heette dat *volksveredeling*. Ik vraag me soms af of dit streven niet te gemakkelijk samen met de toepassingsmethodes is opgegeven.
 
@@ -141,7 +141,7 @@ Anderzijds diende de onderwijzer ook in zijn persoonlijk leven het voorbeeld te 
 
 # Oecumene
 
-Het verraste me in de aantekeningen talrijke veroordelingen te vinden van het protestantisme. Ik denk niet dat de gemiddelde Vlaming in de jaren '30 al een protestant van dichtbij had gezien, laat staan dat de katholieke Kerk in Vlaanderen in de protestantse kerk(en) een te duchten concurrent vond. Was er een verbondenheid met de katholieken in Nederland, die nog steeds hun emancipatiestrijd aan het voeren waren? 
+Het verraste me in de aantekeningen talrijke veroordelingen te vinden van het protestantisme. Ik denk niet dat de gemiddelde Vlaming in de jaren '30 al een protestant van dichtbij had gezien, laat staan dat de katholieke Kerk in Vlaanderen in de protestantse kerk(en) een te duchten concurrent vond. Was er een verbondenheid met de katholieken in Nederland, die nog steeds hun emancipatiestrijd aan het voeren waren? Of was het nog een nazindering van de tijd waarin de oorspronkelijke catechismus tot stand kwam?
 
 # Dekkers
 
