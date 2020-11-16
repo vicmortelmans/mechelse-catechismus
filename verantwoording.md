@@ -2,7 +2,58 @@
 title: Verantwoording bij de publicatie
 ---
 
-# Aanleiding
+<table>
+<tr>
+  <td rowspan=12>**Waarom heb ik een oude catechismus heruitgegeven?**</td>
+  <td rowspan=12 class=accolade></td>
+  <td rowspan=3 colspan=3>Het is een erfstuk van mijn grootvader</td>
+  <td rowspan=3 class=accolade></td>
+  <td>*[Een oud boek op zolder](#een-oud-boek-op-zolder)*</td>
+</tr>
+<tr>
+  <td>*[Normaalschool](#normaalschool)*</td>
+</tr>
+<tr>
+  <td>*[Persoonlijke aantekeningen](#persoonlijke-aantekeningen)*</td>
+</tr>
+<tr>
+  <td rowspan= 9>Het is een onderdeel van onze levende geloofstraditie</td>
+  <td rowspan=9 class=accolade></td>
+  <td rowspan=3>1623</td>
+  <td rowspan=3 class=accolade></td>
+  <td>*[De catechismus](#de-catechismus)*</td>
+</tr>
+<tr>
+  <td>*[De kleine catechismus](#de-kleine-catechismus)*</td>
+</tr>
+<tr>
+  <td>*[Theologie tussen Rede en Liefde](#theologie-tussen-rede-en-liefde)*</td>
+</tr>
+<tr>
+  <td rowspan=3>1937</td>
+  <td rowspan=3 class=accolade></td>
+  <td>*[De aantekeningen](#de-aantekeningen)*</td>
+</tr>
+<tr>
+  <td>*[Volksveredeling vs. Emancipatie](#volksveredeling-vs-emancipatie)*</td>
+</tr>
+<tr>
+  <td>*[Tips voor onderwijzers](#tips-voor-onderwijzers)*</td>
+</tr>
+<tr>
+  <td>*[Oecumene](#oecumene)*</td>
+</tr>
+<tr>
+  <td>*[Dekkers](#dekkers)*</td>
+</tr>
+<tr>
+  <td rowspan=3>Vandaag</td>
+  <td rowspan=3 class=accolade></td>
+  <td>*[Het belang van deze publicatie](#het-belang-van-deze-publicatie)*</td>
+</tr>
+</table>
+
+# Een oud boek op zolder
 
 <span class=marginnote>
   <img class=nobox src="resources/mc.jpg">
