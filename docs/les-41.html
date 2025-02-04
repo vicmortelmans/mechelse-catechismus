@@ -7,10 +7,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resources/tufte.css" />
@@ -40,7 +48,8 @@
             <p class="part">VIJFDE DEEL</p>
       <p class="part">–</p>
                   <h1 class="title">EEN EN VEERTIGSTE LES</h1>
-                  <p class="subtitle">Van de werken van barmhartigheid</p>
+                  <p class="subtitle">Van de werken van
+barmhartigheid</p>
             <table>
             <tr>
             <td rowspan="10">
@@ -59,7 +68,10 @@
             <td>
             </td>
             <td>
-            <em><a href="#welk-is-de-beste-middel-om-ons-te-verwekken-tot-haat-van-de-zonden-en-begeerte-van-de-deugden">Welk is de beste middel om ons te verwekken tot haat van de zonden en begeerte van de deugden?</a></em>
+            <em><a
+            href="#welk-is-de-beste-middel-om-ons-te-verwekken-tot-haat-van-de-zonden-en-begeerte-van-de-deugden">Welk
+            is de beste middel om ons te verwekken tot haat van de
+            zonden en begeerte van de deugden?</a></em>
             </td>
             </tr>
             <tr>
@@ -69,7 +81,8 @@
             <td>
             </td>
             <td>
-            <em><a href="#hoeveel-uitersten-van-de-mens-zijn-er">Hoeveel Uitersten van de mens zijn er?</a></em>
+            <em><a href="#hoeveel-uitersten-van-de-mens-zijn-er">Hoeveel
+            Uitersten van de mens zijn er?</a></em>
             </td>
             </tr>
             <tr>
@@ -79,7 +92,8 @@
             <td>
             </td>
             <td>
-            <em><a href="#wien-komen-de-vier-uitersten-toe">Wien komen de vier uitersten toe?</a></em>
+            <em><a href="#wien-komen-de-vier-uitersten-toe">Wien komen
+            de vier uitersten toe?</a></em>
             </td>
             </tr>
             <tr>
@@ -94,7 +108,8 @@
             <td>
             </td>
             <td>
-            <em><a href="#wat-is-er-van-de-dood-te-geloven">Wat is er van de Dood te geloven?</a></em>
+            <em><a href="#wat-is-er-van-de-dood-te-geloven">Wat is er
+            van de Dood te geloven?</a></em>
             </td>
             </tr>
             <tr>
@@ -104,7 +119,8 @@
             <td>
             </td>
             <td>
-            <em><a href="#wat-zwarigheid-heeft-het-oordeel">Wat zwarigheid heeft het Oordeel?</a></em>
+            <em><a href="#wat-zwarigheid-heeft-het-oordeel">Wat
+            zwarigheid heeft het Oordeel?</a></em>
             </td>
             </tr>
             <tr>
@@ -114,7 +130,9 @@
             <td>
             </td>
             <td>
-            <em><a href="#wat-zullen-de-verdoemde-zielen-lijden-in-de-hel">Wat zullen de verdoemde zielen lijden in de Hel?</a></em>
+            <em><a
+            href="#wat-zullen-de-verdoemde-zielen-lijden-in-de-hel">Wat
+            zullen de verdoemde zielen lijden in de Hel?</a></em>
             </td>
             </tr>
             <tr>
@@ -124,110 +142,453 @@
             <td rowspan="4" class="accolade">
             </td>
             <td>
-            <em><a href="#welk-is-de-meeste-blijdschap-van-de-hemel">Welk is de meeste blijdschap van de Hemel?</a></em>
+            <em><a
+            href="#welk-is-de-meeste-blijdschap-van-de-hemel">Welk is de
+            meeste blijdschap van de Hemel?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#zullen-alle-heiligen-gelijk-zijn-in-glorie">Zullen alle Heiligen gelijk zijn in glorie?</a></em>
+            <em><a
+            href="#zullen-alle-heiligen-gelijk-zijn-in-glorie">Zullen
+            alle Heiligen gelijk zijn in glorie?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#wat-zullen-de-zaligen-behalve-het-opperste-goed-nog-hebben">Wat zullen de Zaligen behalve het opperste goed nog hebben?</a></em>
+            <em><a
+            href="#wat-zullen-de-zaligen-behalve-het-opperste-goed-nog-hebben">Wat
+            zullen de Zaligen behalve het opperste goed nog
+            hebben?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#welke-gaven-zullen-de-lichamen-van-de-zaligen-hebben">Welke gaven zullen de lichamen van de Zaligen hebben?</a></em>
+            <em><a
+            href="#welke-gaven-zullen-de-lichamen-van-de-zaligen-hebben">Welke
+            gaven zullen de lichamen van de Zaligen hebben?</a></em>
             </td>
             </tr>
             </table>
-            <h1 id="welk-is-de-beste-middel-om-ons-te-verwekken-tot-haat-van-de-zonden-en-begeerte-van-de-deugden">Welk is de beste middel om ons te verwekken tot haat van de zonden en begeerte van de deugden?</h1>
-            <h2 id="een-aandachtig-overdenken-van-de-uitersten-van-de-mensen">Een aandachtig overdenken van de Uitersten van de mensen</h2>
-            <p><span class="marginnote"> <img src="resources/4100a.jpg"> <img src="resources/4100b.jpg"> </span> V. Welk is de krachtigste middel om ons te bewegen tot haat van de zonden en begeerte van de deugden en zo beide de delen van de Christelijke Rechtvaardigheid te volbrengen?</p>
-            <p>A. De krachtigste middel daartoe is — <strong>een aandachtig:</strong> een krachtig, zorgvuldig, levendig <strong>overdenken — van de Uitersten van de mens:</strong> van de zaken die de mens overkomen bij het einde van zijn leven hier op aarde. Dat doet ons immers klaar begrijpen wat wij van dit aardse leven moeten denken, welk ons einde is, hoe zorgvuldig wij het goed moeten doen en het kwaad vluchten om het eeuwig geluk te verwerven. Ken mens die gaat sterven, begrijpt ten klaarste de noodzakelijkheid van God wel te dienen, en de dwaasheid van dit niet te doen; want op het sterfbed eindigen de hetooveringen en verleidingen van de wereld. Hetzelfde natuurlijk zal plaats grijpen, als wij Onze Uitersten aandachtig overdenken.</p>
-            <h1 id="hoeveel-uitersten-van-de-mens-zijn-er">Hoeveel Uitersten van de mens zijn er?</h1>
-            <h2 id="vier-te-weten-de-dood-het-oordeel-de-hel-en-de-hemelse-glorie">Vier, te weten: de Dood, het Oordeel, de Hel en de Hemelse Glorie</h2>
-            <p>V. De Catechismus vraagt, <strong>hoeveel Uitersten er zijn — van de mens:</strong> van de mens in ’t bijzonder, en niet van geheel het menselijk geslacht en van geheel de wereld; want deze hebben de volgende uitersten: het vergaan van de wereld door het vuur, de verrijzenis, het Algemeen Oordeel en het daarop volgende eeuwig rijk van Christus.</p>
-            <p>A. Er zijn <em>vier</em> Uitersten van de mens, te weten:</p>
-            <p>1° <strong>De Dood,</strong> bestaande in de scheiding van de ziel van het lichaam, waardoor dit van het leven beroofd wordt.</p>
-            <p>2° <strong>Het Oordeel,</strong> gelegen in het onderzoek dat God zal doen over al de goede en slechte werken van geheel ons leven, en in het vonnis dat Hij daarna over ons zal uitspreken. (<a href="les-10.html#wie-zal-christus-komen-oordelen">10ᵉ les, v. 5</a>, <a href="les-10.html#zullen-de-doden-tot-de-laatsten-dag-toe-zonder-oordeel-wezen">6</a>, <a href="les-10.html#wat-vonnis-zal-christus-in-het-oordeel-geven">8</a>.)</p>
-            <p>3° <strong>De Hel</strong> of de plaats waar de verdoemden gestraft worden. Er zijn twee plaatsen in te onderscheiden: 1° de eigenlijke hel, waar de verdoemden het goddelijk aanschijn derven en daarenboven door het vuur gepijnigd worden; 2° het voorgeborchte van de hel, waar de kinderen die vóór de jaren van verstand zonder Doopsel sterven, enkel beroofd zijn van het goddelijk aanschijn. (<a href="les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is">9ᵉ les, 2ᵉ v.</a>)</p>
-            <p>4° <strong>De Hemelse Glorie:</strong> de hemel of de plaats waar de gelakzaligen God zien. Onder dit Uiterste moet ook het <em>vagevuur</em> verstaan worden, dat een inleidingsplaats tot de Hemel is. Vóór Christus’ Hemelvaart kwam ook het <em>voorgeborchte van de Oudvaders</em> (<a href="les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is">9ᵉ les, v. 2</a>), onder de naam van <em>Hemel.</em></p>
-            <h1 id="wien-komen-de-vier-uitersten-toe">Wien komen de vier uitersten toe?</h1>
-            <h2 id="de-dood-en-het-oordeel-aan-alle-mensen-de-hel-aan-degenen-die-in-doodzonde-sterven-de-hemelse-glorie-aan-degenen-die-sterven-in-gods-genade">De Dood en het Oordeel aan alle mensen; de Hel aan degenen die in doodzonde sterven; de Hemelse Glorie aan degenen die sterven in Gods genade</h2>
-            <p>V. Komen deze Vier Uitersten alle of slechts enige mensen over?</p>
-            <p>A. <strong>De dood,</strong> gelijk de ondervinding het getuigt; <strong>en het Oordeel,</strong> zowel het Bijzonder als het Algemeen, komen toe <strong>aan alle mensen</strong> zonder uitzondering ; nochtans twijfelen enige godgeleerden, of de mensen die op het einde van de wereld zullen leven, de Dood zullen ondergaan (<a href="les-10.html#welke-zijn-de-levenden-die-christus-oordelen-zal">10ᵉ les, v. 7</a>); <strong>de</strong> eigenlijke <strong>Hel aan degenen die in</strong> dadelijke <strong>doodzonde,</strong> en het <em>voorgeborchte</em> ervan aan die vóór de jaren van verstand zonder Doopsel <strong>sterven;</strong> <strong>— de Hemelse Glorie aan degenen die in Gods genade</strong> zó <strong>sterven,</strong> dat zij niets meer te betalen of te zuiveren hebben, en het <em>vagevuur</em> aan degenen die alleen met dagelijkse zonden of last van tijdelijke pijnen verscheiden. (<a href="les-15.html">15ᵉ les.</a>)</p>
-            <h1 id="wat-is-er-van-de-dood-te-geloven">Wat is er van de Dood te geloven?</h1>
-            <h2 id="dat-niemand-die-geboren-is-haar-kan-ontgaan-en-daarenboven-dat-zij-ons-kan-overkomen-als-wij-het-minst-vrezen">Dat niemand, die geboren is, haar kan ontgaan, en daarenboven, dat zij ons kan overkomen, als wij het minst vrezen</h2>
-            <p>V. Wat leert ons de goddelijke Openbaring nopens de Dood, en wat moeten wij dus van de Dood geloven?</p>
-            <p>A. Wij hebben van de Dood <em>twee</em> dingen te geloven:</p>
-            <p>1° <strong>Dat niemand — die geboren is:</strong> die op aarde leeft, <strong>haar kan ontgaan;</strong> want de Dood is een gevolg van de erfzonde, die alle mensen aangeboren wordt. (<a href="#wat-is-er-van-de-dood-te-geloven">A. 3.</a>)</p>
-            <p>2° <strong>Dat zij ons kan overkomen als wij het minst vrezen:</strong> dat wij niet weten <em>wanneer,</em> noch <em>waar,</em> noch <em>hoe</em> wij zullen sterven. Christus heeft dikwijls gezegd dat de Dood zal komen gelijk een dief in de nacht, en de ondervinding leert dat vele mensen schielijk sterven, dat menigvuldige andere zich op hun sterfbed over het gevaar van hun staat bedriegen, en zo sterven zonder het te weten. God heeft gewild dat het uur van onze Dood ons onbekend zou blijven: 1° om van het leven een ware tijd van beproeving te maken: wisten de mensen wanneer zij zullen sterven, zij zouden zich zonder vrees aan alle buitensporigheden kunnen overleveren, in de verzekering van later toch tijd te hebben om boetvaardigheid te doen; — 2° om de orde in de samenleving te handhaven; want, kende iedereen het uur van zijn Dood, vele contracten waren onmogelijk en vele mensen lieten vóór hun einde allen moed vallen.</p>
-            <h1 id="wat-zwarigheid-heeft-het-oordeel">Wat zwarigheid heeft het Oordeel?</h1>
-            <h2 id="ten-eerste-dat-iedereen-daar-zal-moeten-te-voorschijn-komen-ten-tweede-dat-de-rechter-onbeweeglijk-zal-wezen-ten-derde-het-vonnis-onherroepelijk.">Ten eerste, dat iedereen daar zal moeten te voorschijn komen; ten tweede, dat de rechter onbeweeglijk zal wezen; ten derde, het vonnis onherroepelijk.</h2>
+            <h1
+            id="welk-is-de-beste-middel-om-ons-te-verwekken-tot-haat-van-de-zonden-en-begeerte-van-de-deugden">Welk
+            is de beste middel om ons te verwekken tot haat van de
+            zonden en begeerte van de deugden?</h1>
+            <h2
+            id="een-aandachtig-overdenken-van-de-uitersten-van-de-mensen">Een
+            aandachtig overdenken van de Uitersten van de mensen</h2>
+            <p><span class="marginnote"> <img src="resources/4100a.jpg">
+            <img src="resources/4100b.jpg"> </span> V. Welk is de
+            krachtigste middel om ons te bewegen tot haat van de zonden
+            en begeerte van de deugden en zo beide de delen van de
+            Christelijke Rechtvaardigheid te volbrengen?</p>
+            <p>A. De krachtigste middel daartoe is — <strong>een
+            aandachtig:</strong> een krachtig, zorgvuldig, levendig
+            <strong>overdenken — van de Uitersten van de mens:</strong>
+            van de zaken die de mens overkomen bij het einde van zijn
+            leven hier op aarde. Dat doet ons immers klaar begrijpen wat
+            wij van dit aardse leven moeten denken, welk ons einde is,
+            hoe zorgvuldig wij het goed moeten doen en het kwaad
+            vluchten om het eeuwig geluk te verwerven. Ken mens die gaat
+            sterven, begrijpt ten klaarste de noodzakelijkheid van God
+            wel te dienen, en de dwaasheid van dit niet te doen; want op
+            het sterfbed eindigen de hetooveringen en verleidingen van
+            de wereld. Hetzelfde natuurlijk zal plaats grijpen, als wij
+            Onze Uitersten aandachtig overdenken.</p>
+            <h1 id="hoeveel-uitersten-van-de-mens-zijn-er">Hoeveel
+            Uitersten van de mens zijn er?</h1>
+            <h2
+            id="vier-te-weten-de-dood-het-oordeel-de-hel-en-de-hemelse-glorie">Vier,
+            te weten: de Dood, het Oordeel, de Hel en de Hemelse
+            Glorie</h2>
+            <p>V. De Catechismus vraagt, <strong>hoeveel Uitersten er
+            zijn — van de mens:</strong> van de mens in ’t bijzonder, en
+            niet van geheel het menselijk geslacht en van geheel de
+            wereld; want deze hebben de volgende uitersten: het vergaan
+            van de wereld door het vuur, de verrijzenis, het Algemeen
+            Oordeel en het daarop volgende eeuwig rijk van Christus.</p>
+            <p>A. Er zijn <em>vier</em> Uitersten van de mens, te
+            weten:</p>
+            <p>1° <strong>De Dood,</strong> bestaande in de scheiding
+            van de ziel van het lichaam, waardoor dit van het leven
+            beroofd wordt.</p>
+            <p>2° <strong>Het Oordeel,</strong> gelegen in het onderzoek
+            dat God zal doen over al de goede en slechte werken van
+            geheel ons leven, en in het vonnis dat Hij daarna over ons
+            zal uitspreken. (<a
+            href="les-10.html#wie-zal-christus-komen-oordelen">10ᵉ les,
+            v. 5</a>, <a
+            href="les-10.html#zullen-de-doden-tot-de-laatsten-dag-toe-zonder-oordeel-wezen">6</a>,
+            <a
+            href="les-10.html#wat-vonnis-zal-christus-in-het-oordeel-geven">8</a>.)</p>
+            <p>3° <strong>De Hel</strong> of de plaats waar de
+            verdoemden gestraft worden. Er zijn twee plaatsen in te
+            onderscheiden: 1° de eigenlijke hel, waar de verdoemden het
+            goddelijk aanschijn derven en daarenboven door het vuur
+            gepijnigd worden; 2° het voorgeborchte van de hel, waar de
+            kinderen die vóór de jaren van verstand zonder Doopsel
+            sterven, enkel beroofd zijn van het goddelijk aanschijn. (<a
+            href="les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is">9ᵉ
+            les, 2ᵉ v.</a>)</p>
+            <p>4° <strong>De Hemelse Glorie:</strong> de hemel of de
+            plaats waar de gelakzaligen God zien. Onder dit Uiterste
+            moet ook het <em>vagevuur</em> verstaan worden, dat een
+            inleidingsplaats tot de Hemel is. Vóór Christus’ Hemelvaart
+            kwam ook het <em>voorgeborchte van de Oudvaders</em> (<a
+            href="les-09.html#wat-verstaat-gij-door-de-hel-tot-dewelke-christus-nedergedaald-is">9ᵉ
+            les, v. 2</a>), onder de naam van <em>Hemel.</em></p>
+            <h1 id="wien-komen-de-vier-uitersten-toe">Wien komen de vier
+            uitersten toe?</h1>
+            <h2
+            id="de-dood-en-het-oordeel-aan-alle-mensen-de-hel-aan-degenen-die-in-doodzonde-sterven-de-hemelse-glorie-aan-degenen-die-sterven-in-gods-genade">De
+            Dood en het Oordeel aan alle mensen; de Hel aan degenen die
+            in doodzonde sterven; de Hemelse Glorie aan degenen die
+            sterven in Gods genade</h2>
+            <p>V. Komen deze Vier Uitersten alle of slechts enige mensen
+            over?</p>
+            <p>A. <strong>De dood,</strong> gelijk de ondervinding het
+            getuigt; <strong>en het Oordeel,</strong> zowel het
+            Bijzonder als het Algemeen, komen toe <strong>aan alle
+            mensen</strong> zonder uitzondering ; nochtans twijfelen
+            enige godgeleerden, of de mensen die op het einde van de
+            wereld zullen leven, de Dood zullen ondergaan (<a
+            href="les-10.html#welke-zijn-de-levenden-die-christus-oordelen-zal">10ᵉ
+            les, v. 7</a>); <strong>de</strong> eigenlijke <strong>Hel
+            aan degenen die in</strong> dadelijke
+            <strong>doodzonde,</strong> en het <em>voorgeborchte</em>
+            ervan aan die vóór de jaren van verstand zonder Doopsel
+            <strong>sterven;</strong> <strong>— de Hemelse Glorie aan
+            degenen die in Gods genade</strong> zó
+            <strong>sterven,</strong> dat zij niets meer te betalen of
+            te zuiveren hebben, en het <em>vagevuur</em> aan degenen die
+            alleen met dagelijkse zonden of last van tijdelijke pijnen
+            verscheiden. (<a href="les-15.html">15ᵉ les.</a>)</p>
+            <h1 id="wat-is-er-van-de-dood-te-geloven">Wat is er van de
+            Dood te geloven?</h1>
+            <h2
+            id="dat-niemand-die-geboren-is-haar-kan-ontgaan-en-daarenboven-dat-zij-ons-kan-overkomen-als-wij-het-minst-vrezen">Dat
+            niemand, die geboren is, haar kan ontgaan, en daarenboven,
+            dat zij ons kan overkomen, als wij het minst vrezen</h2>
+            <p>V. Wat leert ons de goddelijke Openbaring nopens de Dood,
+            en wat moeten wij dus van de Dood geloven?</p>
+            <p>A. Wij hebben van de Dood <em>twee</em> dingen te
+            geloven:</p>
+            <p>1° <strong>Dat niemand — die geboren is:</strong> die op
+            aarde leeft, <strong>haar kan ontgaan;</strong> want de Dood
+            is een gevolg van de erfzonde, die alle mensen aangeboren
+            wordt. (<a href="#wat-is-er-van-de-dood-te-geloven">A.
+            3.</a>)</p>
+            <p>2° <strong>Dat zij ons kan overkomen als wij het minst
+            vrezen:</strong> dat wij niet weten <em>wanneer,</em> noch
+            <em>waar,</em> noch <em>hoe</em> wij zullen sterven.
+            Christus heeft dikwijls gezegd dat de Dood zal komen gelijk
+            een dief in de nacht, en de ondervinding leert dat vele
+            mensen schielijk sterven, dat menigvuldige andere zich op
+            hun sterfbed over het gevaar van hun staat bedriegen, en zo
+            sterven zonder het te weten. God heeft gewild dat het uur
+            van onze Dood ons onbekend zou blijven: 1° om van het leven
+            een ware tijd van beproeving te maken: wisten de mensen
+            wanneer zij zullen sterven, zij zouden zich zonder vrees aan
+            alle buitensporigheden kunnen overleveren, in de verzekering
+            van later toch tijd te hebben om boetvaardigheid te doen; —
+            2° om de orde in de samenleving te handhaven; want, kende
+            iedereen het uur van zijn Dood, vele contracten waren
+            onmogelijk en vele mensen lieten vóór hun einde allen moed
+            vallen.</p>
+            <h1 id="wat-zwarigheid-heeft-het-oordeel">Wat zwarigheid
+            heeft het Oordeel?</h1>
+            <h2
+            id="ten-eerste-dat-iedereen-daar-zal-moeten-te-voorschijn-komen-ten-tweede-dat-de-rechter-onbeweeglijk-zal-wezen-ten-derde-het-vonnis-onherroepelijk.">Ten
+            eerste, dat iedereen daar zal moeten te voorschijn komen;
+            ten tweede, dat de rechter onbeweeglijk zal wezen; ten
+            derde, het vonnis onherroepelijk.</h2>
             <p>V. Waarin is het Oordeel vervaarlijk?</p>
             <p>A. Het is vervaarlijk in <em>drie</em> opzichten:</p>
-            <p><strong>Ten eerste, dat iedereen daar zal moeten te voorschijn komen:</strong> dat volstrekt niemand het kan ontgaan, en dat het zich zal uitstrekken over al onze zedelijke werken, hetzij goede of kwade;</p>
-            <p><strong>Ten tweede, dat de rechter — onbeweeglijk zal wezen:</strong> volgens de strengste regels van de rechtvaardigheid zal oordelen, en dat ieder juist zal ontvangen volgens zijn verdiensten;</p>
-            <p><strong>Ten derde, het vonnis onherroepelijk:</strong> dat het vonnis Gods, eens uitgesproken, in eeuwigheid onveranderlijk, onverbrekelijk zal zijn.</p>
-            <h1 id="wat-zullen-de-verdoemde-zielen-lijden-in-de-hel">Wat zullen de verdoemde zielen lijden in de Hel?</h1>
-            <h2 id="ten-eerste-de-onbegrijpelijke-zware-beroving-van-het-goddelijk-aanschijn-ten-tweede-de-knaging-van-de-conscientie-ten-derde-het-derven-van-al-wat-ze-enigszins-zou-mogen-troosten-ten-vierde-de-brand-van-het-pijnlijk-en-onblusbaar-vuur-ten-vijfde-en-bovenal-de-ellendige-eeuwigheid">Ten eerste, de onbegrijpelijke zware beroving van het goddelijk aanschijn; ten tweede, de knaging van de conscientie; ten derde, het derven van al wat ze enigszins zou mogen troosten; ten vierde, de brand van het pijnlijk en onblusbaar vuur; ten vijfde en bovenal, de ellendige eeuwigheid</h2>
-            <p>V. Welke pijnen zullen de zielen die om hun dadelijke zonden verdoemd zijn, in de Hel te lijden hebben?</p>
-            <p>A. De verdoemde zielen zullen de <em>vijf</em> volgende pijnen ondergaan:</p>
-            <p><strong>Ten eerste, de beroving van het goddelijk aanschijn,</strong> pijn die <strong>onbegrijpelijk</strong> of boven alle verstand <strong>zwaar</strong> zal wezen; want, door een bijzondere verlichting van hun verstand, zullen de verdoemden klaar begrijpen, wat groot geluk het is God aanschijn aan aanschijn te aanschouwen, en hoe dat geluk het hun zou moeten wezen. Wij kunnen nu die pijn niet ten volle beseffen. daar de rede noch het Geloof er ons een klaar gedacht van geven.</p>
-            <p><strong>Ten tweede, de knaging van de conscientie:</strong> de inwendige zelfverwijting die de verdoemden van hun eigen geweten zullen te lijden hebben, bij de gedachte dat zij hun eeuwig geluk voor een dwaze voldoening verbeurden, dat zij hun zaligheid zo gemakkelijk konden bekomen en nu voor eeuwig verloren zijn.</p>
-            <p><strong>Ten derde, het derven van al wat ze enigszins zou mogen troosten:</strong> de beroving van alle troost hetzij van God, van de Engelen, van de Heiligen, van de duivelen of van hun medeverdoemden; hetzij uit de vervulling van een van hun begeerten of uit de voldoening van hun zinnen na het Laatste Oordeel. Hun zinnen zullen dan integendeel ten uiterste gepijnigd worden: hun ogen, door de duisternissen en de afschuwelijkheid van de verdoemde lichamen, die vuiler zullen zijn dan het vuilste lijk ; hun oren, door het geschreeuw, het gehuil en het tandengeknars van hun lijdgenooten; hun reuk, door de walgachtigste uitwasemingen; hun smaak, door razenden honger en dorst; hun gevoel, door allerhande kwellingen van het vuur en door beroving van alle rust.</p>
-            <p><strong>Ten vierde, de brand van het pijnlijk</strong> (allerpijnlijkste) <strong>en onblusbaar</strong> (eeuwig) <strong>vuur,</strong> naar de gewone leer van de Godgeleerden bestaande uit waarachtig, stoffelijk vuur dat, volgens het einde waar het toe dient, bijzondere hoedanigheden bezit, o. a. van onblusbaar te zijn; van te verbranden zonder te vernietigen; van, door een bijzondere tussenkomst Gods, zelfs een onstoffelijk wezen, de ziel van lichaam beroofd, te kunnen pijnigen.</p>
-            <p><strong>Ten vijfde en bovenal, de ellendige eeuwigheid:</strong> de Catechismus heet deze pijn terecht de meeste; immers, waar er geen hoop meer is, kan er geen troost meer wezen. De straf van de doodzonde moet eeuwig zijn, omdat die zonde, ingezien het oneindig volmaakt wezen dat zij beleedigt, oneindig zwaar is en zo een straf vereist, die ten minste enigszins oneindig is; welnu de eeuwigheid is de enigste oneindigheid die in een straf kan gevonden worden. Overigens, ware de Hel niet eeuwig, de wet Gods zou niet genoeg bekrachtigd zijn, daar de mens licht een tijdelijke straf zou verachten. Eindelijk, zonder de eeuwigheid van de Hel, ware de oneindige afstand, die tussen het goed en het kwaad bestaat, tussen de loon van het goed en de straf van het kwaad niet meer te vinden.</p>
-            <h1 id="welk-is-de-meeste-blijdschap-van-de-hemel">Welk is de meeste blijdschap van de Hemel?</h1>
-            <h2 id="het-goddelijk-aanschijn-te-aanschouwen-en-in-god-alle-goed-te-genieten">Het goddelijk aanschijn te aanschouwen, en in God alle goed te genieten</h2>
-            <p>V. <strong>De meeste blijdschap:</strong> het grootste goed, want men is blijde, als men het goed bezit dat men begeert.</p>
-            <p>A. Het meeste goed van de Hemel bestaat in deze <em>twee</em> dingen:</p>
-            <p>1° <strong>In het goddelijk aanschijn te aanschouwen:</strong> in God te zien, niet gelijk hier op aarde, alleen in zijn werken, maar aanschijn aan aanschijn, gelijk wij de mensen zien die bij ons zijn. Het aanschouwen van God geschiedt niet door de zintuigen, daar God een geest is: noch alleen door de natuurlijke krachten van het verstand, vermits deze daartoe volkomen onbekwaam zijn; maar door een bovennatuurlijk licht dat God aan het verstand van de Heiligen toevoegt, en dat <em>licht van de glorie</em> genoemd wordt, omdat het de oorsprong is van het geluk van de Hemelse Glorie.</p>
-            <p>2° <strong>En in God alle goed te genieten:</strong> en in God, aanschijn aan aanschijn aanschouwd, alles te vinden en te bezitten wat ons hart begeren kan, en zo ten uiterste gelukkig te zijn. Al de volmaaktheid, al de aangenaamheid van de bestaande of mogelijke schepselen is op een uitmuntende wijze in God te vinden, en het goed dat de Heiligen in God aantreffen, gaat al het aardse zoveel te boven als God zelf al de schepselen te boven gaat.</p>
-            <p>Men ziet dat de beide delen van dit antwoord innig met elkander verbonden zijn, want het tweede vloeit rechtstreeks uit het eerste.</p>
-            <h1 id="zullen-alle-heiligen-gelijk-zijn-in-glorie">Zullen alle Heiligen gelijk zijn in glorie?</h1>
-            <h2 id="neen-maar-elk-zal-hebben-naar-zijn-verdiensten">Neen; maar elk zal hebben naar zijn verdiensten</h2>
-            <p>V. <strong>In glorie:</strong> in het hemels geluk van God te aanschouwen en in Hem alle goed te genieten.</p>
-            <p>A. <strong>Neen,</strong> zij zullen niet allen even volmaakt het hemels geluk genieten; <strong>maar elk zal hebben — naar zijn verdiensten:</strong> volgens de hoeveelheid en de waarde van de goede werken die hij in zijn leven zal gedaan, of volgens de graad van heiligmakende genade die hij op het uur van zijn dood zal bereikt hebben; deze immers beantwoordt altijd aan onze verdiensten. De rechtvaardigheid en de wijsheid Gods vereisen zulk verschil in glorie, en dat zal de Heiligen die minder ontvangen hebben, niet bedroeven, omdat zij allen ten uiterste aan Gods wil zullen onderworpen zijn. # Wat zullen de Zaligen behalve het opperste goed nog hebben?</p>
-            <h2 id="het-schoon-gezelschap-van-de-engelen-de-gemeenschap-van-alle-heiligen-een-blijde-gedachtenis-van-de-altijddurende-zalige-eeuwigheid">Het schoon gezelschap van de Engelen, de gemeenschap van alle Heiligen, een blijde gedachtenis van de altijddurende zalige eeuwigheid</h2>
-            <p>V. <strong>Het opperste goed</strong> bestaat in het goddelijk aanschijn te aanschouwen en in God alle goed te genieten. (<a href="#welk-is-de-meeste-blijdschap-van-de-hemel">V. 7.</a>)</p>
-            <p>A. Behalve het opperste goed zullen de Zaligen nog deze <em>drie</em> goederen hebben:</p>
-            <p>1° <strong>Het schoon gezelschap van de Engelen:</strong> het eerlijke en aangename verkeer met de Engelen, die alle andere schepselen in volmaaktheid, schoonheid en waardigheid overtreffen.</p>
-            <p>2° <strong>De gemeenschap van alle Heiligen:</strong> de vereniging met de ontelbare menigte van de Heiligen waaronder de H. Maagd, onze patronen, onze ouders, broeders, zusters en nabestaanden die reeds in de hemel zijn.</p>
-            <p>3° <strong>Een blijde gedachtenis van de altijddurende zalige eeuwigheid:</strong> de gelukkige en bijblijvende zekerheid dat het bekomen geluk in zijn hele volheid eeuwig zal duren. Die zekerheid draagt oneindig veel bij tot het geluk van de Heiligen; zonder haar zou dit onvolmaakt wezen, daar het gedacht of de enkele vrees van het te kunnen verliezen, noodzakelijk onrust, angst en droefheid zou veroorzaken.</p>
-            <p>Bij deze drie goederen mag nog gevoegd worden de vrijdom van alle lijden, van alle pijn, van alle droefheid.</p>
-            <p>De <em>martelaars,</em> die de begeerlijkheid van de aardse goederen volkomen overwonnen hebben met zelfs hun leven op te offeren om God getrouw te blijven; de <em>leraars,</em> die de duivel, de meester van de leugentaal bestreden hebben, en de <em>maagden,</em> die de volle zegepraal over de onzuivere wellusten hebben behaald, zullen in de Hemel nog een bijzondere <em>bijgevoegde</em> glorie genieten.</p>
-            <p>Wat de kennis betreft die de Zaligen vóór het Laatste Oordeel nopens de wereld hebben, deze komt uit op een klaar gedacht van de hele samenstelling daarvan, van de verschillende soorten en klassen van de geschapene wezens, ook van al de personen, de zaken en daden die met hen enig betrek hebben, zoals van hun familie, hun vrienden, de vruchten van hun goede werken, enz,</p>
-            <h1 id="welke-gaven-zullen-de-lichamen-van-de-zaligen-hebben">Welke gaven zullen de lichamen van de Zaligen hebben?</h1>
-            <h2 id="ten-eerste-zij-zullen-blinken-boven-alle-klaarheid-ten-tweede-vlijtig-zijn-en-snel-boven-al-wat-licht-en-snel-is-ten-derde-subtiel-zodat-hen-niets-zal-kunnen-beletten-ten-vierde-en-ten-laatste-onsterfelijk-en-heel-onlijdelijk">Ten eerste, zij zullen blinken boven alle klaarheid; ten tweede, vlijtig zijn en snel boven al wat licht en snel is; ten derde, subtiel, zodat hen niets zal kunnen beletten; ten vierde en ten laatste, onsterfelijk en heel onlijdelijk</h2>
-            <p>V. Zie <a href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ les, 8ᵉ vr.</a></p>
-            <p>A. <strong>Ten eerste zij zullen blinken boven alle klaarheid,</strong> of <em>klaar</em> en <em>schoonblinkend</em> zijn (Zie <a href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ les, 8ᵉ vr.</a>)</p>
-            <p><strong>Ten tweede,</strong> zij zullen <strong>vlijtig zijn en snel boven al wat licht en snel is,</strong> i.a.w. <em>licht</em> zijn (Zie <a href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ les, 8ᵉ vr.</a>).</p>
-            <p><strong>Ten derde,</strong> zij zullen <strong>subtiel</strong> zijn, (zie genoemde les en vraag), <strong>zodat hen niets zal kunnen beletten,</strong> d. i, zodat hun lichamen noch door honger, noch door dorst, noeh door slaperigheid zullen belet worden van uit te voeren wat de ziel wil, en dat zij ook, als het betamelijk zal wezen, door andere stoffen niet belet zullen worden, zichergenste begeven.</p>
-            <p><strong>Ten vierde en ten laatste, onsterfelijk en heel onlijdelijk</strong> (Zie <a href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ les, 8ᵉ vr.</a>).</p>
-            <p>Buiten deze gaven zullen de lichamen van de Zaligen nog een volmaakte voldoening genieten in al hun zintuigen, en in het volle bezit zijn van de vernieuwde aarde, die door haar schoonheid geheel aan de heerlijkheid van hun lichamen zal beantwoorden.</p>
+            <p><strong>Ten eerste, dat iedereen daar zal moeten te
+            voorschijn komen:</strong> dat volstrekt niemand het kan
+            ontgaan, en dat het zich zal uitstrekken over al onze
+            zedelijke werken, hetzij goede of kwade;</p>
+            <p><strong>Ten tweede, dat de rechter — onbeweeglijk zal
+            wezen:</strong> volgens de strengste regels van de
+            rechtvaardigheid zal oordelen, en dat ieder juist zal
+            ontvangen volgens zijn verdiensten;</p>
+            <p><strong>Ten derde, het vonnis onherroepelijk:</strong>
+            dat het vonnis Gods, eens uitgesproken, in eeuwigheid
+            onveranderlijk, onverbrekelijk zal zijn.</p>
+            <h1 id="wat-zullen-de-verdoemde-zielen-lijden-in-de-hel">Wat
+            zullen de verdoemde zielen lijden in de Hel?</h1>
+            <h2
+            id="ten-eerste-de-onbegrijpelijke-zware-beroving-van-het-goddelijk-aanschijn-ten-tweede-de-knaging-van-de-conscientie-ten-derde-het-derven-van-al-wat-ze-enigszins-zou-mogen-troosten-ten-vierde-de-brand-van-het-pijnlijk-en-onblusbaar-vuur-ten-vijfde-en-bovenal-de-ellendige-eeuwigheid">Ten
+            eerste, de onbegrijpelijke zware beroving van het goddelijk
+            aanschijn; ten tweede, de knaging van de conscientie; ten
+            derde, het derven van al wat ze enigszins zou mogen
+            troosten; ten vierde, de brand van het pijnlijk en
+            onblusbaar vuur; ten vijfde en bovenal, de ellendige
+            eeuwigheid</h2>
+            <p>V. Welke pijnen zullen de zielen die om hun dadelijke
+            zonden verdoemd zijn, in de Hel te lijden hebben?</p>
+            <p>A. De verdoemde zielen zullen de <em>vijf</em> volgende
+            pijnen ondergaan:</p>
+            <p><strong>Ten eerste, de beroving van het goddelijk
+            aanschijn,</strong> pijn die <strong>onbegrijpelijk</strong>
+            of boven alle verstand <strong>zwaar</strong> zal wezen;
+            want, door een bijzondere verlichting van hun verstand,
+            zullen de verdoemden klaar begrijpen, wat groot geluk het is
+            God aanschijn aan aanschijn te aanschouwen, en hoe dat geluk
+            het hun zou moeten wezen. Wij kunnen nu die pijn niet ten
+            volle beseffen. daar de rede noch het Geloof er ons een
+            klaar gedacht van geven.</p>
+            <p><strong>Ten tweede, de knaging van de
+            conscientie:</strong> de inwendige zelfverwijting die de
+            verdoemden van hun eigen geweten zullen te lijden hebben,
+            bij de gedachte dat zij hun eeuwig geluk voor een dwaze
+            voldoening verbeurden, dat zij hun zaligheid zo gemakkelijk
+            konden bekomen en nu voor eeuwig verloren zijn.</p>
+            <p><strong>Ten derde, het derven van al wat ze enigszins zou
+            mogen troosten:</strong> de beroving van alle troost hetzij
+            van God, van de Engelen, van de Heiligen, van de duivelen of
+            van hun medeverdoemden; hetzij uit de vervulling van een van
+            hun begeerten of uit de voldoening van hun zinnen na het
+            Laatste Oordeel. Hun zinnen zullen dan integendeel ten
+            uiterste gepijnigd worden: hun ogen, door de duisternissen
+            en de afschuwelijkheid van de verdoemde lichamen, die vuiler
+            zullen zijn dan het vuilste lijk ; hun oren, door het
+            geschreeuw, het gehuil en het tandengeknars van hun
+            lijdgenooten; hun reuk, door de walgachtigste uitwasemingen;
+            hun smaak, door razenden honger en dorst; hun gevoel, door
+            allerhande kwellingen van het vuur en door beroving van alle
+            rust.</p>
+            <p><strong>Ten vierde, de brand van het pijnlijk</strong>
+            (allerpijnlijkste) <strong>en onblusbaar</strong> (eeuwig)
+            <strong>vuur,</strong> naar de gewone leer van de
+            Godgeleerden bestaande uit waarachtig, stoffelijk vuur dat,
+            volgens het einde waar het toe dient, bijzondere
+            hoedanigheden bezit, o. a. van onblusbaar te zijn; van te
+            verbranden zonder te vernietigen; van, door een bijzondere
+            tussenkomst Gods, zelfs een onstoffelijk wezen, de ziel van
+            lichaam beroofd, te kunnen pijnigen.</p>
+            <p><strong>Ten vijfde en bovenal, de ellendige
+            eeuwigheid:</strong> de Catechismus heet deze pijn terecht
+            de meeste; immers, waar er geen hoop meer is, kan er geen
+            troost meer wezen. De straf van de doodzonde moet eeuwig
+            zijn, omdat die zonde, ingezien het oneindig volmaakt wezen
+            dat zij beleedigt, oneindig zwaar is en zo een straf
+            vereist, die ten minste enigszins oneindig is; welnu de
+            eeuwigheid is de enigste oneindigheid die in een straf kan
+            gevonden worden. Overigens, ware de Hel niet eeuwig, de wet
+            Gods zou niet genoeg bekrachtigd zijn, daar de mens licht
+            een tijdelijke straf zou verachten. Eindelijk, zonder de
+            eeuwigheid van de Hel, ware de oneindige afstand, die tussen
+            het goed en het kwaad bestaat, tussen de loon van het goed
+            en de straf van het kwaad niet meer te vinden.</p>
+            <h1 id="welk-is-de-meeste-blijdschap-van-de-hemel">Welk is
+            de meeste blijdschap van de Hemel?</h1>
+            <h2
+            id="het-goddelijk-aanschijn-te-aanschouwen-en-in-god-alle-goed-te-genieten">Het
+            goddelijk aanschijn te aanschouwen, en in God alle goed te
+            genieten</h2>
+            <p>V. <strong>De meeste blijdschap:</strong> het grootste
+            goed, want men is blijde, als men het goed bezit dat men
+            begeert.</p>
+            <p>A. Het meeste goed van de Hemel bestaat in deze
+            <em>twee</em> dingen:</p>
+            <p>1° <strong>In het goddelijk aanschijn te
+            aanschouwen:</strong> in God te zien, niet gelijk hier op
+            aarde, alleen in zijn werken, maar aanschijn aan aanschijn,
+            gelijk wij de mensen zien die bij ons zijn. Het aanschouwen
+            van God geschiedt niet door de zintuigen, daar God een geest
+            is: noch alleen door de natuurlijke krachten van het
+            verstand, vermits deze daartoe volkomen onbekwaam zijn; maar
+            door een bovennatuurlijk licht dat God aan het verstand van
+            de Heiligen toevoegt, en dat <em>licht van de glorie</em>
+            genoemd wordt, omdat het de oorsprong is van het geluk van
+            de Hemelse Glorie.</p>
+            <p>2° <strong>En in God alle goed te genieten:</strong> en
+            in God, aanschijn aan aanschijn aanschouwd, alles te vinden
+            en te bezitten wat ons hart begeren kan, en zo ten uiterste
+            gelukkig te zijn. Al de volmaaktheid, al de aangenaamheid
+            van de bestaande of mogelijke schepselen is op een
+            uitmuntende wijze in God te vinden, en het goed dat de
+            Heiligen in God aantreffen, gaat al het aardse zoveel te
+            boven als God zelf al de schepselen te boven gaat.</p>
+            <p>Men ziet dat de beide delen van dit antwoord innig met
+            elkander verbonden zijn, want het tweede vloeit rechtstreeks
+            uit het eerste.</p>
+            <h1 id="zullen-alle-heiligen-gelijk-zijn-in-glorie">Zullen
+            alle Heiligen gelijk zijn in glorie?</h1>
+            <h2
+            id="neen-maar-elk-zal-hebben-naar-zijn-verdiensten">Neen;
+            maar elk zal hebben naar zijn verdiensten</h2>
+            <p>V. <strong>In glorie:</strong> in het hemels geluk van
+            God te aanschouwen en in Hem alle goed te genieten.</p>
+            <p>A. <strong>Neen,</strong> zij zullen niet allen even
+            volmaakt het hemels geluk genieten; <strong>maar elk zal
+            hebben — naar zijn verdiensten:</strong> volgens de
+            hoeveelheid en de waarde van de goede werken die hij in zijn
+            leven zal gedaan, of volgens de graad van heiligmakende
+            genade die hij op het uur van zijn dood zal bereikt hebben;
+            deze immers beantwoordt altijd aan onze verdiensten. De
+            rechtvaardigheid en de wijsheid Gods vereisen zulk verschil
+            in glorie, en dat zal de Heiligen die minder ontvangen
+            hebben, niet bedroeven, omdat zij allen ten uiterste aan
+            Gods wil zullen onderworpen zijn. # Wat zullen de Zaligen
+            behalve het opperste goed nog hebben?</p>
+            <h2
+            id="het-schoon-gezelschap-van-de-engelen-de-gemeenschap-van-alle-heiligen-een-blijde-gedachtenis-van-de-altijddurende-zalige-eeuwigheid">Het
+            schoon gezelschap van de Engelen, de gemeenschap van alle
+            Heiligen, een blijde gedachtenis van de altijddurende zalige
+            eeuwigheid</h2>
+            <p>V. <strong>Het opperste goed</strong> bestaat in het
+            goddelijk aanschijn te aanschouwen en in God alle goed te
+            genieten. (<a
+            href="#welk-is-de-meeste-blijdschap-van-de-hemel">V.
+            7.</a>)</p>
+            <p>A. Behalve het opperste goed zullen de Zaligen nog deze
+            <em>drie</em> goederen hebben:</p>
+            <p>1° <strong>Het schoon gezelschap van de Engelen:</strong>
+            het eerlijke en aangename verkeer met de Engelen, die alle
+            andere schepselen in volmaaktheid, schoonheid en waardigheid
+            overtreffen.</p>
+            <p>2° <strong>De gemeenschap van alle Heiligen:</strong> de
+            vereniging met de ontelbare menigte van de Heiligen
+            waaronder de H. Maagd, onze patronen, onze ouders, broeders,
+            zusters en nabestaanden die reeds in de hemel zijn.</p>
+            <p>3° <strong>Een blijde gedachtenis van de altijddurende
+            zalige eeuwigheid:</strong> de gelukkige en bijblijvende
+            zekerheid dat het bekomen geluk in zijn hele volheid eeuwig
+            zal duren. Die zekerheid draagt oneindig veel bij tot het
+            geluk van de Heiligen; zonder haar zou dit onvolmaakt wezen,
+            daar het gedacht of de enkele vrees van het te kunnen
+            verliezen, noodzakelijk onrust, angst en droefheid zou
+            veroorzaken.</p>
+            <p>Bij deze drie goederen mag nog gevoegd worden de vrijdom
+            van alle lijden, van alle pijn, van alle droefheid.</p>
+            <p>De <em>martelaars,</em> die de begeerlijkheid van de
+            aardse goederen volkomen overwonnen hebben met zelfs hun
+            leven op te offeren om God getrouw te blijven; de
+            <em>leraars,</em> die de duivel, de meester van de
+            leugentaal bestreden hebben, en de <em>maagden,</em> die de
+            volle zegepraal over de onzuivere wellusten hebben behaald,
+            zullen in de Hemel nog een bijzondere <em>bijgevoegde</em>
+            glorie genieten.</p>
+            <p>Wat de kennis betreft die de Zaligen vóór het Laatste
+            Oordeel nopens de wereld hebben, deze komt uit op een klaar
+            gedacht van de hele samenstelling daarvan, van de
+            verschillende soorten en klassen van de geschapene wezens,
+            ook van al de personen, de zaken en daden die met hen enig
+            betrek hebben, zoals van hun familie, hun vrienden, de
+            vruchten van hun goede werken, enz,</p>
+            <h1
+            id="welke-gaven-zullen-de-lichamen-van-de-zaligen-hebben">Welke
+            gaven zullen de lichamen van de Zaligen hebben?</h1>
+            <h2
+            id="ten-eerste-zij-zullen-blinken-boven-alle-klaarheid-ten-tweede-vlijtig-zijn-en-snel-boven-al-wat-licht-en-snel-is-ten-derde-subtiel-zodat-hen-niets-zal-kunnen-beletten-ten-vierde-en-ten-laatste-onsterfelijk-en-heel-onlijdelijk">Ten
+            eerste, zij zullen blinken boven alle klaarheid; ten tweede,
+            vlijtig zijn en snel boven al wat licht en snel is; ten
+            derde, subtiel, zodat hen niets zal kunnen beletten; ten
+            vierde en ten laatste, onsterfelijk en heel onlijdelijk</h2>
+            <p>V. Zie <a
+            href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ
+            les, 8ᵉ vr.</a></p>
+            <p>A. <strong>Ten eerste zij zullen blinken boven alle
+            klaarheid,</strong> of <em>klaar</em> en
+            <em>schoonblinkend</em> zijn (Zie <a
+            href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ
+            les, 8ᵉ vr.</a>)</p>
+            <p><strong>Ten tweede,</strong> zij zullen <strong>vlijtig
+            zijn en snel boven al wat licht en snel is,</strong> i.a.w.
+            <em>licht</em> zijn (Zie <a
+            href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ
+            les, 8ᵉ vr.</a>).</p>
+            <p><strong>Ten derde,</strong> zij zullen
+            <strong>subtiel</strong> zijn, (zie genoemde les en vraag),
+            <strong>zodat hen niets zal kunnen beletten,</strong> d. i,
+            zodat hun lichamen noch door honger, noch door dorst, noeh
+            door slaperigheid zullen belet worden van uit te voeren wat
+            de ziel wil, en dat zij ook, als het betamelijk zal wezen,
+            door andere stoffen niet belet zullen worden, zichergenste
+            begeven.</p>
+            <p><strong>Ten vierde en ten laatste, onsterfelijk en heel
+            onlijdelijk</strong> (Zie <a
+            href="les-14.html#hoedanig-zullen-de-lichamen-van-de-godvruchtige-of-heilige-mensen-in-de-verrijzenis-voorkomen">14ᵉ
+            les, 8ᵉ vr.</a>).</p>
+            <p>Buiten deze gaven zullen de lichamen van de Zaligen nog
+            een volmaakte voldoening genieten in al hun zintuigen, en in
+            het volle bezit zijn van de vernieuwde aarde, die door haar
+            schoonheid geheel aan de heerlijkheid van hun lichamen zal
+            beantwoorden.</p>
             <h3 id="vragen">VRAGEN</h3>
-            <p>Waarvan spreekt deze les? — Hoe is zij verdeeld? — Wat bevat ieder deel?</p>
+            <p>Waarvan spreekt deze les? — Hoe is zij verdeeld? — Wat
+            bevat ieder deel?</p>
             <ol type="1">
-            <li><p>Verklaar de vraag: <em>Welk is de beste middel om ons te verwekken tot haat van de zonden en begeerte van de deugden?</em> — Leg, met de Catechismus, welk werk daartoe de beste middel is. — Leg die woorden uit. — Zeg, met de Catechismus, hoe dit werk moet geschieden om daartoe de beste middel te zijn. — Verklaar deze woorden. — Geef de reden van geheel het antwoord.</p></li>
-            <li><p>Geef de zin van de vraag: <em>Hoeveel Uitersten van de mens zijn er?</em> — Welke zijn de uitersten van geheel het menselijk geslacht en van de wereld? — Zeg het getal van de Uitersten van de mens en noem ze. — Leg ze alle uit.</p></li>
-            <li><p>Welk is de zin van de vraag: <em>Wien komen de Vier Uitersten toe?</em> — Voor wie is, volgens de Catechismus, de Dood en het Oordeel? — Leg het antwoord uit. — Voor wie is, volgens de Catechismus, de Hel en de Hemel? — Geef er de uitlegging van.</p></li>
-            <li><p>Verklaar de vraag: <em>Wat is er van de dood te geloven?</em> — Hoeveel en welke dingen moeten wij, volgens de Catechismus, van de Dood geloven? — Leg ze uit, en geef er een kort bewijs van. — Waarom wil God dat het uur van de dood ons onbekend weze?</p></li>
-            <li><p>Wat betekent de vraag: <em>Wat zwarigheid heeft het Oordeel?</em> — Zeg hoevelerlei de zwarigheid is, die het Oordeel, volgens de Catechismus, heeft; en zeg welke het is. — Leg het antwoord uit.</p></li>
-            <li><p>Van welke verdoemden spreekt de Catechismus, als hij vraagt: <em>Wat zullen de verdoemde zielen lijden in de Hel?</em> — Hoeveel en welke pijnen zullen zij, volgens de Catechismus, lijden? — Bewijs dat het derven van het goddelijk aanschijn een onbegrijpelijke straf uitmaakt. — Waarin bestaat de knaging van de conscientie, die de verdoemden zullen lijden? — Verklaar hoe de verdoemden van allen troost zullen beroofd zijn. — Wat is er te verstaan door de brand van het pijnlijk en onblusbaar vuur, dat de verdoemden zullen lijden? — Hoe is de eeuwigheid van de Hel de meeste pijn van de verdoemden? — Bewijs dat de pijnen van de Hel eeuwig moeten zijn.</p></li>
-            <li><p>Verklaar de vraag: <em>Welke is de meeste blijdschap van de Hemel?</em> — In hoeveel en in welke zaken bestaat, volgens de Catechismus, de meeste blijdschap van de Hemel? — Leg ze uit.</p></li>
-            <li><p>Wat betekenen de woorden: <em>in glorie,</em> in de vraag: <em>Zullen ale Heiligen gelijk zijn in glorie?</em> — Zeg, of zij in glorie zullen gelijk zijn. — Wat zal elk, volgens de Catechismus, hebben? — Leg dit uit. — Geef er de reden van. — Zullen de Zaligen, om reden van het verschil in hun beloning, niet droevig zijn?</p></li>
-            <li><p>Geef de zin van de vraag: <em>Wat zullen de Zaligen, behalve het opperste goed, nog hebben?</em> — Hoeveel en welke goederen zullen zij, volgens de Catechismus, behalve het opperste goed, nog hebben? — Leg ze uit. — Welk goed mag bij deze, die de Catechismus noemt, nog gevoegd worden? — Voor wie zal er in de Hemel nog een bijzondere bijgevoegde glorie bestaan, en om welke reden? — Welke kennis zullen de Zaligen vóór het Laatste Oordeel hebben van deze wereld?</p></li>
-            <li><p>Noem de gaven van de lichamen van de Gelukzaligen. — Leg ze uit. — Wat betekent de Catechismus, als hij, van de subtiliteit sprekende zegt: zo dat hen niets zal kunnen beletten? — Wat geluk zullen die lichamen buiten deze gaven, nog genieten?</p></li>
+            <li><p>Verklaar de vraag: <em>Welk is de beste middel om ons
+            te verwekken tot haat van de zonden en begeerte van de
+            deugden?</em> — Leg, met de Catechismus, welk werk daartoe
+            de beste middel is. — Leg die woorden uit. — Zeg, met de
+            Catechismus, hoe dit werk moet geschieden om daartoe de
+            beste middel te zijn. — Verklaar deze woorden. — Geef de
+            reden van geheel het antwoord.</p></li>
+            <li><p>Geef de zin van de vraag: <em>Hoeveel Uitersten van
+            de mens zijn er?</em> — Welke zijn de uitersten van geheel
+            het menselijk geslacht en van de wereld? — Zeg het getal van
+            de Uitersten van de mens en noem ze. — Leg ze alle
+            uit.</p></li>
+            <li><p>Welk is de zin van de vraag: <em>Wien komen de Vier
+            Uitersten toe?</em> — Voor wie is, volgens de Catechismus,
+            de Dood en het Oordeel? — Leg het antwoord uit. — Voor wie
+            is, volgens de Catechismus, de Hel en de Hemel? — Geef er de
+            uitlegging van.</p></li>
+            <li><p>Verklaar de vraag: <em>Wat is er van de dood te
+            geloven?</em> — Hoeveel en welke dingen moeten wij, volgens
+            de Catechismus, van de Dood geloven? — Leg ze uit, en geef
+            er een kort bewijs van. — Waarom wil God dat het uur van de
+            dood ons onbekend weze?</p></li>
+            <li><p>Wat betekent de vraag: <em>Wat zwarigheid heeft het
+            Oordeel?</em> — Zeg hoevelerlei de zwarigheid is, die het
+            Oordeel, volgens de Catechismus, heeft; en zeg welke het is.
+            — Leg het antwoord uit.</p></li>
+            <li><p>Van welke verdoemden spreekt de Catechismus, als hij
+            vraagt: <em>Wat zullen de verdoemde zielen lijden in de
+            Hel?</em> — Hoeveel en welke pijnen zullen zij, volgens de
+            Catechismus, lijden? — Bewijs dat het derven van het
+            goddelijk aanschijn een onbegrijpelijke straf uitmaakt. —
+            Waarin bestaat de knaging van de conscientie, die de
+            verdoemden zullen lijden? — Verklaar hoe de verdoemden van
+            allen troost zullen beroofd zijn. — Wat is er te verstaan
+            door de brand van het pijnlijk en onblusbaar vuur, dat de
+            verdoemden zullen lijden? — Hoe is de eeuwigheid van de Hel
+            de meeste pijn van de verdoemden? — Bewijs dat de pijnen van
+            de Hel eeuwig moeten zijn.</p></li>
+            <li><p>Verklaar de vraag: <em>Welke is de meeste blijdschap
+            van de Hemel?</em> — In hoeveel en in welke zaken bestaat,
+            volgens de Catechismus, de meeste blijdschap van de Hemel? —
+            Leg ze uit.</p></li>
+            <li><p>Wat betekenen de woorden: <em>in glorie,</em> in de
+            vraag: <em>Zullen ale Heiligen gelijk zijn in glorie?</em> —
+            Zeg, of zij in glorie zullen gelijk zijn. — Wat zal elk,
+            volgens de Catechismus, hebben? — Leg dit uit. — Geef er de
+            reden van. — Zullen de Zaligen, om reden van het verschil in
+            hun beloning, niet droevig zijn?</p></li>
+            <li><p>Geef de zin van de vraag: <em>Wat zullen de Zaligen,
+            behalve het opperste goed, nog hebben?</em> — Hoeveel en
+            welke goederen zullen zij, volgens de Catechismus, behalve
+            het opperste goed, nog hebben? — Leg ze uit. — Welk goed mag
+            bij deze, die de Catechismus noemt, nog gevoegd worden? —
+            Voor wie zal er in de Hemel nog een bijzondere bijgevoegde
+            glorie bestaan, en om welke reden? — Welke kennis zullen de
+            Zaligen vóór het Laatste Oordeel hebben van deze
+            wereld?</p></li>
+            <li><p>Noem de gaven van de lichamen van de Gelukzaligen. —
+            Leg ze uit. — Wat betekent de Catechismus, als hij, van de
+            subtiliteit sprekende zegt: zo dat hen niets zal kunnen
+            beletten? — Wat geluk zullen die lichamen buiten deze gaven,
+            nog genieten?</p></li>
             </ol>
     </section>
   </article>
   <footer>
     
-    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="boek.html">BESTEL</a></p>
   </footer>
 </body>
 </html>

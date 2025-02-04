@@ -7,10 +7,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resources/tufte.css" />
@@ -44,7 +52,8 @@
             <table>
             <tr>
             <td rowspan="8">
-            <strong>Die geleden heeft onder Pontius Pilatus, is gekruisigd, gestorven en begraven</strong>
+            <strong>Die geleden heeft onder Pontius Pilatus, is
+            gekruisigd, gestorven en begraven</strong>
             </td>
             <td rowspan="8" class="accolade">
             </td>
@@ -52,7 +61,8 @@
             Christus’ lijden in ’t algemeen
             </td>
             <td>
-            <em><a href="#wat-heeft-christus-voor-ons-geleden">Wat heeft Christus voor ons geleden?</a></em>
+            <em><a href="#wat-heeft-christus-voor-ons-geleden">Wat heeft
+            Christus voor ons geleden?</a></em>
             </td>
             </tr>
             <tr>
@@ -62,27 +72,32 @@
             <td rowspan="5" class="accolade">
             </td>
             <td>
-            <em><a href="#wat-heeft-christus-verdragen-van-de-joden">Wat heeft Christus verdragen van de Joden?</a></em>
+            <em><a href="#wat-heeft-christus-verdragen-van-de-joden">Wat
+            heeft Christus verdragen van de Joden?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#wat-heeft-christus-verdragen-bij-pilatus">Wat heeft Christus verdragen bij Pilatus?</a></em>
+            <em><a href="#wat-heeft-christus-verdragen-bij-pilatus">Wat
+            heeft Christus verdragen bij Pilatus?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#hoe-is-christus-gekruisigd">Hoe is Christus gekruisigd?</a></em>
+            <em><a href="#hoe-is-christus-gekruisigd">Hoe is Christus
+            gekruisigd?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#hoe-is-christus-gestorven">Hoe is Christus gestorven?</a></em>
+            <em><a href="#hoe-is-christus-gestorven">Hoe is Christus
+            gestorven?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            <em><a href="#hoe-is-christus-begraven">Hoe is Christus begraven?</a></em>
+            <em><a href="#hoe-is-christus-begraven">Hoe is Christus
+            begraven?</a></em>
             </td>
             </tr>
             <tr>
@@ -90,7 +105,10 @@
             Reden van zijn lijden en dood
             </td>
             <td>
-            <em><a href="#waarom-heeft-christus-al-deze-pijnen-en-dood-willen-verdragen">Waarom heeft Christus al deze pijnen en dood willen verdragen?</a></em>
+            <em><a
+            href="#waarom-heeft-christus-al-deze-pijnen-en-dood-willen-verdragen">Waarom
+            heeft Christus al deze pijnen en dood willen
+            verdragen?</a></em>
             </td>
             </tr>
             <tr>
@@ -98,66 +116,318 @@
             Vrucht daarvan
             </td>
             <td>
-            <em><a href="#is-het-van-node-dat-wij-nog-lijden-aangezien-dat-christus-voor-ons-voldaan-heeft">Is het van node dat wij nog lijden, aangezien dat Christus voor ons voldaan heeft?</a></em>
+            <em><a
+            href="#is-het-van-node-dat-wij-nog-lijden-aangezien-dat-christus-voor-ons-voldaan-heeft">Is
+            het van node dat wij nog lijden, aangezien dat Christus voor
+            ons voldaan heeft?</a></em>
             </td>
             </tr>
             </table>
-            <h1 id="wat-heeft-christus-voor-ons-geleden">Wat heeft Christus voor ons geleden?</h1>
-            <h2 id="zijn-geheel-leven-lang-grote-armoede-en-verdriet-aan-ziel-en-lichaam-maar-op-de-dag-van-zijn-lijden-grote-pijnen-die-nooit-mens-verdragen-heeft">Zijn geheel leven lang grote armoede en verdriet aan ziel en lichaam; maar op de dag van zijn lijden grote pijnen, die nooit mens verdragen heeft</h2>
-            <p><span class="marginnote"> <img src="resources/0800a.jpg"> <img src="resources/0800b.jpg"> <img src="resources/0800c.jpg"> </span> A. Hier wordt in ’t kort voorgesteld, wat Christus voor ous geleden heeft 1° <strong>zijn geheel leven lang</strong> en 2° <strong>op de dag van zijn lijden</strong> dat zijn dood voorafging.</p>
-            <p>1° <em>Zijn geheel leven lang</em> <strong>grote armoede:</strong> in armoede is Hij te Bethleëm geboren, in armoede naar Egypte gevlucht, in armoede ook heeft Hij tot zijn dertigste jaar te Nazareth geleefd, en daarna gedurende drie jaar tot de ure van zijn dood gepredikt; in dit laatste tijdperk van zijn levens was Hij zelfs zo arm, dat Hij niets had waar Hij het hoofd kon nederleggen; — <strong>en verdriet:</strong> het aanschouwen van onze zonden die Hij op zich genomen had, zijn allergrootste liefde tot God door de zonden van de wereld zo schrikkelijk beleedigd, de ondankbaarheid van de mensen, de vervolgingen van de Joden en het bijblijvende gedacht van zijn toekomende dood op het kruis hebben Hem in het diepste verdriet gebracht: hierdoor heeft Hij geleden <strong>aan ziel,</strong> en door armoede <strong>aan lichaam.</strong></p>
-            <p>2° <em>Op de dag van zijn lijden</em> <strong>grote pijnen, die nooit mens verdragen heeft:</strong> de pijnen van Jezus op die dag overtroffen al de pijnen die ooit mens verdragen heeft a) in maat en hoeveelheid, want Jezus heeft <em>ten hevigste</em> geleden in <em>alles</em> waarin Hij kon lijden: in zijn ziel, in al de zinnen van zijn lichaams, in zijn eer en faam, in zijn vrienden, in alle goed dat de mens bezitten kan; b) door de indruk die zij op Hem maakten: de menselijke natuur van Jezus was volmaakter dan die van andere mensen, en derhalve ook gevoeliger; c) door de droefheid die zij in Hem veroorzaakten; ingezien zijn veel volmaaktere kennis van de boosheid van de zonde en van de ondankbaarheid van de wereld, alsook zijn veel volmaaktere liefde tot God, moesten de pijnen die Hij leed, en de zonden voor welke Hij voldeed, in Hem grotere droefheid verwekken dan ooit iemand gevoeld heeft.</p>
-            <p>Men bemerke wel, dat Jezus niet als God, maar alleen als mens geleden heeft.</p>
-            <h1 id="wat-heeft-christus-verdragen-van-de-joden">Wat heeft Christus verdragen van de Joden?</h1>
-            <h2 id="hij-is-van-hen-gevangen-ter-dood-verwezen-zeer-schandelijk-geslagen-vernederd-en-vernederd-en-aan-pilatus-de-rechter-overgeleverd">Hij is van hen gevangen, ter dood verwezen, zeer schandelijk geslagen, vernederd en vernederd, en aan Pilatus de rechter overgeleverd</h2>
-            <p>A. <strong>Hij is 1° van hen gevangen</strong> in de Olijfhof, door de tussenkomst van Judas, de verrader: dit geschiedde na het Laatste Avondmaal, de Donderdag avond, daags voor het Paasfeest van de Joden;</p>
-            <p>2° <strong>Ter dood verwezen</strong> door Caïphas, dit jaar, opperpriester. en, als zulke, ook de hoogste rechter;</p>
-            <p>3° <strong>Zeer schandelijk geslagen</strong> door een gerechtsdienaar die, wanneer Christus aan Caïphas antwoordde: « Ik heb openlijk tot de wereld gesproken, ondervraag hen die gehoord hebben, wat ik tot hen gesproken heb, » Hem een slag in het aangezicht toebracht: — <strong>vernederd:</strong> gedurende de nacht; toen het onderzoek bij Caïphas opgeschorst was, bonden Hem de dienstknechten een doek vóór de ogen en sloegen Hem, zeggende: « profeteer ons, Christus, wie is het die u geslagen heeft? » — <strong>vernederd:</strong> de dienstknechten vernederdteden Jezus met Hem, in dienzelfden nacht, in het aangezicht te spuwen, wat bij de Joden voor de ergste belediging gold;</p>
-            <p>4° <strong>En aan Pilatus de rechter overgeleverd:</strong> onder de Romeinse heerschappij, die toen op de Joden woog, mocht de opperpriester het joodse volk wel vonnissen, maar niet de doodstraf doen uitvoeren zonder de tussenkomst van de Romeinsen stedehouder, toen Pontius Pilatus; daarom werd Jezus, na de uitspraak van het doodvonnis bij Caïphas, aan Pilatus overgeleverd, opdat deze het vonnis zou bekrachtigen.</p>
-            <h1 id="wat-heeft-christus-verdragen-bij-pilatus">Wat heeft Christus verdragen bij Pilatus?</h1>
-            <h2 id="hij-is-valselijk-van-de-joden-beschuldigd-door-het-gebod-van-pilatus-vreselijk-gegeseld-door-de-moedwillige-soldaten-met-doornen-gekroond-en-van-pilatus-ter-dood-verwezen">Hij is valselijk van de Joden beschuldigd, door het gebod van Pilatus vreselijk gegeseld, door de moedwillige soldaten met doornen gekroond, en van Pilatus ter dood verwezen</h2>
-            <p>A. <strong>Hij is 1° valselijk van de Joden beschuldigd,</strong> namelijk, van het volk te verleiden, van te verbieden dat men de schattingen aan de keizer betaalde, en van te zeggen dat Hij koning was;</p>
-            <p>2° <strong>Door het gebod van Pilatus vreselijk gegeseld:</strong> geen schuld in Jezus vindende, dorst Pilatus hem niet ter dood veroordelen; maar, uit vrees van de Joden, Hem ook niet vrijspreken; daarom deed hij Hem geeselen, denkende even de Joden te bevredigen ;</p>
-            <p>3° <strong>Door de moedwillige soldaten met doornen gekroond:</strong> na de geeseling, zetteden de boze soldaten Hem een doornen kroon op het hoofd om met Hem als met een valse koning te spotten;</p>
-            <p>4° <strong>En van Pilatus ter dood verwezen:</strong> Pilatus gebruikte verscheidene middelen om de Joden tevreden te stellen, doeh gelukte daar niet in, Eindelijk, door de vrees overwonnen, leverde hij Jezus in hun handen om gekruisigd te worden, welke straf alleen voor de slaven en de grootste booswichten bestemd was.</p>
-            <h1 id="hoe-is-christus-gekruisigd">Hoe is Christus gekruisigd?</h1>
-            <h2 id="nadat-hij-zijn-eigen-kruis-gedragen-had-is-hij-aan-hetzelve-met-handen-en-voeten-genageld-waaraan-hij-ook-drie-uren-levend-is-blijven-hangen">Nadat Hij zijn eigen kruis gedragen had, is Hij aan hetzelve met handen en voeten genageld waaraan Hij ook drie uren levend is blijven hangen</h2>
-            <p>A. <strong>Nadat Hij zijn eigen kruis gedragen had:</strong> Jezus droeg zelf zijn kruis op de Calvarieberg, waar Hij gekruisigd werd; onderweg nochtans, toen Hij onder de last ging bezwijken, dwongen de Joden zekeren Simon van Cyrene, die daar voorbijging, Hem zijn kruis te helpen dragen; — <strong>is Hij aan hetzelve met handen en voeten genageld:</strong> naar alle waarschijnlijkheid, heeft men eerst het kruis geplant en er Jezus dan opgetrokken; — <strong>waaraan Hij ook drie uren levend is blijven hangen:</strong> de kruisiging greep plaats ’s Vrijdags, op het Paasfeest van de Joden. om twaalf uren. De H. Schrift verhaalt, dat Jezus, aan het kruis hangende, zevenmaal gesproken heeft.</p>
-            <h1 id="hoe-is-christus-gestorven">Hoe is Christus gestorven?</h1>
-            <h2 id="nadat-hij-het-al-voldaan-had-is-zijn-ziel-van-het-lichaam-gescheiden-zó-nochtans-dat-de-godheid-met-de-ziel-en-ook-met-het-lichaam-gebleven-is">Nadat Hij het al voldaan had, is zijn ziel van het lichaam gescheiden, zó nochtans dat de godheid met de ziel en ook met het lichaam gebleven is</h2>
-            <p>A. <strong>Nadat Hij het al voldaan had:</strong> nadat Hij volbracht had al hetgeen Hem door zijn hemelse Vader ter uitboeting van de zonden opgelegd, al hetgeen door de profeten nopens zijn leven en zijn dood geschreven, en al hetgeen door Hem zelf daarvan voorzeid was, <strong>is zijn ziel van het lichaam gescheiden, zó nochtans dat de godheid met de ziel en ook met het lichaam gebleven is;</strong> hier leren wij, wat de dood in Christus uitgewerkt heeft: <em>in zijn menselijke natuur</em> heeft zij de ziel van het lichaam gescheiden; <em>in zijn goddelijke natuur</em> heeft zij niets uitgewerkt, daar deze onveranderlijk is: ook <em>op de persoonlijke vereniging</em> van de goddelijke natuur, bestaande in God de Zoon, met de menselijke natuur van Christus, heeft zij geen uitwerksel gehad, want de godheid is gebleven met de ziel en ook met het lichaam; bijgevolg was Christus’ ziel en ook zijn lichaam, na de dood, de goddelijke eer en aanbidding waardig, vermits zij met de godheid persoonlijk vereenigd bleven.</p>
-            <p>Christus is aan zijn kruisiging bezweken, omdat Hij het uit vrije wil toeliet, en zich tot uitboeting van onze zonden wou slachtofferen. Had het Hem beliefd, Hij kon van zijn kruis komen en zich verlossen.</p>
-            <p>Bij Jezus’ dood deed God grote mirakelen om de godheid van de Verlosser en de waarheid van diens leer klaar te bevestigen: dikke duisternissen overdekten de aarde, de gordijn van de Tempel scheurde open, de aarde beefde en de steenrotsen barstten.</p>
-            <h1 id="hoe-is-christus-begraven">Hoe is Christus begraven?</h1>
-            <h2 id="tegen-de-avond-hebben-twee-eerwaardige-mannen-het-tichaam-van-het-kruis-afgedaan-en-dat-met-grote-eer-geleid-in-een-nieuw-stenen-graf">Tegen de avond hebben twee eerwaardige mannen het tichaam van het kruis afgedaan, en dat met grote eer geleid in een nieuw stenen graf</h2>
-            <p>A. <strong>Tegen de avond</strong> van de Vrijdag, ongetwijfeld vóór zes uren, want dan begon de Sabbat, waarop men volstrekt geen werk verrichten mocht, — <strong>hebben twee eerwaardige mannen,</strong> te weten, Jozef van Arimathea en Nicodemus, beiden raadsheeren van het Sanhedrin en geheime discipelen van Jezus, <strong>het lichaam van het kruis afgedaan:</strong> eer dat geschiedde, had een soldaat, die gekomen was om Jezus’ beenen te breken, en zo zijn dood te verhaasten, ziende dat de Zaligmaker gestorven was, diens zijde met een speer doorsteken, en er was bloed en water uit de wonde geloopen ; — <strong>en dat geleid met grote eer:</strong> met welriekende specerijen gewreven en in een fijnen doek gewonden, <strong>in een nieuw stenen graf:</strong> in een graf dat in de rots gekapt was, en nog voor niemand gediend had.</p>
-            <h1 id="waarom-heeft-christus-al-deze-pijnen-en-dood-willen-verdragen">Waarom heeft Christus al deze pijnen en dood willen verdragen?</h1>
-            <h2 id="om-ons-te-tonen-zijn-bijzondere-liefde-en-voorbeelden-te-geven-van-vele-deugden-hoewel-hij-met-kleine-arbeid-ons-had-kunnen-verlossen">Om ons te tonen zijn bijzondere liefde, en voorbeelden te geven van vele deugden, hoewel Hij met kleine arbeid ons had kunnen verlossen</h2>
+            <h1 id="wat-heeft-christus-voor-ons-geleden">Wat heeft
+            Christus voor ons geleden?</h1>
+            <h2
+            id="zijn-geheel-leven-lang-grote-armoede-en-verdriet-aan-ziel-en-lichaam-maar-op-de-dag-van-zijn-lijden-grote-pijnen-die-nooit-mens-verdragen-heeft">Zijn
+            geheel leven lang grote armoede en verdriet aan ziel en
+            lichaam; maar op de dag van zijn lijden grote pijnen, die
+            nooit mens verdragen heeft</h2>
+            <p><span class="marginnote"> <img src="resources/0800a.jpg">
+            <img src="resources/0800b.jpg">
+            <img src="resources/0800c.jpg"> </span> A. Hier wordt in ’t
+            kort voorgesteld, wat Christus voor ous geleden heeft 1°
+            <strong>zijn geheel leven lang</strong> en 2° <strong>op de
+            dag van zijn lijden</strong> dat zijn dood voorafging.</p>
+            <p>1° <em>Zijn geheel leven lang</em> <strong>grote
+            armoede:</strong> in armoede is Hij te Bethleëm geboren, in
+            armoede naar Egypte gevlucht, in armoede ook heeft Hij tot
+            zijn dertigste jaar te Nazareth geleefd, en daarna gedurende
+            drie jaar tot de ure van zijn dood gepredikt; in dit laatste
+            tijdperk van zijn levens was Hij zelfs zo arm, dat Hij niets
+            had waar Hij het hoofd kon nederleggen; — <strong>en
+            verdriet:</strong> het aanschouwen van onze zonden die Hij
+            op zich genomen had, zijn allergrootste liefde tot God door
+            de zonden van de wereld zo schrikkelijk beleedigd, de
+            ondankbaarheid van de mensen, de vervolgingen van de Joden
+            en het bijblijvende gedacht van zijn toekomende dood op het
+            kruis hebben Hem in het diepste verdriet gebracht: hierdoor
+            heeft Hij geleden <strong>aan ziel,</strong> en door armoede
+            <strong>aan lichaam.</strong></p>
+            <p>2° <em>Op de dag van zijn lijden</em> <strong>grote
+            pijnen, die nooit mens verdragen heeft:</strong> de pijnen
+            van Jezus op die dag overtroffen al de pijnen die ooit mens
+            verdragen heeft a) in maat en hoeveelheid, want Jezus heeft
+            <em>ten hevigste</em> geleden in <em>alles</em> waarin Hij
+            kon lijden: in zijn ziel, in al de zinnen van zijn lichaams,
+            in zijn eer en faam, in zijn vrienden, in alle goed dat de
+            mens bezitten kan; b) door de indruk die zij op Hem maakten:
+            de menselijke natuur van Jezus was volmaakter dan die van
+            andere mensen, en derhalve ook gevoeliger; c) door de
+            droefheid die zij in Hem veroorzaakten; ingezien zijn veel
+            volmaaktere kennis van de boosheid van de zonde en van de
+            ondankbaarheid van de wereld, alsook zijn veel volmaaktere
+            liefde tot God, moesten de pijnen die Hij leed, en de zonden
+            voor welke Hij voldeed, in Hem grotere droefheid verwekken
+            dan ooit iemand gevoeld heeft.</p>
+            <p>Men bemerke wel, dat Jezus niet als God, maar alleen als
+            mens geleden heeft.</p>
+            <h1 id="wat-heeft-christus-verdragen-van-de-joden">Wat heeft
+            Christus verdragen van de Joden?</h1>
+            <h2
+            id="hij-is-van-hen-gevangen-ter-dood-verwezen-zeer-schandelijk-geslagen-vernederd-en-vernederd-en-aan-pilatus-de-rechter-overgeleverd">Hij
+            is van hen gevangen, ter dood verwezen, zeer schandelijk
+            geslagen, vernederd en vernederd, en aan Pilatus de rechter
+            overgeleverd</h2>
+            <p>A. <strong>Hij is 1° van hen gevangen</strong> in de
+            Olijfhof, door de tussenkomst van Judas, de verrader: dit
+            geschiedde na het Laatste Avondmaal, de Donderdag avond,
+            daags voor het Paasfeest van de Joden;</p>
+            <p>2° <strong>Ter dood verwezen</strong> door Caïphas, dit
+            jaar, opperpriester. en, als zulke, ook de hoogste
+            rechter;</p>
+            <p>3° <strong>Zeer schandelijk geslagen</strong> door een
+            gerechtsdienaar die, wanneer Christus aan Caïphas
+            antwoordde: « Ik heb openlijk tot de wereld gesproken,
+            ondervraag hen die gehoord hebben, wat ik tot hen gesproken
+            heb, » Hem een slag in het aangezicht toebracht: —
+            <strong>vernederd:</strong> gedurende de nacht; toen het
+            onderzoek bij Caïphas opgeschorst was, bonden Hem de
+            dienstknechten een doek vóór de ogen en sloegen Hem,
+            zeggende: « profeteer ons, Christus, wie is het die u
+            geslagen heeft? » — <strong>vernederd:</strong> de
+            dienstknechten vernederdteden Jezus met Hem, in dienzelfden
+            nacht, in het aangezicht te spuwen, wat bij de Joden voor de
+            ergste belediging gold;</p>
+            <p>4° <strong>En aan Pilatus de rechter
+            overgeleverd:</strong> onder de Romeinse heerschappij, die
+            toen op de Joden woog, mocht de opperpriester het joodse
+            volk wel vonnissen, maar niet de doodstraf doen uitvoeren
+            zonder de tussenkomst van de Romeinsen stedehouder, toen
+            Pontius Pilatus; daarom werd Jezus, na de uitspraak van het
+            doodvonnis bij Caïphas, aan Pilatus overgeleverd, opdat deze
+            het vonnis zou bekrachtigen.</p>
+            <h1 id="wat-heeft-christus-verdragen-bij-pilatus">Wat heeft
+            Christus verdragen bij Pilatus?</h1>
+            <h2
+            id="hij-is-valselijk-van-de-joden-beschuldigd-door-het-gebod-van-pilatus-vreselijk-gegeseld-door-de-moedwillige-soldaten-met-doornen-gekroond-en-van-pilatus-ter-dood-verwezen">Hij
+            is valselijk van de Joden beschuldigd, door het gebod van
+            Pilatus vreselijk gegeseld, door de moedwillige soldaten met
+            doornen gekroond, en van Pilatus ter dood verwezen</h2>
+            <p>A. <strong>Hij is 1° valselijk van de Joden
+            beschuldigd,</strong> namelijk, van het volk te verleiden,
+            van te verbieden dat men de schattingen aan de keizer
+            betaalde, en van te zeggen dat Hij koning was;</p>
+            <p>2° <strong>Door het gebod van Pilatus vreselijk
+            gegeseld:</strong> geen schuld in Jezus vindende, dorst
+            Pilatus hem niet ter dood veroordelen; maar, uit vrees van
+            de Joden, Hem ook niet vrijspreken; daarom deed hij Hem
+            geeselen, denkende even de Joden te bevredigen ;</p>
+            <p>3° <strong>Door de moedwillige soldaten met doornen
+            gekroond:</strong> na de geeseling, zetteden de boze
+            soldaten Hem een doornen kroon op het hoofd om met Hem als
+            met een valse koning te spotten;</p>
+            <p>4° <strong>En van Pilatus ter dood verwezen:</strong>
+            Pilatus gebruikte verscheidene middelen om de Joden tevreden
+            te stellen, doeh gelukte daar niet in, Eindelijk, door de
+            vrees overwonnen, leverde hij Jezus in hun handen om
+            gekruisigd te worden, welke straf alleen voor de slaven en
+            de grootste booswichten bestemd was.</p>
+            <h1 id="hoe-is-christus-gekruisigd">Hoe is Christus
+            gekruisigd?</h1>
+            <h2
+            id="nadat-hij-zijn-eigen-kruis-gedragen-had-is-hij-aan-hetzelve-met-handen-en-voeten-genageld-waaraan-hij-ook-drie-uren-levend-is-blijven-hangen">Nadat
+            Hij zijn eigen kruis gedragen had, is Hij aan hetzelve met
+            handen en voeten genageld waaraan Hij ook drie uren levend
+            is blijven hangen</h2>
+            <p>A. <strong>Nadat Hij zijn eigen kruis gedragen
+            had:</strong> Jezus droeg zelf zijn kruis op de
+            Calvarieberg, waar Hij gekruisigd werd; onderweg nochtans,
+            toen Hij onder de last ging bezwijken, dwongen de Joden
+            zekeren Simon van Cyrene, die daar voorbijging, Hem zijn
+            kruis te helpen dragen; — <strong>is Hij aan hetzelve met
+            handen en voeten genageld:</strong> naar alle
+            waarschijnlijkheid, heeft men eerst het kruis geplant en er
+            Jezus dan opgetrokken; — <strong>waaraan Hij ook drie uren
+            levend is blijven hangen:</strong> de kruisiging greep
+            plaats ’s Vrijdags, op het Paasfeest van de Joden. om twaalf
+            uren. De H. Schrift verhaalt, dat Jezus, aan het kruis
+            hangende, zevenmaal gesproken heeft.</p>
+            <h1 id="hoe-is-christus-gestorven">Hoe is Christus
+            gestorven?</h1>
+            <h2
+            id="nadat-hij-het-al-voldaan-had-is-zijn-ziel-van-het-lichaam-gescheiden-zó-nochtans-dat-de-godheid-met-de-ziel-en-ook-met-het-lichaam-gebleven-is">Nadat
+            Hij het al voldaan had, is zijn ziel van het lichaam
+            gescheiden, zó nochtans dat de godheid met de ziel en ook
+            met het lichaam gebleven is</h2>
+            <p>A. <strong>Nadat Hij het al voldaan had:</strong> nadat
+            Hij volbracht had al hetgeen Hem door zijn hemelse Vader ter
+            uitboeting van de zonden opgelegd, al hetgeen door de
+            profeten nopens zijn leven en zijn dood geschreven, en al
+            hetgeen door Hem zelf daarvan voorzeid was, <strong>is zijn
+            ziel van het lichaam gescheiden, zó nochtans dat de godheid
+            met de ziel en ook met het lichaam gebleven is;</strong>
+            hier leren wij, wat de dood in Christus uitgewerkt heeft:
+            <em>in zijn menselijke natuur</em> heeft zij de ziel van het
+            lichaam gescheiden; <em>in zijn goddelijke natuur</em> heeft
+            zij niets uitgewerkt, daar deze onveranderlijk is: ook
+            <em>op de persoonlijke vereniging</em> van de goddelijke
+            natuur, bestaande in God de Zoon, met de menselijke natuur
+            van Christus, heeft zij geen uitwerksel gehad, want de
+            godheid is gebleven met de ziel en ook met het lichaam;
+            bijgevolg was Christus’ ziel en ook zijn lichaam, na de
+            dood, de goddelijke eer en aanbidding waardig, vermits zij
+            met de godheid persoonlijk vereenigd bleven.</p>
+            <p>Christus is aan zijn kruisiging bezweken, omdat Hij het
+            uit vrije wil toeliet, en zich tot uitboeting van onze
+            zonden wou slachtofferen. Had het Hem beliefd, Hij kon van
+            zijn kruis komen en zich verlossen.</p>
+            <p>Bij Jezus’ dood deed God grote mirakelen om de godheid
+            van de Verlosser en de waarheid van diens leer klaar te
+            bevestigen: dikke duisternissen overdekten de aarde, de
+            gordijn van de Tempel scheurde open, de aarde beefde en de
+            steenrotsen barstten.</p>
+            <h1 id="hoe-is-christus-begraven">Hoe is Christus
+            begraven?</h1>
+            <h2
+            id="tegen-de-avond-hebben-twee-eerwaardige-mannen-het-tichaam-van-het-kruis-afgedaan-en-dat-met-grote-eer-geleid-in-een-nieuw-stenen-graf">Tegen
+            de avond hebben twee eerwaardige mannen het tichaam van het
+            kruis afgedaan, en dat met grote eer geleid in een nieuw
+            stenen graf</h2>
+            <p>A. <strong>Tegen de avond</strong> van de Vrijdag,
+            ongetwijfeld vóór zes uren, want dan begon de Sabbat, waarop
+            men volstrekt geen werk verrichten mocht, — <strong>hebben
+            twee eerwaardige mannen,</strong> te weten, Jozef van
+            Arimathea en Nicodemus, beiden raadsheeren van het Sanhedrin
+            en geheime discipelen van Jezus, <strong>het lichaam van het
+            kruis afgedaan:</strong> eer dat geschiedde, had een
+            soldaat, die gekomen was om Jezus’ beenen te breken, en zo
+            zijn dood te verhaasten, ziende dat de Zaligmaker gestorven
+            was, diens zijde met een speer doorsteken, en er was bloed
+            en water uit de wonde geloopen ; — <strong>en dat geleid met
+            grote eer:</strong> met welriekende specerijen gewreven en
+            in een fijnen doek gewonden, <strong>in een nieuw stenen
+            graf:</strong> in een graf dat in de rots gekapt was, en nog
+            voor niemand gediend had.</p>
+            <h1
+            id="waarom-heeft-christus-al-deze-pijnen-en-dood-willen-verdragen">Waarom
+            heeft Christus al deze pijnen en dood willen verdragen?</h1>
+            <h2
+            id="om-ons-te-tonen-zijn-bijzondere-liefde-en-voorbeelden-te-geven-van-vele-deugden-hoewel-hij-met-kleine-arbeid-ons-had-kunnen-verlossen">Om
+            ons te tonen zijn bijzondere liefde, en voorbeelden te geven
+            van vele deugden, hoewel Hij met kleine arbeid ons had
+            kunnen verlossen</h2>
             <p>A. Hij heeft dat gedaan om <em>twee</em> redenen:</p>
-            <p>1° <strong>Om ons te tonen — zijn bijzondere liefde:</strong> zijn overgrote liefde jegens God en jegens ons; inderdaad, met op het voorstel van zijn hemelse Vader een zo bitter lijden aan te nemen, toonde Hij, op de klaarste wijze, dat Hij Hem de grootste liefde toedroeg, en met dat te onzen voordeele te aanvaarden, bewees Hij ook allerduidelijkst, dat Hij ons uit ganser harte beminde;</p>
-            <p>2° <strong>En voorbeelden te geven van vele deugden,</strong> zoals van liefde tot God en de evenmens, van gehoorzaamheid, boetvaardigheid, zachtmoedigheid en verduldigheid;</p>
-            <p><strong>Hoewel Hij ons met kleine arbeid had kunnen verlossen:</strong> hoewel Hij niet genoodzaakt was al die pijnen en dood aan te nemen om ons te verlossen, vermits Hij dat met het kleinste goed werk doen kon; immers, daar de waarde van een goed werk afhangt van de waardigheid van de persoon die het verricht, zo hadden de werken van Christus, de tweeden Persoon van de H. Drievuldigheid, hoe klein zij ook mochten wezen, een oneindige waarde; weshalve zij voldoende waren om de oneindige oneer, God door de zonde aangedaan, volkomen uit te boeten.</p>
-            <h1 id="is-het-van-node-dat-wij-nog-lijden-aangezien-dat-christus-voor-ons-voldaan-heeft">Is het van node dat wij nog lijden, aangezien dat Christus voor ons voldaan heeft?</h1>
-            <h2 id="ja-want-het-is-christus-wil-dat-wij-door-ons-lijden-van-zijn-verdiensten-deelachtig-worden">Ja, want het is Christus’ wil dat wij door ons lijden van zijn verdiensten deelachtig worden</h2>
-            <p>V. Is het nodig, dat wij nog boetvaardigheid en goede werken doen om onze zonden uit te boeten en de zaligheid te bekomen, aangezien dat Ohristus door zijn lijden voor onze zonden voldaan en ons de hemel geopend heeft?</p>
-            <p>A. <strong>Ja,</strong> wij moeten daarvoor nog lijden, <strong>want het is Christus’ wil, dat wij door ons lijden van zijn verdiensten deelachtig worden:</strong> de reden dus, waarom wij nog moeten lijden, is, dat Christus, die ons de vergiffenis van de zonden verdiend heeft, alsook de gratie om wel te leven en hiernamaals het eeuwig leven, <em>wil</em> en <em>vastgesteld heeft,</em> dat zijn verdiensten ons maar zouden toegepast worden, <em>als</em> en <em>voor zoveel</em> wij <em>lijden,</em> dat is, boetvaardigheid en goede werken doen.</p>
+            <p>1° <strong>Om ons te tonen — zijn bijzondere
+            liefde:</strong> zijn overgrote liefde jegens God en jegens
+            ons; inderdaad, met op het voorstel van zijn hemelse Vader
+            een zo bitter lijden aan te nemen, toonde Hij, op de
+            klaarste wijze, dat Hij Hem de grootste liefde toedroeg, en
+            met dat te onzen voordeele te aanvaarden, bewees Hij ook
+            allerduidelijkst, dat Hij ons uit ganser harte beminde;</p>
+            <p>2° <strong>En voorbeelden te geven van vele
+            deugden,</strong> zoals van liefde tot God en de evenmens,
+            van gehoorzaamheid, boetvaardigheid, zachtmoedigheid en
+            verduldigheid;</p>
+            <p><strong>Hoewel Hij ons met kleine arbeid had kunnen
+            verlossen:</strong> hoewel Hij niet genoodzaakt was al die
+            pijnen en dood aan te nemen om ons te verlossen, vermits Hij
+            dat met het kleinste goed werk doen kon; immers, daar de
+            waarde van een goed werk afhangt van de waardigheid van de
+            persoon die het verricht, zo hadden de werken van Christus,
+            de tweeden Persoon van de H. Drievuldigheid, hoe klein zij
+            ook mochten wezen, een oneindige waarde; weshalve zij
+            voldoende waren om de oneindige oneer, God door de zonde
+            aangedaan, volkomen uit te boeten.</p>
+            <h1
+            id="is-het-van-node-dat-wij-nog-lijden-aangezien-dat-christus-voor-ons-voldaan-heeft">Is
+            het van node dat wij nog lijden, aangezien dat Christus voor
+            ons voldaan heeft?</h1>
+            <h2
+            id="ja-want-het-is-christus-wil-dat-wij-door-ons-lijden-van-zijn-verdiensten-deelachtig-worden">Ja,
+            want het is Christus’ wil dat wij door ons lijden van zijn
+            verdiensten deelachtig worden</h2>
+            <p>V. Is het nodig, dat wij nog boetvaardigheid en goede
+            werken doen om onze zonden uit te boeten en de zaligheid te
+            bekomen, aangezien dat Ohristus door zijn lijden voor onze
+            zonden voldaan en ons de hemel geopend heeft?</p>
+            <p>A. <strong>Ja,</strong> wij moeten daarvoor nog lijden,
+            <strong>want het is Christus’ wil, dat wij door ons lijden
+            van zijn verdiensten deelachtig worden:</strong> de reden
+            dus, waarom wij nog moeten lijden, is, dat Christus, die ons
+            de vergiffenis van de zonden verdiend heeft, alsook de
+            gratie om wel te leven en hiernamaals het eeuwig leven,
+            <em>wil</em> en <em>vastgesteld heeft,</em> dat zijn
+            verdiensten ons maar zouden toegepast worden, <em>als</em>
+            en <em>voor zoveel</em> wij <em>lijden,</em> dat is,
+            boetvaardigheid en goede werken doen.</p>
             <h3 id="vragen.">VRAGEN.</h3>
-            <p>Welke woorden van het Symbolum worden hier uitgelegd? — Geef de hoofdverdeeling van deze les. — Zeg wat er over ieder van de hoofdpunten geleerd wordt.</p>
+            <p>Welke woorden van het Symbolum worden hier uitgelegd? —
+            Geef de hoofdverdeeling van deze les. — Zeg wat er over
+            ieder van de hoofdpunten geleerd wordt.</p>
             <ol type="1">
-            <li><p>Zeg, met de woorden van de Catechismus, wat Christus geleden heeft: 1° <em>geheel zijn leven lang</em> en 2° <em>op de dag van zijn lijden;</em> en leg de woorden <em>op de dag van zijn lijden</em> uit. — Bewijs dat Christus altijd in <em>armoede</em> en in <em>verdriet</em> geleefd heeft, — Hoe heeft Christus in zijn lijden meer verdragen dan ooit een mens geleden heeft? — In welke natuur heeft Christus geleden?</p></li>
-            <li><p>Waar, wanneer en door wiens verraderij is Christus <em>gevangen?</em> — Door wie is Hij eerst <em>ter dood verwezen?</em> — Door wie en te welker gelegenheid is Hij <em>schandelijk geslagen?</em> — Wanneer en hoe is Hij <em>bespot</em> en <em>vernederd</em> geweest? — Door wie, wanneer en waarom is Hij <em>aan Pilatus overgeleverd</em> geworden?</p></li>
-            <li><p>Waarvan werd Christus door de Joden <em>valselijk beschuldigd?</em> — Waarom werd Hij <em>door Pilatus vreselijk gegeseld?</em> — Door wie, wanneer en waarom werd Hij <em>met doornen gekroond?</em> — Door wie en om welke reden is Hij laatst <em>ter dood verwezen?</em> — Hoe groot was de straf van het kruis?</p></li>
-            <li><p>Waar is Christus gekruisigd en wie heeft zijn kruis gedragen? — Hoe is Hij aan het kruis gehecht geweest? — Op welken dag en op welke ure heeft de kruisiging plaats gehad? — Hoeveel maal heeft Jezus van op zijn kruis gesproken; en hoelang is Hij <em>levend aan het kruis blijven hangen?</em></p></li>
-            <li><p>Wat heeft Christus volbracht vóór zijn dood? — Wat heeft de dood teweeggebracht in Christus: a) in zijn menselijke natuur; b) in zijn goddelijke natuur; c) nopens de persoonlijke vereeniging zijner menselijke natuur met de godheid? — Welke eer waren Christus’ ziel en lichaam na de dood nog altijd waardig, en waarom? — Heeft Christus geleden en is Hij gestorven uit noodzakelijkheid, ofwel uit vrijen wil? — Welke mirakelen zijn er geschied bij de dood van Christus, en waarom?</p></li>
-            <li><p>Zeg, met de woorden van de Catechismus, wanneer en door wie Christus’ lichaam van het kruis is afgedaan geweest, en leg die woorden uit. — Wat is er aan Christus’ lichaam tussen zijn dood en de afdoening van het kruis geschied? — Hoe en waar is Christus, volgens het antwoord van de Catechismus, begraven; en wat moet er hier door de woorden van de Catechismus verstaan worden?</p></li>
-            <li><p>Heeft Christus de dood van het kruis geleden, omdat Hij anders het mensdom niet kon verlossen? — Bewijs het gegeven antwoord door de woorden van de Catechismus, en leg deze uit. — Om hoeveel en om welke redenen dan heeft Christus zoveel willen lijden? — Toon hoe Hij door zoveel te lijden zijn <em>bijzondere liefde</em> getoond heeft. — Verklaar van welke deugden Hij ons in zijn lijden en in zijn dood het voorbeeld gegeven heeft.</p></li>
-            <li><p>Welk is de zin van de laatste vraag: <em>Is het van node dat wij nog lijden aangezien dat Christus voor ons voldaan heeft?</em> — Is er op dit vraagstuk een ontkennend ofwel een bevestigend antwoord te geven? — Geef, met de woorden van de Catechismus, de reden van het gegeven antwoord, en verklaar deze woorden. — Welk middel hebben wij dan gedurig in onze handen om in Christus verdiensten deelachtig te worden?</p></li>
+            <li><p>Zeg, met de woorden van de Catechismus, wat Christus
+            geleden heeft: 1° <em>geheel zijn leven lang</em> en 2°
+            <em>op de dag van zijn lijden;</em> en leg de woorden <em>op
+            de dag van zijn lijden</em> uit. — Bewijs dat Christus
+            altijd in <em>armoede</em> en in <em>verdriet</em> geleefd
+            heeft, — Hoe heeft Christus in zijn lijden meer verdragen
+            dan ooit een mens geleden heeft? — In welke natuur heeft
+            Christus geleden?</p></li>
+            <li><p>Waar, wanneer en door wiens verraderij is Christus
+            <em>gevangen?</em> — Door wie is Hij eerst <em>ter dood
+            verwezen?</em> — Door wie en te welker gelegenheid is Hij
+            <em>schandelijk geslagen?</em> — Wanneer en hoe is Hij
+            <em>bespot</em> en <em>vernederd</em> geweest? — Door wie,
+            wanneer en waarom is Hij <em>aan Pilatus overgeleverd</em>
+            geworden?</p></li>
+            <li><p>Waarvan werd Christus door de Joden <em>valselijk
+            beschuldigd?</em> — Waarom werd Hij <em>door Pilatus
+            vreselijk gegeseld?</em> — Door wie, wanneer en waarom werd
+            Hij <em>met doornen gekroond?</em> — Door wie en om welke
+            reden is Hij laatst <em>ter dood verwezen?</em> — Hoe groot
+            was de straf van het kruis?</p></li>
+            <li><p>Waar is Christus gekruisigd en wie heeft zijn kruis
+            gedragen? — Hoe is Hij aan het kruis gehecht geweest? — Op
+            welken dag en op welke ure heeft de kruisiging plaats gehad?
+            — Hoeveel maal heeft Jezus van op zijn kruis gesproken; en
+            hoelang is Hij <em>levend aan het kruis blijven
+            hangen?</em></p></li>
+            <li><p>Wat heeft Christus volbracht vóór zijn dood? — Wat
+            heeft de dood teweeggebracht in Christus: a) in zijn
+            menselijke natuur; b) in zijn goddelijke natuur; c) nopens
+            de persoonlijke vereeniging zijner menselijke natuur met de
+            godheid? — Welke eer waren Christus’ ziel en lichaam na de
+            dood nog altijd waardig, en waarom? — Heeft Christus geleden
+            en is Hij gestorven uit noodzakelijkheid, ofwel uit vrijen
+            wil? — Welke mirakelen zijn er geschied bij de dood van
+            Christus, en waarom?</p></li>
+            <li><p>Zeg, met de woorden van de Catechismus, wanneer en
+            door wie Christus’ lichaam van het kruis is afgedaan
+            geweest, en leg die woorden uit. — Wat is er aan Christus’
+            lichaam tussen zijn dood en de afdoening van het kruis
+            geschied? — Hoe en waar is Christus, volgens het antwoord
+            van de Catechismus, begraven; en wat moet er hier door de
+            woorden van de Catechismus verstaan worden?</p></li>
+            <li><p>Heeft Christus de dood van het kruis geleden, omdat
+            Hij anders het mensdom niet kon verlossen? — Bewijs het
+            gegeven antwoord door de woorden van de Catechismus, en leg
+            deze uit. — Om hoeveel en om welke redenen dan heeft
+            Christus zoveel willen lijden? — Toon hoe Hij door zoveel te
+            lijden zijn <em>bijzondere liefde</em> getoond heeft. —
+            Verklaar van welke deugden Hij ons in zijn lijden en in zijn
+            dood het voorbeeld gegeven heeft.</p></li>
+            <li><p>Welk is de zin van de laatste vraag: <em>Is het van
+            node dat wij nog lijden aangezien dat Christus voor ons
+            voldaan heeft?</em> — Is er op dit vraagstuk een ontkennend
+            ofwel een bevestigend antwoord te geven? — Geef, met de
+            woorden van de Catechismus, de reden van het gegeven
+            antwoord, en verklaar deze woorden. — Welk middel hebben wij
+            dan gedurig in onze handen om in Christus verdiensten
+            deelachtig te worden?</p></li>
             </ol>
     </section>
   </article>
   <footer>
     <p class="bottom-line-1"><a href="les-09.html">NEGENDE LES. Van de Nederdaling ter helle, de Verrijzenis en de Hemelvaart van Christus</a></p>
-    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="boek.html">BESTEL</a></p>
   </footer>
 </body>
 </html>

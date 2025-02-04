@@ -7,10 +7,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resources/tufte.css" />
@@ -37,23 +45,35 @@
       <p class="top-line-2">van de</p>
       <p class="top-line-3">MECHELSE CATECHISMUS</p>
       <p class="top-line-4">ten gebruike van het middelbaar onderwijs</p>
-                        <h1 id="mechelse-catechismus">Mechelse Catechismus</h1>
-                        <p>Beknopte Verklaring van de Mechelse Catechismus ten gebruike van het Middelbaar Onderwijs</p>
+                        <h1 id="mechelse-catechismus">Mechelse
+                        Catechismus</h1>
+                        <p>Beknopte Verklaring van de Mechelse
+                        Catechismus ten gebruike van het Middelbaar
+                        Onderwijs</p>
                         <p>My toolstack:</p>
                         <ul>
-                        <li>vim with mkdx plugin for markdown editing</li>
+                        <li>vim with mkdx plugin for markdown
+                        editing</li>
                         <li>pandoc for converting markdown to html5</li>
-                        <li>wkhtmltopdf (with Qt patches: https://wkhtmltopdf.org/downloads.html) for generating pdf output, after assembling the content using awk</li>
-                        <li>Makefile for building the lot (inspired by https://github.com/eakbas/TSPW)</li>
-                        <li>tufte classless css theme (https://github.com/edwardtufte/tufte-css)</li>
-                        <li>tufte fonts (https://github.com/edwardtufte/et-book/tree/gh-pages/et-book)</li>
-                        <li>mcmilk sitemap.xml generator bash script, slightly adapted (https://github.com/mcmilk/sitemap-generator)</li>
+                        <li>wkhtmltopdf (with Qt patches:
+                        https://wkhtmltopdf.org/downloads.html) for
+                        generating pdf output, after assembling the
+                        content using awk</li>
+                        <li>Makefile for building the lot (inspired by
+                        https://github.com/eakbas/TSPW)</li>
+                        <li>tufte classless css theme
+                        (https://github.com/edwardtufte/tufte-css)</li>
+                        <li>tufte fonts
+                        (https://github.com/edwardtufte/et-book/tree/gh-pages/et-book)</li>
+                        <li>mcmilk sitemap.xml generator bash script,
+                        slightly adapted
+                        (https://github.com/mcmilk/sitemap-generator)</li>
                         </ul>
     </section>
   </article>
   <footer>
     
-    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="boek.html">BESTEL</a></p>
   </footer>
 </body>
 </html>

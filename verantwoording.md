@@ -5,8 +5,8 @@ title: Verantwoording bij de publicatie
 
 <table>
 <tr>
-  <td rowspan=12>**Waarom heb ik een oude catechismus heruitgegeven?**</td>
-  <td rowspan=12 class=accolade></td>
+  <td rowspan=13>**Waarom heb ik een oude catechismus heruitgegeven?**</td>
+  <td rowspan=13 class=accolade></td>
   <td rowspan=3 colspan=3>Het is een erfstuk van mijn grootvader</td>
   <td rowspan=3 class=accolade></td>
   <td>*[Een oud boek op zolder](#een-oud-boek-op-zolder)*</td>
@@ -18,8 +18,8 @@ title: Verantwoording bij de publicatie
   <td>*[Persoonlijke aantekeningen](#persoonlijke-aantekeningen)*</td>
 </tr>
 <tr>
-  <td rowspan= 9>Het is een onderdeel van onze levende geloofstraditie</td>
-  <td rowspan=9 class=accolade></td>
+  <td rowspan=10>Het is een onderdeel van onze levende geloofstraditie</td>
+  <td rowspan=10 class=accolade></td>
   <td rowspan=3>1623</td>
   <td rowspan=3 class=accolade></td>
   <td>*[De catechismus](#de-catechismus)*</td>
@@ -48,9 +48,12 @@ title: Verantwoording bij de publicatie
   <td>*[Dekkers](#dekkers)*</td>
 </tr>
 <tr>
-  <td rowspan=3>Vandaag</td>
-  <td rowspan=3 class=accolade></td>
+  <td rowspan=2>Vandaag</td>
+  <td rowspan=2 class=accolade></td>
   <td>*[Het belang van deze publicatie](#het-belang-van-deze-publicatie)*</td>
+</tr>
+<tr>
+  <td>*[Bestellen](#bestellen)*</td>
 </tr>
 </table>
 
@@ -155,6 +158,10 @@ De aantekeningen bevatten tientallen verwijzingen naar hoofdstukken uit een ande
   <em>Cyriel Houben, afgestudeerd aan de normaalschool van Sint-Niklaas in 1937</em>
 </span>
 Persoonlijke aantekeningen zijn er nauwelijks te vinden. Dat is wel jammer, want mijn grootvader stierf toen ik nog jong was, dus erg goed heb ik hem nooit gekend. Mijn moeder zegt 'dat hij niet graag op het internaat zat' (anecdote: zijn moeder kreeg tijdens zijn verblijf in Sint-Niklaas een derde kind --- eigenlijk zelfs een tweeling, maar één van de kinderen stierf kort na de geboorte --- waarmee hij bij zijn thuiskomst verrast werd). Misschien is dat te merken uit de aantekeningen bij de laatste lessen in 1937, die hij dateerde alsof hij aan het aftellen was. Op de [groepsfoto bij het afstuderen](https://www.andreasboel.be/normal/index.php/diplomajaren/onderwijzers/klas-1931-t-m-1940/306-klas-1937) is hij de enige die niet in de camera kijkt... Toch zou hij nog een mooie carrière afleggen als onderwijzer in de gemeentelijke jongensschool van Wommelgem, waar hij graag in het eerste studiejaar les gaf en sinds 1964 hoofdonderwijzer was tot aan zijn pensioen.
+
+# Bestellen
+
+De heruitgave van de *Mechelse Catechismus voor het middelbaar onderwijs* is ook [beschikbaar als PDF of in boekvorm](boek.html) (402 blz.).
 
 A. M. D. G.
 

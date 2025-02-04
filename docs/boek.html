@@ -7,10 +7,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resources/tufte.css" />
@@ -37,16 +45,26 @@
       <p class="top-line-2">van de</p>
       <p class="top-line-3">MECHELSE CATECHISMUS</p>
       <p class="top-line-4">ten gebruike van het middelbaar onderwijs</p>
-                  <h1 class="title">Kopen als boek of downloaden als PDF</h1>
-                  <p>De gedigitaliseerde versie van de <em>Mechelse Catechismus voor het middelbaar onderwijs</em> (Gent, 1923) kan je downloaden als PDF of bestellen als boek. Je betaalt enkel druk- en verzendingskosten.</p>
-                  <p><a href="mechelse-catechismus-1623.pdf">Downloaden als PDF</a></p>
-                  <p><a href="https://www.boekenbestellen.nl/boek/mechelse-catechismus-ten-gebruike-van-het-middelbaar-onderwijs">Bestellen als boek (A4, 398 blz.)</a></p>
-                  <p>Ter illustratie leg ik hier ook een link naar de <a href="https://www.dbnl.org/tekst/lamb113bekn03_01/">ingescande versie van het originele boek</a>, op de Digitale Bibliotheek van de Nederlandse Letteren (DBNL).</p>
+                  <h1 class="title">Kopen als boek of downloaden als
+PDF</h1>
+                  <p>De gedigitaliseerde versie van de <em>Mechelse
+                  Catechismus voor het middelbaar onderwijs</em> (Gent,
+                  1923) kan je downloaden als PDF of bestellen als boek.
+                  Je betaalt enkel druk- en verzendingskosten.</p>
+                  <p><a href="mechelse-catechismus-1623.pdf">Downloaden
+                  als PDF</a></p>
+                  <p><a
+                  href="https://www.boekenbestellen.nl/boek/mechelse-catechismus-ten-gebruike-van-het-middelbaar-onderwijs">Bestellen
+                  als boek (A4, 398 blz.)</a></p>
+                  <p>Ter illustratie leg ik hier ook een link naar de <a
+                  href="https://www.dbnl.org/tekst/lamb113bekn03_01/">ingescande
+                  versie van het originele boek</a>, op de Digitale
+                  Bibliotheek van de Nederlandse Letteren (DBNL).</p>
     </section>
   </article>
   <footer>
     
-    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="boek.html">BESTEL</a></p>
   </footer>
 </body>
 </html>

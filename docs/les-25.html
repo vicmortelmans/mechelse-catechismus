@@ -7,10 +7,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resources/tufte.css" />
@@ -40,7 +48,8 @@
             <p class="part">DERDE DEEL</p>
       <p class="part">–</p>
                   <h1 class="title">VIJF EN TWINTIGSTE LES</h1>
-                  <p class="subtitle">Van het Vijfde, Zesde en Negende Gebod</p>
+                  <p class="subtitle">Van het Vijfde, Zesde en Negende
+Gebod</p>
             <table>
             <tr>
             <td rowspan="3">
@@ -52,7 +61,8 @@
             Wat dit Gebod verbiedt
             </td>
             <td colspan="3">
-            <em><a href="#wat-verbiedt-het-vijfde-gebod">Wat verbiedt het Vijfde Gebod?</a></em>
+            <em><a href="#wat-verbiedt-het-vijfde-gebod">Wat verbiedt
+            het Vijfde Gebod?</a></em>
             </td>
             </tr>
             <tr>
@@ -60,18 +70,27 @@
             Wie ertegen zondigen
             </td>
             <td colspan="2">
-            <em><a href="#misdoen-zij-allen-tegen-het-vijfde-gebod-die-metterdaad-iemand-hinderen">Misdoen zij allen tegen het Vijfde Gebod, die metterdaad iemand hinderen?</a></em>
+            <em><a
+            href="#misdoen-zij-allen-tegen-het-vijfde-gebod-die-metterdaad-iemand-hinderen">Misdoen
+            zij allen tegen het Vijfde Gebod, die metterdaad iemand
+            hinderen?</a></em>
             </td>
             <td>
-            <em><a href="#wat-leert-ons-christus-te-doen-aan-onze-vijanden">Wat leert ons Christus te doen aan onze vijanden?</a></em>
+            <em><a
+            href="#wat-leert-ons-christus-te-doen-aan-onze-vijanden">Wat
+            leert ons Christus te doen aan onze vijanden?</a></em>
             </td>
             </tr>
             <tr>
             <td>
-            Het slaan van een bijzondere klasse personen, namelijk de geestelijken
+            Het slaan van een bijzondere klasse personen, namelijk de
+            geestelijken
             </td>
             <td colspan="3">
-            <em><a href="#is-het-meerder-kwaad-geestelijke-personen-te-slaan-of-te-kwetsen-dan-wereldlijke">Is het meerder kwaad geestelijke personen te slaan of te kwetsen dan wereldlijke?</a></em>
+            <em><a
+            href="#is-het-meerder-kwaad-geestelijke-personen-te-slaan-of-te-kwetsen-dan-wereldlijke">Is
+            het meerder kwaad geestelijke personen te slaan of te
+            kwetsen dan wereldlijke?</a></em>
             </td>
             </tr>
             <tr>
@@ -84,13 +103,15 @@
             Wat dit Gebod verbiedt
             </td>
             <td>
-            <em><a href="#wat-verbiedt-het-zesde-gebod">Wat verbiedt het Zesde Gebod?</a></em>
+            <em><a href="#wat-verbiedt-het-zesde-gebod">Wat verbiedt het
+            Zesde Gebod?</a></em>
             </td>
             <td>
             Middelen tegen de onkuisheid
             </td>
             <td>
-            <em><a href="#wat-middel-is-er-tegen-de-onkuisheid">Wat middel is er tegen de onkuisheid?</a></em>
+            <em><a href="#wat-middel-is-er-tegen-de-onkuisheid">Wat
+            middel is er tegen de onkuisheid?</a></em>
             </td>
             </tr>
             <tr>
@@ -103,86 +124,551 @@
             Wie tegen dit Gebod zondigen
             </td>
             <td>
-            <em><a href="#wie-misdoen-tegen-het-negende-gebod">Wie misdoen tegen het Negende Gebod?</a></em>
+            <em><a href="#wie-misdoen-tegen-het-negende-gebod">Wie
+            misdoen tegen het Negende Gebod?</a></em>
             </td>
             <td>
             Manier van de zonden van onkuisheid te biechten
             </td>
             <td>
-            <em><a href="#die-enige-onzuiverheid-gedaan-heeft-hoe-moet-hij-dat-biechten">Die enige onzuiverheid gedaan heeft, hoe moet hij dat biechten?</a></em>
+            <em><a
+            href="#die-enige-onzuiverheid-gedaan-heeft-hoe-moet-hij-dat-biechten">Die
+            enige onzuiverheid gedaan heeft, hoe moet hij dat
+            biechten?</a></em>
             </td>
             </tr>
             </table>
-            <h1 id="wat-verbiedt-het-vijfde-gebod">Wat verbiedt het Vijfde Gebod?</h1>
-            <h2 id="zich-zelf-of-enige-andere-mensen-zonder-wettige-macht-en-reden-dood-te-slaan-te-kwetsen-merkelijk-te-hinderen-of-daartoe-raad-of-hulp-te-geven.">Zich zelf of enige andere mensen, zonder wettige macht en reden, dood te slaan, te kwetsen, merkelijk te hinderen of daartoe raad of hulp te geven.</h2>
-            <p><span class="marginnote"> <img src="resources/2501a.jpg"> <em>PLAN<br/>Met wil of met werk sla nieman dood<br/>Door dit gebod wordt verboden: aan leven of gezondheid, zowel natuurlijk als bovennatuurlijk, zowel van de naaste als van onszelf, A) schade toe te brengen: 1) rechtstreeks: zelf metterdaad doden, zelfmoord, kwetsen, merkelijk kinderen, 2) onrechtstreeks: door raad of hulp, door ergernis, B) schade te <em>willen</em> toebrengen: uitgedrukt in vermaldedijding of verwensing, besloten in gramschap, haat of nijd.<br/>NOTA: voor het natuurlijk leven is dit verbod niet toepasselijk waar men [onder]steund is met wettige reden en bekleed met waar gezag: doodstraf, zelfverdediging, oorlog. Door dit gebod wordt bevolen dat wij hoeven te voorzien: A) voor ons eigen: 1) natuurlijk leven: lichaam en ziel in de mate door onze christelijke beschaving bepaald, 2) bovennatuurlijk leven: staat van genade en recht op de hemel zorgvuldig: beschermen, terugnemen, volmaken.</em> <img src="resources/2501b.jpg"> <em>B) Voor ’s naasten: 1) natuurlijk leven: lichamelijke werken van barmhartigheid, 2) bovennatuurlijk leven: geestelijke werken van barmhartigheid. <br/>NOTA: dit gebod geldt op bijzondere wijze voor onze vijanden.<br/>Mag een dokter bij een hopeloos geval het leven verkorten (euthanasie = zachte dood)? Neen, 1) gij zult niet doden: God alleen is meester over het leven; 2) wat is een hopeloos geval? — dikwijls vindt de wetenschap nog hulpmiddelen waar alles verloren scheen, wij mogen ook geen bovennatuurlijke tussenkomst verachten, dit toelaten waar een heel gevaarlijk princiep, 3) moest hij het zelf gevraagd hebben? — hij ook is niet meester over zijn eigen leven, 4) en voor en Christen is het lijden een grote uitboeting.</em> </span> A. Het Vijfde Gehod verbiedt dus 1° <strong>zichzelf dood te slaan, te kwetsen, of merkelijk te hinderen;</strong> 2° <strong>andere mensen</strong> dood te slaan, te kwetsen of merkelijk te hinderen; 3° <strong>daartoe raad of hulp te geven;</strong> — als dit geschiedt <strong>zonder wettige macht en reden.</strong></p>
-            <p>De woorden: <strong>zichzelf of enige andere mensen</strong> duiden het goed aan, dat het Vijfde Gebod ons doet eerbiedigen, te weten, het leven, de gezondheid van de mens. De dieren mogen wij doden, daar zij volgens Gods beschikking, tot ons gebruik bestemd zijn; de mens echter is het hoofdwerk van de aardse schepping en daarom heeft God alleen de macht over het menselijk leven.</p>
-            <p><strong>Doodslaan</strong> betekent hier iemand op de een of de andere wijze het leven ontnemen; — <strong>kwetsen,</strong> iemand een wonde toebrengen, of van een lidmaat of van het gebruik daarvan beroven; — <strong>merkelijk hinderen,</strong> iemand in zijn persoon of in zijn rust een ware schade veroorzaken met hem b.v. ongezonde spijzen te geven, vrees aan te jagen, droefheid aan te doen, enz.</p>
-            <p>Zich zelf of andere mensen dood te slaan, te kwetsen of me: kelijk te hinderen, is toeh niet volstrekt in alle omstandigheden verboden: om verboden te zijn moet het geschieden <strong>zonder wettige machten reden:</strong> zonder dat men daartoe wezenlijk van God gemachtigd is en een voldoende reden heeft om die macht te gebruiken. Daartoe hebben voorzeker macht en reden de landoversten die, om de orde in de samenleving te handhaven, de doodstraf tegen enige grote misdadigers doen uitspreken; — de soldaten die in een rechtvaardigen oorlog vechten; — degenen die hun aanvaller doden, omdat zij geen ander middel hebben om er hun leven tegen te verdedigen.</p>
-            <p>Als bovengenoemde werken verboden zijn, dan is het ook verboden <strong>daartoe raad of hulp te geven,</strong> aangezien men ze op die wijze samen met anderen verricht. Men geeft <strong>raad</strong> tot een werk, met dit te bevelen, te prijzen, goed te keuren of er toe op te wekken; men geeft daar <strong>hulp</strong> toe, me middelen of onderstand te verschaffen om het te verrichten, alsook met dat niet te beletten, als men het beletten kan, en daartoe uit rechtvaardigheid verplicht is.</p>
-            <p>Het Vijfde Gebod raakt niet enkel het <em>lichamelijk,</em> maar ook het <em>bovennatuurlijk</em> leven, dat in de heiligmakende genade bestaat. Dit bovennatuurlijk leven wordt verloren door de doodzonde en gekrenkt door de dagelijkse zonde, en zo strijden alle zonden op een algemene wijze tegen het Vijfde Gebod; iedere doodzonde is een zelfmoord; iedere dagelijkse zonde, een zelfverhindering in het bovennatuurlijk leven. Hier echter valt op te merken dat, door de zonde, elkeen enkel <em>zichzelf</em> en niet <em>enige andere mensen</em> kan treffen, tenzij met daartoe <em>raad of hulp</em> of ten minste gelegenheid te verschaffen, of i.a.w. met <em>ergernis</em> of <em>schandaal</em> te geven.</p>
-            <p>De ergernis bestaat eigenlijk in een <em>woord, werk of verzuimenis, die minder goed is, en een ander tot val brengt,</em> — Dus is niet vereist dat hetgeen men doet uit zichzelf zonde zij; het is genoeg dat het minder goed weze, omdat het de naaste tot zonde leidt.</p>
-            <p>Ten aanzien 1° van het ergernis gevend werk zelf geschiedt de ergernis of a) met de naaste rechtstreeks tot zonde te verleiden, of b) met hem uitsluitend de gelegenheid te geven van te zondigen. — 2° Wegens het inzicht van dengene die ergernis geeft, geschiedt zij <em>met</em> of <em>zonder opzet:</em> — a) <em>met opzet,</em> als men iets doet of zegt met het bepaald inzicht van de naaste tot zonde te brengen; b) <em>zonder opzet,</em> als men, om enige andere reden, iets doet of zegt, dat de naaste gelegenheid of aanleiding tot zonde geeft.</p>
-            <p>Nooit mag men de naaste rechtstreeks tot zonde bekoren, noch hem gelegenheid geven van te zondigen, met het inzicht van hem tot zonde te brengen; zelfs mag men hem, zonder dat inzicht geen gelegenheid van zonde geven, tenware men daartoe genoegzame reden hadde. — Wij hebben daartoe een genoegzame reden, 1° als de naaste in ons werk, woord of verzuimenis slechts uit boosheid een gelegenheid van zonde vindt; 2° als hetgene wij doen, ons op zonde is opgelegd; 3° als wij, met een werk te laten, een aanzichtbaare schade zouden lijden.</p>
-            <h1 id="misdoen-zij-allen-tegen-het-vijfde-gebod-die-metterdaad-iemand-hinderen">Misdoen zij allen tegen het Vijfde Gebod, die metterdaad iemand hinderen?</h1>
-            <h2 id="jaook-degenen-die-iemand-vermaledijden-kwaad-wensen-gramschap-of-haat-en-nijd-in-het-hart-dragen">Ja,ook degenen die iemand vermaledijden, kwaad wensen, gramschap of haat en nijd in het hart dragen</h2>
-            <p>V. De zin van de vraag is: misdoen tegen het Vijfde gebod al degenen die niet uitsluitend met de wil, met de begeerte, maar metterdaad zichzelf of andere mensen zonder wettige macht en reden doodslaan, kwetsen of merkelijk hinderen, of daartoe raad en hulp geven, en zijn het deze alleen?</p>
-            <p>A. <strong>Ja,</strong> deze allen misdoen tegen dit Gebod; doch niet zij alleen; daartegen misdoen ook nog <strong>degenen die iemand vermaledijden, kwaad wensen, gramschap of haat en nijd in het hart dragen.</strong></p>
-            <p><strong>Vermaledijden,</strong> d.i. iemand kwaad wensen voor zoveel het voor hem kwaad is, God of de duivel smekende dat die wens zou volbracht worden.</p>
-            <p><strong>Kwaad wensen,</strong> d.i. enkel begeren dat aan iemand kwaad overkome, voor zoveel het voor hem kwaad is, zonder daarbij God of de duivel te smeken dat die wens vervuld worde.</p>
-            <p><strong>Gramschap,</strong> d.i. een begeerte van wraak te nemen die ongeregeld is, ’t zij omdat men geen macht heeft om een misdaad te straffen, of wil straffen zonder reden, of te veel wil straffen, of wil straffen niet met een goed, maar met een slecht inzicht; ’t zij, omdat men door die begeerte op een onbehoorlijke wijze ontsteld is. (Zie <a href="les-38.html#hoeveel-hoofdzonden-zijn-er">38ᵉ les, v. 7.</a>)</p>
-            <p><strong>Haat,</strong> d.i. de boze wil waardoor men iemand kwaad wil, ’t zij opdat hij ongelukkig weze, of omdat wij hem aanzien als kwaadwillig jegens ons, en diensvolgens hem verfoeien.</p>
-            <p><strong>Nijd,</strong> d.i. een ongeregelde droefheid over het geluk en goed van de naaste, voortkomende uit het gedacht dat zijn geluk ons geluk vermindert.</p>
-            <p>Al deze zonden strijden tegen het Vijfde Gebod, aangezien zij alle, — uitgenomen die gramschap welke slechts zonde is uit hoofde van de te grote ontsteltenis, — de begeerte insluiten van iemand zonder wettige macht en reden te hinderen in zijn leven, of, ten minste, in zijn rust en geluk, met hem droefheid aan te doen; en aangezien de gramschap, zooeven uìtgezonderd, rechtstreeks aanleiding geeft om deze zonde te bedrijven, en onze eigen rust alsmede die van de naaste stoort. — Aan nijd maakte zich schuldig Caïn jegens Abel, en Saül jegens David.</p>
-            <h1 id="wat-leert-ons-christus-te-doen-aan-onze-vijanden">Wat leert ons Christus te doen aan onze vijanden?</h1>
-            <h2 id="hij-leert-ons-alle-ongelijk-te-vergeven-voor-onze-vijanden-te-bidden-en-ook-het-kwaad-met-goed-te-loonen">Hij leert ons alle ongelijk te vergeven, voor onze vijanden te bidden, en ook het kwaad met goed te loonen</h2>
-            <p><span class="marginnote"> <img src="resources/2503a.jpg"> <em>Ten opzicht van onze vijanden.<br/>1ᵉ Wordt op zonde verboden: a) hun kwaad te willen, uit wraak hun te misdoen, b) ze buiten onze gebeden te sluiten, c) hun de gewone tekens van liefde te weigeren.<br/>2ᵉ Wordt als volmaaktheid geprezen: a) hun bijzondere tekens van liefde te geven, b) bijzonder voor hen te bidden. <br/>3ᵉ Wordt toegelaten en soms verplichtend: a) uit gerechtigheid straf te eisen, b) in hun belang, dat de maatschappi of ons belang, schadeherstelling.<br/>Iedereen moet in zijn eigen leven streven naar een volmaakte naastenliefde, zelfs naar liefde voor diegenen die ons hebben tekortgedaan. Dit is misschien het meest lastige voorschrift van de Meester. Trouwens Hij heeft tot zelfs ons gebeden in die zin geplaatst: vergeef ons onze schulden, gelijk wij vergeven onze schuldenaren. <br/>Banden kerk-geestelijken<br/>1ᵉ De belediging of het geweld aangedaan moet zwaar zijn. 2ᵉ De belediger moet weten dat diegene die hij aanrandt een geestelijke is. 3ᵉ De mishandeling moet gewild zijn. 4ᵉ Men moet weten dat de straf erop staat.</em> </span> V. De Catechismus stelt hier deze vraag, omdat wij tegen het Vijfde Gebod meest zondigen in onze betrekkingen met Onze vijanden, d.i. met degenen die ons kwaad doen, of ten minste kwaad willen.</p>
-            <p>A. Christus heeft ons geleerd voor onze vijanden <em>drie</em> dingen te doen:</p>
-            <p>1° <strong>Alle ongelijk te vergeven:</strong> alle kwaad dat zij doen, zó kwijt te schelden, dat wij hun daarom geen kwaad tot hun ongeluk willen. Doch wij mogen wel schadeherstelling eisen, en vragen dat de misdadiger tot rust van de samenleving en tot zijn eigen. goed door de bevoegde overheid gestraft worde. — Wij moeten vooral <em>inwendig</em> vergeven, maar dit ook <em>uitwendig</em> tonen, namelijk met hoegenaamd geen afkeer, haat of wraakzucht te laten blijken.</p>
-            <p>2° <strong>Voor onze vijanden te bidden:</strong> hen uit die gebeden, waarin wij voor alle mensen bidden, niet te sluiten, en ook nog bijzondere gebeden voor hen te storten.</p>
-            <p>3° <strong>Ook het kwaad met goed te loonen:</strong> hun die liefdeblijken te geven, die wij aan alle mensen verschuldigd zijn, en hun ook nog bijzondere liefdediensten te bewijzen.</p>
-            <p>Wij zijn <em>op zonde verplicht</em> alle ongelijk op de gezegde wijze te vergeven, onze vijanden uit die gebeden, waarin wij voor alle mensen bidden, niet te sluiten, en hun de gewone liefdebetuigingen niet te weigeren; — voor hen bijzondere gebeden te doen en hun bijzondere liefdeblijken te geven, is wel niet geboden, maar toch allergeraadzaamst.</p>
-            <p>Allerschoonste voorbeelden hiervan vinden wij in Jezus Christus die, aan het kruis hangende, voor zijn beulen heeft gebeden, en die voor ons allen, zondaars en ondankbare mensen, de dood heeft willen lijden; — in Stephanus, die ook gebeden heeft voor degenen die hem stenigden, — en in Jozef, die aan zijn broeders, door wie hij in een put geworpen en daarna aan Ismaëlieten verkocht geweest was, de uitstekendste liefde betuigd en de grootste diensten bewezen heeft.</p>
-            <h1 id="is-het-meerder-kwaad-geestelijke-personen-te-slaan-of-te-kwetsen-dan-wereldlijke">Is het meerder kwaad geestelijke personen te slaan of te kwetsen dan wereldlijke?</h1>
-            <h2 id="ja-want-boven-de-zonde-vallen-deze-slagers-in-de-ban-van-de-h.-kerk">Ja, want boven de zonde vallen deze slagers in de ban van de H. Kerk</h2>
-            <p>V. Hoe waardiger de persoon die men mishandelt, hoe groter de zonde die men bedrijft, en daarom vraagt hier de Catechismus, of het <strong>meerder kwaad</strong> (groter zonde) <strong>is geestelijke personen te slaan of te kwetsen dan wereldlijke.</strong> — Door geestelijke personen verstaat men al degenen die in de HH. Orden zijn, al degenen die de kleine orden of enkel de kruin ontvangen hebben, zo zij nochtans de geestelijke kleren dragen; ook al de religieuzen. Deze worden allen <em>geestelijke</em> personen genoemd, omdat zij God en de geestelijke zaken bijzonder zijn toegewijd. A. <strong>Ja,</strong> het is een meerder kwaad, <strong>want boven de zonde vallen deze slagers in de ban van de H. Kerk:</strong> d.i. want de slagers maken zich niet alleen schuldig aan een zonde tegen het Vijfde Gebod, maar worden ook nog, tot straf van hun misdaad, beroofd van de gemeenschap van de Heiligen (<a href="les-13.html">13ᵉ les</a>). — Uit deze bijzondere straf blijkt heel klaar, dat er in die zonde een bijzondere boosheid gelegen is; daarenboven, met in weerwil van die straf een geestelijken persoon te slaan, maakt men zich nog schuldig aan een zonde tegen de gehoorzaamheid jegens de H. Kerk en tegen de liefde jegens zichzelf.</p>
-            <h1 id="wat-verbiedt-het-zesde-gebod">Wat verbiedt het Zesde Gebod?</h1>
-            <h2 id="overspel-onkuisheid-en-alle-oneerlijke-aanrakingen-in-wat-manier-en-onder-welke-personen-deze-mochten-geschieden-ja-ook-oneerlijke-woorden-zangen-en-gebruik-van-onzuivere-boeken-en-beelden">Overspel, onkuisheid en alle oneerlijke aanrakingen, in wat manier en onder welke personen deze mochten geschieden; ja ook oneerlijke woorden, zangen, en gebruik van onzuivere boeken en beelden</h2>
-            <p><span class="marginnote"> <img src="resources/2505a.jpg"> <em>1) De onderwijzer moet altijd voorzichtig zijn en kies in ’t geven van deze lessen. 2) De uitdrukkingen die hij gebruiken zal mogen het geweten niet misvormen. Dus de beste uitdrukking voor het 6ᵉ en 9ᵉ gebod is <em>onkuis</em>, <em>onkuisheid</em>. 3) Geen vragen dulden in de klas. 4) Wat vooral het werk van de opvoeder uitmaakt, is de kinderen vormen tot kuisheid. Dus positief werk leveren. Het kwaad van de onkuisheid voor ogen stellen met de schoonheid van de kuisheid te doen begrijpen (met voorbeelden). Dit alles aangepast aan de ontwikkeling en de ouderdom van de leerlingen. 5) Een algemene regel voor persoonlijke gevallen: de kinderen verwijzen naar biechtvader of priester.<br/><em>Schaamtegevoel:</em> het is een ingeborenheid, een instinct, waardoor men onbewust bijna, spontaan reageert op wat niet betaamt (rood worden), versteken bij onkuise daden.</em> <img src="resources/2505b.jpg"> <em><em>Zedigheid:</em> het is een aangeworven kracht, een deugd, het werkt meer bewust, de zedigheid bestrijdt de gevaren van de zonde van onkuisheid. Het is dus een hulp en een steun voor de kuisheid.<br/><em>De kuisheid:</em> ze bestrijdt de zonde zelf van onkuisheid, het is een positieve kracht in de ziel, in de wil, waardoor de mens het geslachtsleven eerbiedigt naar Gods inzichten.<br/>Enkele regels voor gewetensvorming. 1) Wetens (volle verstand) en willens (vrije wil) onkuisheid doen met woord, werk of begeerte, is altijd doodzonde. 2) In de mate dat het volle verstand of het bewustzijn ontbreekt, is het slechts dagelijkse zonde of geen zonde. 3) De zonde ligt in de wil (dus niet in de neiging of bekoring of gewaarwording op zichzelf). Daaruit volgt: zo ge de onkuisheid gewild hebt: doodzonde, zo gij het niet gewild hebt, wat er ook gebeure, welke gewaarwording ge ook hebt: geen doodzonde. 4) De vermogens gebruiken volgens de bedoeling in de instelling door God gewild, is altijd goed. 5) Al wat waarlijk nuttig of nodig is tot verzorging van het lichaarm of ziel is toegelaten en geen zonde. 6) In twijfel of voor inlichtingen, raadpleeg immer bi voorkeur uw biechtvader of geestelijk leidsman.</em> <img src="resources/2505c.jpg"> <em>De onkuisheid alleen is een zelfverzwakking (geestelijke zelfmoord, lichamelijke aanslag).<br/>Benevens de onkuisheid hebben we nu al wat met de onkuisheid betrekking heeft. 1) Onkuise dingen: bezien, aanhoren, lezen, erover spreken. Onkuise praat, daardoor verstaan wij spreken over geslachtszaken met onkuise bedoelingen; spreken over geslachtszaken op onbetamelijke manier, zonder voldoende rede, tussen sommige personen op die manier dat het zeker slechte gevolgen zal hebben voor één of voor beide partijen. Dit alles kan ook geschieden door dubbelzinnige woorden. Daar sluit bij aan “de slechte liederen”. Hier moet men nochtans altijd onderscheid maken tussen de muziek en de woorden. Het is bijna uitsluitend de woorden die wij bedoelen.</em> <img src="resources/2505d.jpg"> <em>Nochtans kan de muziek van het lied slecht zijn a) door ergernis, b) voor sommige fijnvoelende muzikaal aangelegede mesen. Daarbij komt het aanhoren van slechte gesprekken; dan is de zonde hierin gelegen dat men zonder voldoende rede onkuise gesprekken vrijwillig aanhoort. Wie zoiets aanhoort uit lichtzinnigheid, nieuwsgierigheid (zoner rechtstreeks onzuivere bedoeling) zondigt, maar niet zwaar.<br/>De film maakt de mens gewoon aan het kwaad. De middens bestaan niet. Een school voor bederf.<br/>De Katholieke Toneelgids. De Katholieke Filmliga. Docip (alle weken in de dagbladen). Golgota, Zielen in Nood, De Zwarte Madonna (Polen), Katholieke Vlaamse Radiogids.</em> </span> A. Dat een werk, een aanraking, een woord, een samenspraak, een lezing, een oogslag oneerlijk en onzuiver zijn, weten wij dikwijls door de klare getuigenis van ons geweten, en ook meest altijd door de natuurlijke schaamte, die wij er over hebben. Al die daden en werken zijn gewoonlijk oneerlijk en onzuiver, die door geen ander Gebod verboden zijn en ons schaamrood doen worden, en door ons niet zouden bedreven worden, moesten onze ouders of oversten het weten of zien. Nochtans is deze regel niet onfeilbaar, en daarom moet men in geval van twijfel aan zijn biechtvader uitleg vragen.</p>
-            <h1 id="wie-misdoen-tegen-het-negende-gebod">Wie misdoen tegen het Negende Gebod?</h1>
-            <h2 id="die-de-wil-hebben-om-onkuisheid-te-doen-of-wetens-en-willens-behagen-nemen-in-onkuise-gedachten.">Die de wil hebben om onkuisheid te doen, of wetens en willens behagen nemen in onkuise gedachten.</h2>
+            <h1 id="wat-verbiedt-het-vijfde-gebod">Wat verbiedt het
+            Vijfde Gebod?</h1>
+            <h2
+            id="zich-zelf-of-enige-andere-mensen-zonder-wettige-macht-en-reden-dood-te-slaan-te-kwetsen-merkelijk-te-hinderen-of-daartoe-raad-of-hulp-te-geven.">Zich
+            zelf of enige andere mensen, zonder wettige macht en reden,
+            dood te slaan, te kwetsen, merkelijk te hinderen of daartoe
+            raad of hulp te geven.</h2>
+            <p><span class="marginnote"> <img src="resources/2501a.jpg">
+            <em>PLAN<br/>Met wil of met werk sla nieman dood<br/>Door
+            dit gebod wordt verboden: aan leven of gezondheid, zowel
+            natuurlijk als bovennatuurlijk, zowel van de naaste als van
+            onszelf, A) schade toe te brengen: 1) rechtstreeks: zelf
+            metterdaad doden, zelfmoord, kwetsen, merkelijk kinderen, 2)
+            onrechtstreeks: door raad of hulp, door ergernis, B) schade
+            te <em>willen</em> toebrengen: uitgedrukt in vermaldedijding
+            of verwensing, besloten in gramschap, haat of
+            nijd.<br/>NOTA: voor het natuurlijk leven is dit verbod niet
+            toepasselijk waar men [onder]steund is met wettige reden en
+            bekleed met waar gezag: doodstraf, zelfverdediging, oorlog.
+            Door dit gebod wordt bevolen dat wij hoeven te voorzien: A)
+            voor ons eigen: 1) natuurlijk leven: lichaam en ziel in de
+            mate door onze christelijke beschaving bepaald, 2)
+            bovennatuurlijk leven: staat van genade en recht op de hemel
+            zorgvuldig: beschermen, terugnemen, volmaken.</em>
+            <img src="resources/2501b.jpg"> <em>B) Voor ’s naasten: 1)
+            natuurlijk leven: lichamelijke werken van barmhartigheid, 2)
+            bovennatuurlijk leven: geestelijke werken van
+            barmhartigheid. <br/>NOTA: dit gebod geldt op bijzondere
+            wijze voor onze vijanden.<br/>Mag een dokter bij een
+            hopeloos geval het leven verkorten (euthanasie = zachte
+            dood)? Neen, 1) gij zult niet doden: God alleen is meester
+            over het leven; 2) wat is een hopeloos geval? — dikwijls
+            vindt de wetenschap nog hulpmiddelen waar alles verloren
+            scheen, wij mogen ook geen bovennatuurlijke tussenkomst
+            verachten, dit toelaten waar een heel gevaarlijk princiep,
+            3) moest hij het zelf gevraagd hebben? — hij ook is niet
+            meester over zijn eigen leven, 4) en voor en Christen is het
+            lijden een grote uitboeting.</em> </span> A. Het Vijfde
+            Gehod verbiedt dus 1° <strong>zichzelf dood te slaan, te
+            kwetsen, of merkelijk te hinderen;</strong> 2°
+            <strong>andere mensen</strong> dood te slaan, te kwetsen of
+            merkelijk te hinderen; 3° <strong>daartoe raad of hulp te
+            geven;</strong> — als dit geschiedt <strong>zonder wettige
+            macht en reden.</strong></p>
+            <p>De woorden: <strong>zichzelf of enige andere
+            mensen</strong> duiden het goed aan, dat het Vijfde Gebod
+            ons doet eerbiedigen, te weten, het leven, de gezondheid van
+            de mens. De dieren mogen wij doden, daar zij volgens Gods
+            beschikking, tot ons gebruik bestemd zijn; de mens echter is
+            het hoofdwerk van de aardse schepping en daarom heeft God
+            alleen de macht over het menselijk leven.</p>
+            <p><strong>Doodslaan</strong> betekent hier iemand op de een
+            of de andere wijze het leven ontnemen; —
+            <strong>kwetsen,</strong> iemand een wonde toebrengen, of
+            van een lidmaat of van het gebruik daarvan beroven; —
+            <strong>merkelijk hinderen,</strong> iemand in zijn persoon
+            of in zijn rust een ware schade veroorzaken met hem b.v.
+            ongezonde spijzen te geven, vrees aan te jagen, droefheid
+            aan te doen, enz.</p>
+            <p>Zich zelf of andere mensen dood te slaan, te kwetsen of
+            me: kelijk te hinderen, is toeh niet volstrekt in alle
+            omstandigheden verboden: om verboden te zijn moet het
+            geschieden <strong>zonder wettige machten reden:</strong>
+            zonder dat men daartoe wezenlijk van God gemachtigd is en
+            een voldoende reden heeft om die macht te gebruiken. Daartoe
+            hebben voorzeker macht en reden de landoversten die, om de
+            orde in de samenleving te handhaven, de doodstraf tegen
+            enige grote misdadigers doen uitspreken; — de soldaten die
+            in een rechtvaardigen oorlog vechten; — degenen die hun
+            aanvaller doden, omdat zij geen ander middel hebben om er
+            hun leven tegen te verdedigen.</p>
+            <p>Als bovengenoemde werken verboden zijn, dan is het ook
+            verboden <strong>daartoe raad of hulp te geven,</strong>
+            aangezien men ze op die wijze samen met anderen verricht.
+            Men geeft <strong>raad</strong> tot een werk, met dit te
+            bevelen, te prijzen, goed te keuren of er toe op te wekken;
+            men geeft daar <strong>hulp</strong> toe, me middelen of
+            onderstand te verschaffen om het te verrichten, alsook met
+            dat niet te beletten, als men het beletten kan, en daartoe
+            uit rechtvaardigheid verplicht is.</p>
+            <p>Het Vijfde Gebod raakt niet enkel het
+            <em>lichamelijk,</em> maar ook het <em>bovennatuurlijk</em>
+            leven, dat in de heiligmakende genade bestaat. Dit
+            bovennatuurlijk leven wordt verloren door de doodzonde en
+            gekrenkt door de dagelijkse zonde, en zo strijden alle
+            zonden op een algemene wijze tegen het Vijfde Gebod; iedere
+            doodzonde is een zelfmoord; iedere dagelijkse zonde, een
+            zelfverhindering in het bovennatuurlijk leven. Hier echter
+            valt op te merken dat, door de zonde, elkeen enkel
+            <em>zichzelf</em> en niet <em>enige andere mensen</em> kan
+            treffen, tenzij met daartoe <em>raad of hulp</em> of ten
+            minste gelegenheid te verschaffen, of i.a.w. met
+            <em>ergernis</em> of <em>schandaal</em> te geven.</p>
+            <p>De ergernis bestaat eigenlijk in een <em>woord, werk of
+            verzuimenis, die minder goed is, en een ander tot val
+            brengt,</em> — Dus is niet vereist dat hetgeen men doet uit
+            zichzelf zonde zij; het is genoeg dat het minder goed weze,
+            omdat het de naaste tot zonde leidt.</p>
+            <p>Ten aanzien 1° van het ergernis gevend werk zelf
+            geschiedt de ergernis of a) met de naaste rechtstreeks tot
+            zonde te verleiden, of b) met hem uitsluitend de gelegenheid
+            te geven van te zondigen. — 2° Wegens het inzicht van
+            dengene die ergernis geeft, geschiedt zij <em>met</em> of
+            <em>zonder opzet:</em> — a) <em>met opzet,</em> als men iets
+            doet of zegt met het bepaald inzicht van de naaste tot zonde
+            te brengen; b) <em>zonder opzet,</em> als men, om enige
+            andere reden, iets doet of zegt, dat de naaste gelegenheid
+            of aanleiding tot zonde geeft.</p>
+            <p>Nooit mag men de naaste rechtstreeks tot zonde bekoren,
+            noch hem gelegenheid geven van te zondigen, met het inzicht
+            van hem tot zonde te brengen; zelfs mag men hem, zonder dat
+            inzicht geen gelegenheid van zonde geven, tenware men
+            daartoe genoegzame reden hadde. — Wij hebben daartoe een
+            genoegzame reden, 1° als de naaste in ons werk, woord of
+            verzuimenis slechts uit boosheid een gelegenheid van zonde
+            vindt; 2° als hetgene wij doen, ons op zonde is opgelegd; 3°
+            als wij, met een werk te laten, een aanzichtbaare schade
+            zouden lijden.</p>
+            <h1
+            id="misdoen-zij-allen-tegen-het-vijfde-gebod-die-metterdaad-iemand-hinderen">Misdoen
+            zij allen tegen het Vijfde Gebod, die metterdaad iemand
+            hinderen?</h1>
+            <h2
+            id="jaook-degenen-die-iemand-vermaledijden-kwaad-wensen-gramschap-of-haat-en-nijd-in-het-hart-dragen">Ja,ook
+            degenen die iemand vermaledijden, kwaad wensen, gramschap of
+            haat en nijd in het hart dragen</h2>
+            <p>V. De zin van de vraag is: misdoen tegen het Vijfde gebod
+            al degenen die niet uitsluitend met de wil, met de begeerte,
+            maar metterdaad zichzelf of andere mensen zonder wettige
+            macht en reden doodslaan, kwetsen of merkelijk hinderen, of
+            daartoe raad en hulp geven, en zijn het deze alleen?</p>
+            <p>A. <strong>Ja,</strong> deze allen misdoen tegen dit
+            Gebod; doch niet zij alleen; daartegen misdoen ook nog
+            <strong>degenen die iemand vermaledijden, kwaad wensen,
+            gramschap of haat en nijd in het hart dragen.</strong></p>
+            <p><strong>Vermaledijden,</strong> d.i. iemand kwaad wensen
+            voor zoveel het voor hem kwaad is, God of de duivel smekende
+            dat die wens zou volbracht worden.</p>
+            <p><strong>Kwaad wensen,</strong> d.i. enkel begeren dat aan
+            iemand kwaad overkome, voor zoveel het voor hem kwaad is,
+            zonder daarbij God of de duivel te smeken dat die wens
+            vervuld worde.</p>
+            <p><strong>Gramschap,</strong> d.i. een begeerte van wraak
+            te nemen die ongeregeld is, ’t zij omdat men geen macht
+            heeft om een misdaad te straffen, of wil straffen zonder
+            reden, of te veel wil straffen, of wil straffen niet met een
+            goed, maar met een slecht inzicht; ’t zij, omdat men door
+            die begeerte op een onbehoorlijke wijze ontsteld is. (Zie <a
+            href="les-38.html#hoeveel-hoofdzonden-zijn-er">38ᵉ les, v.
+            7.</a>)</p>
+            <p><strong>Haat,</strong> d.i. de boze wil waardoor men
+            iemand kwaad wil, ’t zij opdat hij ongelukkig weze, of omdat
+            wij hem aanzien als kwaadwillig jegens ons, en diensvolgens
+            hem verfoeien.</p>
+            <p><strong>Nijd,</strong> d.i. een ongeregelde droefheid
+            over het geluk en goed van de naaste, voortkomende uit het
+            gedacht dat zijn geluk ons geluk vermindert.</p>
+            <p>Al deze zonden strijden tegen het Vijfde Gebod, aangezien
+            zij alle, — uitgenomen die gramschap welke slechts zonde is
+            uit hoofde van de te grote ontsteltenis, — de begeerte
+            insluiten van iemand zonder wettige macht en reden te
+            hinderen in zijn leven, of, ten minste, in zijn rust en
+            geluk, met hem droefheid aan te doen; en aangezien de
+            gramschap, zooeven uìtgezonderd, rechtstreeks aanleiding
+            geeft om deze zonde te bedrijven, en onze eigen rust alsmede
+            die van de naaste stoort. — Aan nijd maakte zich schuldig
+            Caïn jegens Abel, en Saül jegens David.</p>
+            <h1
+            id="wat-leert-ons-christus-te-doen-aan-onze-vijanden">Wat
+            leert ons Christus te doen aan onze vijanden?</h1>
+            <h2
+            id="hij-leert-ons-alle-ongelijk-te-vergeven-voor-onze-vijanden-te-bidden-en-ook-het-kwaad-met-goed-te-loonen">Hij
+            leert ons alle ongelijk te vergeven, voor onze vijanden te
+            bidden, en ook het kwaad met goed te loonen</h2>
+            <p><span class="marginnote"> <img src="resources/2503a.jpg">
+            <em>Ten opzicht van onze vijanden.<br/>1ᵉ Wordt op zonde
+            verboden: a) hun kwaad te willen, uit wraak hun te misdoen,
+            b) ze buiten onze gebeden te sluiten, c) hun de gewone
+            tekens van liefde te weigeren.<br/>2ᵉ Wordt als volmaaktheid
+            geprezen: a) hun bijzondere tekens van liefde te geven, b)
+            bijzonder voor hen te bidden. <br/>3ᵉ Wordt toegelaten en
+            soms verplichtend: a) uit gerechtigheid straf te eisen, b)
+            in hun belang, dat de maatschappi of ons belang,
+            schadeherstelling.<br/>Iedereen moet in zijn eigen leven
+            streven naar een volmaakte naastenliefde, zelfs naar liefde
+            voor diegenen die ons hebben tekortgedaan. Dit is misschien
+            het meest lastige voorschrift van de Meester. Trouwens Hij
+            heeft tot zelfs ons gebeden in die zin geplaatst: vergeef
+            ons onze schulden, gelijk wij vergeven onze schuldenaren.
+            <br/>Banden kerk-geestelijken<br/>1ᵉ De belediging of het
+            geweld aangedaan moet zwaar zijn. 2ᵉ De belediger moet weten
+            dat diegene die hij aanrandt een geestelijke is. 3ᵉ De
+            mishandeling moet gewild zijn. 4ᵉ Men moet weten dat de
+            straf erop staat.</em> </span> V. De Catechismus stelt hier
+            deze vraag, omdat wij tegen het Vijfde Gebod meest zondigen
+            in onze betrekkingen met Onze vijanden, d.i. met degenen die
+            ons kwaad doen, of ten minste kwaad willen.</p>
+            <p>A. Christus heeft ons geleerd voor onze vijanden
+            <em>drie</em> dingen te doen:</p>
+            <p>1° <strong>Alle ongelijk te vergeven:</strong> alle kwaad
+            dat zij doen, zó kwijt te schelden, dat wij hun daarom geen
+            kwaad tot hun ongeluk willen. Doch wij mogen wel
+            schadeherstelling eisen, en vragen dat de misdadiger tot
+            rust van de samenleving en tot zijn eigen. goed door de
+            bevoegde overheid gestraft worde. — Wij moeten vooral
+            <em>inwendig</em> vergeven, maar dit ook <em>uitwendig</em>
+            tonen, namelijk met hoegenaamd geen afkeer, haat of
+            wraakzucht te laten blijken.</p>
+            <p>2° <strong>Voor onze vijanden te bidden:</strong> hen uit
+            die gebeden, waarin wij voor alle mensen bidden, niet te
+            sluiten, en ook nog bijzondere gebeden voor hen te
+            storten.</p>
+            <p>3° <strong>Ook het kwaad met goed te loonen:</strong> hun
+            die liefdeblijken te geven, die wij aan alle mensen
+            verschuldigd zijn, en hun ook nog bijzondere liefdediensten
+            te bewijzen.</p>
+            <p>Wij zijn <em>op zonde verplicht</em> alle ongelijk op de
+            gezegde wijze te vergeven, onze vijanden uit die gebeden,
+            waarin wij voor alle mensen bidden, niet te sluiten, en hun
+            de gewone liefdebetuigingen niet te weigeren; — voor hen
+            bijzondere gebeden te doen en hun bijzondere liefdeblijken
+            te geven, is wel niet geboden, maar toch
+            allergeraadzaamst.</p>
+            <p>Allerschoonste voorbeelden hiervan vinden wij in Jezus
+            Christus die, aan het kruis hangende, voor zijn beulen heeft
+            gebeden, en die voor ons allen, zondaars en ondankbare
+            mensen, de dood heeft willen lijden; — in Stephanus, die ook
+            gebeden heeft voor degenen die hem stenigden, — en in Jozef,
+            die aan zijn broeders, door wie hij in een put geworpen en
+            daarna aan Ismaëlieten verkocht geweest was, de
+            uitstekendste liefde betuigd en de grootste diensten bewezen
+            heeft.</p>
+            <h1
+            id="is-het-meerder-kwaad-geestelijke-personen-te-slaan-of-te-kwetsen-dan-wereldlijke">Is
+            het meerder kwaad geestelijke personen te slaan of te
+            kwetsen dan wereldlijke?</h1>
+            <h2
+            id="ja-want-boven-de-zonde-vallen-deze-slagers-in-de-ban-van-de-h.-kerk">Ja,
+            want boven de zonde vallen deze slagers in de ban van de H.
+            Kerk</h2>
+            <p>V. Hoe waardiger de persoon die men mishandelt, hoe
+            groter de zonde die men bedrijft, en daarom vraagt hier de
+            Catechismus, of het <strong>meerder kwaad</strong> (groter
+            zonde) <strong>is geestelijke personen te slaan of te
+            kwetsen dan wereldlijke.</strong> — Door geestelijke
+            personen verstaat men al degenen die in de HH. Orden zijn,
+            al degenen die de kleine orden of enkel de kruin ontvangen
+            hebben, zo zij nochtans de geestelijke kleren dragen; ook al
+            de religieuzen. Deze worden allen <em>geestelijke</em>
+            personen genoemd, omdat zij God en de geestelijke zaken
+            bijzonder zijn toegewijd. A. <strong>Ja,</strong> het is een
+            meerder kwaad, <strong>want boven de zonde vallen deze
+            slagers in de ban van de H. Kerk:</strong> d.i. want de
+            slagers maken zich niet alleen schuldig aan een zonde tegen
+            het Vijfde Gebod, maar worden ook nog, tot straf van hun
+            misdaad, beroofd van de gemeenschap van de Heiligen (<a
+            href="les-13.html">13ᵉ les</a>). — Uit deze bijzondere straf
+            blijkt heel klaar, dat er in die zonde een bijzondere
+            boosheid gelegen is; daarenboven, met in weerwil van die
+            straf een geestelijken persoon te slaan, maakt men zich nog
+            schuldig aan een zonde tegen de gehoorzaamheid jegens de H.
+            Kerk en tegen de liefde jegens zichzelf.</p>
+            <h1 id="wat-verbiedt-het-zesde-gebod">Wat verbiedt het Zesde
+            Gebod?</h1>
+            <h2
+            id="overspel-onkuisheid-en-alle-oneerlijke-aanrakingen-in-wat-manier-en-onder-welke-personen-deze-mochten-geschieden-ja-ook-oneerlijke-woorden-zangen-en-gebruik-van-onzuivere-boeken-en-beelden">Overspel,
+            onkuisheid en alle oneerlijke aanrakingen, in wat manier en
+            onder welke personen deze mochten geschieden; ja ook
+            oneerlijke woorden, zangen, en gebruik van onzuivere boeken
+            en beelden</h2>
+            <p><span class="marginnote"> <img src="resources/2505a.jpg">
+            <em>1) De onderwijzer moet altijd voorzichtig zijn en kies
+            in ’t geven van deze lessen. 2) De uitdrukkingen die hij
+            gebruiken zal mogen het geweten niet misvormen. Dus de beste
+            uitdrukking voor het 6ᵉ en 9ᵉ gebod is <em>onkuis</em>,
+            <em>onkuisheid</em>. 3) Geen vragen dulden in de klas. 4)
+            Wat vooral het werk van de opvoeder uitmaakt, is de kinderen
+            vormen tot kuisheid. Dus positief werk leveren. Het kwaad
+            van de onkuisheid voor ogen stellen met de schoonheid van de
+            kuisheid te doen begrijpen (met voorbeelden). Dit alles
+            aangepast aan de ontwikkeling en de ouderdom van de
+            leerlingen. 5) Een algemene regel voor persoonlijke
+            gevallen: de kinderen verwijzen naar biechtvader of
+            priester.<br/><em>Schaamtegevoel:</em> het is een
+            ingeborenheid, een instinct, waardoor men onbewust bijna,
+            spontaan reageert op wat niet betaamt (rood worden),
+            versteken bij onkuise daden.</em>
+            <img src="resources/2505b.jpg"> <em><em>Zedigheid:</em> het
+            is een aangeworven kracht, een deugd, het werkt meer bewust,
+            de zedigheid bestrijdt de gevaren van de zonde van
+            onkuisheid. Het is dus een hulp en een steun voor de
+            kuisheid.<br/><em>De kuisheid:</em> ze bestrijdt de zonde
+            zelf van onkuisheid, het is een positieve kracht in de ziel,
+            in de wil, waardoor de mens het geslachtsleven eerbiedigt
+            naar Gods inzichten.<br/>Enkele regels voor gewetensvorming.
+            1) Wetens (volle verstand) en willens (vrije wil) onkuisheid
+            doen met woord, werk of begeerte, is altijd doodzonde. 2) In
+            de mate dat het volle verstand of het bewustzijn ontbreekt,
+            is het slechts dagelijkse zonde of geen zonde. 3) De zonde
+            ligt in de wil (dus niet in de neiging of bekoring of
+            gewaarwording op zichzelf). Daaruit volgt: zo ge de
+            onkuisheid gewild hebt: doodzonde, zo gij het niet gewild
+            hebt, wat er ook gebeure, welke gewaarwording ge ook hebt:
+            geen doodzonde. 4) De vermogens gebruiken volgens de
+            bedoeling in de instelling door God gewild, is altijd goed.
+            5) Al wat waarlijk nuttig of nodig is tot verzorging van het
+            lichaarm of ziel is toegelaten en geen zonde. 6) In twijfel
+            of voor inlichtingen, raadpleeg immer bi voorkeur uw
+            biechtvader of geestelijk leidsman.</em>
+            <img src="resources/2505c.jpg"> <em>De onkuisheid alleen is
+            een zelfverzwakking (geestelijke zelfmoord, lichamelijke
+            aanslag).<br/>Benevens de onkuisheid hebben we nu al wat met
+            de onkuisheid betrekking heeft. 1) Onkuise dingen: bezien,
+            aanhoren, lezen, erover spreken. Onkuise praat, daardoor
+            verstaan wij spreken over geslachtszaken met onkuise
+            bedoelingen; spreken over geslachtszaken op onbetamelijke
+            manier, zonder voldoende rede, tussen sommige personen op
+            die manier dat het zeker slechte gevolgen zal hebben voor
+            één of voor beide partijen. Dit alles kan ook geschieden
+            door dubbelzinnige woorden. Daar sluit bij aan “de slechte
+            liederen”. Hier moet men nochtans altijd onderscheid maken
+            tussen de muziek en de woorden. Het is bijna uitsluitend de
+            woorden die wij bedoelen.</em>
+            <img src="resources/2505d.jpg"> <em>Nochtans kan de muziek
+            van het lied slecht zijn a) door ergernis, b) voor sommige
+            fijnvoelende muzikaal aangelegede mesen. Daarbij komt het
+            aanhoren van slechte gesprekken; dan is de zonde hierin
+            gelegen dat men zonder voldoende rede onkuise gesprekken
+            vrijwillig aanhoort. Wie zoiets aanhoort uit
+            lichtzinnigheid, nieuwsgierigheid (zoner rechtstreeks
+            onzuivere bedoeling) zondigt, maar niet zwaar.<br/>De film
+            maakt de mens gewoon aan het kwaad. De middens bestaan niet.
+            Een school voor bederf.<br/>De Katholieke Toneelgids. De
+            Katholieke Filmliga. Docip (alle weken in de dagbladen).
+            Golgota, Zielen in Nood, De Zwarte Madonna (Polen),
+            Katholieke Vlaamse Radiogids.</em> </span> A. Dat een werk,
+            een aanraking, een woord, een samenspraak, een lezing, een
+            oogslag oneerlijk en onzuiver zijn, weten wij dikwijls door
+            de klare getuigenis van ons geweten, en ook meest altijd
+            door de natuurlijke schaamte, die wij er over hebben. Al die
+            daden en werken zijn gewoonlijk oneerlijk en onzuiver, die
+            door geen ander Gebod verboden zijn en ons schaamrood doen
+            worden, en door ons niet zouden bedreven worden, moesten
+            onze ouders of oversten het weten of zien. Nochtans is deze
+            regel niet onfeilbaar, en daarom moet men in geval van
+            twijfel aan zijn biechtvader uitleg vragen.</p>
+            <h1 id="wie-misdoen-tegen-het-negende-gebod">Wie misdoen
+            tegen het Negende Gebod?</h1>
+            <h2
+            id="die-de-wil-hebben-om-onkuisheid-te-doen-of-wetens-en-willens-behagen-nemen-in-onkuise-gedachten.">Die
+            de wil hebben om onkuisheid te doen, of wetens en willens
+            behagen nemen in onkuise gedachten.</h2>
             <p>A. Tegen het Negende Gebod zondigen:</p>
-            <p>1° <strong>Die de wil hebben van onkuisheid te doen,</strong> d.i. die de begeerte hebben of zich voorstellen onzuivere werken of aanrakingen, of lezingen, of samenspraken of aanschouwingen te doen, als zij de gelegenheid zullen hebben, of als zij het zullen kunnen doen zonder gezien te zijn, enz. — Die immers een zonde wil doen, maakt zich reeds daardoor aan die zonde schuldig, hoewel hij ze niet ten uitvoer brengt; want de zonde bestaat eigenlijk <em>in de wil,</em> in de wet Gods <em>te willen overtreden.</em></p>
-            <p>2° <strong>Of die wetens en willens behagen nemen in onkuise gedachten:</strong> die onzuivere werken goedkeuren, als goed en aangenaam aannemen en ze als zonde niet willen verfoeien; ook die zonder noodzakelijkheid of genoegzame reden onzuivere werken of schandige zaken levendig in hun inbeelding voorgesteld houden.</p>
-            <p>Beide soorten van onkuise gedachten zijn zonde: de eerste op dezelfde grond als de onzuivere begeerten, de laatste om dezelfde reden als de onzuivere oogslagen, indien men er, <strong>wetens en willens</strong> mee bezig is, of indien men, opgemerkt hebbende dat men met slechte gedachten bezig is, waarmee men niet mag bezig zijn, desniettegenstaande vrijwillig of uit vrije verkiezing met die gedachten bezig blijft, en ze van zich niet wil afwenden. Hier is dan: geen spraak: van de onkuise gedachten die zonder onze schuld in ons zijn, maar uitsluitend van dezulke die wij vrijwillig in ons houden.</p>
-            <h1 id="wat-middel-is-er-tegen-de-onkuisheid">Wat middel is er tegen de onkuisheid?</h1>
-            <h2 id="ten-eerste-het-lichaam-onthouden-van-overdaad-ten-tweede-schuwen-het-gezelschap-van-ongelijke-personen-ten-derde-gedenken-de-goddelijke-tegenwoordigheid-ten-vierde-dikwijls-te-biechten-gaan-en-de-raad-van-de-biechtvader-volgen">Ten eerste, het lichaam onthouden van overdaad; ten tweede, schuwen het gezelschap van ongelijke personen; ten derde, gedenken de goddelijke tegenwoordigheid; ten vierde, dikwijls te biechten gaan en de raad van de biechtvader volgen</h2>
-            <p>A. <strong>Ten eerste, het lichaam onthouden van overdaad</strong> d.i. altijd matig zijn in eten of drinken ; de overdaad immers hitst de onkuise genegenheden op.</p>
-            <p><strong>Ten tweede, schuwen het gezelschap van ongelijke personen,</strong> d.i. het gezelschap vluchten van personen van het ander geslacht.</p>
-            <p><strong>Ten derde, gedenken de goddelijke tegenwoordigheid,</strong> d.i. dikwijls, zoals ’s morgens en ’s avonds, vóór de bijzonderste werken van de dag en in de bekoring, ons indachtig maken dat God, onze Schepper, Heer en Regeerder, die ons alles gegeven heeft en ons zo strengelijk moet oordelen, wesenlijk gedurig bij ons is en op de volmaaktste wijze alles ziet, wat wij doen of willen, — Dit is een allerbeste middel: reeds de tegenwoordigheid van onze ouders belet ons voorzeker een onkuis werk te bedrijven; veel meer zal ons daarvan afhouden het aandenken aan de tegenwoordigheid van de groten en machtigen God, die ons moet oordelen.</p>
-            <p><strong>Ten vierde, dikwijls te biechten gaan en de raad van de biechtvader volgen.</strong> De Biecht is daartoe zeer nuttig, 1° omdat zij ons verplicht een goed onderzoek van conscientie te doen, alsmede een goed berouw te verwekken, en een vast voornemen te maken van niet meer te zondigen; 2° omdat de belijdenis van de zonde ons een zalige vrees voor haar inboezemt; 3° omdat wij in de Biecht overvloedige genade bekomen, om de zonde te vluchten; 4° omdat wij daar raad ontvangen van de biechtvader, die van God gesteld is om ons in de weg van de zaligheid te onderwijzen en ons de bijzondere middelen, die wij te gebruiken hebben, aan te tonen.</p>
-            <p>Ook het overwegen van de schrikkelijke verdelging, waarmee God de onkuise steden Sodoma en Gomorrha gestraft heeft, en van de menigvuldige en afgrijselijke kwalen, die uit de onkuisheid voortspruiten, zal zeer dienstig zijn om ons van de zonden tegen het Zesde en Negende Gebod af te keren.</p>
-            <h1 id="die-enige-onzuiverheid-gedaan-heeft-hoe-moet-hij-dat-biechten">Die enige onzuiverheid gedaan heeft, hoe moet hij dat biechten?</h1>
-            <h2 id="hij-moet-met-eerlijke-woorden-verklaren-in-wat-manier-hij-door-onkuisheid-gezondigd-heeft">Hij moet met eerlijke woorden verklaren in wat manier hij door onkuisheid gezondigd heeft</h2>
-            <p><span class="marginnote"> <img src="resources/2508a.jpg"> <em>Tegenover de onkuisheid staat de deugd van zuiverheid, d.i. de deugd die de ongeregelde geneigdheid naar ongeoorloofde voldoening van het vlees bedwingt. “Zalig de zuiveren van hart, want ze zullen God zien.” Beoefen de kuisheid door u te sterken door het voorbeel van hen die kuis leven te midden van de grootste gevaren. Wees voorvechters en verdedigers van de kuisheid. Daarom weg met de vuile praat, met schunnige tekeningen, slechte cinema, enz. Zie het tijdschrift <em>Zedenadel</em>.</em> </span> A. <strong>Hij moet 1° verklaren, in wat manier hij door onkuisheid gezondigd heeft:</strong> het is dan niet genoeg te zeggen: ik heb onkuisheid gedaan of slechte dingen; maar men moet uitdrukken, welke soort van onkuisheid men bedreven heeft; — 2° Hij moet dat verklaren, <strong>met eerlijke woorden:</strong> met die taal en met die woorden, welke de welopgevoede mensen gebruiken om de zonden van onzuiverheid te noemen, en welke eenieder bezigt, die daarover met deftige personen moet spreken.</p>
-            <p>Men moet noodzakelijk verklaren, in wat manier men door onkuisheid gezondigd heeft, omdat men gehouden is alle doodzonden te biechten, daar bijvoegende al hetgene de zonde mag veranderen. (Zie <a href="les-34.html#welke-zonden-moeten-wij-belijden">34ᵉ les, vr. 4.</a>)</p>
+            <p>1° <strong>Die de wil hebben van onkuisheid te
+            doen,</strong> d.i. die de begeerte hebben of zich
+            voorstellen onzuivere werken of aanrakingen, of lezingen, of
+            samenspraken of aanschouwingen te doen, als zij de
+            gelegenheid zullen hebben, of als zij het zullen kunnen doen
+            zonder gezien te zijn, enz. — Die immers een zonde wil doen,
+            maakt zich reeds daardoor aan die zonde schuldig, hoewel hij
+            ze niet ten uitvoer brengt; want de zonde bestaat eigenlijk
+            <em>in de wil,</em> in de wet Gods <em>te willen
+            overtreden.</em></p>
+            <p>2° <strong>Of die wetens en willens behagen nemen in
+            onkuise gedachten:</strong> die onzuivere werken goedkeuren,
+            als goed en aangenaam aannemen en ze als zonde niet willen
+            verfoeien; ook die zonder noodzakelijkheid of genoegzame
+            reden onzuivere werken of schandige zaken levendig in hun
+            inbeelding voorgesteld houden.</p>
+            <p>Beide soorten van onkuise gedachten zijn zonde: de eerste
+            op dezelfde grond als de onzuivere begeerten, de laatste om
+            dezelfde reden als de onzuivere oogslagen, indien men er,
+            <strong>wetens en willens</strong> mee bezig is, of indien
+            men, opgemerkt hebbende dat men met slechte gedachten bezig
+            is, waarmee men niet mag bezig zijn, desniettegenstaande
+            vrijwillig of uit vrije verkiezing met die gedachten bezig
+            blijft, en ze van zich niet wil afwenden. Hier is dan: geen
+            spraak: van de onkuise gedachten die zonder onze schuld in
+            ons zijn, maar uitsluitend van dezulke die wij vrijwillig in
+            ons houden.</p>
+            <h1 id="wat-middel-is-er-tegen-de-onkuisheid">Wat middel is
+            er tegen de onkuisheid?</h1>
+            <h2
+            id="ten-eerste-het-lichaam-onthouden-van-overdaad-ten-tweede-schuwen-het-gezelschap-van-ongelijke-personen-ten-derde-gedenken-de-goddelijke-tegenwoordigheid-ten-vierde-dikwijls-te-biechten-gaan-en-de-raad-van-de-biechtvader-volgen">Ten
+            eerste, het lichaam onthouden van overdaad; ten tweede,
+            schuwen het gezelschap van ongelijke personen; ten derde,
+            gedenken de goddelijke tegenwoordigheid; ten vierde,
+            dikwijls te biechten gaan en de raad van de biechtvader
+            volgen</h2>
+            <p>A. <strong>Ten eerste, het lichaam onthouden van
+            overdaad</strong> d.i. altijd matig zijn in eten of drinken
+            ; de overdaad immers hitst de onkuise genegenheden op.</p>
+            <p><strong>Ten tweede, schuwen het gezelschap van ongelijke
+            personen,</strong> d.i. het gezelschap vluchten van personen
+            van het ander geslacht.</p>
+            <p><strong>Ten derde, gedenken de goddelijke
+            tegenwoordigheid,</strong> d.i. dikwijls, zoals ’s morgens
+            en ’s avonds, vóór de bijzonderste werken van de dag en in
+            de bekoring, ons indachtig maken dat God, onze Schepper,
+            Heer en Regeerder, die ons alles gegeven heeft en ons zo
+            strengelijk moet oordelen, wesenlijk gedurig bij ons is en
+            op de volmaaktste wijze alles ziet, wat wij doen of willen,
+            — Dit is een allerbeste middel: reeds de tegenwoordigheid
+            van onze ouders belet ons voorzeker een onkuis werk te
+            bedrijven; veel meer zal ons daarvan afhouden het aandenken
+            aan de tegenwoordigheid van de groten en machtigen God, die
+            ons moet oordelen.</p>
+            <p><strong>Ten vierde, dikwijls te biechten gaan en de raad
+            van de biechtvader volgen.</strong> De Biecht is daartoe
+            zeer nuttig, 1° omdat zij ons verplicht een goed onderzoek
+            van conscientie te doen, alsmede een goed berouw te
+            verwekken, en een vast voornemen te maken van niet meer te
+            zondigen; 2° omdat de belijdenis van de zonde ons een zalige
+            vrees voor haar inboezemt; 3° omdat wij in de Biecht
+            overvloedige genade bekomen, om de zonde te vluchten; 4°
+            omdat wij daar raad ontvangen van de biechtvader, die van
+            God gesteld is om ons in de weg van de zaligheid te
+            onderwijzen en ons de bijzondere middelen, die wij te
+            gebruiken hebben, aan te tonen.</p>
+            <p>Ook het overwegen van de schrikkelijke verdelging,
+            waarmee God de onkuise steden Sodoma en Gomorrha gestraft
+            heeft, en van de menigvuldige en afgrijselijke kwalen, die
+            uit de onkuisheid voortspruiten, zal zeer dienstig zijn om
+            ons van de zonden tegen het Zesde en Negende Gebod af te
+            keren.</p>
+            <h1
+            id="die-enige-onzuiverheid-gedaan-heeft-hoe-moet-hij-dat-biechten">Die
+            enige onzuiverheid gedaan heeft, hoe moet hij dat
+            biechten?</h1>
+            <h2
+            id="hij-moet-met-eerlijke-woorden-verklaren-in-wat-manier-hij-door-onkuisheid-gezondigd-heeft">Hij
+            moet met eerlijke woorden verklaren in wat manier hij door
+            onkuisheid gezondigd heeft</h2>
+            <p><span class="marginnote"> <img src="resources/2508a.jpg">
+            <em>Tegenover de onkuisheid staat de deugd van zuiverheid,
+            d.i. de deugd die de ongeregelde geneigdheid naar
+            ongeoorloofde voldoening van het vlees bedwingt. “Zalig de
+            zuiveren van hart, want ze zullen God zien.” Beoefen de
+            kuisheid door u te sterken door het voorbeel van hen die
+            kuis leven te midden van de grootste gevaren. Wees
+            voorvechters en verdedigers van de kuisheid. Daarom weg met
+            de vuile praat, met schunnige tekeningen, slechte cinema,
+            enz. Zie het tijdschrift <em>Zedenadel</em>.</em> </span> A.
+            <strong>Hij moet 1° verklaren, in wat manier hij door
+            onkuisheid gezondigd heeft:</strong> het is dan niet genoeg
+            te zeggen: ik heb onkuisheid gedaan of slechte dingen; maar
+            men moet uitdrukken, welke soort van onkuisheid men bedreven
+            heeft; — 2° Hij moet dat verklaren, <strong>met eerlijke
+            woorden:</strong> met die taal en met die woorden, welke de
+            welopgevoede mensen gebruiken om de zonden van onzuiverheid
+            te noemen, en welke eenieder bezigt, die daarover met
+            deftige personen moet spreken.</p>
+            <p>Men moet noodzakelijk verklaren, in wat manier men door
+            onkuisheid gezondigd heeft, omdat men gehouden is alle
+            doodzonden te biechten, daar bijvoegende al hetgene de zonde
+            mag veranderen. (Zie <a
+            href="les-34.html#welke-zonden-moeten-wij-belijden">34ᵉ les,
+            vr. 4.</a>)</p>
             <h3 id="vragen">VRAGEN</h3>
-            <p>Welke Geboden worden in deze les uitgelegd? — Wat onderzoek de Catechismus nopens ieder van die Geboden?</p>
+            <p>Welke Geboden worden in deze les uitgelegd? — Wat
+            onderzoek de Catechismus nopens ieder van die Geboden?</p>
             <ol type="1">
-            <li><p>Welke werken worden door het Vijfde Gebod verboden? — Zijn deze werken nooit toegelaten? — Zeg, met de woorden van de Catechismus, wanneer zij toegelaten zijn. — Wat betekenen hier de woorden, <em>doodslaan, kwetsen, merkelijk hinderen, daartoe raad of hulp geven?</em> — Wat is te zeggen: <em>zonder wettige macht en reden?</em> — Welk goed doet het Vijfde Gebod ons eerbiedigen? — Welke schepselen mogen wij niet doodslaan, kwetsen of merkelijk hinderen? — Waarom is het verboden tot een werk tegen het Vijfde Gebod raad of hulp te geven? — Wat leven bestaat er in de mens, behalve het natuurlijk leven? — Hoe kan dit leven gekrenkt of verloren worden? — Hoe kunnen wij een ander in dat leven hinderen, en hoe noemt men de zonde waardoor dit geschiedt? — Wat is dus de ergernis? — Leg de woorden uit. — Op hoeveel manieren kan de ergernis geschieden a) betrekkelijk het werk in zichzelf, en b) betrekkelijk het inzicht dat men heeft? — Mag men ooit iets doen, waardoor men ergernis geeft?</p></li>
-            <li><p>Welk is de zin van de tweede vraag? — Wie misdoen nog tegen het Vijfde Gebod, buiten degenen die metterdaad iemand hinderen? — Wat verstaat men hier door <em>vermaledijden, kwaad wensen, gramschap, haat, nijd?</em> — Hoe strijden al deze zonden tegen het Vijfde Gebod?</p></li>
-            <li><p>Waarom stelt de Catechismus hier de vraag: <em>Wat leert ons Christus te doen aan onze vijanden?</em> — Wie zijn onze vijanden? — Hoeveel en welke dingen moeten wij, volgens Christus’ leer voor onze vijanden doen? — Leg ieder punt uit. — Zeg hoe wij tot ieder puat verplicht zijn.</p></li>
-            <li><p>Verschillen de zonden tegen het Vijfde Gebod uit hoofde van de persoon die gehinderd wordt? — Wie zijn geestelijke personen? — Waarom dragen zij deze naam? — Zondigt men meer met geestelijke personen te hinderen dan andere? — Hoe bewijst de Catechismus dit? — Leg de woorden van de Catechismus uit. — Toon hoe uit het bewijs van de Catechismus vloeit, dat het groter kwaad is geestelijke personen te slaan of te kwetsen dan wereldlijke.</p></li>
-            <li><p>Hoe kan men best oordelen, dat een werk, een woord, een aanraking, een oogslag oneerlijk en onzuiver is? — Is deze regel geheel onfeilbaar? — Wat moet men doen ín geval van twijfel?</p></li>
-            <li><p>Zeg, met de woorden van de Catechismus, de verschillende gevallen, in welke men tegen het Negende Gebod misdoet. — Wat betekenen de woorden: <em>die de wil hebben van onkuisheid te doen?</em> — Wat is <em>behagen nemen in onkuise gedachten?</em> — Wat betekenen de woorden <em>wetens en willens?</em> — Zijn alle onzuivere gedachten zonden tegen het Negende Gebod? — Welke onzuivere gedachten zijn zonden tegen dit Gebod? — Waarom zondigen wij tegen het Negende Gebod met de wil te hebben van onkuisheid te doen? — Waarom zondigen wij tegen het Negende Gebod met behagen te nemen in onkuise gedachten?</p></li>
-            <li><p>Hoeveel middelen stelt de Catechismus voor om de onkuisheid te vluchten? — Noem ze met de woorden van de Catechismus. — Hoe behoort men, om de onkuisheid te vermijden, de goddelijke tegenwoordigheid te gedenken? — Hoe is het dikwijls te biechten gaan een middel tegen de onkuisheid?</p></li>
-            <li><p>Zeg, met de woorden van de Catechismus, wat men in de Biecht moet verklaren nopens de zonden van onzuiverheid. — Lieg die woorden uit, en geef de reden van het antwoord. — Hoe moet men, volgens de Catechismus, die verklaring doen? — Leg de woorden van de Catechismus uit.</p></li>
+            <li><p>Welke werken worden door het Vijfde Gebod verboden? —
+            Zijn deze werken nooit toegelaten? — Zeg, met de woorden van
+            de Catechismus, wanneer zij toegelaten zijn. — Wat betekenen
+            hier de woorden, <em>doodslaan, kwetsen, merkelijk hinderen,
+            daartoe raad of hulp geven?</em> — Wat is te zeggen:
+            <em>zonder wettige macht en reden?</em> — Welk goed doet het
+            Vijfde Gebod ons eerbiedigen? — Welke schepselen mogen wij
+            niet doodslaan, kwetsen of merkelijk hinderen? — Waarom is
+            het verboden tot een werk tegen het Vijfde Gebod raad of
+            hulp te geven? — Wat leven bestaat er in de mens, behalve
+            het natuurlijk leven? — Hoe kan dit leven gekrenkt of
+            verloren worden? — Hoe kunnen wij een ander in dat leven
+            hinderen, en hoe noemt men de zonde waardoor dit geschiedt?
+            — Wat is dus de ergernis? — Leg de woorden uit. — Op hoeveel
+            manieren kan de ergernis geschieden a) betrekkelijk het werk
+            in zichzelf, en b) betrekkelijk het inzicht dat men heeft? —
+            Mag men ooit iets doen, waardoor men ergernis
+            geeft?</p></li>
+            <li><p>Welk is de zin van de tweede vraag? — Wie misdoen nog
+            tegen het Vijfde Gebod, buiten degenen die metterdaad iemand
+            hinderen? — Wat verstaat men hier door <em>vermaledijden,
+            kwaad wensen, gramschap, haat, nijd?</em> — Hoe strijden al
+            deze zonden tegen het Vijfde Gebod?</p></li>
+            <li><p>Waarom stelt de Catechismus hier de vraag: <em>Wat
+            leert ons Christus te doen aan onze vijanden?</em> — Wie
+            zijn onze vijanden? — Hoeveel en welke dingen moeten wij,
+            volgens Christus’ leer voor onze vijanden doen? — Leg ieder
+            punt uit. — Zeg hoe wij tot ieder puat verplicht
+            zijn.</p></li>
+            <li><p>Verschillen de zonden tegen het Vijfde Gebod uit
+            hoofde van de persoon die gehinderd wordt? — Wie zijn
+            geestelijke personen? — Waarom dragen zij deze naam? —
+            Zondigt men meer met geestelijke personen te hinderen dan
+            andere? — Hoe bewijst de Catechismus dit? — Leg de woorden
+            van de Catechismus uit. — Toon hoe uit het bewijs van de
+            Catechismus vloeit, dat het groter kwaad is geestelijke
+            personen te slaan of te kwetsen dan wereldlijke.</p></li>
+            <li><p>Hoe kan men best oordelen, dat een werk, een woord,
+            een aanraking, een oogslag oneerlijk en onzuiver is? — Is
+            deze regel geheel onfeilbaar? — Wat moet men doen ín geval
+            van twijfel?</p></li>
+            <li><p>Zeg, met de woorden van de Catechismus, de
+            verschillende gevallen, in welke men tegen het Negende Gebod
+            misdoet. — Wat betekenen de woorden: <em>die de wil hebben
+            van onkuisheid te doen?</em> — Wat is <em>behagen nemen in
+            onkuise gedachten?</em> — Wat betekenen de woorden
+            <em>wetens en willens?</em> — Zijn alle onzuivere gedachten
+            zonden tegen het Negende Gebod? — Welke onzuivere gedachten
+            zijn zonden tegen dit Gebod? — Waarom zondigen wij tegen het
+            Negende Gebod met de wil te hebben van onkuisheid te doen? —
+            Waarom zondigen wij tegen het Negende Gebod met behagen te
+            nemen in onkuise gedachten?</p></li>
+            <li><p>Hoeveel middelen stelt de Catechismus voor om de
+            onkuisheid te vluchten? — Noem ze met de woorden van de
+            Catechismus. — Hoe behoort men, om de onkuisheid te
+            vermijden, de goddelijke tegenwoordigheid te gedenken? — Hoe
+            is het dikwijls te biechten gaan een middel tegen de
+            onkuisheid?</p></li>
+            <li><p>Zeg, met de woorden van de Catechismus, wat men in de
+            Biecht moet verklaren nopens de zonden van onzuiverheid. —
+            Lieg die woorden uit, en geef de reden van het antwoord. —
+            Hoe moet men, volgens de Catechismus, die verklaring doen? —
+            Leg de woorden van de Catechismus uit.</p></li>
             </ol>
     </section>
   </article>
   <footer>
     <p class="bottom-line-1"><a href="les-26.html">ZES EN TWINTIGSTE LES. Van het Zevende, Achtste en Tiende Gebod</a></p>
-    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="verantwoording.html">VERANTWOORDING</a></p>
+    <p class="bottom-line-1"><a href="tafel.html">INHOUDSTAFEL</a> – <a href="boek.html">BESTEL</a></p>
   </footer>
 </body>
 </html>
